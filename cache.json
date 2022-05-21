@@ -1,0 +1,582 @@
+{
+  "sources": [
+    {
+      "title": "Release notes from osmosfeed",
+      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "articles": []
+    },
+    {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=365971",
+          "author": "Geoff Graham",
+          "description": "Zeldman:\nYou may not know his name, but he played a huge part in creating the web you take for granted today. And he’s back—kind of.\nThat would be Glenn Davis and the Verevolf site Zeldman’s talking about. The …\nVerevolf originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/verevolf/",
+          "publishedOn": "2022-05-20T20:24:43.000Z",
+          "wordCount": 390,
+          "title": "Verevolf",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365971"
+        },
+        {
+          "id": "https://css-tricks.com/?p=365784",
+          "author": "Adam Rackis",
+          "description": "Don’t you hate it when you load a website or web app, some content displays and then some images load — causing content to shift around? That’s called content reflow and can lead to an incredibly annoying user experience for …\nInline Image Previews with Sharp, BlurHash, and Lambda Functions originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/inline-image-previews-with-sharp-blurhash-and-lambda-functions/",
+          "publishedOn": "2022-05-19T14:30:08.000Z",
+          "wordCount": 2067,
+          "title": "Inline Image Previews with Sharp, BlurHash, and Lambda Functions",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365784"
+        },
+        {
+          "id": "https://css-tricks.com/?p=365766",
+          "author": "Jhey Tompkins",
+          "description": "I was fortunate last year to get approached by Shawn Wang (swyx) about doing some work for Temporal. The idea was to cast my creative eye over what was on the site and come up with some …\nAn Interactive Starry Backdrop for Content originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/an-interactive-starry-backdrop-for-content/",
+          "publishedOn": "2022-05-18T14:16:43.000Z",
+          "wordCount": 2895,
+          "title": "An Interactive Starry Backdrop for Content",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365766"
+        },
+        {
+          "id": "https://css-tricks.com/?p=365531",
+          "author": "Marcel Moreau",
+          "description": "Utilizing icons in user interface elements is helpful. In addition to element labeling, icons can help reinforce a user element’s intention to users. But I have to say, I notice a bit of icon misalignment while browsing the web. Even …\nImproving Icons for UI Elements with Typographic Alignment and Scale originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/improving-icons-for-ui-elements-with-typographic-alignment-and-scale/",
+          "publishedOn": "2022-05-17T14:30:18.000Z",
+          "wordCount": 1143,
+          "title": "Improving Icons for UI Elements with Typographic Alignment and Scale",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365531"
+        },
+        {
+          "id": "https://css-tricks.com/?p=365377",
+          "author": "Ganesh Dahal",
+          "description": "Global styles, a feature of the block themes, is one of my favorite parts of creating block themes. The concept of global style variations in WordPress were introduced in Gutenberg 12.5 which would allow theme authors to create alternate …\nHow to Create Style Variations in WordPress 6.0 Block Themes originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/creating-style-variations-in-wordpress-block-themes/",
+          "publishedOn": "2022-05-16T14:38:29.000Z",
+          "wordCount": 3212,
+          "title": "How to Create Style Variations in WordPress 6.0 Block Themes",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365377"
+        },
+        {
+          "id": "https://css-tricks.com/?p=365738",
+          "author": "Temani Afif",
+          "description": "In my last article we saw how CSS background properties allow us to create cool hover effects. This time, we will focus on the CSS text-shadow property to explore even more interesting hovers. You are probably wondering how adding shadow …\nCool Hover Effects That Use CSS Text Shadow originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/cool-hover-effects-that-use-css-text-shadow/",
+          "publishedOn": "2022-05-13T14:43:17.000Z",
+          "wordCount": 2214,
+          "title": "Cool Hover Effects That Use CSS Text Shadow",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365738"
+        },
+        {
+          "id": "https://css-tricks.com/?p=365706",
+          "author": "Jhey Tompkins",
+          "description": "Braydon Coyer recently launched a monthly CSS art challenge. He actually had reached out to me about donating a copy of my book Move Things with CSS to use as a prize for the winner of the challenge — …\nA CSS Slinky in 3D? Challenge Accepted! originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-css-slinky-in-3d/",
+          "publishedOn": "2022-05-12T14:27:50.000Z",
+          "wordCount": 3746,
+          "title": "A CSS Slinky in 3D? Challenge Accepted!",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365706"
+        },
+        {
+          "id": "https://css-tricks.com/?p=365677",
+          "author": "Ollie Williams",
+          "description": "According to Toshi Omagari, the author of Arcade Game Typography, the world’s first multi-colored digital font was created in 1982 for a never-released video game called Insector. Multi-colored fonts, sometimes called chromatic type, are still relatively rare on the …\nCOLRv1 and CSS font-palette: Web Typography Gets Colorful originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/colrv1-and-css-font-palette-web-typography/",
+          "publishedOn": "2022-05-11T14:12:51.000Z",
+          "wordCount": 2689,
+          "title": "COLRv1 and CSS font-palette: Web Typography Gets Colorful",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365677"
+        },
+        {
+          "id": "https://css-tricks.com/?p=365650",
+          "author": "Md Shuvo",
+          "description": "By now, you are probably familiar with one or more programming languages. But have you ever wondered how you could create your own programming language? And by that, I mean:\nA programming language is any set of rules that convert \n…\nLet’s Create a Tiny Programming Language originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/lets-create-a-tiny-programming-language/",
+          "publishedOn": "2022-05-10T13:56:11.000Z",
+          "wordCount": 1753,
+          "title": "Let’s Create a Tiny Programming Language",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365650"
+        },
+        {
+          "id": "https://css-tricks.com/?p=365579",
+          "author": "Sunkanmi Fafowora",
+          "description": "AVIF (AV1 Image File Format) is a modern image file format specification for storing images that offer a much more significant file reduction when compared to other formats like JPG, JPEG, PNG, and WebP. Version 1.0.0 of the AVIF specification …\nUseful Tools for Creating AVIF Images originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/useful-tools-for-creating-avif-images/",
+          "publishedOn": "2022-05-09T15:00:10.000Z",
+          "wordCount": 1141,
+          "title": "Useful Tools for Creating AVIF Images",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365579"
+        },
+        {
+          "id": "https://css-tricks.com/?p=365614",
+          "author": "John Siciliano",
+          "description": "Let’s say you have a website built on a platform that excels at design and it’s available at example.com. But that platform falls short at blogging. So you think to yourself, “What if I could use a different blogging …\nHow to Serve a Subdomain as a Subdirectory originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/how-to-serve-a-subdomain-as-a-subdirectory/",
+          "publishedOn": "2022-05-06T14:19:44.000Z",
+          "wordCount": 2232,
+          "title": "How to Serve a Subdomain as a Subdirectory",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365614"
+        },
+        {
+          "id": "https://css-tricks.com/?p=365510",
+          "author": "Adam Rackis",
+          "description": "So, you’ve decided to build a blog with Next.js. Like any dev blogger, you’d like to have code snippets in your posts that are formatted nicely with syntax highlighting. Perhaps you also want to display line numbers in the …\nSyntax Highlighting (and More!) With Prism on a Static Site originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/syntax-highlighting-prism-on-a-next-js-site/",
+          "publishedOn": "2022-05-04T14:16:43.000Z",
+          "wordCount": 2893,
+          "title": "Syntax Highlighting (and More!) With Prism on a Static Site",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365510"
+        },
+        {
+          "id": "https://css-tricks.com/?p=364932",
+          "author": "Nick Sypteras",
+          "description": "If you’ve spent time looking at open-source repos on GitHub, you’ve probably noticed that most of them use badges in their README files. Take the official React repository, for instance. There are GitHub badges all over the README file that communicate important dynamic info, like the latest released …\nAdding Custom GitHub Badges to Your Repo originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/adding-custom-github-badges-to-your-repo/",
+          "publishedOn": "2022-05-03T14:28:00.000Z",
+          "wordCount": 1939,
+          "title": "Adding Custom GitHub Badges to Your Repo",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364932"
+        },
+        {
+          "id": "https://css-tricks.com/?p=365491",
+          "author": "Preethi",
+          "description": "In design, reflections are stylized mirror images of objects. Even though they are not as popular as shadows, they have their moments — just think about the first time you explored the different font formats in MS Word or PowerPoint: …\nCreating Realistic Reflections With CSS originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/creating-realistic-reflections-with-css/",
+          "publishedOn": "2022-05-02T14:14:07.000Z",
+          "wordCount": 1190,
+          "title": "Creating Realistic Reflections With CSS",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365491"
+        },
+        {
+          "id": "https://css-tricks.com/?p=365447",
+          "author": "Jhey Tompkins",
+          "description": "Howdy y’all! Unless you’ve been living under a rock (and maybe even then), you’ve undoubtedly heard the news that CSS-Tricks, was acquired by DigitalOcean. Congratulations to everyone! 🥳\nAs a little hurrah to commemorate the occasion, I wanted to …\nCreating the DigitalOcean Logo in 3D With CSS originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/creating-the-digitalocean-logo-in-3d-with-css/",
+          "publishedOn": "2022-04-29T14:37:10.000Z",
+          "wordCount": 3010,
+          "title": "Creating the DigitalOcean Logo in 3D With CSS",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365447"
+        }
+      ]
+    },
+    {
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "feedUrl": "https://www.smashingmagazine.com/feed/",
+      "siteUrl": "https://www.smashingmagazine.com/",
+      "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/",
+          "author": "hello@smashingmagazine.com (Greg Dickens)",
+          "description": "In this article, we will see step-by-step how you can get the best of customization with easy admin by using Ghost as a headless CMS for a Gatsby static site — everything for free.",
+          "link": "https://smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/",
+          "publishedOn": "2022-05-20T08:30:00.000Z",
+          "wordCount": 4358,
+          "title": "The Ultimate Free Solo Blog Setup With Ghost And Gatsby",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dee282b4-4b4e-4b89-b8e1-4d319ce85367/ultimate-free-solo-blog-setup-ghost-gatsby.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dee282b4-4b4e-4b89-b8e1-4d319ce85367/ultimate-free-solo-blog-setup-ghost-gatsby.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/05/kubernetes-front-end-developers/",
+          "author": "hello@smashingmagazine.com (Benjamin Ajibade)",
+          "description": "In this article, Benjamin Ajibade introduces Kubernetes to front-end engineers and explaines why Kubernetes is integral in a production-ready microservice architecture. Some key terms that are important for team collaboration will be discussed and conclude the post with a quick deployment to getting started as a beginner.",
+          "link": "https://smashingmagazine.com/2022/05/kubernetes-front-end-developers/",
+          "publishedOn": "2022-05-19T11:30:00.000Z",
+          "wordCount": 3086,
+          "title": "Kubernetes For Frontend Developers",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a377d64d-af16-4fb1-8159-2c9fa0ab72c4/kubernetes-front-end-developers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a377d64d-af16-4fb1-8159-2c9fa0ab72c4/kubernetes-front-end-developers.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/05/smashing-podcast-episode-46/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode, we ask how one man can go from designing websites for local bands to heading up Google Fonts Knowledge. Smashing’s Vitaly Friedman talks to Elliot Jay Stocks to find out.",
+          "link": "https://smashingmagazine.com/2022/05/smashing-podcast-episode-46/",
+          "publishedOn": "2022-05-17T11:00:00.000Z",
+          "wordCount": 7077,
+          "title": "Smashing Podcast Episode 46 With Vitaly Friedman: Who Is Elliot Jay Stocks?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/54ed7013-6796-4ff5-b13f-7133e3395de7/smashing-podcast-episode-46.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/54ed7013-6796-4ff5-b13f-7133e3395de7/smashing-podcast-episode-46.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/05/elementor-modern-way-create-host-wordpress-site/",
+          "author": "hello@smashingmagazine.com (Nick Babich)",
+          "description": "Let’s take a closer look at how you can create your very own WordPress site up and running created and hosted with the Elementor Cloud Website.",
+          "link": "https://smashingmagazine.com/2022/05/elementor-modern-way-create-host-wordpress-site/",
+          "publishedOn": "2022-05-17T10:30:00.000Z",
+          "wordCount": 2111,
+          "title": "The Modern Way To Create And Host A WordPress Site",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/74301596-05b5-4dff-98ad-dd8c62c97c69/elementor-modern-way-create-host-wordpress-site.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/74301596-05b5-4dff-98ad-dd8c62c97c69/elementor-modern-way-create-host-wordpress-site.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/",
+          "author": "hello@smashingmagazine.com (Sean Roberts)",
+          "description": "What makes the underused `Server-Timing` header uniquely powerful among all other response headers? We’ll rethink the expectation for using it exclusively for timing and see fast solutions for hard-to-solve monitoring challenges.",
+          "link": "https://smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/",
+          "publishedOn": "2022-05-16T10:00:00.000Z",
+          "wordCount": 5113,
+          "title": "Rethinking Server-Timing As A Critical Monitoring Tool",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4f69c3e0-764f-4cfb-b8f8-7a4420d0e2f6/rethinking-server-timing-monitoring-tool.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4f69c3e0-764f-4cfb-b8f8-7a4420d0e2f6/rethinking-server-timing-monitoring-tool.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/05/top-tasks-focus-what-matters-must-defocus-what-doesnt/",
+          "author": "hello@smashingmagazine.com (Gerry McGovern)",
+          "description": "We waste so much today. One way of focusing on what truly matters is by identifying Top Tasks for yourself. Learn how to make tough decisions by focusing on the real, quantifiable evidence that will help create a better experience for your users.",
+          "link": "https://smashingmagazine.com/2022/05/top-tasks-focus-what-matters-must-defocus-what-doesnt/",
+          "publishedOn": "2022-05-13T11:30:00.000Z",
+          "wordCount": 3237,
+          "title": "Top Tasks: To Focus On What Matters You Must De-Focus On What Doesn’t",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e92d1278-297a-41d9-8ba2-e5100063610e/top-tasks-focus-what-matters-must-defocus-what-doesnt.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e92d1278-297a-41d9-8ba2-e5100063610e/top-tasks-focus-what-matters-must-defocus-what-doesnt.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/05/google-crux-analysis-comparison-performance-javascript-frameworks/",
+          "author": "hello@smashingmagazine.com (Dan Shappir)",
+          "description": "In this article, Dan Shappir analyzes the performance cost associated with various frameworks and explains the wide variety of framework and platform choices that are currently available to front-end and fullstack developers.",
+          "link": "https://smashingmagazine.com/2022/05/google-crux-analysis-comparison-performance-javascript-frameworks/",
+          "publishedOn": "2022-05-12T09:30:00.000Z",
+          "wordCount": 4386,
+          "title": "How To Use Google CrUX To Analyze And Compare The Performance Of JS Frameworks",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d9ea7394-c230-471d-aafe-9977a30bdf3b/google-crux-analysis-comparison-performance-javascript-frameworks.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d9ea7394-c230-471d-aafe-9977a30bdf3b/google-crux-analysis-comparison-performance-javascript-frameworks.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/05/sunuva-case-study-ux-changes-result-increase-conversion/",
+          "author": "hello@smashingmagazine.com (Denis Studennikov)",
+          "description": "In this article, we will be taking a closer look at a design case study and discuss possible reasons why its customers abandon their online shopping carts and what solutions are recommended in each particular case.",
+          "link": "https://smashingmagazine.com/2022/05/sunuva-case-study-ux-changes-result-increase-conversion/",
+          "publishedOn": "2022-05-11T10:00:00.000Z",
+          "wordCount": 2100,
+          "title": "How Even Small UX Changes Can Result In An Increase In Conversion (A Case Study)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/de6a0a8a-3eae-4d7a-af27-50363c857936/sunuva-case-study-ux-changes-result-increase-conversion.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/de6a0a8a-3eae-4d7a-af27-50363c857936/sunuva-case-study-ux-changes-result-increase-conversion.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/05/magical-svg-techniques/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Smart SVG techniques, from generative SVG grids to SVG paths with masks, grainy SVG gradients, cut-out effects and fractional SVG stars. Let’s look at some magical SVG techniques that you can use right away.",
+          "link": "https://smashingmagazine.com/2022/05/magical-svg-techniques/",
+          "publishedOn": "2022-05-10T10:00:00.000Z",
+          "wordCount": 2398,
+          "title": "Magical SVG Techniques",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6be13a6e-5850-49e2-82b0-89d47212c66c/animated-debit-card-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6be13a6e-5850-49e2-82b0-89d47212c66c/animated-debit-card-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/",
+          "author": "hello@smashingmagazine.com (Barry Pollard)",
+          "description": "At the end of 2021, the Chrome team shipped some functionality that has the ability to make or break sites meeting the Core Web Vitals. So, let’s learn a little bit more about the Back/Forward Cache (aka bfcache), and what you can do to test if your website is compatible with it.",
+          "link": "https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/",
+          "publishedOn": "2022-05-09T10:30:00.000Z",
+          "wordCount": 3679,
+          "title": "Performance Game Changer: Browser Back/Forward Cache",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98883c6e-253d-4285-aa86-09da18d3b935/performance-game-changer-back-forward-cache.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98883c6e-253d-4285-aa86-09da18d3b935/performance-game-changer-back-forward-cache.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/05/give-effective-feedback-remotely/",
+          "author": "hello@smashingmagazine.com (Joshua Mauldin)",
+          "description": "Let’s explore how to give and receive better feedback when working remotely — feedback that is actionable, specific, kind, and that won’t set you on edge. We’ll start by explaining when feedback sessions don’t work and how to prevent it.",
+          "link": "https://smashingmagazine.com/2022/05/give-effective-feedback-remotely/",
+          "publishedOn": "2022-05-06T09:30:00.000Z",
+          "wordCount": 2991,
+          "title": "How To Give Effective Feedback Remotely",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9fd70453-99c5-4d6f-9abe-1a19a52d217b/give-effective-feedback-remotely.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9fd70453-99c5-4d6f-9abe-1a19a52d217b/give-effective-feedback-remotely.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/05/resilience-flexibility-immediacy-headless-systems/",
+          "author": "hello@smashingmagazine.com (Stefan Baumgartner)",
+          "description": "When deploying websites, there’s rarely a one-size-fits-all solution. Some websites benefit from server-rendered pages, some prefer statically generating content upfront. In this article, Stefan explains how a CMS such as [Storyblok](https://www.storyblok.com/) can help you make your site more resilient without losing the flexibility to deliver time-relevant content.",
+          "link": "https://smashingmagazine.com/2022/05/resilience-flexibility-immediacy-headless-systems/",
+          "publishedOn": "2022-05-05T09:30:00.000Z",
+          "wordCount": 3109,
+          "title": "Resilience, Flexibility And Immediacy: Working With Headless Systems",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f290e32b-b1fa-42d0-989e-21a751f27d00/resilience-flexibility-immediacy-headless-systems.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f290e32b-b1fa-42d0-989e-21a751f27d00/resilience-flexibility-immediacy-headless-systems.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/05/designing-better-language-selector/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "How difficult can it be to design a bulletproof language selector? It’s not as straightforward as one might think. We need to avoid redirects, decouple our language and country presets, allow for overrides, and use non-modal windows. Let’s dive in!",
+          "link": "https://smashingmagazine.com/2022/05/designing-better-language-selector/",
+          "publishedOn": "2022-05-04T10:00:00.000Z",
+          "wordCount": 6036,
+          "title": "Designing A Better Language Selector",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec0dac36-90ba-4295-b51b-f095fb2d90ff/designing-better-language-selector.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec0dac36-90ba-4295-b51b-f095fb2d90ff/designing-better-language-selector.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/05/you-dont-need-ui-framework/",
+          "author": "hello@smashingmagazine.com (Josh Comeau)",
+          "description": "Developers often reach for UI frameworks like Bootstrap or Material UI, hoping that they’ll save a bunch of time and quickly build a professional-looking app. Unfortunately, things rarely work out this way. Let’s talk about it.",
+          "link": "https://smashingmagazine.com/2022/05/you-dont-need-ui-framework/",
+          "publishedOn": "2022-05-03T11:00:00.000Z",
+          "wordCount": 2903,
+          "title": "You Don’t Need A UI Framework",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7fae9333-8fe0-468f-bc90-274417de15c3/you-dont-need-ui-framework.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7fae9333-8fe0-468f-bc90-274417de15c3/you-dont-need-ui-framework.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s welcome May with a new collection of wallpapers. Designed with love by artists and designers from across the globe, they come in versions with and without a calendar for May 2022.",
+          "link": "https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/",
+          "publishedOn": "2022-04-30T08:00:00.000Z",
+          "wordCount": 2292,
+          "title": "Make A Wish (May 2022 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d3692b2-3bab-4645-95a2-a488c22eae5f/may-22-kira-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d3692b2-3bab-4645-95a2-a488c22eae5f/may-22-kira-preview-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/",
+          "author": "hello@smashingmagazine.com (Steve Sewell)",
+          "description": "Introducing Partytown, a lightweight open-source solution that reduces execution delays due to third-party JavaScript by offloading third-party scripts to web workers, which run in background threads.",
+          "link": "https://smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/",
+          "publishedOn": "2022-04-29T10:30:00.000Z",
+          "wordCount": 2034,
+          "title": "How Partytown Eliminates Website Bloat From Third-Party Scripts",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9925c2d1-b244-434d-9173-7e11efbdf617/partytown-eliminates-website-bloat-third-party-scripts.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9925c2d1-b244-434d-9173-7e11efbdf617/partytown-eliminates-website-bloat-third-party-scripts.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/04/cta-modal-build-web-component/",
+          "author": "hello@smashingmagazine.com (Nathan Smith)",
+          "description": "In this article, Nathan Smith explains how to create modal dialog windows with rich interaction that will only require authoring HTML in order to be used. They are based on Web Components that are currently supported by every major browser.",
+          "link": "https://smashingmagazine.com/2022/04/cta-modal-build-web-component/",
+          "publishedOn": "2022-04-28T09:30:00.000Z",
+          "wordCount": 4777,
+          "title": "CTA Modal: How To Build A Web Component",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bbadf16-a6e1-4d24-ba72-77cc51e3cc4e/cta-modal-build-web-component.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bbadf16-a6e1-4d24-ba72-77cc51e3cc4e/cta-modal-build-web-component.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/04/boosting-ux-with-design-kpis/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "We should be able to measure how well a particular design solves a particular problem. Let’s explore design KPIs that capture user’s experience, how to measure them and how to keep both users and business stakeholders happy, over time.",
+          "link": "https://smashingmagazine.com/2022/04/boosting-ux-with-design-kpis/",
+          "publishedOn": "2022-04-27T08:30:00.000Z",
+          "wordCount": 1551,
+          "title": "Boosting UX With Design KPIs",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1021a1ce-ec58-4b8f-837f-e7d4aa3f8448/boosting-ux-with-design-kpis.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1021a1ce-ec58-4b8f-837f-e7d4aa3f8448/boosting-ux-with-design-kpis.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/04/ux-integrated-design-workflows/",
+          "author": "hello@smashingmagazine.com (Ceara Crawshaw)",
+          "description": "When bad UX has lingered in a product for so long, it can feel like a mountain to overcome. In this article, Ceara Crawshaw shares her advice on how you can invoke joy and assure the quality in the work done on product teams.",
+          "link": "https://smashingmagazine.com/2022/04/ux-integrated-design-workflows/",
+          "publishedOn": "2022-04-26T11:30:00.000Z",
+          "wordCount": 4036,
+          "title": "Preventing Bad UX Through Integrated Design Workflows",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47570c78-efae-4a35-b2c6-addf55029cac/ux-integrated-design-workflows.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47570c78-efae-4a35-b2c6-addf55029cac/ux-integrated-design-workflows.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/04/what-if-sliders-actually-slid-html-element-input-range/",
+          "author": "hello@smashingmagazine.com (Jhey Tompkins)",
+          "description": "In this article, Jhey Tompkins explores one of GreenSocks’ newest plugins alongside React to create an impractical whimsical spin on a well-known native element: ``.",
+          "link": "https://smashingmagazine.com/2022/04/what-if-sliders-actually-slid-html-element-input-range/",
+          "publishedOn": "2022-04-25T09:30:00.000Z",
+          "wordCount": 3403,
+          "title": "What If Our Sliders Actually Slid?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9d1d14c-98fc-463e-82b5-df98f5556b72/what-if-sliders-actually-slid-html-element-input-range.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9d1d14c-98fc-463e-82b5-df98f5556b72/what-if-sliders-actually-slid-html-element-input-range.jpg"
+        }
+      ]
+    },
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.freecodecamp.org/news/rss/",
+      "siteUrl": "https://www.freecodecamp.org/news/",
+      "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-find-and-fix-security-vulnerabilities-using-snyk/",
+          "author": "Ashutosh Krishna",
+          "description": "In this article, we will be covering an important topic, Security in Python.  We often download and install packages from PyPi but we're not sure about the vulnerabilities that might come with them.  So, in this tutorial, we will learn about an awesome tool called Snyk that helps",
+          "link": "https://www.freecodecamp.org/news/how-to-find-and-fix-security-vulnerabilities-using-snyk/",
+          "publishedOn": "2022-05-20T18:08:14.000Z",
+          "wordCount": 1570,
+          "title": "How to Find and Fix Security Vulnerabilities Using Snyk",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/snyk-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-convert-value-to-boolean-javascript/",
+          "author": "Natalie Pina",
+          "description": "A boolean is a primitive value [https://developer.mozilla.org/en-US/docs/Glossary/Primitive] that represents either true or false. In Boolean contexts, JavaScript utilizes type casting [https://developer.mozilla.org/en-US/docs/Glossary/Type_Conversion] to convert values to true/false. There are implicit and explicit methods to convert values into their boolean counterparts. This article provides an overview of truthy and falsy values and",
+          "link": "https://www.freecodecamp.org/news/how-to-convert-value-to-boolean-javascript/",
+          "publishedOn": "2022-05-20T18:06:38.000Z",
+          "wordCount": 741,
+          "title": "How to Convert a Value to a Boolean in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/Fashion-Sale--Banner--Landscape--.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-coding-used-for/",
+          "author": "Dionysia Lemonaki",
+          "description": "Are you aware of the millions of lines of code behind the applications and devices you use every day? Coding is used for many different purposes - more than you may realize. In this article, I will first go over what the term 'coding' actually means. Then, I will briefly",
+          "link": "https://www.freecodecamp.org/news/what-is-coding-used-for/",
+          "publishedOn": "2022-05-20T16:16:56.000Z",
+          "wordCount": 2676,
+          "title": "What is Coding Used For?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/ilya-pavlov-OqtafYT5kTw-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/double-vs-float-in-cpp-the-difference-between-floats-and-doubles/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In C++, there are various data types like string, int, char, bool, float, and  double. Each of these data types have specific values that can be stored in them. When working with integers, we usually store them in an int data type. But this is only useful for whole",
+          "link": "https://www.freecodecamp.org/news/double-vs-float-in-cpp-the-difference-between-floats-and-doubles/",
+          "publishedOn": "2022-05-19T22:29:11.000Z",
+          "wordCount": 943,
+          "title": "Double VS Float in C++ – The Difference Between Floats and Doubles",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/nick-hillier-yD5rv8_WzxA-unsplash-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/html-symbols-html-icon-and-entity-code-list/",
+          "author": "Kolade Chris",
+          "description": "There are some characters that are symbols which you don’t get access to on keyboards. In HTML, these characters are called entities and are reserved characters. For instance, there are cases when you might want to type the greater than (>) or lesser than (<) symbol while working on the",
+          "link": "https://www.freecodecamp.org/news/html-symbols-html-icon-and-entity-code-list/",
+          "publishedOn": "2022-05-19T15:32:07.000Z",
+          "wordCount": 4468,
+          "title": "HTML Symbols – HTML Icon and Entity Code List",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/HTMLEntites.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-a-drum-machine-with-python-and-pygame/",
+          "author": "Beau Carnes",
+          "description": "A drum machine is a fun project to create to practice your Python skills. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to create a drum machine project using Python and Pygame. Pete LeMaster created this course. Pete has created a bunch",
+          "link": "https://www.freecodecamp.org/news/create-a-drum-machine-with-python-and-pygame/",
+          "publishedOn": "2022-05-19T13:47:53.000Z",
+          "wordCount": 26115,
+          "title": "Create a Drum Machine with Python and Pygame",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/drum.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/remote-work-companies-for-developers/",
+          "author": "Davis David",
+          "description": "Finding a remote job as a developer can be tricky. You want to work for a company that recognizes the value of remote workers, and you want to be sure that the company will support and encourage your remote working style.  If you’re a developer looking for an opportunity",
+          "link": "https://www.freecodecamp.org/news/remote-work-companies-for-developers/",
+          "publishedOn": "2022-05-18T17:43:34.000Z",
+          "wordCount": 2034,
+          "title": "Top 10 Remote Work Companies for Developers in 2022",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/zVaxL0LohRUpfDQhznRQ9z3y5tj1-oam3ifo.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/cpp-operator-examples/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Most programming languages have built-in functionalities that let us carry out certain operations like arithmetic, comparison, logical operations, and so on.  In this article, we'll talk about three operators in C++ – the bitwise AND (&) operator, the logical OR (||) operator, and the arithmetic + operator.  How",
+          "link": "https://www.freecodecamp.org/news/cpp-operator-examples/",
+          "publishedOn": "2022-05-18T15:37:31.000Z",
+          "wordCount": 1105,
+          "title": "C++ Operator Example – &, or, + Operators in C++",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/towfiqu-barbhuiya-5u6bz2tYhX8-unsplash--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/minify-css-css-minifying-and-compression-explained/",
+          "author": "Dillion Megida",
+          "description": "Minification is the process of reducing code size to reduce the size of your files. So how does this apply to CSS? Take a look at this code: h1 {   color: yellow; } p {   color: pink; } And the compressed version of it: h1 {",
+          "link": "https://www.freecodecamp.org/news/minify-css-css-minifying-and-compression-explained/",
+          "publishedOn": "2022-05-18T15:20:23.000Z",
+          "wordCount": 1150,
+          "title": "Minify CSS – CSS Minifying and Compression Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-magda-ehlers-2590535.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/css-functions-for-beginners/",
+          "author": "Ilenia Magoni",
+          "description": "In CSS there are a lot of different units of measurement. You have px and percentages, vh, vw, em, rem, and others.  There will come a time when you want to get a value by combining two or more different units. CSS has a function that you can use",
+          "link": "https://www.freecodecamp.org/news/css-functions-for-beginners/",
+          "publishedOn": "2022-05-18T15:11:08.000Z",
+          "wordCount": 1014,
+          "title": "CSS Functions – How to Use calc(), max(), min(), and clamp()",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-katerina-holmes-5905965.jpg"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.14.4"
+}
