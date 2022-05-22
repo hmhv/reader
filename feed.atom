@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hmhv.github.io/reader/index.html</id>
     <title>hmhv::news</title>
-    <updated>2022-05-22T09:13:00.506Z</updated>
+    <updated>2022-05-22T15:14:39.762Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hmhv.github.io/reader/index.html"/>
     <link rel="self" href="https://hmhv.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[携帯各社、総務省の「デジタル活用支援推進事業」に採択――シニア向けスマホ教室の実施へ]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410904.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410904.html"/>
+        <updated>2022-05-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[総務省は20日、令和4年度当初予算「利用者向けデジタル活用支援推進事業」の公募について、全国展開型の採択団体を発表した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[本日の一品]良さげな電源テーブルタップを買って使ってみると……]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1410188.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1410188.html"/>
+        <updated>2022-05-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[いつまでたっても完全には収束しないコロナ禍の昨今、原稿書き用のミニデスクトップパソコンと大型曲面ディスプレイを設置している自室だけではなく、時には気分転換でダイニングテーブル周りで資料作りやSNSをする機会も増えてきた。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[みんなのケータイ]ファーウェイ「P50 Pro」を5G対応にするケースが登場]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/minna/1410106.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/minna/1410106.html"/>
+        <updated>2022-05-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筆者は普段から複数の端末を使い分けていますが、昨年夏に購入したファーウェイの「P50 Pro」は今でも常用しています。グーグルサービスは非対応ですがカメラ性能は今でも十分高く、DXOmarkでもランキングはまだ2位。個人的には夜景撮影はP50 Proの右に出るものはないと思っています。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[スタパ齋藤の「スタパトロニクスMobile」]いにしえのメモリーカードが発掘された件]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/stapa/1410096.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/stapa/1410096.html"/>
+        <updated>2022-05-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[仕事部屋の片付けをしていたら、↑こーゆーのが出てきたんスよ。古いメモリーカード各種。4MBのコンパクトフラッシュ（CF）なんてのもある!!!　すごいなー4MB。4GBじゃないゾ、4MBだゾ。MBはメガバイトって読むンだ！]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iPhoneの大きい画面を片手で操作しやすくする方法]]></title>
         <id>https://www.itmedia.co.jp/mobile/articles/2205/22/news014.html</id>
