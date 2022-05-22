@@ -1,478 +1,1110 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-21T23:58:03.353Z</id>
+    <id>https://hmhv.github.io/reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-21T23:58:03.353Z</updated>
+    <updated>2022-05-22T00:23:23.054Z</updated>
     <generator>osmosfeed 1.14.4</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://hmhv.github.io/reader/index.html"/>
+    <link rel="self" href="https://hmhv.github.io/reader/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Verevolf]]></title>
-        <id>https://css-tricks.com/?p=365971</id>
-        <link href="https://css-tricks.com/verevolf/"/>
-        <updated>2022-05-20T20:24:43.000Z</updated>
-        <summary type="html"><![CDATA[Zeldman:
-You may not know his name, but he played a huge part in creating the web you take for granted today. And he’s back—kind of.
-That would be Glenn Davis and the Verevolf site Zeldman’s talking about. The …
-Verevolf originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[RF100-500mm F4.5-7.1 L IS USMで撮る、ディズニーランドのパレード「うさたま大脱走！」]]></title>
+        <id>https://gori.me/?p=141806</id>
+        <link href="https://gori.me/camera/lens/141806"/>
+        <updated>2022-05-21T22:05:00.000Z</updated>
+        <summary type="html"><![CDATA[東京ディズニーランドで3年ぶりに開催されているエンターテイメントパレード「うさたま大脱走！」を、望遠レンズ「RF100-500mm F4.5-7.1 L IS USM」で撮影した。現在入手が難しいレンズだが、運良く中古品を手に入れた。元々所有していたRF100-400mm F5.6-8 IS USM…
+The post RF100-500mm F4.5-7.1 L IS USMで撮る、ディズニーランドのパレード「うさたま大脱走！」 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>g.O.R.i</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Find and Fix Security Vulnerabilities Using Snyk]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-find-and-fix-security-vulnerabilities-using-snyk/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-find-and-fix-security-vulnerabilities-using-snyk/"/>
-        <updated>2022-05-20T18:08:14.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will be covering an important topic, Security in Python.  We often download and install packages from PyPi but we're not sure about the vulnerabilities that might come with them.  So, in this tutorial, we will learn about an awesome tool called Snyk that helps]]></summary>
+        <title type="html"><![CDATA[Appleの27インチミニLEDディスプレイ、10月発売に”延期”か]]></title>
+        <id>https://gori.me/?p=141809</id>
+        <link href="https://gori.me/mac-accessories/mac-display/141809"/>
+        <updated>2022-05-21T21:45:34.000Z</updated>
+        <summary type="html"><![CDATA[Appleは、27インチ型ミニLEDディスプレイを搭載したStudio Displayの上位モデル（Studio Display Pro）の発売時期を10月に延期した可能性がある。ディスプレイ業界のサプライチェーン調査会社のCEOを務めるRoss Young氏によると、当初はQuanta社の工場で製…
+The post Appleの27インチミニLEDディスプレイ、10月発売に”延期”か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
         <author>
-            <name>Ashutosh Krishna</name>
+            <name>g.O.R.i</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Convert a Value to a Boolean in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-convert-value-to-boolean-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-convert-value-to-boolean-javascript/"/>
-        <updated>2022-05-20T18:06:38.000Z</updated>
-        <summary type="html"><![CDATA[A boolean is a primitive value [https://developer.mozilla.org/en-US/docs/Glossary/Primitive] that represents either true or false. In Boolean contexts, JavaScript utilizes type casting [https://developer.mozilla.org/en-US/docs/Glossary/Type_Conversion] to convert values to true/false. There are implicit and explicit methods to convert values into their boolean counterparts. This article provides an overview of truthy and falsy values and]]></summary>
+        <title type="html"><![CDATA[HomePodの新モデル、2023年3月までに発表か]]></title>
+        <id>https://gori.me/?p=141812</id>
+        <link href="https://gori.me/music-accessories/speakers/homepod/141812"/>
+        <updated>2022-05-21T21:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Appleは、HomePodの新モデルを早ければ2022年第4四半期（10〜12月）、遅くとも2023年3月までに発表する可能性がある。Apple情報に詳しいアナリストMing-Chi Kuo氏によると、ハードウェアデザインには革新性は期待できなという。機能や特徴などの詳細は明らかにしていない。 「…
+The post HomePodの新モデル、2023年3月までに発表か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
         <author>
-            <name>Natalie Pina</name>
+            <name>g.O.R.i</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Coding Used For?]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-coding-used-for/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-coding-used-for/"/>
-        <updated>2022-05-20T16:16:56.000Z</updated>
-        <summary type="html"><![CDATA[Are you aware of the millions of lines of code behind the applications and devices you use every day? Coding is used for many different purposes - more than you may realize. In this article, I will first go over what the term 'coding' actually means. Then, I will briefly]]></summary>
+        <title type="html"><![CDATA[Amazon、5月28日よりタイムセール祭り開催。対象商品を一部公開]]></title>
+        <id>https://gori.me/?p=141808</id>
+        <link href="https://gori.me/amazon/amazon-sale/141808"/>
+        <updated>2022-05-21T14:05:46.000Z</updated>
+        <summary type="html"><![CDATA[Amazonが、63時間のビッグセール「タイムセール祭り」を開催する。開催期間は、2022年5月28日（土）9時から5月30日（月）23時59分。 今回のセールでは、Fire TV Stick（1,500円オフ）、Echo Buds（第2世代）（3,000円オフ）、Fire HD 8 タブレット（3…
+The post Amazon、5月28日よりタイムセール祭り開催。対象商品を一部公開 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
         <author>
-            <name>Dionysia Lemonaki</name>
+            <name>g.O.R.i</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Ultimate Free Solo Blog Setup With Ghost And Gatsby]]></title>
-        <id>https://smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/</id>
-        <link href="https://smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/"/>
-        <updated>2022-05-20T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will see step-by-step how you can get the best of customization with easy admin by using Ghost as a headless CMS for a Gatsby static site — everything for free.]]></summary>
+        <title type="html"><![CDATA[auの「arrows We」「Galaxy A51」がAndroid 12に]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410186.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410186.html"/>
+        <updated>2022-05-21T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[KDDIは、auのAndroidスマートフォン「arrows We FCG01」「Galaxy A51 5G SCG07」向けのソフトウェア更新サービスの提供を開始した。更新を適用することで、OSがAndroid 12にバージョンアップされる。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Greg Dickens)</name>
+            <name>ケータイ Watch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Double VS Float in C++ – The Difference Between Floats and Doubles]]></title>
-        <id>https://www.freecodecamp.org/news/double-vs-float-in-cpp-the-difference-between-floats-and-doubles/</id>
-        <link href="https://www.freecodecamp.org/news/double-vs-float-in-cpp-the-difference-between-floats-and-doubles/"/>
-        <updated>2022-05-19T22:29:11.000Z</updated>
-        <summary type="html"><![CDATA[In C++, there are various data types like string, int, char, bool, float, and  double. Each of these data types have specific values that can be stored in them. When working with integers, we usually store them in an int data type. But this is only useful for whole]]></summary>
+        <title type="html"><![CDATA[クアルコム、「Wi-Fi 7 Networking Pro Series」を発表]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1408712.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1408712.html"/>
+        <updated>2022-05-21T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米クアルコム（Qualcomm）は、商用Wi-Fi7プラットフォームの「Networking Pro Series」を発表した。]]></summary>
         <author>
-            <name>Ihechikara Vincent Abba</name>
+            <name>ケータイ Watch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTML Symbols – HTML Icon and Entity Code List]]></title>
-        <id>https://www.freecodecamp.org/news/html-symbols-html-icon-and-entity-code-list/</id>
-        <link href="https://www.freecodecamp.org/news/html-symbols-html-icon-and-entity-code-list/"/>
-        <updated>2022-05-19T15:32:07.000Z</updated>
-        <summary type="html"><![CDATA[There are some characters that are symbols which you don’t get access to on keyboards. In HTML, these characters are called entities and are reserved characters. For instance, there are cases when you might want to type the greater than (>) or lesser than (<) symbol while working on the]]></summary>
+        <title type="html"><![CDATA[IIJmio、OCN モバイル ONE、mineo、BIGLOBEモバイルのキャンペーンまとめ【5月】　スマホの値引きやオプション無料も]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2205/21/news009.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2205/21/news009.html"/>
+        <updated>2022-05-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[少しずつ夏が近づく5月では、MVNO各ブランドでも多数のキャンペーンを実施している。特に多いのがオプションの無料提供だ。今回はIIJmio、OCN モバイル ONE、mineo、BIGLOBEモバイルで4月に実施しているキャンペーンをまとめた。]]></summary>
         <author>
-            <name>Kolade Chris</name>
+            <name>ITmedia Mobile 最新記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Inline Image Previews with Sharp, BlurHash, and Lambda Functions]]></title>
-        <id>https://css-tricks.com/?p=365784</id>
-        <link href="https://css-tricks.com/inline-image-previews-with-sharp-blurhash-and-lambda-functions/"/>
-        <updated>2022-05-19T14:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Don’t you hate it when you load a website or web app, some content displays and then some images load — causing content to shift around? That’s called content reflow and can lead to an incredibly annoying user experience for …
-Inline Image Previews with Sharp, BlurHash, and Lambda Functions originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[「常識を覆す」？　楽天モバイルの“0円撤廃”が波紋を呼ぶ]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2205/21/news053.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2205/21/news053.html"/>
+        <updated>2022-05-21T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[楽天モバイルが新料金プラン「Rakuten UN-LIMIT VII」を発表しました。その内容が大きな波紋を呼んでいます……。]]></summary>
         <author>
-            <name>Adam Rackis</name>
+            <name>ITmedia Mobile 最新記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Create a Drum Machine with Python and Pygame]]></title>
-        <id>https://www.freecodecamp.org/news/create-a-drum-machine-with-python-and-pygame/</id>
-        <link href="https://www.freecodecamp.org/news/create-a-drum-machine-with-python-and-pygame/"/>
-        <updated>2022-05-19T13:47:53.000Z</updated>
-        <summary type="html"><![CDATA[A drum machine is a fun project to create to practice your Python skills. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to create a drum machine project using Python and Pygame. Pete LeMaster created this course. Pete has created a bunch]]></summary>
+        <title type="html"><![CDATA[楽天モバイル販売ランキング：「Rakuten Hand」がトップ10に復帰【2022年4月】]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2205/21/news040.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2205/21/news040.html"/>
+        <updated>2022-05-21T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[楽天モバイルが公表している「スマートフォン売れ筋ランキング」。2022年4月はiPhone 13とOPPO Reno5 Aが1位、2位をキープ。楽天モバイルのオリジナル端末では「Rakuten Hand」（4G LTE版）がランク外から6位に復帰した。]]></summary>
         <author>
-            <name>Beau Carnes</name>
+            <name>ITmedia Mobile 最新記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kubernetes For Frontend Developers]]></title>
-        <id>https://smashingmagazine.com/2022/05/kubernetes-front-end-developers/</id>
-        <link href="https://smashingmagazine.com/2022/05/kubernetes-front-end-developers/"/>
-        <updated>2022-05-19T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Benjamin Ajibade introduces Kubernetes to front-end engineers and explaines why Kubernetes is integral in a production-ready microservice architecture. Some key terms that are important for team collaboration will be discussed and conclude the post with a quick deployment to getting started as a beginner.]]></summary>
+        <title type="html"><![CDATA[au販売ランキング：「Galaxy S22 Ultra」が1位、「Galaxy S22」が3Iに【2022年4月】]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2205/21/news029.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2205/21/news029.html"/>
+        <updated>2022-05-21T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[au Online Shopが公表している「スマートフォン・ケータイ売れ筋ランキング」をもとに、端末ランキングを紹介する。2022年4月は、Galaxyブランドのフラグシップモデル「Galaxy S22 Ultra SCG14」が1位を獲得し、好調な滑り出しを見せた。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Benjamin Ajibade)</name>
+            <name>ITmedia Mobile 最新記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Remote Work Companies for Developers in 2022]]></title>
-        <id>https://www.freecodecamp.org/news/remote-work-companies-for-developers/</id>
-        <link href="https://www.freecodecamp.org/news/remote-work-companies-for-developers/"/>
-        <updated>2022-05-18T17:43:34.000Z</updated>
-        <summary type="html"><![CDATA[Finding a remote job as a developer can be tricky. You want to work for a company that recognizes the value of remote workers, and you want to be sure that the company will support and encourage your remote working style.  If you’re a developer looking for an opportunity]]></summary>
+        <title type="html"><![CDATA[ドコモ販売ランキング：トップ10のうち6モデルがiPhone【5月9日～5月15日】]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2205/21/news026.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2205/21/news026.html"/>
+        <updated>2022-05-21T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ドコモオンラインショップが公表している「売れ筋ランキング」をもとに、端末販売のランキングを紹介する。5月9日～5月15日の期間はトップ10のうち6モデルをiPhoneが占める結果となった]]></summary>
         <author>
-            <name>Davis David</name>
+            <name>ITmedia Mobile 最新記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[C++ Operator Example – &, or, + Operators in C++]]></title>
-        <id>https://www.freecodecamp.org/news/cpp-operator-examples/</id>
-        <link href="https://www.freecodecamp.org/news/cpp-operator-examples/"/>
-        <updated>2022-05-18T15:37:31.000Z</updated>
-        <summary type="html"><![CDATA[Most programming languages have built-in functionalities that let us carry out certain operations like arithmetic, comparison, logical operations, and so on.  In this article, we'll talk about three operators in C++ – the bitwise AND (&) operator, the logical OR (||) operator, and the arithmetic + operator.  How]]></summary>
+        <title type="html"><![CDATA[iPhoneの「メール」アプリでアカウントを追加する方法]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2205/19/news029.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2205/19/news029.html"/>
+        <updated>2022-05-21T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[iPhoneの「メール」アプリでは、さまざまなメールアカウントを1つにまとめられる。個別のアプリで操作するより、全てのメールを同じアプリ、同じメールボックスで確認できた方が楽な場合もある。「設定」からアカウントを追加して、管理をメールアプリに一本化してみよう。]]></summary>
         <author>
-            <name>Ihechikara Vincent Abba</name>
+            <name>ITmedia Mobile 最新記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Minify CSS – CSS Minifying and Compression Explained]]></title>
-        <id>https://www.freecodecamp.org/news/minify-css-css-minifying-and-compression-explained/</id>
-        <link href="https://www.freecodecamp.org/news/minify-css-css-minifying-and-compression-explained/"/>
-        <updated>2022-05-18T15:20:23.000Z</updated>
-        <summary type="html"><![CDATA[Minification is the process of reducing code size to reduce the size of your files. So how does this apply to CSS? Take a look at this code: h1 {   color: yellow; } p {   color: pink; } And the compressed version of it: h1 {]]></summary>
+        <title type="html"><![CDATA[ソフトバンク、PayPayポイントがあたる「2022鷹の祭典来店キャンペーンin九州」を実施]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410248.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410248.html"/>
+        <updated>2022-05-21T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクは、2022年の鷹の祭典開催に伴い、九州（沖縄含む）エリアの対象店舗にてPayPayポイントやノベルティが当たる「2022鷹の祭典来店キャンペーンin九州」を実施する。期間は6月1日～7月31日。]]></summary>
         <author>
-            <name>Dillion Megida</name>
+            <name>ケータイ Watch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Functions – How to Use calc(), max(), min(), and clamp()]]></title>
-        <id>https://www.freecodecamp.org/news/css-functions-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/css-functions-for-beginners/"/>
-        <updated>2022-05-18T15:11:08.000Z</updated>
-        <summary type="html"><![CDATA[In CSS there are a lot of different units of measurement. You have px and percentages, vh, vw, em, rem, and others.  There will come a time when you want to get a value by combining two or more different units. CSS has a function that you can use]]></summary>
+        <title type="html"><![CDATA[シェアサイクル「HELLO CYCLING」、東急ストア店舗敷地内に導入]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410232.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410232.html"/>
+        <updated>2022-05-21T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[シェアサイクルサービス「HELLO CYCLING」を提供するOpenStreetは、東急ストアと提携し、「HELLO CYCLING」のステーションを「中山とうきゅう第2駐車場」に設置したと発表した。]]></summary>
         <author>
-            <name>Ilenia Magoni</name>
+            <name>ケータイ Watch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Interactive Starry Backdrop for Content]]></title>
-        <id>https://css-tricks.com/?p=365766</id>
-        <link href="https://css-tricks.com/an-interactive-starry-backdrop-for-content/"/>
-        <updated>2022-05-18T14:16:43.000Z</updated>
-        <summary type="html"><![CDATA[I was fortunate last year to get approached by Shawn Wang (swyx) about doing some work for Temporal. The idea was to cast my creative eye over what was on the site and come up with some …
-An Interactive Starry Backdrop for Content originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[KDDI、「GINZA 456」で「おもいでケータイ再起動」イベントを開催]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410755.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410755.html"/>
+        <updated>2022-05-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[KDDIは、「GINZA 456 Created by KDDI」にて、「おもいでケータイ再起動」イベントを開催する。開催日時は、6月3日～6月5日の3日間。]]></summary>
         <author>
-            <name>Jhey Tompkins</name>
+            <name>ケータイ Watch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Improving Icons for UI Elements with Typographic Alignment and Scale]]></title>
-        <id>https://css-tricks.com/?p=365531</id>
-        <link href="https://css-tricks.com/improving-icons-for-ui-elements-with-typographic-alignment-and-scale/"/>
-        <updated>2022-05-17T14:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Utilizing icons in user interface elements is helpful. In addition to element labeling, icons can help reinforce a user element’s intention to users. But I have to say, I notice a bit of icon misalignment while browsing the web. Even …
-Improving Icons for UI Elements with Typographic Alignment and Scale originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[PayPay、「スニダン」で利用可能に]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410202.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410202.html"/>
+        <updated>2022-05-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SODAが展開するスニーカー＆ハイブランドフリマ「スニダン」で、「PayPay」が利用できるようになった。]]></summary>
         <author>
-            <name>Marcel Moreau</name>
+            <name>ケータイ Watch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 46 With Vitaly Friedman: Who Is Elliot Jay Stocks?]]></title>
-        <id>https://smashingmagazine.com/2022/05/smashing-podcast-episode-46/</id>
-        <link href="https://smashingmagazine.com/2022/05/smashing-podcast-episode-46/"/>
-        <updated>2022-05-17T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we ask how one man can go from designing websites for local bands to heading up Google Fonts Knowledge. Smashing’s Vitaly Friedman talks to Elliot Jay Stocks to find out.]]></summary>
+        <title type="html"><![CDATA[ドコモがアノマリーと資本業務提携、XR事業のダンスコンテンツを拡充]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410880.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410880.html"/>
+        <updated>2022-05-20T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモは、マルチデバイス型メタバース「XR World」を中心とした、XR事業の拡大を目的に、ダンスに関する事業を展開するアノマリー社との資本業務提携について、5月20日に合意した。ドコモは、アノマリーの第三者割当で4.5億円の増資を引き受ける。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+            <name>ケータイ Watch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Modern Way To Create And Host A WordPress Site]]></title>
-        <id>https://smashingmagazine.com/2022/05/elementor-modern-way-create-host-wordpress-site/</id>
-        <link href="https://smashingmagazine.com/2022/05/elementor-modern-way-create-host-wordpress-site/"/>
-        <updated>2022-05-17T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s take a closer look at how you can create your very own WordPress site up and running created and hosted with the Elementor Cloud Website.]]></summary>
+        <title type="html"><![CDATA[「Pokémon GO」、Amazon プライム会員向けのコンテンツを配信]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410972.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410972.html"/>
+        <updated>2022-05-20T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ナイアンティックは、スマートフォンゲーム「Pokémon GO」について、Amazon プライム会員向けの限定コンテンツの配信を開始した。プライム会員であれば、2週間ごとにボーナスアイテムなどを入手できる。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Nick Babich)</name>
+            <name>ケータイ Watch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create Style Variations in WordPress 6.0 Block Themes]]></title>
-        <id>https://css-tricks.com/?p=365377</id>
-        <link href="https://css-tricks.com/creating-style-variations-in-wordpress-block-themes/"/>
-        <updated>2022-05-16T14:38:29.000Z</updated>
-        <summary type="html"><![CDATA[Global styles, a feature of the block themes, is one of my favorite parts of creating block themes. The concept of global style variations in WordPress were introduced in Gutenberg 12.5 which would allow theme authors to create alternate …
-How to Create Style Variations in WordPress 6.0 Block Themes originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[国会図書館、絶版の資料をスマホなどで閲覧可能に]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410951.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410951.html"/>
+        <updated>2022-05-20T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[国立国会図書館は、「個人向けデジタル化資料送信サービス」（略称：個人送信）を開始した。絶版などの理由で入手が困難な資料を、利用者自身のスマートフォンやタブレット、パソコンで閲覧できる。]]></summary>
         <author>
-            <name>Ganesh Dahal</name>
+            <name>ケータイ Watch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rethinking Server-Timing As A Critical Monitoring Tool]]></title>
-        <id>https://smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/</id>
-        <link href="https://smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/"/>
-        <updated>2022-05-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What makes the underused `Server-Timing` header uniquely powerful among all other response headers? We’ll rethink the expectation for using it exclusively for timing and see fast solutions for hard-to-solve monitoring challenges.]]></summary>
+        <title type="html"><![CDATA[[DATAで見るケータイ業界] キャリア各社の設備投資額は21・22年度ともに1.8兆円へ拡大]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/mca/1410173.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/mca/1410173.html"/>
+        <updated>2022-05-20T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MCAは、市場調査資料「携帯電話基地局及び周辺部材市場の現状と将来予測 2019～2024年度版」を5月に発刊した。そこで今回と次回の2回にわたり、同資料から携帯基地局市場の動向を取り上げていきたい。今回は、携帯キャリアの設備投資と基地局投資に焦点を当てる。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Sean Roberts)</name>
+            <name>ケータイ Watch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cool Hover Effects That Use CSS Text Shadow]]></title>
-        <id>https://css-tricks.com/?p=365738</id>
-        <link href="https://css-tricks.com/cool-hover-effects-that-use-css-text-shadow/"/>
-        <updated>2022-05-13T14:43:17.000Z</updated>
-        <summary type="html"><![CDATA[In my last article we saw how CSS background properties allow us to create cool hover effects. This time, we will focus on the CSS text-shadow property to explore even more interesting hovers. You are probably wondering how adding shadow …
-Cool Hover Effects That Use CSS Text Shadow originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[iPhoneのUSB-C化、どう思う？”Lightning派”に聞いてみた]]></title>
+        <id>https://gori.me/?p=141773</id>
+        <link href="https://gori.me/iphone/iphone-news/141773"/>
+        <updated>2022-05-20T21:45:43.000Z</updated>
+        <summary type="html"><![CDATA[iPhoneのUSB-C化が現実味を帯びてきた。Appleを狙い撃ちした、「小型または中型の電化製品はUSB-Cポートを利用した有線充電機能を搭載する義務」を求めたEUの法案から始まり、Apple情報に詳しいアナリストやジャーナリストが2023年の新型iPhoneでLightningからの切り替えを…
+The post iPhoneのUSB-C化、どう思う？”Lightning派”に聞いてみた first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
         <author>
-            <name>Temani Afif</name>
+            <name>g.O.R.i</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top Tasks: To Focus On What Matters You Must De-Focus On What Doesn’t]]></title>
-        <id>https://smashingmagazine.com/2022/05/top-tasks-focus-what-matters-must-defocus-what-doesnt/</id>
-        <link href="https://smashingmagazine.com/2022/05/top-tasks-focus-what-matters-must-defocus-what-doesnt/"/>
-        <updated>2022-05-13T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[We waste so much today. One way of focusing on what truly matters is by identifying Top Tasks for yourself. Learn how to make tough decisions by focusing on the real, quantifiable evidence that will help create a better experience for your users.]]></summary>
+        <title type="html"><![CDATA[シリーズ最上位「Redmi Note 11 Pro 5G」もコスパの高さは健在　“ファンの巻き込み”にも注目]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2205/21/news052.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2205/21/news052.html"/>
+        <updated>2022-05-20T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Xiaomiは、5月30日にミッドレンジモデルの「Redmi Note 11 Pro 5G」を発売する。Redmi Note 11シリーズの最上位に位置付けられる端末で、カメラにはフラグシップモデルと並ぶ1億800万画素のセンサーを採用する。徐々に日本市場での存在感を高めつつあるXiaomiが、次の一手として送り出すのが「Xiaomiモノ作り研究所」だ。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Gerry McGovern)</name>
+            <name>ITmedia Mobile 最新記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A CSS Slinky in 3D? Challenge Accepted!]]></title>
-        <id>https://css-tricks.com/?p=365706</id>
-        <link href="https://css-tricks.com/a-css-slinky-in-3d/"/>
-        <updated>2022-05-12T14:27:50.000Z</updated>
-        <summary type="html"><![CDATA[Braydon Coyer recently launched a monthly CSS art challenge. He actually had reached out to me about donating a copy of my book Move Things with CSS to use as a prize for the winner of the challenge — …
-A CSS Slinky in 3D? Challenge Accepted! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[ドコモのXperiaスマホ、イヤホンやケース購入でdポイントをプレゼント]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410848.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410848.html"/>
+        <updated>2022-05-20T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ソニーマーケティングは、NTTドコモが発売予定の「Xperia 1 IV SO-51C」、「Xperia 10 IV SO-52C」、「Xperia Ace III SO-53C」の購入者向けにキャンペーンを開催する。]]></summary>
         <author>
-            <name>Jhey Tompkins</name>
+            <name>ケータイ Watch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Use Google CrUX To Analyze And Compare The Performance Of JS Frameworks]]></title>
-        <id>https://smashingmagazine.com/2022/05/google-crux-analysis-comparison-performance-javascript-frameworks/</id>
-        <link href="https://smashingmagazine.com/2022/05/google-crux-analysis-comparison-performance-javascript-frameworks/"/>
-        <updated>2022-05-12T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Dan Shappir analyzes the performance cost associated with various frameworks and explains the wide variety of framework and platform choices that are currently available to front-end and fullstack developers.]]></summary>
+        <title type="html"><![CDATA[特定の映画作品を1100円で鑑賞できるauスマパス会員限定キャンペーン、第3弾は「ハウ」など3作品]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410029.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410029.html"/>
+        <updated>2022-05-20T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[KDDIは、auスマートパスプレミアム会員を対象に、特定の映画作品を1100円で鑑賞できるキャンペーンを実施している。第3弾の対象作品が発表された。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Dan Shappir)</name>
+            <name>ケータイ Watch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[COLRv1 and CSS font-palette: Web Typography Gets Colorful]]></title>
-        <id>https://css-tricks.com/?p=365677</id>
-        <link href="https://css-tricks.com/colrv1-and-css-font-palette-web-typography/"/>
-        <updated>2022-05-11T14:12:51.000Z</updated>
-        <summary type="html"><![CDATA[According to Toshi Omagari, the author of Arcade Game Typography, the world’s first multi-colored digital font was created in 1982 for a never-released video game called Insector. Multi-colored fonts, sometimes called chromatic type, are still relatively rare on the …
-COLRv1 and CSS font-palette: Web Typography Gets Colorful originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[블로그 | 맥OS 서버 단종으로 보는 EMM 솔루션의 필요성]]></title>
+        <id>https://www.itworld.co.kr/news/237294</id>
+        <link href="https://www.itworld.co.kr/news/237294"/>
+        <updated>2022-05-20T16:20:54.000Z</updated>
+        <summary type="html"><![CDATA[최근 애플이 맥 OS 서버 단종을 발표한 것은 그다지 놀랍지 않았다. 애플은 한동안 자사의 핵심 서비스를 단종했으며, 캐싱 서비스(Cashing Service) 등은 맥OS 자체로 이전했다.
+ 
+
+ⓒ Getty Images Bank
+
+
+맥OS 서버의 역사는 길고 사연이 많다. 맥OS 서버는 1999년 맥OS X보다 1년 먼저 출시됐다. 주요 기능 ...]]></summary>
         <author>
-            <name>Ollie Williams</name>
+            <name>ITWorld Korea</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Even Small UX Changes Can Result In An Increase In Conversion (A Case Study)]]></title>
-        <id>https://smashingmagazine.com/2022/05/sunuva-case-study-ux-changes-result-increase-conversion/</id>
-        <link href="https://smashingmagazine.com/2022/05/sunuva-case-study-ux-changes-result-increase-conversion/"/>
-        <updated>2022-05-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will be taking a closer look at a design case study and discuss possible reasons why its customers abandon their online shopping carts and what solutions are recommended in each particular case.]]></summary>
+        <title type="html"><![CDATA[블로그 | 구글이 ‘픽셀 테블릿’으로 만들고자 하는 변화구]]></title>
+        <id>https://www.itworld.co.kr/news/237279</id>
+        <link href="https://www.itworld.co.kr/news/237279"/>
+        <updated>2022-05-20T14:03:33.000Z</updated>
+        <summary type="html"><![CDATA[구글이 안드로이드 플랫폼 전반에 걸친 태블릿 철학과 안드로이드의 미래로 관심을 돌리는 모습에서 지난날을 떠올리지 않을 수 없다.
+
+구글이 최적의 안드로이드 태블릿 경험 창출에 관심을 두기 시작한 것은 무려 11년 전이었다. 선사시대 급으로 오래된 지난 2011년, 구글은 안드로이드 태블릿 판매에 주력하는 첫 과정에서 안드로이드 3.0 허니콤 소프트웨어를 도...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Denis Studennikov)</name>
+            <name>ITWorld Korea</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Let’s Create a Tiny Programming Language]]></title>
-        <id>https://css-tricks.com/?p=365650</id>
-        <link href="https://css-tricks.com/lets-create-a-tiny-programming-language/"/>
-        <updated>2022-05-10T13:56:11.000Z</updated>
-        <summary type="html"><![CDATA[By now, you are probably familiar with one or more programming languages. But have you ever wondered how you could create your own programming language? And by that, I mean:
-A programming language is any set of rules that convert 
-…
-Let’s Create a Tiny Programming Language originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[글로벌 칼럼 | 멀티버스 시뮬레이션이 혁신을 앞당긴다]]></title>
+        <id>https://www.itworld.co.kr/news/237274</id>
+        <link href="https://www.itworld.co.kr/news/237274"/>
+        <updated>2022-05-20T13:57:48.000Z</updated>
+        <summary type="html"><![CDATA[지난 주말, 필자는 파퓰러 메카닉스(Popular Mechanics) 잡지에서 ‘공군이 1년 동안 새 전투기를 몰래 설계하고 비행한 방법’이라는 기사를 읽었다. 조종사가 구상 및 모델링, 테스트, 재검사 등의 절차를 걸쳐 완성된 전투기를 출시하기까지 멀티버스 시뮬레이션이 어떻게 도움이 됐는지에 관한 내용이었다.
+
+멀티버스 시뮬레이션에서는 비상 사태 발생 시...]]></summary>
         <author>
-            <name>Md Shuvo</name>
+            <name>ITWorld Korea</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Magical SVG Techniques]]></title>
-        <id>https://smashingmagazine.com/2022/05/magical-svg-techniques/</id>
-        <link href="https://smashingmagazine.com/2022/05/magical-svg-techniques/"/>
-        <updated>2022-05-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Smart SVG techniques, from generative SVG grids to SVG paths with masks, grainy SVG gradients, cut-out effects and fractional SVG stars. Let’s look at some magical SVG techniques that you can use right away.]]></summary>
+        <title type="html"><![CDATA[마이크로소프트의 '화요일 패치', 두려워 할 필요 없는 이유]]></title>
+        <id>https://www.itworld.co.kr/news/237264</id>
+        <link href="https://www.itworld.co.kr/news/237264"/>
+        <updated>2022-05-20T13:54:00.000Z</updated>
+        <summary type="html"><![CDATA[매월 셋째 주는 마이크로소프트가 매월 패치 출시 프로세스의 일부로 기존 제품의 문제를 인정하는지 여부를 확인하는 시간이다.
+
+먼저 약간의 배경을 살펴보자. 마이크로소프트는 수 년 간 패치를 출시해 왔지만 항상 일정대로 진행한 것은 아니다. 초기에는 요일을 가리지 않고 업데이트를 출시했다. 그러다가 2003년 10월부터는 월 두 번째 화요일에 통상적인 보안 ...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+            <name>ITWorld Korea</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Useful Tools for Creating AVIF Images]]></title>
-        <id>https://css-tricks.com/?p=365579</id>
-        <link href="https://css-tricks.com/useful-tools-for-creating-avif-images/"/>
-        <updated>2022-05-09T15:00:10.000Z</updated>
-        <summary type="html"><![CDATA[AVIF (AV1 Image File Format) is a modern image file format specification for storing images that offer a much more significant file reduction when compared to other formats like JPG, JPEG, PNG, and WebP. Version 1.0.0 of the AVIF specification …
-Useful Tools for Creating AVIF Images originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[“고갈되지 않은 하이브리드 멀티클라우드의 이점” 캐노니컬 서베이]]></title>
+        <id>https://www.itworld.co.kr/news/237254</id>
+        <link href="https://www.itworld.co.kr/news/237254"/>
+        <updated>2022-05-20T11:59:28.000Z</updated>
+        <summary type="html"><![CDATA[캐노니컬은 2021년 11월 두 번째 연례 쿠버네티스 및 클라우드 네이티브 운영 보고서의 일환으로, 1,300명 이상의 IT 전문가를 대상으로 쿠버네티스와 베어메탈, VM, 컨테이너, 서버리스 애플리케이션 활용 현황을 조사했다. 이 조사에서 83%의 응답자가 하이브리드 멀티클라우드 환경을 사용한다고 답했다. 1년 전의 조사와 비교하면, 하이브리드 클라우드나...]]></summary>
         <author>
-            <name>Sunkanmi Fafowora</name>
+            <name>ITWorld Korea</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Performance Game Changer: Browser Back/Forward Cache]]></title>
-        <id>https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/</id>
-        <link href="https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/"/>
-        <updated>2022-05-09T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[At the end of 2021, the Chrome team shipped some functionality that has the ability to make or break sites meeting the Core Web Vitals. So, let’s learn a little bit more about the Back/Forward Cache (aka bfcache), and what you can do to test if your website is compatible with it.]]></summary>
+        <title type="html"><![CDATA[에이데이타, 초고속 XPG 캐스터 DDR5-6400 메모리 국내 출시]]></title>
+        <id>https://www.itworld.co.kr/news/237244</id>
+        <link href="https://www.itworld.co.kr/news/237244"/>
+        <updated>2022-05-20T11:55:00.000Z</updated>
+        <summary type="html"><![CDATA[에이데이타(ADATA)는 인텔 및 AMD의 차세대 프로세서를 위한 XPG 캐스터(CASTER) DDR5-6400 메모리를 발표했다.
+
+DDR5 메모리는 용량과 대역폭이 대폭 상승했을 뿐만 아니라 전압을 낮춰 낮은 소비전력이 구동이 가능한 장점을 제공한다. 또한 내부에 ECC 컨트롤러를 내장해 데이터에 대한 무결성을 제공하는 것을 특징이다. 
+&nb...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Barry Pollard)</name>
+            <name>ITWorld Korea</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Serve a Subdomain as a Subdirectory]]></title>
-        <id>https://css-tricks.com/?p=365614</id>
-        <link href="https://css-tricks.com/how-to-serve-a-subdomain-as-a-subdirectory/"/>
-        <updated>2022-05-06T14:19:44.000Z</updated>
-        <summary type="html"><![CDATA[Let’s say you have a website built on a platform that excels at design and it’s available at example.com. But that platform falls short at blogging. So you think to yourself, “What if I could use a different blogging …
-How to Serve a Subdomain as a Subdirectory originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA['윈도우 바탕화면에 검색창이?' 마이크로소프트, 프리뷰 빌드서 위젯 실험 중]]></title>
+        <id>https://www.itworld.co.kr/news/237239</id>
+        <link href="https://www.itworld.co.kr/news/237239"/>
+        <updated>2022-05-20T11:40:41.000Z</updated>
+        <summary type="html"><![CDATA[윈도우 11 인사이더 빌드의 가장 최신 버전을 다운로드하면 마이크로소프트가 시도하는 복고풍 기능을 체험할 수 있다. 데스크톱 화면에 띄우는 위젯이다. 특히 윈도우 11 바탕화면에 인터넷 검색으로 바로 이어지는 검색창을 볼 수 있을 것이다.
+ 
+
+ⓒ Microsoft
+
+
+일반적으로 마이크로소프트는 윈도우 11 인사이더 프리뷰 개발자 채널에서 개념적 ...]]></summary>
         <author>
-            <name>John Siciliano</name>
+            <name>ITWorld Korea</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Give Effective Feedback Remotely]]></title>
-        <id>https://smashingmagazine.com/2022/05/give-effective-feedback-remotely/</id>
-        <link href="https://smashingmagazine.com/2022/05/give-effective-feedback-remotely/"/>
-        <updated>2022-05-06T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s explore how to give and receive better feedback when working remotely — feedback that is actionable, specific, kind, and that won’t set you on edge. We’ll start by explaining when feedback sessions don’t work and how to prevent it.]]></summary>
+        <title type="html"><![CDATA[HPE, 엣지 및 분산형 데이터 소스용 스웜 러닝 솔루션 출시]]></title>
+        <id>https://www.itworld.co.kr/news/237229</id>
+        <link href="https://www.itworld.co.kr/news/237229"/>
+        <updated>2022-05-20T11:38:00.000Z</updated>
+        <summary type="html"><![CDATA[한국 HPE는 개인 정보 보호를 제공하면서도 AI 모델 학습 결과를 공유하고 통합할 수 있는 AI 솔루션인 ‘HPE 스웜 러닝’을 출시했다고 밝혔다.
+
+HPE의 R&D 조직인 휴렛패커드 랩이 개발한 HPE 스웜 러닝은 엣지 혹은 분산 위치용 개인 정보 보호 탈중앙화 머신 러닝 프레임워크다. 이 솔루션은 HPE 스웜 API를 활용해 AI 모델과 신속하...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Joshua Mauldin)</name>
+            <name>ITWorld Korea</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Resilience, Flexibility And Immediacy: Working With Headless Systems]]></title>
-        <id>https://smashingmagazine.com/2022/05/resilience-flexibility-immediacy-headless-systems/</id>
-        <link href="https://smashingmagazine.com/2022/05/resilience-flexibility-immediacy-headless-systems/"/>
-        <updated>2022-05-05T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[When deploying websites, there’s rarely a one-size-fits-all solution. Some websites benefit from server-rendered pages, some prefer statically generating content upfront. In this article, Stefan explains how a CMS such as [Storyblok](https://www.storyblok.com/) can help you make your site more resilient without losing the flexibility to deliver time-relevant content.]]></summary>
+        <title type="html"><![CDATA[ソフトバンクがAndroidスマホの「即日修理」「あんしん保証パックネクスト」を提供開始　まずはPixelから]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2205/20/news100.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2205/20/news100.html"/>
+        <updated>2022-05-20T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクは、Androidスマホ向けアフターサービスとして「即日修理」「あんしん保証パックネクスト」の提供を開始する。同社を通して販売されたGoogle Pixelを皮切りに、対象機種は順次拡大していくという。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Stefan Baumgartner)</name>
+            <name>ITmedia Mobile 最新記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Syntax Highlighting (and More!) With Prism on a Static Site]]></title>
-        <id>https://css-tricks.com/?p=365510</id>
-        <link href="https://css-tricks.com/syntax-highlighting-prism-on-a-next-js-site/"/>
-        <updated>2022-05-04T14:16:43.000Z</updated>
-        <summary type="html"><![CDATA[So, you’ve decided to build a blog with Next.js. Like any dev blogger, you’d like to have code snippets in your posts that are formatted nicely with syntax highlighting. Perhaps you also want to display line numbers in the …
-Syntax Highlighting (and More!) With Prism on a Static Site originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[마이크로소프트, 연례 최대 개발자대회 ‘빌드 2022’ 25일 개최]]></title>
+        <id>https://www.itworld.co.kr/news/237219</id>
+        <link href="https://www.itworld.co.kr/news/237219"/>
+        <updated>2022-05-20T11:20:00.000Z</updated>
+        <summary type="html"><![CDATA[마이크로소프트가 5월 25일부터 이틀간 연례 최대 개발자 컨퍼런스 ‘마이크로소프트 빌드(Microsoft Build 2022)’를 온라인으로 진행한다고 밝혔다.
+ 
+
+
+매년 5월 열리는 마이크로소프트 빌드는 개발자, 엔지니어 등 IT 전문가는 물론 학생과 IT 산업 입문자까지 참여해 지식을 공유하고, 기술력을 확장하는 동시에 미래 혁신 방법을 모색...]]></summary>
         <author>
-            <name>Adam Rackis</name>
+            <name>ITWorld Korea</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Designing A Better Language Selector]]></title>
-        <id>https://smashingmagazine.com/2022/05/designing-better-language-selector/</id>
-        <link href="https://smashingmagazine.com/2022/05/designing-better-language-selector/"/>
-        <updated>2022-05-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How difficult can it be to design a bulletproof language selector? It’s not as straightforward as one might think. We need to avoid redirects, decouple our language and country presets, allow for overrides, and use non-modal windows. Let’s dive in!]]></summary>
+        <title type="html"><![CDATA[벤큐 모비우스 EX3210U 리뷰 | 게이밍과 콘텐츠 제작, 모두 잡진 못했다]]></title>
+        <id>https://www.itworld.co.kr/news/237214</id>
+        <link href="https://www.itworld.co.kr/news/237214"/>
+        <updated>2022-05-20T11:05:16.000Z</updated>
+        <summary type="html"><![CDATA[벤큐의 모비우스 EX3210U는 갈수록 치열해지는 32인치 4K 모니터 시장에 새롭게 진입한 제품이다. PC 게이밍뿐만 아니라 최신 세대 콘솔을 겨냥한다. 반전이라면 콘텐츠 제작자를 위한 기능까지 포함하고 있다는 것이다.
+ 
+
+ⓒ Matt Smith/Foundry
+
+ 
+
+벤큐 EX3210U 사양
+벤큐 EX3210U는 플레이스테이션...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>ITWorld Korea</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adding Custom GitHub Badges to Your Repo]]></title>
-        <id>https://css-tricks.com/?p=364932</id>
-        <link href="https://css-tricks.com/adding-custom-github-badges-to-your-repo/"/>
-        <updated>2022-05-03T14:28:00.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve spent time looking at open-source repos on GitHub, you’ve probably noticed that most of them use badges in their README files. Take the official React repository, for instance. There are GitHub badges all over the README file that communicate important dynamic info, like the latest released …
-Adding Custom GitHub Badges to Your Repo originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[블로그 | 폴더블 아이폰에 전자잉크? 애플의 손을 거치면 어떻게 재탄생될까]]></title>
+        <id>https://www.itworld.co.kr/news/237204</id>
+        <link href="https://www.itworld.co.kr/news/237204"/>
+        <updated>2022-05-20T10:51:26.000Z</updated>
+        <summary type="html"><![CDATA[애플이 미래의 폴더블 아이폰용 전자잉크 디스플레이를 테스트하고 있다고 애플 전문 애널리스트 궈밍치가 17일(현지 시각) 보도했다. 
+ 
+
+ⓒ Getty Images Bank
+
+
+물론 애플은 항상 수많은 기술을 테스트하며 대부분 기술은 상용화되지 않는다는 점을 먼저 유의해야 하지만, 필자는 전자잉크 기술의 오랜 팬으로서 애플이 이 ...]]></summary>
         <author>
-            <name>Nick Sypteras</name>
+            <name>ITWorld Korea</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You Don’t Need A UI Framework]]></title>
-        <id>https://smashingmagazine.com/2022/05/you-dont-need-ui-framework/</id>
-        <link href="https://smashingmagazine.com/2022/05/you-dont-need-ui-framework/"/>
-        <updated>2022-05-03T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Developers often reach for UI frameworks like Bootstrap or Material UI, hoping that they’ll save a bunch of time and quickly build a professional-looking app. Unfortunately, things rarely work out this way. Let’s talk about it.]]></summary>
+        <title type="html"><![CDATA[새로운 VM웨어 취약점 발견…미 CISA,  모든 연방 기관에 긴급 완화 촉구]]></title>
+        <id>https://www.itworld.co.kr/news/237199</id>
+        <link href="https://www.itworld.co.kr/news/237199"/>
+        <updated>2022-05-20T10:44:05.000Z</updated>
+        <summary type="html"><![CDATA[미국 사이버보안 및 인프라 보안국(CISA)이 VM웨어 제품에서 발견된 2가지 새로운 취약점에 대한 긴급 지침을 발표했다.
+ 
+
+ⓒ Getty Images Bank
+
+
+CISA가 주목한 취약점은 VM웨어 워크스페이스 원 액세스(VMware Workspace ONE Access, Access), VM웨어 아이덴티티 매니저(VMware Ide...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Josh Comeau)</name>
+            <name>ITWorld Korea</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Creating Realistic Reflections With CSS]]></title>
-        <id>https://css-tricks.com/?p=365491</id>
-        <link href="https://css-tricks.com/creating-realistic-reflections-with-css/"/>
-        <updated>2022-05-02T14:14:07.000Z</updated>
-        <summary type="html"><![CDATA[In design, reflections are stylized mirror images of objects. Even though they are not as popular as shadows, they have their moments — just think about the first time you explored the different font formats in MS Word or PowerPoint: …
-Creating Realistic Reflections With CSS originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[킨드릴-넷앱, 고객의 신속한 클라우드 전환과 혁신 위한 파트너십 발표]]></title>
+        <id>https://www.itworld.co.kr/news/237189</id>
+        <link href="https://www.itworld.co.kr/news/237189"/>
+        <updated>2022-05-20T10:41:00.000Z</updated>
+        <summary type="html"><![CDATA[킨드릴과 넷앱은 고객의 온-프레미스, 클라우드 및 에지 컴퓨팅 환경에 저장된 데이터로부터 인사이트를 확보해 비즈니스 혁신을 지원하기 위한 글로벌 파트너십을 발표했다. 
+ 
+
+
+파트너십에 따라 킨드릴과 넷앱은 텍스트 기반 문서, 사진, 오디오 및 비디오 파일, IoT 센서 등을 포함한 비정형 데이터로부터 비즈니스 밸류를 도출, 관리하는 역량...]]></summary>
         <author>
-            <name>Preethi</name>
+            <name>ITWorld Korea</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Make A Wish (May 2022 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/</id>
-        <link href="https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/"/>
-        <updated>2022-04-30T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s welcome May with a new collection of wallpapers. Designed with love by artists and designers from across the globe, they come in versions with and without a calendar for May 2022.]]></summary>
+        <title type="html"><![CDATA["위험 발생 수준 더 높아졌다, 뉴 노멀 될 정도"…포레스터 리서치 보고서]]></title>
+        <id>https://www.itworld.co.kr/news/237184</id>
+        <link href="https://www.itworld.co.kr/news/237184"/>
+        <updated>2022-05-20T10:35:09.000Z</updated>
+        <summary type="html"><![CDATA[수요일 포레스터가 발행한 보고서에 따르면 전 세계 기업을 둘러싼 위기 관리의 중요성이 갈수록 커지고 있다. 북미와 유럽 기업 내 위기 관리를 맡은 의사결정권자 360여 명을 대상으로 한 2022 위험 관리 현황(State of Risk Management 2022) 보고서에 따르면, 응답 기업의 41%가 지난 12개월 동안 3가지 이상의 위험 이벤트에 노출...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+            <name>ITWorld Korea</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Creating the DigitalOcean Logo in 3D With CSS]]></title>
-        <id>https://css-tricks.com/?p=365447</id>
-        <link href="https://css-tricks.com/creating-the-digitalocean-logo-in-3d-with-css/"/>
-        <updated>2022-04-29T14:37:10.000Z</updated>
-        <summary type="html"><![CDATA[Howdy y’all! Unless you’ve been living under a rock (and maybe even then), you’ve undoubtedly heard the news that CSS-Tricks, was acquired by DigitalOcean. Congratulations to everyone! 🥳
-As a little hurrah to commemorate the occasion, I wanted to …
-Creating the DigitalOcean Logo in 3D With CSS originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[서비스나우, 기업의 디지털 비즈니스 확대 및 추진 위한 신규 솔루션 출시]]></title>
+        <id>https://www.itworld.co.kr/news/237174</id>
+        <link href="https://www.itworld.co.kr/news/237174"/>
+        <updated>2022-05-20T10:33:00.000Z</updated>
+        <summary type="html"><![CDATA[서비스나우가 연례 컨퍼런스인 ‘날리지 22(Knowledge 22)’에서 기업의 디지털 혁신 노력을 지원하는 세 가지 신규 솔루션을 발표했다. 
+
+나우플랫폼(Now Platform) 상에 구축되는 신규 솔루션은 ▲서비스 오퍼레이션 워크스페이스(Service Operations Workspace) ▲앱 엔진 매니지먼트 센터(App Engine Man...]]></summary>
         <author>
-            <name>Jhey Tompkins</name>
+            <name>ITWorld Korea</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Partytown Eliminates Website Bloat From Third-Party Scripts]]></title>
-        <id>https://smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/</id>
-        <link href="https://smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/"/>
-        <updated>2022-04-29T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Introducing Partytown, a lightweight open-source solution that reduces execution delays due to third-party JavaScript by offloading third-party scripts to web workers, which run in background threads.]]></summary>
+        <title type="html"><![CDATA[スマホ通信費0円、一定期間維持する方法　楽天モバイルからの移行先は？]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2205/20/news166.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2205/20/news166.html"/>
+        <updated>2022-05-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[楽天モバイルが7月から提供の新プラン「Rakuten UN-LIMIT VII」で基本料0円を取りやめ、月額最低料金を1078円に引き上げる。7月以降もスマホ通信費0円を維持するための乗り換え先としてベストな選択肢はあるのか。乗り換えた後の注意点もあわせて紹介する。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Steve Sewell)</name>
+            <name>ITmedia Mobile 最新記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CTA Modal: How To Build A Web Component]]></title>
-        <id>https://smashingmagazine.com/2022/04/cta-modal-build-web-component/</id>
-        <link href="https://smashingmagazine.com/2022/04/cta-modal-build-web-component/"/>
-        <updated>2022-04-28T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Nathan Smith explains how to create modal dialog windows with rich interaction that will only require authoring HTML in order to be used. They are based on Web Components that are currently supported by every major browser.]]></summary>
+        <title type="html"><![CDATA[PayPayで緊急メンテナンス、三井住友銀行の新規登録はストップ]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410926.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410926.html"/>
+        <updated>2022-05-20T09:35:33.000Z</updated>
+        <summary type="html"><![CDATA[PayPayは、三井住友銀行口座の新規登録について、20日17時10分から緊急システムメンテナンスを実施している。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Nathan Smith)</name>
+            <name>ケータイ Watch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Boosting UX With Design KPIs]]></title>
-        <id>https://smashingmagazine.com/2022/04/boosting-ux-with-design-kpis/</id>
-        <link href="https://smashingmagazine.com/2022/04/boosting-ux-with-design-kpis/"/>
-        <updated>2022-04-27T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[We should be able to measure how well a particular design solves a particular problem. Let’s explore design KPIs that capture user’s experience, how to measure them and how to keep both users and business stakeholders happy, over time.]]></summary>
+        <title type="html"><![CDATA[三井住友銀行のネットバンキング、20日夕から利用しづらい状態に――残高照会などはアプリを]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410919.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410919.html"/>
+        <updated>2022-05-20T09:20:01.000Z</updated>
+        <summary type="html"><![CDATA[三井住友銀行のインターネットバンキング「SMBCダイレクト」で、20日15時40分ごろから、ログイン後にエラーが表示されて手続きができない事象が発生している。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>ケータイ Watch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Preventing Bad UX Through Integrated Design Workflows]]></title>
-        <id>https://smashingmagazine.com/2022/04/ux-integrated-design-workflows/</id>
-        <link href="https://smashingmagazine.com/2022/04/ux-integrated-design-workflows/"/>
-        <updated>2022-04-26T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[When bad UX has lingered in a product for so long, it can feel like a mountain to overcome. In this article, Ceara Crawshaw shares her advice on how you can invoke joy and assure the quality in the work done on product teams.]]></summary>
+        <title type="html"><![CDATA[「ドコモの5G」が都営地下鉄の大江戸線都庁前駅で、JTOWERのインフラシェアリング]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410905.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410905.html"/>
+        <updated>2022-05-20T09:05:24.000Z</updated>
+        <summary type="html"><![CDATA[都営地下鉄の大江戸線 都庁前駅（東京都新宿区）で、21日よりNTTドコモの5Gサービスが利用できるようになる。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Ceara Crawshaw)</name>
+            <name>ケータイ Watch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What If Our Sliders Actually Slid?]]></title>
-        <id>https://smashingmagazine.com/2022/04/what-if-sliders-actually-slid-html-element-input-range/</id>
-        <link href="https://smashingmagazine.com/2022/04/what-if-sliders-actually-slid-html-element-input-range/"/>
-        <updated>2022-04-25T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Jhey Tompkins explores one of GreenSocks’ newest plugins alongside React to create an impractical whimsical spin on a well-known native element: ``.]]></summary>
+        <title type="html"><![CDATA[글로벌 칼럼ㅣ'인터넷' 없어도 사물인터넷 구현하는 NoT]]></title>
+        <id>https://www.itworld.co.kr/news/237154</id>
+        <link href="https://www.itworld.co.kr/news/237154"/>
+        <updated>2022-05-20T09:00:37.000Z</updated>
+        <summary type="html"><![CDATA[커넥티드 기기는 이를 함께 묶는 안전하고 신뢰할 수 있는 ‘사물 네트워크(network of things; NoT)’가 필요하다. 하지만 그 접착제로 ‘인터넷’이 아니라 ‘IoT 전용 프로토콜’을 쓸 수도 있을 것이다.
+
+이제는 꽤나 익숙한 사물인터넷(IoT) 개념이 처음 등장했을 때 사람들은 인터넷에 직접 연결되는 ‘사물’(대부분 센서)이 대규모로 배포되...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["개발 언어 지배자는 여전히 자바스크립트와 파이썬"]]></title>
+        <id>https://www.itworld.co.kr/news/237149</id>
+        <link href="https://www.itworld.co.kr/news/237149"/>
+        <updated>2022-05-20T08:58:00.000Z</updated>
+        <summary type="html"><![CDATA[개발자의 언어 선호도에서 자바스크립트와 파이썬의 강세가 계속되고 있다. 러스트의 상승세도 만만치 않은 것으로 나타났다. 이는 지난 4일 공개된 '개발자 현황 22번째 에디션(State of the Developer Nation, 22nd Edition)'의 주요 내용이다. 이 보고서는 시장조사업체 슬래시데이터(SlashData)가 2021년 12월부터 올해...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PayPay、EXILE ATSUSHIが限定復活する全国ドームツアー「EXILE LIVE TOUR 2022 "POWER OF WISH"」の限定先行販売を実施]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410896.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410896.html"/>
+        <updated>2022-05-20T08:29:00.000Z</updated>
+        <summary type="html"><![CDATA[PayPayは、チケット販売サイト「ticketbook」にて、EXILEが7月からスタートする全国ドームツアー「EXILE LIVE TOUR 2022 "POWER OF WISH"」のPayPay限定チケット先行販売を実施すると発表した。受付期間は5月27日15時～6月12日23時まで。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘코틀린 1.7.0’ 베타 출시…“빌더 타입 추론 변경”]]></title>
+        <id>https://www.itworld.co.kr/news/237144</id>
+        <link href="https://www.itworld.co.kr/news/237144"/>
+        <updated>2022-05-20T08:19:01.000Z</updated>
+        <summary type="html"><![CDATA[젯브레인(JetBrains)에서 만든 크로스 플랫폼 오픈소스 프로그래밍 언어의 최신 버전 ‘코틀린 1.7.0’이 베타 릴리즈 단계에 도달했다. 이번 업데이트는 빌더 타입 추론 변경사항과 새로운 메모리 관리자 등이 특징이다.
+ 
+
+ⓒ Matthew Kerslake (CC0)
+
+
+업체에 따르면 빌더 추론은 일반 빌더 함수를 호출할 때 유용한 ...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモ、「Galaxy A53 5G」を5月27日に発売　5万9400円]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2205/20/news151.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2205/20/news151.html"/>
+        <updated>2022-05-20T07:39:00.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモは、5月27日に「ドコモスマートフォン Galaxy A53 5G SC-53C」を発売。約6.5型ディスプレイや容量5000mAhのバッテリー、光学式手ブレ補正を備えた約6400万画素カメラも備える。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイナポータルで国民年金の学生納付特例などの手続きが可能に]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410867.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410867.html"/>
+        <updated>2022-05-20T07:23:59.000Z</updated>
+        <summary type="html"><![CDATA[デジタル庁は、マイナンバーカードを使って行政手続きやお知らせの確認ができる「マイナポータル」で、新たに国民年金手続きの電子申請に対応した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモから「Galaxy A53 5G」、27日に発売]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410858.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410858.html"/>
+        <updated>2022-05-20T07:09:56.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモは、サムスン製のAndroidスマートフォン「Galaxy A53 5G SC-53C」を発売する。発売日は5月27日で、価格は5万9400円。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本の携帯料金、5Gプランは他国と比べて安い――総務省の最新調査結果]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410849.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410849.html"/>
+        <updated>2022-05-20T06:37:02.000Z</updated>
+        <summary type="html"><![CDATA[総務省は、国内外の携帯電話や固定電話の料金を比較する調査結果「電気通信サービスに係る内外価格差調査」を発表した。調査対象都市は東京、ニューヨーク、ロンドン、パリ、デュッセルドルフ、ソウルの6都市。各都市における2022年3月時点の料金に基づいて比較されている。あくまで料金での比較で、通信エリアの広さや通信品質の違いには触れられていない。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PayPayの「あなたのまちを応援プロジェクト」、最大20％還元を花巻市で]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410840.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410840.html"/>
+        <updated>2022-05-20T06:17:16.000Z</updated>
+        <summary type="html"><![CDATA[PayPayは、地方自治体と共同で取り組むキャンペーン「あなたのまちを応援プロジェクト」で、7月22日～8月21日、岩手県花巻市で「第6弾　がんばれ花巻！対象店舗で最大20%戻ってくるキャンペーン」を実施する。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kindle本の高額書籍が最大50％オフ、6月2日まで]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410825.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410825.html"/>
+        <updated>2022-05-20T05:56:03.000Z</updated>
+        <summary type="html"><![CDATA[アマゾンジャパンは、Amazon.co.jpにおいて、Kindle本の高額書籍キャンペーンを開始した。対象の電子書籍が最大50％オフで販売されている。キャンペーン期間は6月2日23時59分まで。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[auじぶん銀行、フォロー&RTで阪神タイガース観戦チケットなどをプレゼント]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410812.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410812.html"/>
+        <updated>2022-05-20T05:42:38.000Z</updated>
+        <summary type="html"><![CDATA[auじぶん銀行は、「阪神タイガースを応援しよう！Twitterキャンペーン」を実施する。キャンペーン期間は5月20日10時～5月31日12時まで。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PayPay、Uber Eatsで最大10％～30％還元キャンペーン]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2205/20/news086.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2205/20/news086.html"/>
+        <updated>2022-05-20T05:31:00.000Z</updated>
+        <summary type="html"><![CDATA[PayPayは、Uber Eatsへの導入2周年と利用者数の250万人突破を記念したキャンペーンを開催。5月20日から6月12日までPayPayポイントを最大10％または30％還元する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[povo 2.0が「Rakuten BIG s」「Rakuten Hand 5G」を対応端末に追加]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2205/20/news135.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2205/20/news135.html"/>
+        <updated>2022-05-20T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[KDDIと沖縄セルラー電話は、オンライン専用プラン「povo2.0」の対応端末（動作確認端末）に、楽天モバイルのオリジナル端末「Rakuten BIG s」「Rakuten Hand 5G」を追加した。povo 2.0では物理SIMも用意されているが、両モデルともにeSIM専用端末であるため、povo 2.0で発行した物理SIMは挿せない。povo 2.0の対応端末のページには、「Wi-Fiテザリングが利用できない」という注意書きもある。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[povo、60GB／150GBのデータトッピング購入で最大30GBを付与]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2205/20/news120.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2205/20/news120.html"/>
+        <updated>2022-05-20T04:44:00.000Z</updated>
+        <summary type="html"><![CDATA[KDDIは、5月20日～6月30日にpovo2.0で「ギガおとな買いキャンペーン」を開催。条件を満たして60GBまたは150GBのデータトッピングを購入すると、最大30GBのデータが追加でもらえる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LINEMO、月額990円のミニプランを6カ月間実質無料に　MNP申込数が2.6倍に急増]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2205/20/news110.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2205/20/news110.html"/>
+        <updated>2022-05-20T04:02:00.000Z</updated>
+        <summary type="html"><![CDATA[LINEMOは、5月20日に「ミニプラン基本料半年間実質無料キャンペーン」を開始。ミニプランを新しい番号、またはMNPで契約するとPayPayポイント990円相当を付与し、最大6カ月間の月額利用料が実質無料となる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモ「dアカウント」、「ドットエスティID」連携＆買い物で最大1万ポイントが当たる]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410758.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410758.html"/>
+        <updated>2022-05-20T03:39:13.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモは、｢ドットエスティとdポイントをつなげてお買い物すると最大10,000ptプレゼント！」キャンペーンを開始した。期間は6月30日まで。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソフトバンク、Google Pixelの即日修理サービスを提供]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410723.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410723.html"/>
+        <updated>2022-05-20T03:15:15.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクは、Androidスマートフォン向けのアフターサービスとして、「即日修理」と「あんしん保証パックネクスト」を5月24日から提供する。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[povo 2.0、「Rakuten BIG s」と「Rakuten Hand 5G」を対象機種に追加]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410726.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410726.html"/>
+        <updated>2022-05-20T03:08:43.000Z</updated>
+        <summary type="html"><![CDATA[KDDIと沖縄セルラーは5月20日、オンライン専用プラン「povo 2.0」の対象端末に、楽天モバイルから発売された「Rakuten BIG s」と「Rakuten Hand 5G」を追加した。どちらもeSIMで利用できる。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特売! Sponsored by ひかりTVショッピング 「Mi 11 Lite 5G」とNUROモバイルのセットで1万4000円キャッシュバック、ひかりTVショッピング]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/hikaritv/1410566.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/hikaritv/1410566.html"/>
+        <updated>2022-05-20T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[家電・おもちゃ・家具やインテリアまで取りそろえる総合オンラインストア「ひかりTVショッピング」の注目商品や特売商品の情報をお伝えします。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PayPayで「Uber Eats」のキャンペーン、ミニアプリで最大10％＆初めての利用で最大30％]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410724.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410724.html"/>
+        <updated>2022-05-20T02:59:26.000Z</updated>
+        <summary type="html"><![CDATA[PayPayは、「Uber Eats ミニアプリで最大10%戻ってくる！キャンペーン」「Uber Eats 初めて利用で最大30%戻ってくる！キャンペーン」を開始した。期間は6月12日まで。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[石川温の「スマホ業界 Watch」]「ドコモショップ3割減」報道、ドコモの狙いと競合各社の考えはどうなっている？]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/ishikawa/1410718.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/ishikawa/1410718.html"/>
+        <updated>2022-05-20T02:49:25.000Z</updated>
+        <summary type="html"><![CDATA[5月19日、一部報道で「ドコモショップが3割減、700店舗を閉鎖へ」というニュースが流れた。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高い本が半額。「Kindle本高額書籍キャンペーン」開催中]]></title>
+        <id>https://gori.me/?p=141796</id>
+        <link href="https://gori.me/sale/kindle-sale/141796"/>
+        <updated>2022-05-20T02:29:47.000Z</updated>
+        <summary type="html"><![CDATA[Kindleストアが、対象作品926点が最大50％オフで購入できる「Kindle本高額書籍キャンペーン」を開催している。セールは2022年6月2日（木）まで。 対象作品には、『Premiere Pro 逆引きデザイン事典』、『入門 仮想通貨の作り方 プログラミングで学ぶブロックチェーン技術・ハッシュ…
+The post 高い本が半額。「Kindle本高額書籍キャンペーン」開催中 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[povo 2.0で「ギガおとな買いキャンペーン」、トッピングまとめ買いで最大30GBプレゼント]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410704.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410704.html"/>
+        <updated>2022-05-20T02:28:03.000Z</updated>
+        <summary type="html"><![CDATA[KDDIと沖縄セルラーは、オンライン専用プラン「povo 2.0」で、5月20日から「ギガおとな買いキャンペーン」を開始した。対象ユーザーが60GB／150GBのトッピングを購入すると、最大10GBのトッピング3回分が付与される。期間は6月30日23時59分まで。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LINEMOで「ミニプラン」基本料半年分が実質無料に、新規・MNPで]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410696.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410696.html"/>
+        <updated>2022-05-20T02:23:22.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクは、オンライン専用料金ブランド「LINEMO」の料金プラン「ミニプラン」で、新キャンペーン「ミニプラン基本料半年間実質無料キャンペーン」を開始した。終了日は未定。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楽天を意識？LINEMO、3GBプランの6カ月間実質無料キャンペーンを開始]]></title>
+        <id>https://gori.me/?p=141794</id>
+        <link href="https://gori.me/mobile/smartphone/141794"/>
+        <updated>2022-05-20T02:05:50.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクのオンライン専用ブランドLINEMOが、「ミニプラン基本料半年間実質無料キャンペーン」をスタートした。キャンペーン期間中、LINEMOの月額990円の「ミニプラン」を他社からの乗り換え契約（MNP）もしくは新しい番号で契約（新規）すると、PayPayポイント990円相当を6カ月間、毎月も…
+The post 楽天を意識？LINEMO、3GBプランの6カ月間実質無料キャンペーンを開始 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhoneの壁紙を標準の「ちょっとかっこいい壁紙」に変える方法]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2205/20/news031.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2205/20/news031.html"/>
+        <updated>2022-05-20T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[iPhoneの壁紙は「写真」で自分が撮影した画像を使える他、標準で用意されている壁紙はアニメーションや「ダークモード」で色が変わる壁紙が用意されている。どんな壁紙が使えるか確認してみよう。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OnePlus、ミッドレンジの「OnePlus Nord 2T」とイヤホンを英国で発売]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2205/20/news071.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2205/20/news071.html"/>
+        <updated>2022-05-20T00:42:00.000Z</updated>
+        <summary type="html"><![CDATA[OPPO傘下のOnePlusはミッドレンジスマートフォン「OnePlus Nord 2T」を英国で発表した。価格は369ポンド（約5万9000円）から。また、無線イヤホン「Nord Buds」も49ポンドで発売する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AppleのAR/VRヘッドセット、完成間近？取締役会で披露か]]></title>
+        <id>https://gori.me/?p=141785</id>
+        <link href="https://gori.me/apple/apple-news/141785"/>
+        <updated>2022-05-19T22:55:57.000Z</updated>
+        <summary type="html"><![CDATA[Renders by Ianより AppleのAR/VRヘッドセットは完成間近の可能性がある。Bloombergによると、取締役会で実機が披露されたという。詳細は不明。動作する専用OS「realityOS」（略称：rOS）の開発も強化しているそうだ。早ければ年内に正式発表されるが、一般販売は2023…
+The post AppleのAR/VRヘッドセット、完成間近？取締役会で披露か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS/iPadOS 15.6やmacOS Monterey 12.5のPublic Beta、配信開始]]></title>
+        <id>https://gori.me/?p=141784</id>
+        <link href="https://gori.me/ios/ios15/141784"/>
+        <updated>2022-05-19T22:38:05.000Z</updated>
+        <summary type="html"><![CDATA[Apple Beta Software Programより Appleは5月20日、「iOS 15.6 Public beta」「iPadOS 15.6 Public beta」「macOS Monterey 12.5 Public beta」をパブリックベータプログラム登録者向けに配信開始した。 …
+The post iOS/iPadOS 15.6やmacOS Monterey 12.5のPublic Beta、配信開始 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“크롬북이 달라진다” 에이서, 고성능 투인원 크롬북 스핀 714 발표]]></title>
+        <id>https://www.itworld.co.kr/news/237139</id>
+        <link href="https://www.itworld.co.kr/news/237139"/>
+        <updated>2022-05-19T19:44:58.000Z</updated>
+        <summary type="html"><![CDATA[에이서가 고급형 컨버터블 크롬북을 발표했다. 학생부터 비즈니스 전문가까지 폭넓은 사용층을 대상으로 한 이번 제품은 날렵한 디자인과는 달리 12세대 인텔 프로세서를 탑재해 성능을 대폭 향상한 것이 특징이다. 
+ 
+
+ⓒ Acer
+
+
+에이서 크롬북 스핀 714와 에이서 크롬북 엔터프라이즈 스핀 714는 12세대 코어 i7 프로세서를 탑재해 스트...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[클라우드 보안팀은 반드시 답을 알고 있어야 하는 질문 9가지]]></title>
+        <id>https://www.itworld.co.kr/news/237134</id>
+        <link href="https://www.itworld.co.kr/news/237134"/>
+        <updated>2022-05-19T17:25:49.000Z</updated>
+        <summary type="html"><![CDATA[사이버 보안 전문가가 클라우드 인프라와 애플리케이션을 노리는 해커를 퇴치하기 위해 필요한 지식을 얻으려면 패튼 장군(정확하게는 1970년 영화 <패튼 대전차군단(Patton)>에서 패튼 장군을 연기해 아카데미 남우주연상을 수상한 배우 조지 스콧처럼) 생각해야 한다.
+
+이 영화 초반의 한 장면에서 패튼 장군은 적군이 쓴 책(독일 장군 에르빈 롬멜의...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT 자산 관리에 켜지는 ‘빨간불’··· 서비스나우 ‘통합 ITAM 플랫폼’에 주목하라 - IDG TechInsight]]></title>
+        <id>https://www.itworld.co.kr/techlibrary/226494</id>
+        <link href="https://www.itworld.co.kr/techlibrary/226494"/>
+        <updated>2022-05-19T16:58:00.000Z</updated>
+        <summary type="html"><![CDATA[유례없는 코로나19 사태 이후 IT 복잡성이 급증하고 있다. 비즈니스를 뒷받침하는 각종 IT 서비스가 클라우드와 데이터센터, 원격 업무 공간을 넘나들고 있으며, IT가 지원하고 관리해야 하는 영역이 하이브리드 근무 동향으로 인해 비즈니스의 최외곽까지 확장됐다. 문제는 복잡성과 변화가 나날이 중요해지고 있는 IT 서비스 품질의 적이라는 사실이다. IT 보안과...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["경쟁사와 접근 방식 완전히 달라"…'아크'로 그리는 인텔의 큰 그림]]></title>
+        <id>https://www.itworld.co.kr/news/237124</id>
+        <link href="https://www.itworld.co.kr/news/237124"/>
+        <updated>2022-05-19T15:31:40.000Z</updated>
+        <summary type="html"><![CDATA[2017년 인텔이 AMD의 라데온 그래픽 수장인 라자 코두리를 영입하면서부터 아크(Arc)에 대한 초기 홍보가 시작됐다. 이후 인텔은 첫 독립 그래픽 카드 출시를 향한 긴 여정에 올랐고, 경쟁은 심화했다. 엔비디아는 마니아 시장과 기업 시장 양쪽에서 모두 거침없이 질주하는 중이고, AMD는 애슬론(Athlon) 초창기 이후로 볼 수 없었던 정도의 ...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“루프 인터페이스, 문서 첨부, 통합된 작업 목록” 새 아웃룩 미리 보기]]></title>
+        <id>https://www.itworld.co.kr/news/237114</id>
+        <link href="https://www.itworld.co.kr/news/237114"/>
+        <updated>2022-05-19T14:36:56.000Z</updated>
+        <summary type="html"><![CDATA[마이크로소프트가 윈도우용 새 아웃룩을 정식으로 배포한다. 미래지향적인 루프(Loop) 인터페이스를 통합하고 실용적인 문서 첨부 기능, 중요한 메일에 대한 응답을 알려주는 요약 기능 등이 특징이다. 새 버전은 아직 베타 채널에서 오피스 인사이더 프로그램 참가자만 이용할 수 있다.
+ 
+
+ⓒ Microsoft
+
+
+마이크로소프트는 여러 차례 “미래의 아웃...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラコムが月額990円～のクラウドカメラサービス発表　IoTカメラの課題解決へ]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2205/19/news202.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2205/19/news202.html"/>
+        <updated>2022-05-19T13:01:00.000Z</updated>
+        <summary type="html"><![CDATA[ソラコムが、ネットワークカメラ「ATOM Cam」などのIoT製品を提供しているアトムテックと資本業務提携を締結。その第1弾として、クラウドカメラサービスの「ソラカメ」を同日より提供開始した。アトムテックの「ATOM Cam 2」と、ソラコムのクラウドカメラサービスをセットで提供する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국IDC, CIO 서밋 2022 개최…“새로운 물결 속에서 테크 리더의 역할”]]></title>
+        <id>https://www.itworld.co.kr/news/237094</id>
+        <link href="https://www.itworld.co.kr/news/237094"/>
+        <updated>2022-05-19T12:01:00.000Z</updated>
+        <summary type="html"><![CDATA[한국IDC(www.idc.com/kr)는 IDC CIO 서밋 2022를 개최했다고 밝혔다. 한국IDC는 ‘성공적인 리더십 탐색: 새로운 물결 속에서 테크 리더의 역할’을 주제로 온라인으로 진행된 이번 행사에서 가속화되는 디지털 디스럽션(Digital Disruption) 시대의 글로벌 비즈니스 생태계를 변화시킬 핵심 동인과 조직의 기술 리더들이 주목해야 할...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코어에이아이, ‘대화형 AI 비서 운영 현황’ 보고서 발표]]></title>
+        <id>https://www.itworld.co.kr/news/237074</id>
+        <link href="https://www.itworld.co.kr/news/237074"/>
+        <updated>2022-05-19T11:40:00.000Z</updated>
+        <summary type="html"><![CDATA[코어에이아이(www.kore.ai)는 국내 IT관리자 및 CTO가 조사에 참여한 ‘대화형 AI 비서 운영 현황’ 보고서를 발표했다.
+
+코어에이아이 코리아는 국내 기업의 IT 관리자들 221명을 대상으로 지난 4월과 5월 두달 동안 AI 비서 도입 현황과 AI 비서 진행 프로젝트 등을 조사한 ‘대화형 AI 비서 운영 현황’을 발표했다.
+
+코어에이아이 코리아의...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팔로알토 네트웍스, ZTNA 2.0 구현 위한 프리즈마 액세스 기능 강화]]></title>
+        <id>https://www.itworld.co.kr/news/237064</id>
+        <link href="https://www.itworld.co.kr/news/237064"/>
+        <updated>2022-05-19T11:33:00.000Z</updated>
+        <summary type="html"><![CDATA[팔로알토 네트웍스(www.paloaltonetworks.co.kr)는 2세대 제로트러스트 네트워크 액세스(Zero Trust Network Access, 이하 ZTNA 2.0) 구현을 위해 원격 접속 보안 솔루션 기능을 강화했다고 밝혔다.
+
+ZTNA는 가상사설망(VPN)의 확장이 제한적이고 지나치게 많은 권한이 허용된다는 한계를 극복하기 위해 등장했다. 그...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[글로벌 칼럼 | 암호화폐가 일상적 교환 수단이 되기 위한 조건 3가지]]></title>
+        <id>https://www.itworld.co.kr/news/237059</id>
+        <link href="https://www.itworld.co.kr/news/237059"/>
+        <updated>2022-05-19T11:26:07.000Z</updated>
+        <summary type="html"><![CDATA[지난 10년간 암호화폐는 빠르게 부상했다. 12년 전 비트코인 1만 개를 파파존스 피자 두 판과 교환한 것으로 유명한 암호화폐 채굴자에게는 여전히 안타까운 마음이 든다. 현재 그 비트코인 1만개는 파파존스 체인점 일부를 인수하고도 남을 약 3억8천만 달러 상당의 가치를 지닌다.
+
+그러나 바로 이 가치 변동 때문에 암호화폐는 불안한 투자처로 여겨진다. 명목 ...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["전원 꺼져도 해킹한다" 독일 대학 연구팀, 새로운 아이폰 취약점 발견]]></title>
+        <id>https://www.itworld.co.kr/news/237054</id>
+        <link href="https://www.itworld.co.kr/news/237054"/>
+        <updated>2022-05-19T11:21:05.000Z</updated>
+        <summary type="html"><![CDATA[독일 다름슈타트 공과대학교 연구팀이 아이폰을 악성 프로그램에 감염시킬 위험이 있는 새로운 취약점을 발견했다. 아이폰 전원이 꺼져 있어도 접근할 수 있어 주의가 요구된다.
+ 
+
+ⓒ Domink Tomaszewski
+
+
+해당 취약점을 악용하려면 탈옥 상태의 아이폰이 필요하므로 대부분 아이폰 사용자는 당장 걱정할 필요가 없다. 그러나 아스 테크...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스트라타시스, ‘SIMTOS 2022’ 참가…적층제조 솔루션 전시]]></title>
+        <id>https://www.itworld.co.kr/news/237024</id>
+        <link href="https://www.itworld.co.kr/news/237024"/>
+        <updated>2022-05-19T11:11:00.000Z</updated>
+        <summary type="html"><![CDATA[스트라타시스가 5월 23일부터 27일까지 5일간 일산 킨텍스에서 열리는 생산제조기술 전시회인 대한민국 생산기술 전시회(The 19th Seoul International Manufacturing Technology Show, 이하 SIMTOS 2022)에 참가한다고 밝혔다.
+
+SIMTOS 2022은 한국공작기계산업협회가 주최하고 30여 개 국가의 1,000...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유니티 코리아·한국조선해양, 디지털 트윈 기반 스마트 플랫폼 구축 위한 MOU 체결]]></title>
+        <id>https://www.itworld.co.kr/news/237014</id>
+        <link href="https://www.itworld.co.kr/news/237014"/>
+        <updated>2022-05-19T10:53:00.000Z</updated>
+        <summary type="html"><![CDATA[유니티 코리아(이하 유니티)가 한국조선해양과 ‘XR-AI 기반 스마트&세이프 선박 설계 기술 개발’을 위한 업무협약(MOU)을 체결했다.
+ 
+
+
+유니티와 한국조선해양은 이번 MOU를 통해 유니티 엔진과 기술을 활용한 디지털 트윈 기반 선박 관리 플랫폼 개발에 나선다. 유니티는 한국조선해양의 스마트 선박 및 스마트 조선소 플랫폼 구축 협업을 ...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楽天モバイル「0円廃止」の影響で各社の申し込み状況は？　キャリアとMVNOに確認【更新】]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2205/19/news180.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2205/19/news180.html"/>
+        <updated>2022-05-19T09:14:00.000Z</updated>
+        <summary type="html"><![CDATA[楽天モバイルが7月1日から新料金プラン「Rakuten UN-LIMIT VII」を発表したことで、各社の申し込み状況に大きな影響を及ぼしている。povoやIIJmioの他にも申し込みが集中しているサービスはあるのか。低容量プランを提供しているサービスを中心に確認した。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10万円以下のM1 MacBook Airが在庫復活！Mac整備済商品の最新情報（2022年5月19日更新）]]></title>
+        <id>https://gori.me/?p=141783</id>
+        <link href="https://gori.me/sale/apple-refurbished/141783"/>
+        <updated>2022-05-19T08:20:37.000Z</updated>
+        <summary type="html"><![CDATA[通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日は、97,680円で購入できるM1 M…
+The post 10万円以下のM1 MacBook Airが在庫復活！Mac整備済商品の最新情報（2022年5月19日更新） first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[goo Simseller、「Redmi Note 11 Pro 5G」を5月30日に発売　4万6499円]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2205/19/news157.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2205/19/news157.html"/>
+        <updated>2022-05-19T07:05:00.000Z</updated>
+        <summary type="html"><![CDATA[NTTレゾナントは、5月30日から「Redmi Note 11 Pro 5G」と「OCN モバイル ONE」のセット販売を開始。価格は4万6499円（税込み）で、goo Simseller 本店で取り扱う。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年度は5Gスマホ比率が69％に急増、サムスンがスマホシェア2位に]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2205/19/news155.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2205/19/news155.html"/>
+        <updated>2022-05-19T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MM総研は5月19日に「2021年通期（2021年4月～2022年3月）の国内携帯電話端末の出荷台数調査」の結果を発表した。2021年度通期の総出荷台数は3662.9万台（前年度比4.3%増）となった。スマートフォンが3385.1万台（3.3%増）で、フィーチャーフォンは277.8万台（18.1%増）となった。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony、LinkBuds Sを正式発表。カナル式＆ノイキャン対応、LE Audioサポート予定]]></title>
+        <id>https://gori.me/?p=141780</id>
+        <link href="https://gori.me/music-accessories/earphones/141780"/>
+        <updated>2022-05-19T00:21:50.000Z</updated>
+        <summary type="html"><![CDATA[Sonyは5月19日、アクティブノイズキャンセリング（ANC）対応のカナル型完全ワイヤレスイヤホン「LinkBuds S」を海外発表した。世界最小・最軽量のノイズキャンセリング対応Hi-Res対応完全ワイヤレスイヤホンだという（2022年3月時点）。国内価格は26,400円で、6月3日より発売を予定…
+The post Sony、LinkBuds Sを正式発表。カナル式＆ノイキャン対応、LE Audioサポート予定 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS/iPadOS 15.6やmacOS Monterey 12.5のBeta、開発者向けに配信開始]]></title>
+        <id>https://gori.me/?p=141778</id>
+        <link href="https://gori.me/ios/ios15/141778"/>
+        <updated>2022-05-18T22:49:21.000Z</updated>
+        <summary type="html"><![CDATA[Appleは5月19日、「iOS 15.6 beta」「iPadOS 15.6 beta」「macOS 12.5 beta」「tvOS 15.6 beta」「watchOS 8.7 beta」を開発者向けに配信開始した。 WWDC 2022の開催が目前に迫る中、最新バージョンはバグフィックスなどマイ…
+The post iOS/iPadOS 15.6やmacOS Monterey 12.5のBeta、開発者向けに配信開始 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Log4j脆弱性に55万件のアラート送信も――GitHubで安全なソフトウェアを作成する5つの簡単な方法とは]]></title>
+        <id>https://atmarkit.itmedia.co.jp/ait/articles/2205/17/news050.html</id>
+        <link href="https://atmarkit.itmedia.co.jp/ait/articles/2205/17/news050.html"/>
+        <updated>2022-05-17T01:25:00.000Z</updated>
+        <summary type="html"><![CDATA[GitHubは、「GitHub」のネイティブツールや機能を活用してより安全なソフトウェアを作成する5つの方法を紹介した。]]></summary>
+        <author>
+            <name>＠IT Test &amp; Toolsフォーラム 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「GitHub Actions」に「ジョブサマリー」機能追加、実行サマリーページにカスタムMarkdownコンテンツを出力可能に]]></title>
+        <id>https://atmarkit.itmedia.co.jp/ait/articles/2205/12/news058.html</id>
+        <link href="https://atmarkit.itmedia.co.jp/ait/articles/2205/12/news058.html"/>
+        <updated>2022-05-12T00:20:00.000Z</updated>
+        <summary type="html"><![CDATA[GitHubは「GitHub Actions」にジョブサマリー機能を導入し、各ジョブによって生成される実行サマリーにカスタムMarkdownコンテンツを出力できるようにした。]]></summary>
+        <author>
+            <name>＠IT Test &amp; Toolsフォーラム 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub、プルリクエストとの統合を強化した「GitHub Desktop 3.0」を公開]]></title>
+        <id>https://atmarkit.itmedia.co.jp/ait/articles/2205/09/news034.html</id>
+        <link href="https://atmarkit.itmedia.co.jp/ait/articles/2205/09/news034.html"/>
+        <updated>2022-05-09T01:50:00.000Z</updated>
+        <summary type="html"><![CDATA[GitHubは、公式クライアントアプリケーションの最新バージョン「GitHub Desktop 3.0」を公開した。Git操作のサポートが改善されている他、「GitHub」をローカル開発ワークフローに近づける新機能が追加されている。]]></summary>
+        <author>
+            <name>＠IT Test &amp; Toolsフォーラム 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[統合テスト vs 単体テスト、なぜ統合テストの方が重要なのか――CoderPadが解説]]></title>
+        <id>https://atmarkit.itmedia.co.jp/ait/articles/2205/09/news033.html</id>
+        <link href="https://atmarkit.itmedia.co.jp/ait/articles/2205/09/news033.html"/>
+        <updated>2022-05-09T01:40:00.000Z</updated>
+        <summary type="html"><![CDATA[CoderPadが公式ブログで、エンドツーエンドテスト、統合テスト、単体テスト、静的テストを比較し、統合テストの重要性を解説した。]]></summary>
+        <author>
+            <name>＠IT Test &amp; Toolsフォーラム 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix考案のテスト「カオスエンジニアリング」を探る――システムのあらゆる部分を“壊す”、そのメリットとは]]></title>
+        <id>https://atmarkit.itmedia.co.jp/ait/articles/2205/09/news012.html</id>
+        <link href="https://atmarkit.itmedia.co.jp/ait/articles/2205/09/news012.html"/>
+        <updated>2022-05-08T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[海外の先進的企業の事例を基にテスト自動化に使われる手法を解説する本連載。第2回は、Netflixが考案したテスト手法「カオスエンジニアリング」について。]]></summary>
+        <author>
+            <name>＠IT Test &amp; Toolsフォーラム 最新記事一覧</name>
         </author>
     </entry>
 </feed>
