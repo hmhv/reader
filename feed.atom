@@ -2,10 +2,447 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hmhv.github.io/reader/index.html</id>
     <title>hmhv::news</title>
-    <updated>2022-05-22T15:14:39.762Z</updated>
+    <updated>2022-05-23T09:14:18.675Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hmhv.github.io/reader/index.html"/>
     <link rel="self" href="https://hmhv.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[글로벌 칼럼ㅣ데브섹옵스가 메타버스 보안의 핵심인 이유]]></title>
+        <id>https://www.itworld.co.kr/news/237454</id>
+        <link href="https://www.itworld.co.kr/news/237454"/>
+        <updated>2022-05-23T17:13:17.000Z</updated>
+        <summary type="html"><![CDATA[기존의 개인용 컴퓨팅과 가상현실 및 증강현실 헤드셋을 통해 사회적 연결을 강화하는 데 초점을 맞춘 3D 가상 세계의 네트워크로 정의되는 ‘메타버스’는 한때 이름조차 생소했던 개념이었다. 하지만 최근 페이스북이 ‘메타’로 사명을 바꾸면서 주목받았고, 이제 사람들은 집에서 편안하게 경험할 수 있는 완전한 디지털 세계의 가능성을 꿈꾸기 시작했다.
+ 
+
+...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[커리어 로드맵 : 데이터 엔지니어]]></title>
+        <id>https://www.itworld.co.kr/news/237449</id>
+        <link href="https://www.itworld.co.kr/news/237449"/>
+        <updated>2022-05-23T17:05:08.000Z</updated>
+        <summary type="html"><![CDATA[데이터 엔지니어링은 소프트웨어 엔지니어링과 데이터 과학의 요소를 결합한, IT 영역에서 빠르게 성장 중인 IT 분야 중 하나다. Indeed.com에 따르면, 데이터 엔지니어는 데이터 과학 프로젝트에 사용되는 아키텍처를 개발하고 유지하며 데이터가 서버와 애플리케이션 사이를 중단 없이 흐르도록 한다. 
+
+데이터 엔지니어는 다양한 운영체제 및 데이터베...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["애플 AR·VR 헤드셋, 비밀리에 내부 시연"… 출시 임박 신호일까]]></title>
+        <id>https://www.itworld.co.kr/news/237444</id>
+        <link href="https://www.itworld.co.kr/news/237444"/>
+        <updated>2022-05-23T16:52:43.000Z</updated>
+        <summary type="html"><![CDATA[블룸버그 통신은 애플이 비밀리에 경영진을 대상으로 차세대 AR·VR 헤드셋 내부 시연을 진행했다고 보도했다. 
+ 
+애플이 ‘차세대 혁신’(the next big thing)으로써 오랫동안 AR·VR 헤드셋을 개발해왔다는 루머는 여러 번 인구에 회자됐다. 구글과 메타도 앞다투어 비슷한 제품을 개발 중이다. 19일(현지 시간) 블룸버그 보도에...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“자바 동시성, 더 쉬워진다” 새 오픈JDK 제안]]></title>
+        <id>https://www.itworld.co.kr/news/237439</id>
+        <link href="https://www.itworld.co.kr/news/237439"/>
+        <updated>2022-05-23T16:45:15.000Z</updated>
+        <summary type="html"><![CDATA[오픈JDK(OpenJDK) 커뮤니티에서 인큐베이션 중인 새로운 제안 ‘구조화된 동시성(JEP 428: Structured Concurrency)’은 서로 다른 자바 스레드에서 실행되는 여러 작업을 단일 작업 단위로 처리한다. 
+
+현재 오픈JDK 커뮤니티에서 인큐베이팅하고 있는 계획으로 멀티스레드 프로그래밍이 더 쉬워질 예정이다. ‘구조화된 동시성’...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To : 윈도우 10∙윈도우 11의 파일 히스토리 사용법]]></title>
+        <id>https://www.itworld.co.kr/news/237434</id>
+        <link href="https://www.itworld.co.kr/news/237434"/>
+        <updated>2022-05-23T16:09:01.000Z</updated>
+        <summary type="html"><![CDATA[2012년 10월에 출시된 윈도우 8은 ‘파일 히스토리(File History)’라는 기능을 처음 제공했다. 이 기능은 윈도우 10과 윈도우 11에서 모두 지원되며, 사용자가 중요한 파일을 잃어버리지 않도록 한다.
+
+쉽게 말하면, 파일 히스토리는 사용자가 기본 폴더나 사용자 계정과 관련된 디렉토리에 저장된 모든 파일에 대한 스냅샷 메커니즘이다. 라이브러리(...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZTNA 솔루션 구매 전 업체에 꼭 물어야 할 8가지]]></title>
+        <id>https://www.itworld.co.kr/news/237409</id>
+        <link href="https://www.itworld.co.kr/news/237409"/>
+        <updated>2022-05-23T15:34:40.000Z</updated>
+        <summary type="html"><![CDATA[클라우드에서 핵심 비즈니스 애플리케이션을 운영하는 일이 늘어나고 팬데믹으로 인해 원격 근무가 확산하면서 전통적인 ‘기업 해자(corporate moat)’ 방식의 보안 개념은 자취를 감추었다. 오늘날의 하이브리드 워크에서 직원은 외근하고 집에서 일하고 일주일에 한두 차례 사무실에 방문한다. 따라서 네트워크 및 보안팀은 네트워크, 신원, 인증을 관리하는 더 ...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["진실·투명성·신뢰의 원칙 지켜라" 우버 전 CSO의 재판에서 배울 점]]></title>
+        <id>https://www.itworld.co.kr/news/237404</id>
+        <link href="https://www.itworld.co.kr/news/237404"/>
+        <updated>2022-05-23T14:53:21.000Z</updated>
+        <summary type="html"><![CDATA[모든 CISO와 CSO가 기업 및 데이터를 안전하게 유지하기 위해 반드시 수용해야 하는 3가지 ‘T’가 있다. 바로 진실(truth), 투명성(transparency), 신뢰(trust)다. 3가지 T를 준수하지 않으면 기업에 심각한 결과를 초래할 수 있다.
+
+적절한 사례가 있다. 미국 연방 판사는 최근 우버 테크놀로지스의 전 CSO 조셉 설리번(2015년...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD 라이젠 7 6800U 리뷰 | 초경량 노트북에 성능 가져다 준 똑똑한 GPU]]></title>
+        <id>https://www.itworld.co.kr/news/237394</id>
+        <link href="https://www.itworld.co.kr/news/237394"/>
+        <updated>2022-05-23T14:32:00.000Z</updated>
+        <summary type="html"><![CDATA[올해 초 출시한 라이젠 6000 시리즈는 경량급 노트북 성능을 대폭 향상했다. 종전에는 2.3~2.7kg짜리 노트북에서 가능했던 성능을 이제 1.6kg짜리 노트북이 내게 된 것이다.
+
+라이젠 6000 모바일 프로세서는 AMD의 상위급 프로세서인 H-클래스에 속한다. 이 칩은 35W 이상의 열 설계 전력(TDP)을 갖춰 게이밍, 콘텐츠 제작과 기타 묵직한 생...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“당분간 사람 안 뽑는다” 주요 IT 기업의 채용 트렌드]]></title>
+        <id>https://www.itworld.co.kr/news/237389</id>
+        <link href="https://www.itworld.co.kr/news/237389"/>
+        <updated>2022-05-23T13:43:42.000Z</updated>
+        <summary type="html"><![CDATA[기술직에 영향을 미치는 채용 동결과 해고 사례가 증가하고 있는 지금, 세일즈포스는 인력 채용에 시동을 걸었다. 반면, 트위터와 메타, 우버는 최근 몇 주 동안 인플레이션과 주식 매도가 한창인 가운데, 다양한 이유를 들며 채용을 늦추고 있다.
+ 
+
+ⓒ Getty Images Bank
+
+
+가트너의 HR 부문 리서치 책임자 제이미 콘은 "팬데믹 이후 대...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블로그 | '선제적' 클라우드 옵스, 실제로 얼마나 유용할까]]></title>
+        <id>https://www.itworld.co.kr/news/237384</id>
+        <link href="https://www.itworld.co.kr/news/237384"/>
+        <updated>2022-05-23T13:37:20.000Z</updated>
+        <summary type="html"><![CDATA[선제적(Proactive) 옵스 시스템이 많은 장점을 가진 것은 분명하다. 문제가 파괴적인 상황에 이르기 전에 사람의 개입 없이 문제를 해결한다. 예를 들어 AI옵스 툴 같은 옵스 관측 툴이 스토리지 시스템이 일시적인 I/O 문제를 유발하는 것을 확인했다고 하자. 이는 곧 스토리지 시스템이 조만간 심각한 장애를 일으킬 가능성이 크다는 것을 의미한다. 이런 ...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국지능정보사회진흥원, ‘공공데이터 기업매칭 청년인턴십’ 2,500명 모집]]></title>
+        <id>https://www.itworld.co.kr/news/237364</id>
+        <link href="https://www.itworld.co.kr/news/237364"/>
+        <updated>2022-05-23T12:12:00.000Z</updated>
+        <summary type="html"><![CDATA[행정안전부 산하 한국지능정보사회진흥원(이하 NIA)은 5월 23일부터 6월 14일까지 ‘2022년 공공데이터 기업매칭 청년인턴’ 2,500명을 모집한다고 발표했다. 
+ 
+
+
+공공데이터 기업매칭 청년인턴십은 공공데이터 분야 청년 인턴십을 통해 취업을 준비하는 청년들에게 일경험을 제공하고 전문 교육을 통해 역량 강화를 지원하기 위한 프로그램으...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[글로벌 칼럼 | ‘고객 집착’을 통한 성장은 ‘문제 수용’에서 시작한다]]></title>
+        <id>https://www.itworld.co.kr/news/237359</id>
+        <link href="https://www.itworld.co.kr/news/237359"/>
+        <updated>2022-05-23T12:01:38.000Z</updated>
+        <summary type="html"><![CDATA[수년 전 필자는 캘리포니아의 마운틴 뷰 주차장을 지나가다가 인튜이트(Intuit)의 설립자 스콧 쿡을 만난 적 있다. 인튜이트는 퀴큰(Quicken), 퀵북(QuickBooks), 터보택스(TurboTax)와 같은 크게 성공한 금융 애플리케이션을 서비스하는 것으로 유명한 기업이다.
+ 
+
+ⓒ Getty Images Bank
+
+
+간단히 대화를 나누며 ...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[맨디언트, 우크라이나 침공과 관련 ‘정보작전 보고서’ 발표]]></title>
+        <id>https://www.itworld.co.kr/news/237339</id>
+        <link href="https://www.itworld.co.kr/news/237339"/>
+        <updated>2022-05-23T11:15:00.000Z</updated>
+        <summary type="html"><![CDATA[맨디언트가 미국 현지시간 5월 19일에 러시아의 우크라이나 침공과 관련된 다양한 정보작전(Information Operation; IO) 활동에 대한 종합적 개요와 분석을 제공하는 새로운 보고서를 공개했다. 
+
+보고서는 새롭게 확인된 정보작전 캠페인과 자체 정보작전 캠페인을 동시에 주도한 중국과 이란의 공격자에 대한 새로운 배후를 밝히고 있다. 또...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구루미, 금융권 비대면 화상 상담 솔루션 출시]]></title>
+        <id>https://www.itworld.co.kr/news/237319</id>
+        <link href="https://www.itworld.co.kr/news/237319"/>
+        <updated>2022-05-23T10:21:00.000Z</updated>
+        <summary type="html"><![CDATA[구루미는 지난달 금융권 업무 혁신을 위한 비대면 화상 상담 솔루션을 출시했다고 밝혔다.
+
+코로나19 이후 금융위원회(이하 금융위)는 대면 영업 제한으로 디지털 금융 환경에 맞는 규제 정비 차원의 화상 통화 등 비대면 모집 활성화를 추진하며, 최근 비대면 보험 영업 활동을 위해 ‘화상 통화 보험 모집을 위한 금융 소비자 보호에 관한 감독 규정’을 개정했다.
+...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐나다, 중국산 5G 네트워크 장비 금지…2024년 6월까지 관련 장비 교체 명령]]></title>
+        <id>https://www.itworld.co.kr/news/237324</id>
+        <link href="https://www.itworld.co.kr/news/237324"/>
+        <updated>2022-05-23T10:18:05.000Z</updated>
+        <summary type="html"><![CDATA[캐나다 정부가 새로 포괄적인 통신 보안 프레임을 도입하기로 하면서 통신 분야 일반, 특히 5G 네트워크에 화웨이와 ZTE의 장비 사용을 금지했다.
+ 
+
+ⓒ Getty Images Bank
+
+
+캐나다 정부가 발표한 정책에 따르면, 캐나다 통신업체는 오는 9월부터 화웨이와 ZTE 장비를 새로 구매하는 것이 공식적으로 금지된다. 또한 2024년 6월 2...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엣지 브라우저, 웹 이미지 AI 업스케일 기술 발표…"더 크게, 더 선명하게"]]></title>
+        <id>https://www.itworld.co.kr/news/237314</id>
+        <link href="https://www.itworld.co.kr/news/237314"/>
+        <updated>2022-05-23T10:07:07.000Z</updated>
+        <summary type="html"><![CDATA[최근 엣지 브라우저에서 이미지가 더 또렷하게 보이기 시작했다면 분명한 이유가 있다. 마이크로소프트가 튜링 이미지 슈퍼 레졸루션 엔진(Turing Image Super-Resolution, T-ISR)을 개발해 엣지 브라우저에 적용하고 저해상도 이미지의 업스케일을 지원하기 시작한 것이다. 지금까지는 사용되지 않았던 AI를 활용해 고화질 이미지를 만들어낸다.
+...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['e심 아이폰 13'서 페이스타임·아이메시지 비활성화 오류 발견]]></title>
+        <id>https://www.itworld.co.kr/news/237309</id>
+        <link href="https://www.itworld.co.kr/news/237309"/>
+        <updated>2022-05-23T09:55:48.000Z</updated>
+        <summary type="html"><![CDATA[아이폰의 e심(eSIM)은 번거로운 절차 없이 애플 기기를 활성화하는 방법이다. 그러나 최근 e심 기반 아이폰에서 새로운 오류가 발견돼 아이폰 사용자에게 골칫거리가 되고 있다. 여러 보도에 따르면, 아이폰의 e심이 페이스타임과 아이메시지를 비활성화하는 문제를 유발하는 것으로 알려졌다. 물리적인 심카드로 교체하는 것 외에는 해결할 방법이 없다.
+ 
+...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["최고의 사무실이 있어도…" 에어비앤비가 원격근무를 지지하는 이유]]></title>
+        <id>https://www.itworld.co.kr/news/237304</id>
+        <link href="https://www.itworld.co.kr/news/237304"/>
+        <updated>2022-05-23T09:41:07.000Z</updated>
+        <summary type="html"><![CDATA[에어비앤비는 휴가나 여행과 연관되는 기업이다. 하지만 사실 에어비앤비의 시작은 ‘출장’과 관련성이 높다. 2007년 설립 당시, ‘에어베드 & 블랙퍼스트’(AirBed & Breakfast)라고 불렸던 이 기업의 비즈니스 모델은 간단했다. 에어 매트리스 3개를 구입하고 ‘airbedandbreakfast.com’이라는 웹사이트를 만들었다. 그...]]></summary>
+        <author>
+            <name>ITWorld Korea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon.co.jpでOPPOの「A55s 5G」や「Reno5 Aのセット」など割引]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1411257.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1411257.html"/>
+        <updated>2022-05-23T08:23:25.000Z</updated>
+        <summary type="html"><![CDATA[Amazon.co.jpで、OPPOのスマートフォンや周辺機器のセット、realmeデバイスの割引が実施されている。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クアルコム、「Snapdragon XR2」搭載ARスマートグラスのリファレンスデザイン]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1411221.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1411221.html"/>
+        <updated>2022-05-23T07:00:38.000Z</updated>
+        <summary type="html"><![CDATA[クアルコム（Qualcomm）は、Snapdragon XR2プラットフォーム搭載のワイヤレスARスマートビューワー（ARグラス）のリファレンスデザインを発表した。OEM／ODMメーカーがシームレスかつコスト効率よく試作し市場に投入するのを支援するものになるとしている。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LINEMO、「ミニプラン」へのMNP転入は5倍以上に]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1411231.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1411231.html"/>
+        <updated>2022-05-23T06:58:40.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクは、オンライン専用ブランド「LINEMO」について、3GBの「ミニプラン」へのMNP転入が増えていることを明らかにした。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MediaTek、ミリ波対応の「Dimensity 1050」など3種類のチップセットを発表]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1411168.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1411168.html"/>
+        <updated>2022-05-23T04:35:23.000Z</updated>
+        <summary type="html"><![CDATA[台湾のMediaTek（メディアテック）は、新チップセットとして「Dimensity 1050」「Dimensity 930」「Helio G99」を発表した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アマゾンでアンカーのプロジェクターが1万円引きなどのセール]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1411160.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1411160.html"/>
+        <updated>2022-05-23T04:16:43.000Z</updated>
+        <summary type="html"><![CDATA[アンカー・ジャパンは、Amazon.co.jpにおいて限定セールを実施している。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ワイヤレスジャパン2022」が5月25日に開催　5G～6Gの最新動向が分かる]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2205/23/news089.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2205/23/news089.html"/>
+        <updated>2022-05-23T04:10:00.000Z</updated>
+        <summary type="html"><![CDATA[リックテレコムは、5月25日～27日に東京ビッグサイトで5G＆IoTイベント「ワイヤレスジャパン2022」「ワイヤレス・テクノロジー・パーク（WTP）2022」を開催する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暗闇でも見つけやすいAirTag用キーリング　ベルキンがAmazon限定発売]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2205/23/news108.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2205/23/news108.html"/>
+        <updated>2022-05-23T04:02:00.000Z</updated>
+        <summary type="html"><![CDATA[ベルキンは、独自のリフレクティブデザインで暗闇でも見つけやすい「Belkin Apple AirTag 用キーリング付きリフレクティブセキュアホルダー」をAmazon限定で販売開始した。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモの5G WELCOME割、iPhone 13やarrows Weで対象年齢を15歳以下→30歳以下に]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2205/23/news102.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2205/23/news102.html"/>
+        <updated>2022-05-23T03:45:00.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモはドコモオンラインショップで実施している「5G WELCOME割」の割引内容の一部を変更する。新規契約で対象端末を購入する際、利用者が15歳以下の場合に最大2万ポイントを進呈している。対象年齢を15歳以下から30歳以下に引き上げる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クアルコム「Snapdragon 8+ Gen 1／7 Gen 1」を発表、2022年2Q以降に搭載デバイスがリリース]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1411148.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1411148.html"/>
+        <updated>2022-05-23T03:42:39.000Z</updated>
+        <summary type="html"><![CDATA[クアルコムは、ハイエンドモデルのAndroidスマートフォン向けプラットフォーム「Snapdragon 8+ Gen 1」と「Snapdragon 7 Gen 1」を発表した。これらを搭載したデバイスは、2022年第2四半期以降に提供される予定。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RF24-70mm F2.8 L IS USMで見下ろして撮る、熱海海上花火大会]]></title>
+        <id>https://gori.me/?p=141828</id>
+        <link href="https://gori.me/camera/lens/141828"/>
+        <updated>2022-05-23T03:32:19.000Z</updated>
+        <summary type="html"><![CDATA[熱海での家族旅行でチェックインした際に、「土曜日の20時20分より20分間、花火が行われます」と告げられた。熱海海上花火大会の開催日が偶然にも重なっており、部屋からは見下ろすように鑑賞できることがわかった。 本来は子どもたちにも見せたかったが、当日はプールで遊び倒して力尽きてしまった。自分の「花火の…
+The post RF24-70mm F2.8 L IS USMで見下ろして撮る、熱海海上花火大会 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シャオミとライカがスマホカメラで連携、7月に新機種か]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1411117.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1411117.html"/>
+        <updated>2022-05-23T02:54:09.000Z</updated>
+        <summary type="html"><![CDATA[シャオミは、独ライカとスマートフォンのカメラにおいて、グローバルで戦略的連携協定を締結したと発表した。7月に新型スマートフォンが発表される見込み。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモオンラインショップ、「iPhone 13/13 mini」の5G WELCOME割が15歳以下→30歳以下に拡大、5月末まで]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1411118.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1411118.html"/>
+        <updated>2022-05-23T02:43:08.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモは、オンラインショップでの割引を5月21日に改定した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QualcommがARメガネ「Wireless AR Smart Viewer」発表　無線接続に対応し、フレームが40％薄く]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2205/23/news095.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2205/23/news095.html"/>
+        <updated>2022-05-23T02:35:00.000Z</updated>
+        <summary type="html"><![CDATA[米Qualcommは5月20日（現地時間）、ARメガネのリファレンスモデル「Wireless AR Smart Viewer」を発表した。新しいプロセッサ「Snapdragon XR2」を搭載し、Wi-Fi 6／6EとBluetoothによる無線接続が可能になり、フレームが40％薄くなった。製造は中国の精密機器メーカーGoertekが行い、ARヘッドセットのコンテンツ開発者向けプラットフォーム「Snapdragon Spaces XR」に対応する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5月のAmazonタイムセール祭り、28日9時から]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410213.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410213.html"/>
+        <updated>2022-05-23T02:33:17.000Z</updated>
+        <summary type="html"><![CDATA[Amazon.co.jpで、「タイムセール祭り」が5月28日9時～30日23時59分まで開催される。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Pencilがお買い得！iPad整備済商品の最新情報（2022年5月23日更新）]]></title>
+        <id>https://gori.me/?p=141818</id>
+        <link href="https://gori.me/sale/apple-refurbished/141818"/>
+        <updated>2022-05-23T01:41:46.000Z</updated>
+        <summary type="html"><![CDATA[通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みiPad情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日はApple Pencilの整備済…
+The post Apple Pencilがお買い得！iPad整備済商品の最新情報（2022年5月23日更新） first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[14/16インチMacBook Pro（2021）が大量復活！Mac整備済商品の最新情報（2022年5月23日更新）]]></title>
+        <id>https://gori.me/?p=141817</id>
+        <link href="https://gori.me/sale/apple-refurbished/141817"/>
+        <updated>2022-05-23T01:36:18.000Z</updated>
+        <summary type="html"><![CDATA[通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日はM1 Pro/Maxチップを搭載した…
+The post 14/16インチMacBook Pro（2021）が大量復活！Mac整備済商品の最新情報（2022年5月23日更新） first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イラン政府、iPhone輸入禁止を発表]]></title>
+        <id>https://gori.me/?p=141815</id>
+        <link href="https://gori.me/iphone/iphone-news/141815"/>
+        <updated>2022-05-23T01:25:30.000Z</updated>
+        <summary type="html"><![CDATA[国営イラン放送は現地時間5月22日、政府がiPhoneの輸入を禁止したと報じた。毎日新聞によると、保守強硬派の反米感情をあおる狙いがあるという。 イランは米国の経済制裁下にあり、商品を直接輸入できない。現地で使われているApple製品は、香港経由がほとんど。米OFAC（米国財務省外国資産管理室）は、…
+The post イラン政府、iPhone輸入禁止を発表 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qualcomm、「8」より10％高速なハイエンド「Snapdragon 8+ Gen 1」発表]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2205/23/news074.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2205/23/news074.html"/>
+        <updated>2022-05-23T00:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Qualcommは「Snapdragon 8+ Gen 1」と「Snapdragon 7 Gen 1」を発表した。前者は昨年12月発表のハイエンド「Snapdragon 8 Gen 1」の強化版でCPUとGPUがそれぞれ10％向上。後者は「Snapdragon 778G 5G」の後継に当たる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NUROモバイル、J:COM MOBILE、イオンモバイル、y.u mobile、エキサイトモバイル、HISモバイルのキャンペーンまとめ【5月】]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2205/21/news018.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2205/21/news018.html"/>
+        <updated>2022-05-23T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[利用料金の安さが特徴のMVNOでは、各種料金や端末代金をさらに割り引くキャンペーンを実施している事業者が多い。今回はNUROモバイル、J:COM MOBILE、イオンモバイル、y.u mobile、エキサイトモバイル、HISモバイルで5月に実施しているキャンペーンをまとめた。NUROモバイルは「NURO 光」とのセット割引を用意、イオンモバイルはWAONポイントとの連携で特典を提供している。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ATOM Cam 2」がクラウドカメラサービス「ソラカメ」に採用、アトムテックとソラコムが資本業務提携]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1410222.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1410222.html"/>
+        <updated>2022-05-22T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IoTスマートホーム製品を開発・製造販売するアトムテックとIoTプラットフォームを提供するソラコムは、資本業務提携を締結した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[携帯各社、総務省の「デジタル活用支援推進事業」に採択――シニア向けスマホ教室の実施へ]]></title>
         <id>https://k-tai.watch.impress.co.jp/docs/news/1410904.html</id>
