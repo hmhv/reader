@@ -397,6 +397,56 @@
       "siteUrl": "https://k-tai.watch.impress.co.jp",
       "articles": [
         {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1411342.html",
+          "author": null,
+          "description": "すでにイメージできない世代もあるようだが、昔々は一家に一台の固定電話があった。そして、大抵の場合、チラシの裏などを利用したメモが電話機のそばにあった。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1411342.html",
+          "publishedOn": "2022-05-23T15:00:00.000Z",
+          "wordCount": 127,
+          "title": "[本日の一品]「あれ、なんて言っていたっけ？」をなくせる！　すべての通話を録音できる首掛け式ワイヤレスイヤホン「Neck Rec」",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1411/342/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1411341.html",
+          "author": null,
+          "description": "スポーツ配信サービス「DAZN」は、5月24日～6月12日まで開催されるプロ野球の「日本生命セ・パ交流戦」について、広島東洋カープを除く11球団の主催試合をライブ配信する。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1411341.html",
+          "publishedOn": "2022-05-23T15:00:00.000Z",
+          "wordCount": 107,
+          "title": "DAZNで「セ・パ交流戦」ライブ配信、本日24日～6月12日まで",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1411/341/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1411327.html",
+          "author": null,
+          "description": "KDDI総合研究所は、局舎に分散配置された基地局のCPUを連携させ、干渉抑制効果と無線信号処理の計算量を削減する「CPU間連携技術」の実証実験に成功したと発表した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1411327.html",
+          "publishedOn": "2022-05-23T15:00:00.000Z",
+          "wordCount": 104,
+          "title": "KDDI総研、高速通信を維持し電力消費を削減する「CPU間連携技術」",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1411/327/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/review/1411324.html",
+          "author": null,
+          "description": "2022年1月1日から開始された、マイナポイント事業の第2弾。そのうち「マイナンバーカード取得で5000円付与」の施策はすでにスタートしていたが、5月17日、残る施策「健康保険証としての登録」「公金口座の登録」も、6月30日から始まることが明らかにされた。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/review/1411324.html",
+          "publishedOn": "2022-05-23T15:00:00.000Z",
+          "wordCount": 126,
+          "title": "マイナポイント第2弾！　マイナンバーカードを申し込む方法",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1411/324/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/minna/1410622.html",
+          "author": null,
+          "description": "前回、ドコモのホームルーター「home 5G」と光回線「ドコモ光」をなぜか同じ日に契約した筆者（別荘持ちとかではない）。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/1410622.html",
+          "publishedOn": "2022-05-23T15:00:00.000Z",
+          "wordCount": 150,
+          "title": "[みんなのケータイ]我が家の「home 5G」、なぜか夕方「極端に遅くなる」事象",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1410/622/top2.jpg"
+        },
+        {
           "id": "https://k-tai.watch.impress.co.jp/docs/news/1411239.html",
           "author": null,
           "description": "タカラトミーは、家族などの声を再現できる読み聞かせスピーカー「coemo」（コエモ）を9月下旬に発売する。希望小売価格は1万2980円。予約はタカラトミーモールで6月14日から受け付ける。",
@@ -703,6 +753,36 @@
       "feedUrl": "https://www.gizmodo.jp/index.xml",
       "siteUrl": "https://www.gizmodo.jp",
       "articles": [
+        {
+          "id": "https://www.gizmodo.jp/2022/05/mediatek-announces-wi-fi-7.html",
+          "author": "ヤマダユウス型",
+          "description": "台湾の半導体メーカーMediaTek（メディアテック）が、世界初となるWi-Fi 7プラットフォームを発表しました。まだまだWi-Fi 6でさえ最新と思ってたのに、もう次世代の足音が…。",
+          "link": "https://www.gizmodo.jp/2022/05/mediatek-announces-wi-fi-7.html",
+          "publishedOn": "2022-05-23T13:30:00.000Z",
+          "wordCount": 86,
+          "title": "めがっさ早い。Wi-Fi 7プラットフォーム（OS +デバイス）を発表。",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/23/220523mediatekwifi7.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/23/220523mediatekwifi7.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/05/read-trump-deleted-banned-tweets-archive.html",
+          "author": "そうこ",
+          "description": "どうしても今すぐトランプ元大統領の垢BAN前のツイートを見たいんだ！マスクの買収待ってる余裕はないんだ！という人。こちらののサイトでアーカイブされていますよ。",
+          "link": "https://www.gizmodo.jp/2022/05/read-trump-deleted-banned-tweets-archive.html",
+          "publishedOn": "2022-05-23T13:00:00.000Z",
+          "wordCount": 89,
+          "title": "トランプ元大統領の垢BANツイートが今どうしも見たいって人へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/23/shutterstock_623947346.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/23/shutterstock_623947346.jpg"
+        },
         {
           "id": "https://www.gizmodo.jp/2022/05/overview-of-nasas-artemis-program.html",
           "author": "たもり",
