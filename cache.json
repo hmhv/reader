@@ -683,6 +683,46 @@
       "siteUrl": "https://www.itmedia.co.jp/mobile/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2205/31/news201.html",
+          "author": null,
+          "description": "ソフトバンクが、スタンドアロン（SA）構成の5Gネットワークをスマートフォンにも提供する。第1弾は既に発売済みの「Xperia 5 III」で、接続するにはAndroid 12へのバージョンアップと5G SA対応USIMカードの用意が必要となる。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2205/31/news201.html",
+          "publishedOn": "2022-05-31T10:00:00.000Z",
+          "wordCount": 509,
+          "title": "ソフトバンクが「5G SA」をスマホにも提供　Xperia 5 III（Android 12）で利用可能",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2205/31/l_si7101-SA-01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2205/31/news180.html",
+          "author": null,
+          "description": "NTTドコモは、6月1日から「必ず当たる！dカード GOLD Web入会限定ポイント増額キャンペーン」を開催。条件を達成すると抽選で1000人に7000ポイント、外れた場合は1000ポイントのdポイントを進呈する。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2205/31/news180.html",
+          "publishedOn": "2022-05-31T09:43:00.000Z",
+          "wordCount": 452,
+          "title": "dカード GOLD、Web入会限定で必ずもらえるポイント増額キャンペーン開催",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2205/31/l_asa_dGOLDWeb7000_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2205/31/news164.html",
+          "author": null,
+          "description": "NTTドコモは、6月3日に5G対応スマホ「Xperia Ace III SO-53C」を発売。直観的に操作できる「かんたんホーム」や「かんたん使いこなしガイド」を備え、ドコモオンラインショップの価格は3万4408円（税込み）。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2205/31/news164.html",
+          "publishedOn": "2022-05-31T08:51:00.000Z",
+          "wordCount": 491,
+          "title": "ドコモ、「Xperia Ace III」を6月3日に発売　3万4408円",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2205/31/l_asa_dXperiaAceIIISO53C_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2205/31/news152.html",
+          "author": null,
+          "description": "mineoは、平日昼間の通信を控える代わりにデータ容量が使い放題になるプラン「マイそく」へ月額660円（税込み）のライトプランを提供開始。6月3日から「マイそく スタンダード／プレミアム」などの割引キャンペーンも行う。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2205/31/news152.html",
+          "publishedOn": "2022-05-31T07:44:00.000Z",
+          "wordCount": 436,
+          "title": "mineo、月額660円の「マイそく ライト」を追加　平日昼間以外は300kbpsで使い放題",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2205/31/l_asa_mineolight_01.jpg"
+        },
+        {
           "id": "https://www.itmedia.co.jp/mobile/articles/2205/31/news118.html",
           "author": null,
           "description": "MMD研究所が、NTTドコモ、au、ソフトバンク、楽天、イオン、PayPayを対象に「経済圏のサービス利用に関する調査」を実施した。それぞれの経済圏で最も利用しているポイントやQRコード決済／非接触決済などを調査している。",
@@ -1766,6 +1806,136 @@
       "feedUrl": "https://k-tai.watch.impress.co.jp/data/rss/1.0/ktw/feed.rdf",
       "siteUrl": "https://k-tai.watch.impress.co.jp",
       "articles": [
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/review/1412865.html",
+          "author": null,
+          "description": "数多くの事業者が独自のプランを展開するMVNO型の携帯電話サービス。各社によって容量、料金、オプションはさまざま。本稿では主要なMVNO事業者10社の最新の音声通話プランの料金をまとめた。ぜひ、自身の利用スタイルに合った料金プランを見つけてほしい。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/review/1412865.html",
+          "publishedOn": "2022-05-31T15:02:00.000Z",
+          "wordCount": 235,
+          "title": "HIS Mobileの新プランなど主要MVNO各社の音声通話付き料金プランまとめ【2022年6月号】",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1412/865/sub2.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/minna/1413462.html",
+          "author": null,
+          "description": "今年の夏モデルは、久しぶりにGalaxy Note……おっと違った、Sペン内蔵のGalaxy S22 Ultraを買いました。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/1413462.html",
+          "publishedOn": "2022-05-31T15:01:00.000Z",
+          "wordCount": 150,
+          "title": "[みんなのケータイ]Galaxy S22 Ultraを買いました！",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1413/462/01.JPG"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/sim/1412545.html",
+          "author": null,
+          "description": "“格安スマホ”という呼び名にふさわしいコストパフォーマンスを備えたモデルから、きわだった特徴を備えたハイエンドモデルまで、さまざまな機種が「SIMロックフリー端末」として登場している。本コーナーでは、毎月登場する新機種を一覧で紹介する。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/sim/1412545.html",
+          "publishedOn": "2022-05-31T15:01:00.000Z",
+          "wordCount": 1435,
+          "title": "[格安スマホ＆SIMトレンドチェック！] 3眼カメラとFelica搭載のミドルレンジ「Redmi Note 11 Pro 5G」が登場――SIMフリースマホ新機種カタログ【2022年6月号】",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1412/545/top2206.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1413563.html",
+          "author": null,
+          "description": "NTTドコモのオンライン専用料金プラン「ahamo（アハモ）」の新たなオプション「大盛りオプション」が、6月中旬にスタートする。月額1980円で、80GB追加されるというものだ。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1413563.html",
+          "publishedOn": "2022-05-31T15:00:00.000Z",
+          "wordCount": 100,
+          "title": "「ahamo大盛り」は今月中旬スタート、2000ポイントもらえるエントリーキャンペーンは開始前日まで",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1413/563/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/interview/1413554.html",
+          "author": null,
+          "description": "NTTドコモは、ポイントプログラム「dポイントクラブ」を6月3日に改定する。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/interview/1413554.html",
+          "publishedOn": "2022-05-31T15:00:00.000Z",
+          "wordCount": 161,
+          "title": "「dポイントクラブ」大幅リニューアル目前！　ドコモ伊藤氏に聞く刷新の狙い",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1413/554/d.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1413546.html",
+          "author": null,
+          "description": "徐々に利用が広がるキャッシュレスサービス。本誌では携帯各社を中心としたサービスでの取り組みをご紹介している。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1413546.html",
+          "publishedOn": "2022-05-31T15:00:00.000Z",
+          "wordCount": 93,
+          "title": "6月の「楽天ペイ」還元情報をチェック――抽選で100％還元や50％還元など",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1413/546/rakuten-pay.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1413545.html",
+          "author": null,
+          "description": "徐々に利用が広がるキャッシュレスサービス。本誌では携帯各社を中心としたサービスでの取り組みをご紹介している。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1413545.html",
+          "publishedOn": "2022-05-31T15:00:00.000Z",
+          "wordCount": 102,
+          "title": "6月の「PayPay」還元情報をチェック――Uber Eatsで最大30％、花王商品で最大40％、本人確認で最大1000ポイントも",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1413/545/PayPay.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1413544.html",
+          "author": null,
+          "description": "徐々に利用が広がるキャッシュレスサービス。本誌では携帯各社を中心としたサービスでの取り組みをご紹介している。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1413544.html",
+          "publishedOn": "2022-05-31T15:00:00.000Z",
+          "wordCount": 99,
+          "title": "6月の「au PAY」還元情報をチェック――auスマパスプレミアム限定クーポンや徳島県での還元情報など",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1413/544/aupay.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1413543.html",
+          "author": null,
+          "description": "徐々に利用が広がるキャッシュレスサービス。本誌では携帯各社を中心としたサービスでの取り組みをご紹介している。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1413543.html",
+          "publishedOn": "2022-05-31T15:00:00.000Z",
+          "wordCount": 97,
+          "title": "6月の「d払い」還元情報をチェック――出前館やドトール、甲子園での還元情報",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1413/543/d-pay.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1413478.html",
+          "author": null,
+          "description": "アンカー・ジャパンは、Soundcoreブランドからオーディオグラス「Soundcore Frames Cafe」と「Soundcore Frames Landmark」を本日6月1日に発売する。価格は1万9900円。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1413478.html",
+          "publishedOn": "2022-05-31T15:00:00.000Z",
+          "wordCount": 134,
+          "title": "アンカー、オーディオグラス「Soundcore Frames Cafe」「Soundcore Frames Landmark」を本日1日に発売",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1413/478/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1413445.html",
+          "author": null,
+          "description": "JR東日本は、同社の「Ringo Pass」と OpenStreet が運営するシェアサイクリングサービス「HELLO CYCLING」の連携開始を記念して、「JRE POINT プレゼントキャンペーン」を実施すると発表した。期間は6月1日から30日まで。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1413445.html",
+          "publishedOn": "2022-05-31T15:00:00.000Z",
+          "wordCount": 113,
+          "title": "JR東日本、「Ringo Pass」と「HELLO CYCLING」の連携記念キャンペーンの第2弾を実施",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1413/445/jre2.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1413401.html",
+          "author": null,
+          "description": "MMDLaboが運営するMMD研究所は、「経済圏のサービス利用に関する調査」の結果を発表した。この調査は、NTTドコモ、au、ソフトバンク、楽天、イオン、PayPayの6つの“経済圏”について、それぞれのサービスの利用状況を調べたもの。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1413401.html",
+          "publishedOn": "2022-05-31T15:00:00.000Z",
+          "wordCount": 122,
+          "title": "スマホユーザーが最も利用している決済サービスやポイントは？　MMD研究所の調査",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1413/401/20220531-01.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/1413294.html",
+          "author": null,
+          "description": "徐々に室内の気温が上がっている最近だが、俺の最強に強まったMac Studioは本日も静かに稼働中。昨日は室内気温が29℃になったが、ときどきプロセッサ使用率が100%になるような負荷をかけても、ファンの音が増したり排気が増えたりすることもなかった。ほんとパワフルで静かなマシンである。長い間使えそうだ。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/1413294.html",
+          "publishedOn": "2022-05-31T15:00:00.000Z",
+          "wordCount": 201,
+          "title": "[スタパ齋藤のApple野郎]Mac Studio底部からホコリががが……空中浮遊で解決してゆく!!!",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1413/294/stpapl2022-06-01thumbnail.jpg"
+        },
         {
           "id": "https://k-tai.watch.impress.co.jp/docs/news/1413482.html",
           "author": null,
@@ -3333,6 +3503,156 @@
       "feedUrl": "https://www.gizmodo.jp/index.xml",
       "siteUrl": "https://www.gizmodo.jp",
       "articles": [
+        {
+          "id": "https://www.gizmodo.jp/2022/05/sounds-heard-on-mars.html",
+          "author": "R.Mitsubori",
+          "description": "火星探査機「パーサヴィアランス」が収音した火星の音声をNASAが公開中。大気密度が小さい火星では、音が伝わりにくい。",
+          "link": "https://www.gizmodo.jp/2022/05/sounds-heard-on-mars.html",
+          "publishedOn": "2022-05-31T14:00:00.000Z",
+          "wordCount": 81,
+          "title": "火星探査機が録音した音声で「火星の音風景」を体感できるプレイリスト公開",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/30/1-4.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/30/1-4.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/05/best-serrated-knife.html",
+          "author": "R.Mitsubori",
+          "description": "「おいしい食べ物は、美しい断面から」。どんなにおいしい焼き立てパンも、包丁で切る時に皮がバラバラになったり、ぺちゃんこにつぶれてしまっては台なしです。本来のおいしさを最大限楽しみたいなら、サクッと切れるナイフは必須アイテムです！そこで今回はWirecutter編集部が厳選した、切れ味と使いやすさ抜群のおすすめパンナイフをご紹介します！",
+          "link": "https://www.gizmodo.jp/2022/05/best-serrated-knife.html",
+          "publishedOn": "2022-05-31T13:30:00.000Z",
+          "wordCount": 183,
+          "title": "パン切り包丁おすすめ3選。焼きたてパンもスパッと切れる！人気商品を実際に使って評価しました",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/27/1-1.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/27/1-1.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/05/the-earth-photographed-from-space.html",
+          "author": "たもり",
+          "description": "宇宙から撮影された地球の写真。初撮影は1946年のことで、それ以来の宇宙探索の歴史を象徴する画像たち。",
+          "link": "https://www.gizmodo.jp/2022/05/the-earth-photographed-from-space.html",
+          "publishedOn": "2022-05-31T13:00:00.000Z",
+          "wordCount": 124,
+          "title": "人類による宇宙探索の足跡。宇宙から撮影された地球の歴史的写真9選",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/30/220530earth.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/30/220530earth.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/05/254860.html",
+          "author": "福田ミホ",
+          "description": "エルゴノミックなタテ型マウス・ロジクールLift。（Imege:FlorenceIon-GizmodoUS）たしかに、ペンを持つのと同じような手首の角度と動き。ロジクールから、「自然な姿勢で作業できる」という触れ込みのタテ型マウス・Liftが登場しました。手首の痛みに悩んできた、米GizmodoのFlorenceIon記者がレビューしています。エルゴノミクスの効果やいかに？手首の痛みで死にそうなん",
+          "link": "https://www.gizmodo.jp/2022/05/254860.html",
+          "publishedOn": "2022-05-31T12:00:00.000Z",
+          "wordCount": 123,
+          "title": "タテ型マウス・ロジクール「Lift」は手首の痛みを救うか？ 1カ月使ってみた",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/31/220530_logicoolliftrev1.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/31/220530_logicoolliftrev1.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/05/254667-machi-ya-minimalismwalletlong-review.html",
+          "author": "山田洋路",
+          "description": "長財布「Minimalism Wallet Long」は一万円札とほぼ同じサイズで厚さ9mm、重さ80gの超コンパクト。水や傷に強い高級レザー採用し、いつまでも美しい状態で使用できます。",
+          "link": "https://www.gizmodo.jp/2022/05/254667-machi-ya-minimalismwalletlong-review.html",
+          "publishedOn": "2022-05-31T11:45:00.000Z",
+          "wordCount": 104,
+          "title": "高品質なレザーを贅沢に採用した極スリムウォレット",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/25/79d40a55-124c-4b83-b223-85cca8f1ff5d.png"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/25/79d40a55-124c-4b83-b223-85cca8f1ff5d.png"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/05/re-hero-clip.html",
+          "author": "ヤマダユウス型",
+          "description": "ふと入った中華料理屋さん。席についたらカバンをしまう場所がなくて、しゃーなしで床に置いて、カバンについた汚れをあとで拭き取る…。そんな悲劇、経験したことがありませんか？\n\nやっぱり、カバンを地面に置きたくないのは普遍的な心理だと思うんですよ。そんなときにはカバンを吊るせるバッグハンガーが便利なのですが、ギズ屋台の新入荷アイテム｢HEROCLIP｣は、とっても便利な逸品なのです。",
+          "link": "https://www.gizmodo.jp/2022/05/re-hero-clip.html",
+          "publishedOn": "2022-05-31T11:30:00.000Z",
+          "wordCount": 143,
+          "title": "【ギズ屋台】地面にカバン置くの、なんかヤだよね。そんな時には変幻自在のバッグハンガー｢HEROCLIP｣",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/30/220203heroclip_01.jpeg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/30/220203heroclip_01.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/05/climate-change-sleep-loss.html",
+          "author": "岩田リョウコ",
+          "description": "ここ最近、夜中に目が覚めて「どうしてだろう？」と思っている人がいたら、それもしかしたら気候変動のせいかもしれないよという研究結果が発表されました。地球温暖化などの気候変動の影響で睡眠不足が起こっているということなんですが、世界中どこでも一定にではなくて、貧困国ではその影響が特に顕著なんだそう。",
+          "link": "https://www.gizmodo.jp/2022/05/climate-change-sleep-loss.html",
+          "publishedOn": "2022-05-31T11:00:00.000Z",
+          "wordCount": 77,
+          "title": "気候変動のせいで睡眠時間がぐんと下がっている",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/31/shutterstock_1933915625.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/31/shutterstock_1933915625.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/05/254663-machi-ya-curble-start.html",
+          "author": "山田洋路",
+          "description": "座り姿勢を正しくしてくれる「カーブルチェア」の最新モデル「カーブルチェアグランド」が登場しました。てこの原理を利用し、高弾力素材が骨盤をサポート。曲線が腰や背中を支え、ラクに姿勢を維持します。肩こり、首こり、腰痛対策に！",
+          "link": "https://www.gizmodo.jp/2022/05/254663-machi-ya-curble-start.html",
+          "publishedOn": "2022-05-31T10:45:00.000Z",
+          "wordCount": 78,
+          "title": "“てこの原理”を応用した姿勢サポートチェア",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/25/5e4c41f4-fb69-4b3b-9641-5f28121486a7.png"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/25/5e4c41f4-fb69-4b3b-9641-5f28121486a7.png"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/05/mylo-soft-backpack-wallet-bag.html",
+          "author": "岡本玄介",
+          "description": "土屋鞄製造所が生み出したブランドobjcts.ioより、キノコの菌糸を使った「マッシュルームレザー」でカバンを制作しました。",
+          "link": "https://www.gizmodo.jp/2022/05/mylo-soft-backpack-wallet-bag.html",
+          "publishedOn": "2022-05-31T10:00:00.000Z",
+          "wordCount": 88,
+          "title": "エコでおいしそうなバッグが誕生。キノコの菌糸でつくられた「マッシュルームレザー」のバッグ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/31/220601_kinoko.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/31/220601_kinoko.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/05/godice.html",
+          "author": "岡本玄介",
+          "description": "アプリやVRと連動するルービックキューブのGoCubeより、スマホやタブレットと連動するIoTなスマート・サイコロ「GoDice」が発売されました。\n\n画面の中でサイコロが転がっても、イマイチ実感が湧きません。やっぱり現実世界で本物を振った方がエキサイトしますよね。しかし計算やコマの進行は、自動で行われるのが楽チンです。",
+          "link": "https://www.gizmodo.jp/2022/05/godice.html",
+          "publishedOn": "2022-05-31T10:00:00.000Z",
+          "wordCount": 78,
+          "title": "双六だけじゃもったいない。IoTになったサイコロ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/31/220601_godice-1.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/31/220601_godice-1.jpg"
+        },
         {
           "id": "https://www.gizmodo.jp/2022/05/rc-robot-small-penny.html",
           "author": "そうこ",
