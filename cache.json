@@ -843,6 +843,26 @@
       "siteUrl": "https://www.itmedia.co.jp/mobile/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/02/news160.html",
+          "author": null,
+          "description": "Yahoo! MAPはルート検索に自転車を追加し、交差点などで進行方向を音声や案内パネルで案内する「自転車 ターンバイターン方式のナビ」を提供開始。雨雲レーダーと連動し、最大6時間先の雨雲の動きと降水量も確認できる。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/02/news160.html",
+          "publishedOn": "2022-06-02T09:32:00.000Z",
+          "wordCount": 445,
+          "title": "Yahoo! MAP、自転車のルート検索を追加　雨雲レーダーとも連動",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/02/l_asa_ymapbicycle_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/02/news168.html",
+          "author": null,
+          "description": "MM総研は、6月1日に2021年度通期（2021年4月～2022年3月）の国内タブレット出荷台数調査を発表。2020年度は教育特需で過去最多を記録したがピークアウトで2021年度は減少し、2022年度の出荷台数も減少トレンドと予測している。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/02/news168.html",
+          "publishedOn": "2022-06-02T09:31:00.000Z",
+          "wordCount": 432,
+          "title": "タブレットの出荷台数、教育特需終了で大幅減　2022年度も減少の見込み",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/02/l_asa_MMsouken_01.jpg"
+        },
+        {
           "id": "https://www.itmedia.co.jp/mobile/articles/2206/02/news139.html",
           "author": null,
           "description": "KDDIは、7月5日から「au Ponta ポータル」を提供開始。 たまったポイントやユーザーに合わせたポイントの利用先情報を確認でき、ポイント加算数に応じてPontaが変身し、クーポンがもらえる「au Ponta レベル」も楽しめる。",
@@ -2156,6 +2176,126 @@
       "feedUrl": "https://k-tai.watch.impress.co.jp/data/rss/1.0/ktw/feed.rdf",
       "siteUrl": "https://k-tai.watch.impress.co.jp",
       "articles": [
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/review/1414230.html",
+          "author": null,
+          "description": "モトローラ・モビリティ・ジャパンから6月3日に発売された、5G対応Androidスマートフォン「motorola edge 30 pro」。本記事では、「motorola edge 30 pro」について、外観やカメラ性能などをご紹介する。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/review/1414230.html",
+          "publishedOn": "2022-06-02T15:01:00.000Z",
+          "wordCount": 153,
+          "title": "「motorola edge 30 pro」クイックフォトレビュー",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1414/230/DSC09192.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1414180.html",
+          "author": null,
+          "description": "モトローラ・モビリティ・ジャパンは、同社のスマートフォン「moto g52j 5G」「motorola edge 30 pro」を本日発売した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1414180.html",
+          "publishedOn": "2022-06-02T15:01:00.000Z",
+          "wordCount": 183,
+          "title": "モトローラ、「moto g52j 5G」「motorola edge 30 pro」本日3日発売",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1414/180/side_l.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/teppan/1414140.html",
+          "author": null,
+          "description": "スマホを、もっと楽しく快適に使うには、アプリを活用しよう。本コーナーでは、続々登場する旬なアプリの中から編集部が厳選した、スマホユーザー必携の“てっぱん”アプリをご紹介します！",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/teppan/1414140.html",
+          "publishedOn": "2022-06-02T15:01:00.000Z",
+          "wordCount": 135,
+          "title": "[てっぱんアプリ！] LINEの新アプリ「CLOVA Note」は誰の発言かまでわかる、無料のAI自動文字起こしツール",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1414/140/0602.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/review/1414276.html",
+          "author": null,
+          "description": "モトローラ・モビリティ・ジャパンは、FeliCa（おサイフケータイ）とIP68相当の防水防塵性能を備えた5Gスマートフォン「moto g52j 5G」を6月3日に発売すると発表した。価格は3万9800円。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/review/1414276.html",
+          "publishedOn": "2022-06-02T15:00:00.000Z",
+          "wordCount": 135,
+          "title": "モトローラ「moto g52j 5G」クイックレビュー、本体やカメラ作例など",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1414/276/cont101.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/minna/1414275.html",
+          "author": null,
+          "description": "先日、カンファレンス取材で今年、2022年では初となる海外渡航で米カリフォルニア州に行ってきた。サンディエゴでの取材がメインとなるが、ついでに前回の渡航で突然止められてしまったBank of Americaのデビットカードがサンフランシスコの友人宅に配送されているので、それを受け取りにいくのが2つめの目的だった。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/1414275.html",
+          "publishedOn": "2022-06-02T15:00:00.000Z",
+          "wordCount": 140,
+          "title": "[みんなのケータイ]Google Fiが使えなくなり、米国で復活させた話",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1414/275/ph01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1414274.html",
+          "author": null,
+          "description": "NTTドコモは、ポイントプログラム「dポイントクラブ」を、本日6月3日に改定した。本稿では、これまでのプログラムからの変更点を紹介する。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1414274.html",
+          "publishedOn": "2022-06-02T15:00:00.000Z",
+          "wordCount": 143,
+          "title": "「dポイントクラブ」本日3日に改定、何が変わる？",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1414/274/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1414261.html",
+          "author": null,
+          "description": "NTTドコモ、KDDI、ソフトバンクの各社はソニー製のAndroidスマートフォン「Xperia 1 IV」を本日3日に発売する。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1414261.html",
+          "publishedOn": "2022-06-02T15:00:00.000Z",
+          "wordCount": 142,
+          "title": "「Xperia 1 IV」は本日3日発売、ドコモ・au・ソフトバンクから",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1414/261/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/mitsui/1414259.html",
+          "author": null,
+          "description": "今回は話題の「Xperia 1 IV」だ。何といっても世界で初めて85mm〜125mm間において光学ズームを搭載したからである。デジタルズームではないのだ。いわゆるペリスコープ式構造なのだが、あの薄いボディによくも光学ズーム機構を押し込んだものである。手にしてもちょっと信じられないほどだ。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/mitsui/1414259.html",
+          "publishedOn": "2022-06-02T15:00:00.000Z",
+          "wordCount": 157,
+          "title": "[三井公一の「スマホカメラでブラブラ」]世界初の85mm-125mm光学ズームも広角も！　バランス良しの「Xperia 1 IV」で目黒や浦賀を撮り歩く",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1414/259/DSC_2486.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1414208.html",
+          "author": null,
+          "description": "NTT DOCOMO VENTURES DAY 2022においてjinjer（ジンジャー）は、バックオフィス用プラットフォーム「ジンジャー」を展示した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1414208.html",
+          "publishedOn": "2022-06-02T15:00:00.000Z",
+          "wordCount": 116,
+          "title": "NTT DOCOMO VENTURES DAYで欲しい機能を組み合わせられるバックオフィス用プラットフォーム「ジンジャー」",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1414/208/93.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1414144.html",
+          "author": null,
+          "description": "NTT DOCOMO VENTURES DAY 2022において、ウィリオットはBluetoothを活用したスマートタグを展示した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1414144.html",
+          "publishedOn": "2022-06-02T15:00:00.000Z",
+          "wordCount": 120,
+          "title": "電波をエネルギーに変えて在庫管理できるBluetoothタグ、NTT DOCOMO VENTURES DAYで展示",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1414/144/115.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1414129.html",
+          "author": null,
+          "description": "ソニーは、ビジュアルヘッドセット「Xperia View」と対象の「Xperia」スマートフォンを購入すると1万円がキャッシュバックされるキャンペーンを実施する。期間は6月3日～8月22日まで。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1414129.html",
+          "publishedOn": "2022-06-02T15:00:00.000Z",
+          "wordCount": 128,
+          "title": "Xperia Viewと対象のXperia購入で1万円がキャッシュバックされるキャンペーン",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1414/129/01v.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1414257.html",
+          "author": null,
+          "description": "NTTドコモは2日、2022年夏モデルとして発売するシャープ製のAndroidスマートフォン「AQUOS R7 SH-52C」「AQUOS wish2 SH-51C」について、対応周波数の一部を訂正した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1414257.html",
+          "publishedOn": "2022-06-02T10:58:48.000Z",
+          "wordCount": 136,
+          "title": "ドコモ「AQUOS R7」、5Gの「n28」への対応は？",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1414/257/01.jpg"
+        },
         {
           "id": "https://k-tai.watch.impress.co.jp/docs/news/1414181.html",
           "author": null,
@@ -4323,6 +4463,141 @@
       "feedUrl": "https://www.gizmodo.jp/index.xml",
       "siteUrl": "https://www.gizmodo.jp",
       "articles": [
+        {
+          "id": "https://www.gizmodo.jp/2022/06/tesla-return-to-work.html",
+          "author": "岩田リョウコ",
+          "description": "テスラ社CEOのイーロン・マスクは社員に対して「フルタイムで出社しないなら、会社辞めろ」と通達を出したそう。",
+          "link": "https://www.gizmodo.jp/2022/06/tesla-return-to-work.html",
+          "publishedOn": "2022-06-02T14:00:00.000Z",
+          "wordCount": 82,
+          "title": "イーロン・マスク「リモートワークしたいなら会社辞めろ」と通達",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/02/Elonmask.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/02/Elonmask.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/pocket-hdmi-advance.html",
+          "author": "岡本玄介",
+          "description": "Image:ColumbusCircleまだソフト持ってる？コロンバスサークルから、ゲームボーイアドバンス用ソフトを挿してスイッチのように手持ちで遊べる「ポケットHDMIアドバンスforGBA（GBA用互換機）」が登場します。本体も出力も、とにかく大画面左右のグリップ兼コントローラーの間には、7インチの大画面が。昔は2.9インチだったので、倍以上で見やすくなりますね。手持ちで遊べるだけでなく、専用",
+          "link": "https://www.gizmodo.jp/2022/06/pocket-hdmi-advance.html",
+          "publishedOn": "2022-06-02T13:30:00.000Z",
+          "wordCount": 90,
+          "title": "ゲームボーイアドバンスのソフトをスイッチ化する互換機。手持ちもHDMI出力も",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/09/1-1.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/09/1-1.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/suunto-5-peak-first-impression.html",
+          "author": "三浦一紀",
+          "description": "僕がギズモード編集部に訪れたら、デスクの上に1台のスマートウォッチが置かれていました。ん？ あんまり見たことがない製品だな…。そう思って手に取ってみたら、めちゃくちゃ軽い！ パッケージを調べてみたらSUUNTO（スント）というメーカーのスポーツウォッチ「SUUNTO 5 PEAK」らしい。\n\nということで、ちょっと触ってみたのでファーストインプレッションをお届けします。",
+          "link": "https://www.gizmodo.jp/2022/06/suunto-5-peak-first-impression.html",
+          "publishedOn": "2022-06-02T13:30:00.000Z",
+          "wordCount": 84,
+          "title": "めちゃ軽くてフィット感も◎。フィンランド生まれのスマートウォッチ「SUUNTO 5 PEAK」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/25/220525suunto-01.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/25/220525suunto-01.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/hdplex-250w-gan-passive-aio-atx-power-supply.html",
+          "author": "金本太郎",
+          "description": "自作PCの重要パーツのひとつ、電源ユニット。\nふつう電源ユニットといえば両手でつかむ箱くらいのサイズ...なんですが、HDPLEXの「HDPLEX 250W GaN Passive AIO ATX Power Supply」は分厚いスマホくらいのサイズしかありません。",
+          "link": "https://www.gizmodo.jp/2022/06/hdplex-250w-gan-passive-aio-atx-power-supply.html",
+          "publishedOn": "2022-06-02T13:00:00.000Z",
+          "wordCount": 77,
+          "title": "PCの電源ユニット、GaNでめっちゃ小さくなります",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/02/HDPLEX250WGANSize5.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/02/HDPLEX250WGANSize5.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/watchos9-matome.html",
+          "author": "塚本直樹",
+          "description": "派手なiOSやiPadOSに隠れがちですが、Apple Watchに搭載されている「watchOS」も毎年進化しています。ここでは、まもなく開催されるWWDCでの発表されるであろう「watchOS 9」の進化内容についての噂を、ざざっとご紹介しましょう！",
+          "link": "https://www.gizmodo.jp/2022/06/watchos9-matome.html",
+          "publishedOn": "2022-06-02T12:30:00.000Z",
+          "wordCount": 109,
+          "title": "watchOS 9予測まとめ：バッテリーがピンチでもできることが増えそう",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/02/220602_2064699041.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/02/220602_2064699041.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/pitaka-magez-case-pro.html",
+          "author": "金本太郎",
+          "description": "高い処理性能と、手頃なサイズ感で人気の小型タブレット・iPad mini（第6世代）をマグネット式のコネクタで充電できるケース「MagEZ Case Pro」が登場しました。",
+          "link": "https://www.gizmodo.jp/2022/06/pitaka-magez-case-pro.html",
+          "publishedOn": "2022-06-02T12:00:00.000Z",
+          "wordCount": 113,
+          "title": "iPad miniに足りないたったひとつの機能をおぎなうケース",
+          "enclosure": {
+            "length": "0",
+            "type": "image/gif",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/02/MagEZCasePro.gif"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/02/MagEZCasePro.gif"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/exascale-computer-frontier.html",
+          "author": "福田ミホ",
+          "description": "米研究機関が1秒間に100京回演算できるエクサスケールスパコン「フロンティア」を開発。米空軍とエネルギー省が2023年に利用開始する予定。",
+          "link": "https://www.gizmodo.jp/2022/06/exascale-computer-frontier.html",
+          "publishedOn": "2022-06-02T11:00:00.000Z",
+          "wordCount": 108,
+          "title": "史上初のエクサスケール・スパコン「フロンティア」ってどんなマシン？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/02/220601_exascalecomputer.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/02/220601_exascalecomputer.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/machi-ya-bonar-start.html",
+          "author": "cheee",
+          "description": "「Bonar」はボトルにサッとはめるだけで、鮮度をキープしてくれるワインストッパー。ボトル内の気圧を全自動で調整してくれるため、手間なく長期保存が可能。開栓後の日数とボトル内の温度が一目で確認できるので、いつ開け他のかも一目瞭然。ワイン好きは1つ持っておくと便利そうです。",
+          "link": "https://www.gizmodo.jp/2022/06/machi-ya-bonar-start.html",
+          "publishedOn": "2022-06-02T10:45:00.000Z",
+          "wordCount": 91,
+          "title": "ワイン好き必見！ 自動で真空状態を維持するボトルストッパー「Bonar」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/30/f7304734-f8fb-4edc-a386-67b69cad8fff.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/30/f7304734-f8fb-4edc-a386-67b69cad8fff.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/amazon-timesale-2022-0602-1.html",
+          "author": "メディアジーンメディアコマース",
+          "description": "Amazon（アマゾン）で毎日開催されているタイムセール。本日2022年6月2日は、9,980円のソニーのサウンドバー「HT-S100F」など、今すぐ欲しい人気のアイテムがお得に多数登場しています。",
+          "link": "https://www.gizmodo.jp/2022/06/amazon-timesale-2022-0602-1.html",
+          "publishedOn": "2022-06-02T09:45:00.000Z",
+          "wordCount": 344,
+          "title": "【Amazonタイムセール中！】多彩なモードが魅力。9,980円のソニーのサウンドバーHT-S100Fなど",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/02/topgz.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/02/topgz.jpg"
+        },
         {
           "id": "https://www.gizmodo.jp/2022/06/material-bike.html",
           "author": "岡本玄介",
