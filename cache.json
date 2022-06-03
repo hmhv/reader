@@ -893,6 +893,16 @@
       "siteUrl": "https://www.itmedia.co.jp/mobile/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/03/news186.html",
+          "author": null,
+          "description": "「ワイヤレスジャパン 2022」が5月25日から27日まで開催された。26日にNTTドコモの常務執行役員（CTO） R&Dイノベーション本部長の谷 直樹氏が講演。「サステナブルでWellbeingな社会の実現に向けて」と題し、5G、さらに6Gに向けたドコモの取り組みを紹介した。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/03/news186.html",
+          "publishedOn": "2022-06-03T09:00:00.000Z",
+          "wordCount": 501,
+          "title": "宇宙に自律的な通信インフラを　ドコモ5G Evolution & 6Gの取り組み",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/03/l_rk1640414_docomo-01.jpg"
+        },
+        {
           "id": "https://www.itmedia.co.jp/mobile/articles/2206/03/news145.html",
           "author": null,
           "description": "LINEMOが「新規歓迎！スマホプランフィーバータイム」を開催。専用ページから新しい電話番号で申し込むと5000円相当のPayPayポイントがもらえる。期間は6月6日11時59分まで。",
@@ -2286,6 +2296,16 @@
       "feedUrl": "https://k-tai.watch.impress.co.jp/data/rss/1.0/ktw/feed.rdf",
       "siteUrl": "https://k-tai.watch.impress.co.jp",
       "articles": [
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1414617.html",
+          "author": null,
+          "description": "メルカリは、「禁止されている出品物」のガイドラインを改定し、電子チケットやギフトコード、通信サービスを利用するためのコードなどを6月10日付で出品を禁止する。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1414617.html",
+          "publishedOn": "2022-06-03T14:31:43.000Z",
+          "wordCount": 86,
+          "title": "メルカリ、電子チケットや通信サービスのコードなど出品禁止に",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1414/617/mercari.jpg"
+        },
         {
           "id": "https://k-tai.watch.impress.co.jp/docs/news/1414540.html",
           "author": null,
@@ -4743,6 +4763,111 @@
       "feedUrl": "https://www.gizmodo.jp/index.xml",
       "siteUrl": "https://www.gizmodo.jp",
       "articles": [
+        {
+          "id": "https://www.gizmodo.jp/2022/06/best-future-telescopes.html",
+          "author": "そうこ",
+          "description": "普通の人が夜空を見上げるとき、そこにあるのは夢や希望のファンタジー。科学者が夜空を見上げるとき、そこにあるのは地球の未来です。ファンタジーだった宇宙は、人類の進化とともにだんだんリアルなものへ。もしかしたら、近い将来は見えている星に住んでいるかもしれないわけで。人類と宇宙をより近づけるため、現在建設中の天体望遠鏡をまとめてみました。宇宙の見え方、変わります。",
+          "link": "https://www.gizmodo.jp/2022/06/best-future-telescopes.html",
+          "publishedOn": "2022-06-03T14:00:00.000Z",
+          "wordCount": 90,
+          "title": "宇宙の見え方を変えてくれる未来の天体望遠鏡5選",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/03/220603worldstelescopes.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/03/220603worldstelescopes.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/apple-susan-prescott.html",
+          "author": "大野恭希",
+          "description": "Image:Chikena/shutterstock.comもうプログラミングは必須言語になったんですね。Macが市場に投入される前のApplellから、テクノロジーを教室に導入する取り組みをしてきたことはアップル好きな人は知るところかと思います。先日の記事では、日本のGIGAスクール構想で、全国の学校・教室でiPadが活用されている様子をお伝えしました。こういう現場を見ると、学生のうちにiPad",
+          "link": "https://www.gizmodo.jp/2022/06/apple-susan-prescott.html",
+          "publishedOn": "2022-06-03T13:00:00.000Z",
+          "wordCount": 73,
+          "title": "アップル副社長スーザン・プレスコット氏へ取材「プログラミングは21世紀の必須言語」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/03/20220603ipad_apple_SusanPrescott.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/03/20220603ipad_apple_SusanPrescott.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/machi-ya-cuitisanflora-review2.html",
+          "author": "junior",
+          "description": "「Cuitisan FLORA」はステンレス容器なのに電子レンジで加熱もOKな多機能フードコンテナです。特殊なステンレス素材を使うことで、今までは実現できなかった機能を実装した画期的な製品となっています。プラスチックコンテナではニオイ移りや油汚れが残るということも多いですが、ステンレス製の「Cuitisan FLORA」はその心配も無用だそうですよ。",
+          "link": "https://www.gizmodo.jp/2022/06/machi-ya-cuitisanflora-review2.html",
+          "publishedOn": "2022-06-03T12:45:00.000Z",
+          "wordCount": 86,
+          "title": "キャンプにも使えるよ。ステンレスなのに電子レンジOKなフードコンテナ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/31/DSCF8521.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/31/DSCF8521.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/254465-costory-akitakomachi.html",
+          "author": "にしやまあやか",
+          "description": "Image:株式会社吉字屋穀店この記事は、ギズモード・ジャパンが所属する(株)メディアジーンのCoSTORYチームが編集した別企画の記事です。ライフハッカー[日本版]から転載毎日食べるお米は、なくなるのもあっという間ですよね。重たいお米をこまめに買いに行くのは大変だから、買いだめやネットで購入している人も多いのでは？でもせっかくなら、美味しいお米をなるべくお得に手に入れたいですよね。そんなやりくり",
+          "link": "https://www.gizmodo.jp/2022/06/254465-costory-akitakomachi.html",
+          "publishedOn": "2022-06-03T11:45:00.000Z",
+          "wordCount": 66,
+          "title": "今ならあきたこまち10kgが11%オフ！共同購入を活用してやりくり上手になろう【24時間限定割引】",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/20/無いディー.jpeg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/20/無いディー.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/254886-machi-ya-elusefor-start.html",
+          "author": "山田洋路",
+          "description": "「eLusefor」はスマホにマグネットで取り付けられるコンパクトな財布です。MagSafeマホなら、そのまま脱着可能。銀行カード、ID、名刺、お札、小銭用に6つのスロットがあります。",
+          "link": "https://www.gizmodo.jp/2022/06/254886-machi-ya-elusefor-start.html",
+          "publishedOn": "2022-06-03T10:45:00.000Z",
+          "wordCount": 81,
+          "title": "スマホにマグネットでくっつけたまま使えるミニマル財布「eLusefor」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/31/eLusefor00.png"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/31/eLusefor00.png"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/amazon-timesale-2022-0603-1.html",
+          "author": "メディアジーンメディアコマース",
+          "description": "Amazon（アマゾン）で毎日開催されているタイムセール。本日2022年6月3日は、ミステリーランチのバックパックが34%オフ、車用サンシェードが30%オフなど、今すぐ欲しい人気のアイテムがお得に多数登場しています。",
+          "link": "https://www.gizmodo.jp/2022/06/amazon-timesale-2022-0603-1.html",
+          "publishedOn": "2022-06-03T09:45:00.000Z",
+          "wordCount": 275,
+          "title": "【Amazonタイムセール中！】ミステリーランチのバックパックが34%オフ、車用サンシェードが30%オフなど",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/03/91iXS1L1qPL._AC_UL1500_.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/03/91iXS1L1qPL._AC_UL1500_.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/wwdc-2022-developer-interview.html",
+          "author": "嘉島唯",
+          "description": "6月7日午前2時から開始するAppleのWWDC 2022。毎年最新のOSが発表されてきましたが、今年はどんなポイントが注目なのでしょうか？ NAVITIMEやLIFULL HOME'S、そしてSTYLYなど、人気アプリの開発者たちに話を聞きました。",
+          "link": "https://www.gizmodo.jp/2022/06/wwdc-2022-developer-interview.html",
+          "publishedOn": "2022-06-03T09:30:00.000Z",
+          "wordCount": 104,
+          "title": "WWDC 2022、注目ポイントは？ 人気アプリの開発者たちに聞く",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/03/220525_wwdcexpectation.jpeg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/03/220525_wwdcexpectation.jpeg"
+        },
         {
           "id": "https://www.gizmodo.jp/2022/06/wwdc-minakunatta-reason.html",
           "author": "大野恭希",
