@@ -4904,6 +4904,21 @@
       "siteUrl": "https://www.gizmodo.jp",
       "articles": [
         {
+          "id": "https://www.gizmodo.jp/2022/06/plants-grown-in-lunar-regolith.html",
+          "author": "山田ちとら",
+          "description": "フロリダ大学の園芸学の教授たちが、月面で採取された「月の土」を使ってシロイヌナズナの発芽と成長に成功。本物の月の土を使った実験は、これが世界初です。",
+          "link": "https://www.gizmodo.jp/2022/06/plants-grown-in-lunar-regolith.html",
+          "publishedOn": "2022-06-04T12:00:00.000Z",
+          "wordCount": 140,
+          "title": "地球の植物は月の土で育つの？ 世界初の実験が導き出した答えは「YES」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/28/220528_moonplants_top.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/28/220528_moonplants_top.jpg"
+        },
+        {
           "id": "https://www.gizmodo.jp/2022/06/will-apples-vr-headset-be-announced.html",
           "author": "塚本直樹",
           "description": "WWDCで発表が予想されていたAppleのAR／VRヘッドセットだが、ここに来て今回は発表されないのではないかという噂も。",

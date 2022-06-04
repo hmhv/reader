@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hmhv.github.io/reader/index.html</id>
     <title>hmhv::news</title>
-    <updated>2022-06-04T08:12:23.967Z</updated>
+    <updated>2022-06-04T12:26:08.464Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hmhv.github.io/reader/index.html"/>
     <link rel="self" href="https://hmhv.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[地球の植物は月の土で育つの？ 世界初の実験が導き出した答えは「YES」]]></title>
+        <id>https://www.gizmodo.jp/2022/06/plants-grown-in-lunar-regolith.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/plants-grown-in-lunar-regolith.html"/>
+        <updated>2022-06-04T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[フロリダ大学の園芸学の教授たちが、月面で採取された「月の土」を使ってシロイヌナズナの発芽と成長に成功。本物の月の土を使った実験は、これが世界初です。]]></summary>
+        <author>
+            <name>山田ちとら</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WWDCの隠し玉？ アップル製AR/VRヘッドセットの可能性をチェック]]></title>
         <id>https://www.gizmodo.jp/2022/06/will-apples-vr-headset-be-announced.html</id>
