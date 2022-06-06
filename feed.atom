@@ -2,10 +2,578 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hmhv.github.io/reader/index.html</id>
     <title>hmhv::news</title>
-    <updated>2022-06-05T12:27:14.638Z</updated>
+    <updated>2022-06-06T12:34:45.664Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hmhv.github.io/reader/index.html"/>
     <link rel="self" href="https://hmhv.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ギズ編集長から報告！WWDCでApple Parkを訪れたら、こんなにお土産がもらえたよ ＃WWDC22]]></title>
+        <id>https://www.gizmodo.jp/2022/06/wwdc-2022.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/wwdc-2022.html"/>
+        <updated>2022-06-06T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WWDC22のイベントがもう開催間近ですが、現地に潜入している編集長の尾田がお土産をゲット！内容はWWDC22のロゴが入ったキャップにトートバック、　ウォーターボトル、マスク、マグネットバッチでした！]]></summary>
+        <author>
+            <name>塚本直樹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appleのオンラインストアがメンテ中に、今夜は「WWDC」]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1415015.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1415015.html"/>
+        <updated>2022-06-06T11:49:44.000Z</updated>
+        <summary type="html"><![CDATA[6日夜（日本時間）、アップル（Apple）のオンラインストアがメンテナンスに入った。本稿執筆時点（6日20時40分）から約5時間後には、開発者向けイベント「WWDC 2022」が予定されている。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[汗をかくほど涼しくなるTシャツがコロンビアから登場。魔法じゃん…！]]></title>
+        <id>https://www.gizmodo.jp/2022/06/columbia-la-crosse-butt-short-sleeve-tee.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/columbia-la-crosse-butt-short-sleeve-tee.html"/>
+        <updated>2022-06-06T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[コロンビアから同社の冷却テクノロジー「OMNI-FREEZE ZERO」を活用したTシャツ「LA CROSSE BUTTE™ SHORT SLEEVE TEE」発売に。]]></summary>
+        <author>
+            <name>ヤマダユウス型</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#WWDC22 開催直前、Apple公式ストアがメンテ画面に切り替え]]></title>
+        <id>https://gori.me/?p=142130</id>
+        <link href="https://gori.me/apple/wwdc/142130"/>
+        <updated>2022-06-06T11:08:27.000Z</updated>
+        <summary type="html"><![CDATA[Apple公式ストアがメンテナンス画面に切り替わっている。メンテナンス画面は「まもなく公開」と表示。英語では「Developing news」となっている。 WWDCでメンテナンス画面の表示は珍しい。2018年から2021年までのWWDCでは用意されていない。2019年にはMac ProおよびPro…
+The post #WWDC22 開催直前、Apple公式ストアがメンテ画面に切り替え first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コバンザメがヒント？ バッテリーパワーをセーブして他力本願で移動する水空両用ドローン]]></title>
+        <id>https://www.gizmodo.jp/2022/06/humpback-shark-style-amphibious-drone.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/humpback-shark-style-amphibious-drone.html"/>
+        <updated>2022-06-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[コバンザメのように吸盤で他の移動物にくっついて、バッテリーを節約しながら移動する水陸両用ドローン。北京航空航天大学の研究所で開発中。]]></summary>
+        <author>
+            <name>そうこ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモ、“転売対策”でスマホの箱への記名などを実施]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1415001.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1415001.html"/>
+        <updated>2022-06-06T10:45:56.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモは、「最新機種購入時に製品パッケージに記名や押印をしている」という一部報道について、「一部の場合に限り、記名や押印の運用を指示しているのは事実」とした。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【現地動画レポ】ギズ編集長、WWDC直前のApple Parkに潜入へ！ #WWDC22]]></title>
+        <id>https://www.gizmodo.jp/2022/06/apple-park-2022-movie.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/apple-park-2022-movie.html"/>
+        <updated>2022-06-06T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[カリフォルニア州クパチーノにあるアップル本社「Apple Park」の外にある一般向けショップ、Apple Park Visitor Centerには、ギズモード・ジャパン編集長の尾田が潜入しています！この記事では、現地から届いた動画をまとめたYouTubeショーツとともに、WWDC前日（現地時間）の興奮をお届けします。]]></summary>
+        <author>
+            <name>塚本直樹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモ「dポイントクラブ」、映画の1100円クーポンなどを配布]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1414978.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1414978.html"/>
+        <updated>2022-06-06T10:19:58.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモは、ポイントプログラム「dポイントクラブ」について、同プログラムのすべての会員を対象に、映画のクーポンなどの配布を開始した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[合計最大出力245Wに対応したモバイルバッテリー＆電源アダプター　クラウドファンディングで登場]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/06/news187.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/06/news187.html"/>
+        <updated>2022-06-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ロア・インターナショナルは、合計最大出力245Wに対応した「HyperJuice 245W GaN電源アダプタ」「HyperJuice 245W バッテリーパック」をクラウドファンディングサービス「Makuake」で先行販売する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テスラが人型ロボット「Optimus」を9月30日に公開予定]]></title>
+        <id>https://www.gizmodo.jp/2022/06/optimus-tesla-ai-day.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/optimus-tesla-ai-day.html"/>
+        <updated>2022-06-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[人型ロボット「Optimus（オプティマス）」を開発しているテスラが、このロボットのプロトタイプが動く可能性があるということで、Tesla AI Dayを9月末に延期して開催すると発表しました。]]></summary>
+        <author>
+            <name>大野恭希</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモら、6G実証実験で協力　100G～300GHz帯での通信やAI技術に焦点]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/06/news175.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/06/news175.html"/>
+        <updated>2022-06-06T09:50:00.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモとNTTは、2030年頃の6Gサービス提供開始を目指して富士通、NEC、Nokiaの3社と実証実験で協力することに合意。新周波数帯での無線通信技術やAI技術の活用に焦点を当てる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Amazonタイムセール中！】雨の季節到来。38%オフの69g超軽量折り畳み傘や20%オフの防水スプレーなど]]></title>
+        <id>https://www.gizmodo.jp/2022/06/amazon-timesale-2022-0606-1.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/amazon-timesale-2022-0606-1.html"/>
+        <updated>2022-06-06T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon（アマゾン）で毎日開催されているタイムセール。本日2022年6月6日は、38%オフの69gの超軽量折り畳み傘や20%オフの防水スプレーなど、今すぐ欲しい人気のアイテムがお得に多数登場しています。]]></summary>
+        <author>
+            <name>メディアジーンメディアコマース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ライブ更新やります】ひさびさの生ライブか！ ARヘッドセットの発表はあるか？ WWDC22、今夜深夜2時スタート！ #WWDC22]]></title>
+        <id>https://www.gizmodo.jp/2022/06/wwdc22-realtime.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/wwdc22-realtime.html"/>
+        <updated>2022-06-06T09:15:00.000Z</updated>
+        <summary type="html"><![CDATA[日本時間、本日2022年6月6日の深夜26:00より、Appleの開発者向けイベント「WWDC 2022」がスタート。基調講演では、各種OSの新機能発表からハードウェアまでもお披露目されることがあるため、開発者だけじゃなくみんなが大注目。この記事では、基調講演の内容をリアルタイムでレポートに起こしていきますね。]]></summary>
+        <author>
+            <name>編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型MacBook AirはWWDCで発表？ 新色でブルーが追加されるかも #WWDC22]]></title>
+        <id>https://www.gizmodo.jp/2022/06/new-blue-color-will-be-added-to-mba.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/new-blue-color-will-be-added-to-mba.html"/>
+        <updated>2022-06-06T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今夜のWWDCで発表されるかもしれない新MacBook Airに、新色のシャンパンゴールドとブルーモデルが追加されるとの噂。]]></summary>
+        <author>
+            <name>はらいさん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【楽天スーパーSALE】水拭きモップも自動で洗浄＆乾燥！ エコバックスの全自動ロボット掃除機などがセール中]]></title>
+        <id>https://www.gizmodo.jp/2022/06/rakuten-sale-2022-0606-1.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/rakuten-sale-2022-0606-1.html"/>
+        <updated>2022-06-06T08:55:00.000Z</updated>
+        <summary type="html"><![CDATA[エコバックスのオールインワンロボット掃除機が楽天市場で登場中！]]></summary>
+        <author>
+            <name>メディアジーンメディアコマース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[月額4,980円で100GB使える「ahamo大盛り」、6月9日スタート]]></title>
+        <id>https://gori.me/?p=142128</id>
+        <link href="https://gori.me/mobile/smartphone/142128"/>
+        <updated>2022-06-06T08:45:33.000Z</updated>
+        <summary type="html"><![CDATA[ドコモのオンライン専用プラン「ahamo」の大容量プラン「ahamo大盛り」は、2022年6月9日より提供開始する。 「ahamo大盛り」は、月額2,970円（税込）でデータ容量20GBまで利用可能な料金プランahamoに、データ容量80GBを1,980円（税込）で追加可能な「大盛りオプション」を組…
+The post 月額4,980円で100GB使える「ahamo大盛り」、6月9日スタート first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【現地写真レポ】ギズモード・ジャパン編集長、Apple Park Visitor Centerいるってよ #WWDC22]]></title>
+        <id>https://www.gizmodo.jp/2022/06/apple-park-2022.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/apple-park-2022.html"/>
+        <updated>2022-06-06T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[まもなく数時間後からはじまるAppleの開発者向けカンファレンス、WWDC2022。ギズモード・ジャパン編集長が、カリフォルニア州、クパチーノにあるApple Park Visitor Centerからおたよりを送ってくれました。ということは…そう、今年はひっさびさの生ライブ開催です！ この記事では、現地から届いた写真をお届けします。]]></summary>
+        <author>
+            <name>編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「WWDC2022」今日深夜26時から、何が発表される？]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1414921.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1414921.html"/>
+        <updated>2022-06-06T08:18:10.000Z</updated>
+        <summary type="html"><![CDATA[米アップル（Apple）は、デベロッパー向けのイベント「WWDC（Apple Worldwide Developers Conference、世界開発者会議）」を今日6月6日の日本時間深夜26時（7日2時）から開催する。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手にすると何かしたくなるPC。「FMV LOOX」はクリエイティビティを刺激してくれる]]></title>
+        <id>https://www.gizmodo.jp/2022/06/fmv-loox-editor-impression.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/fmv-loox-editor-impression.html"/>
+        <updated>2022-06-06T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:小原啓樹これからのPCのスタンダード。それが2in1というカタチ。昔はPCといえばデスクトップが基本形でしたが、仕事でもプライベートでも持ち運べるノートPCでも十分なスペックが出せるようになってきてからは、ほぼノートに置き換わりました。PCのイメージを変えましたよね。やっぱりコンパクトis正義。そのノート型PCをさらに進化させたのが、2in1ノート。ディスプレイを180度回転させたり、]]></summary>
+        <author>
+            <name>ヤマダユウス型</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Xperia 1 IV」は何が進化したのか　「Xperia 1 III」との違いをおさらい]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/06/news159.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/06/news159.html"/>
+        <updated>2022-06-06T07:48:00.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモ、KDDI、ソフトバンクが6月3日にソニーの最新フラグシップスマートフォン「Xperia 1 IV」を発売した。外観は先代の「Xperia 1 III」から大きく変わっておらず、パッと見だと違いが分からないほど。一方でカメラが大きく進化し、望遠レンズが光学ズームに対応した。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[J:COM MOBILE、6月16日に「AQUOS sense6s」発売　3万9600円]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/06/news153.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/06/news153.html"/>
+        <updated>2022-06-06T07:38:00.000Z</updated>
+        <summary type="html"><![CDATA[ジュピターテレコムのMVNOサービス「J:COM MOBILE」は、6月16日に「AQUOS sense6s」を発売。4570mAhのバッテリーと省エネIGZO OLEDディスプレイで約1週間の電池持ちを実現し、おサイフケータイやFMラジオも備える。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS 13ではTime MachineがiCloud Driveと統合されるかも？って、いったい何TB求めるんですかァ!?]]></title>
+        <id>https://www.gizmodo.jp/2022/06/mac-os-13-leak.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/mac-os-13-leak.html"/>
+        <updated>2022-06-06T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[リーカーのMajin Bu氏が手に入れた情報によると、macOS 13ではiCloud DriveにMacのバックアップシステムであるTime Machineが統合されるとのこと。]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PayPayの「あなたのまちを応援プロジェクト」、7月以降のキャンペーンを発表]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/06/news140.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/06/news140.html"/>
+        <updated>2022-06-06T06:46:00.000Z</updated>
+        <summary type="html"><![CDATA[PayPayは、地方自治体と共同で実施している「あなたのまちを応援プロジェクト」へ7月以降に参加する6の自治体を発表。今回発表した自治体を含め、330の自治体でキャンペーンを実施している。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ahamo大盛り」、6月9日から提供開始へ]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1414874.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1414874.html"/>
+        <updated>2022-06-06T06:25:47.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモは、オンライン専用料金プラン「ahamo（アハモ）」で、6月9日10時に「大盛りオプション」（月額1980円、80GB追加）の提供を開始する。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「PayPay」で7月以降の「あなたのまちを応援プロジェクト」開催地域を発表、群馬県富岡市や東京都国分寺市など]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1414864.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1414864.html"/>
+        <updated>2022-06-06T06:17:10.000Z</updated>
+        <summary type="html"><![CDATA[PayPayは、地方自治体と共同で実施する「あなたのまちを応援プロジェクト」について、7月以降に実施する新たな地域を発表した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモ、ahamo大盛りを6月9日に提供開始]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/06/news136.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/06/news136.html"/>
+        <updated>2022-06-06T06:05:00.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモはオンライン専用プラン「ahamo」の新たなオプションサービス「ahamo大盛り」の提供を6月9日に始める。ahamo大盛りはahamoの基本容量に月額1980円／80GBの大容量を追加できるオプションだ。オプション追加後は月額4950円で月100GBを使える。100GBはテザリングの利用も含まれている。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[povo、「雨が好きになるpovo傘」が当たるTwitterキャンペーン]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1414865.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1414865.html"/>
+        <updated>2022-06-06T06:04:29.000Z</updated>
+        <summary type="html"><![CDATA[KDDIは、オンライン専用ブランド「povo」において、オリジナルの傘が当たるTwitterキャンペーンを開始した。応募期間は6月12日23時59分まで。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M2のMac miniと、Mac mini Tower!? 海外ECサイトに未発表製品の名を発見！]]></title>
+        <id>https://www.gizmodo.jp/2022/06/mac-mini-mac-mini-tower-webpage.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/mac-mini-mac-mini-tower-webpage.html"/>
+        <updated>2022-06-06T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple認定の再販業者であるB＆H Photoが、未発表の「Mac mini（M2）」と、「Mac mini Tower」という新しい製品のプレースホルダーページを公開したのです。なんだTowerって!?]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「UNiCASE」、Apple Watchバンド用パーツなどの取り付けサービス]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1414817.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1414817.html"/>
+        <updated>2022-06-06T05:40:10.000Z</updated>
+        <summary type="html"><![CDATA[CCCフロンティアは、「UNiCASE」各店舗において対象のApple Watch用バンドを購入したユーザー向けに、Apple Watchバンド用パーツ・尾錠の取り付けサービスを開始した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今夜、AppleのAR/VRヘッドセットが出なくてもがっかりしないでほしい]]></title>
+        <id>https://www.gizmodo.jp/2022/06/apple-ar-vr-headset.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/apple-ar-vr-headset.html"/>
+        <updated>2022-06-06T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WWDC22の隠し玉として発表が囁かれているAppleのAR/VRヘッドセットですが、ここにきて、排熱問題のためリリースを来年への延期せざるを得なかいとの噂が。]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サンワサプライ、最大100W給電に対応のUSB Type-C-HDMI変換アダプター]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1414828.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1414828.html"/>
+        <updated>2022-06-06T04:58:11.000Z</updated>
+        <summary type="html"><![CDATA[サンワサプライは、最大100W出力に対応するUSB Type-C-HDMI変換アダプターを発売した。Amazon.co.jpでの価格は3980円。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[軸が選べるコンパクトキーボード。ロジクールMX MECHANICAL MINIレビュー]]></title>
+        <id>https://www.gizmodo.jp/2022/06/mx-mechanical-mini.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/mx-mechanical-mini.html"/>
+        <updated>2022-06-06T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[新発売のMX MechanicalとMX Mechanical Miniは自宅でも会社でも最高の打鍵感が楽しめるキーボードです。
+バッテリー持ち◎で、軸も3つのタイプから好きなものを選べるし、競合モデルやカスタムビルドでは得られない便利な機能もあって、文句のつけようがありません。]]></summary>
+        <author>
+            <name>satomi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Nest Hub（第2世代）」が楽天ブックスで5480円、11日1時59分まで]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1414791.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1414791.html"/>
+        <updated>2022-06-06T03:41:42.000Z</updated>
+        <summary type="html"><![CDATA[グーグルのスマートディスプレイ「Nest Hub（第2世代）」が楽天ブックスで50％オフの5480円で販売されている。期間は、11日1時59分まで。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XiaomiのスマートバンドがAmazon.co.jpでセール]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1414792.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1414792.html"/>
+        <updated>2022-06-06T03:36:29.000Z</updated>
+        <summary type="html"><![CDATA[Amazon.co.jpで、シャオミのスマートバンド「Mi スマートバンド6」の限定セールが開催されている。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple職人の朝は早い。WWDCの1日に迫る #WWDC22]]></title>
+        <id>https://www.gizmodo.jp/2022/06/apple-pro-kazuki-miura.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/apple-pro-kazuki-miura.html"/>
+        <updated>2022-06-06T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ギズモード・ジャパンで行なわれるWWDCのリアルタイム更新に毎回参加している、古株ライターの三浦は、MacBook Airから視線をそらすことなく語る。
+
+WWDCは日本時間で午前2時から開催されるため、ライター陣は深夜稼働となる。いったいつ寝ているのだろうか。]]></summary>
+        <author>
+            <name>三浦一紀</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[出そろった「Xperia Ace III」の価格　最安値はどのキャリアか]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/06/news100.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/06/news100.html"/>
+        <updated>2022-06-06T03:15:00.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモ、au、UQ mobile、Y!mobileがソニー製スマートフォン「Xperia Ace III」の販売を6月10日に開始する。各社のオンラインショップにおける販売価格、端末購入プログラム適用後の実質負担額、販路、カラーをまとめた。記事内は全て税込み。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゲオ、UQのSIMとセットで中古「iPhone 8」を1円に]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1414774.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1414774.html"/>
+        <updated>2022-06-06T03:05:40.000Z</updated>
+        <summary type="html"><![CDATA[ゲオホールディングスのグループ会社であるゲオストアは、公式オンラインサイトにおいて、「iPhone 8 新規1円キャンペーン」を実施している。期間は6月20日23時59分まで。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ひかりTVショッピング」でポイント最大40％還元、ご愛顧感謝セール]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1414760.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1414760.html"/>
+        <updated>2022-06-06T03:00:21.000Z</updated>
+        <summary type="html"><![CDATA[NTTぷららは、ショッピングサイト「ひかりTVショッピング」で、「ひかりＴＶショッピング　GOGOバザール –ご愛顧感謝セール-」を開始した。期間は6月14日11時59分まで。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2年後の返却で「Apple Watch Series 7」が月1400円、ヤマダの残価設定型プログラム]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1414757.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1414757.html"/>
+        <updated>2022-06-06T02:54:37.000Z</updated>
+        <summary type="html"><![CDATA[ヤマダデンキは、Apple専用のショッピングローン「ヤマダの無金利分割+選べる購入」のラインアップに、6月10日からAppleWatch Series 7を追加する。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楽天モバイル、「Hulu」が実質3カ月無料のキャンペーン]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1414753.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1414753.html"/>
+        <updated>2022-06-06T02:40:47.000Z</updated>
+        <summary type="html"><![CDATA[楽天モバイルは、動画サービス「Hulu」が3カ月間実質無料で利用できるトライアルキャンペーンを開始した。期間は9月7日8時59分まで。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サンワサプライ、差込口を90度回せるUSBポート付き電源タップ]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1414747.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1414747.html"/>
+        <updated>2022-06-06T02:38:17.000Z</updated>
+        <summary type="html"><![CDATA[サンワサプライは、コンセントの差込口を90度回転させられるUSBポート付き電源タップ2機種を発売した。Amazon.co.jpでの価格は3680円～。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ベルキン、クリップで取り付け可能なAirTag用セキュアホルダーを発売]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/06/news081.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/06/news081.html"/>
+        <updated>2022-06-06T02:37:00.000Z</updated>
+        <summary type="html"><![CDATA[ベルキンは、AirTagを保護する「Belkin AirTag用クリップ付きセキュアホルダー」をAmazon限定で発売。クリップで取り付け可能で、カラーはブラック、ホワイト、ライトグレー、ダークグレーの4色で展開する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初代iPad Proにヴィンテージ入りの可能性。えっ、AppleTV HDまで？]]></title>
+        <id>https://www.gizmodo.jp/2022/06/ipad-pro-gen1-vintage.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/ipad-pro-gen1-vintage.html"/>
+        <updated>2022-06-06T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Appleは6月末に初代iPad Proをヴィンテージ製品リストに追加するとのこと。「ヴィンテージ」は製造中止から5年以上、7年未満の製品が対象。通常のソフトウェアアップデートの対象外となり、国内ではApple Storeや正規サービスプロバイダからの修理サービスも受けられなくなります。]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Huluが実質3カ月無料に　楽天モバイルがトライアルキャンペーン実施]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/06/news082.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/06/news082.html"/>
+        <updated>2022-06-06T02:25:00.000Z</updated>
+        <summary type="html"><![CDATA[楽天モバイルは6月6日、動画配信サービス「Hulu」が実質3カ月無料になるトライアルキャンペーンを始めた。対象は6月6日から9月7日までに、初めてHuluを申し込む「Rakuten UN-LIMIT VI」または「Rakuten UN-LIMIT VII」の契約者。Huluの2カ月分の月額利用料（2052円）に相当する楽天ポイントを還元する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワイモバイルの「Xperia Ace III」購入で、3000円分PayPayポイント進呈]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1414743.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1414743.html"/>
+        <updated>2022-06-06T02:19:07.000Z</updated>
+        <summary type="html"><![CDATA[ソニーマーケティングは、6月10日に発売されるワイモバイル版の「Xperia Ace III」を購入すると、3000円分のPayPayポイントを進呈するキャンペーンを実施する。対象の購入期間は、6月10日～8月31日まで。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型MacBook Airは14インチ型？M2 MacBook Proと共に製品ページが発見される]]></title>
+        <id>https://gori.me/?p=142124</id>
+        <link href="https://gori.me/macbookair/142124"/>
+        <updated>2022-06-06T01:06:47.000Z</updated>
+        <summary type="html"><![CDATA[「Mac mini Tower」「M2 Mac mini」に続き、米国の家電量販店B&H Photo Videoに「14インチM2 MacBook Air」と「M2 MacBook Pro」の製品ページが発見された。ECサイトに未発表製品の商品ページは必ずしも発表を裏付けるものではないが、…
+The post 新型MacBook Airは14インチ型？M2 MacBook Proと共に製品ページが発見される first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[14インチMBPは安心して買える！Mac整備済商品の最新情報（2022年6月6日更新）]]></title>
+        <id>https://gori.me/?p=142126</id>
+        <link href="https://gori.me/sale/apple-refurbished/142126"/>
+        <updated>2022-06-06T01:05:46.000Z</updated>
+        <summary type="html"><![CDATA[通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日はM1 MacBook Proや14イ…
+The post 14インチMBPは安心して買える！Mac整備済商品の最新情報（2022年6月6日更新） first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初代プレステ原寸大のマルチポーチ。ガジェットやコントローラーなどなんでも入るよ]]></title>
+        <id>https://www.gizmodo.jp/2022/06/playstation-pouch.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/playstation-pouch.html"/>
+        <updated>2022-06-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[初代PlayStationを原寸大で忠実に再現したマルチポーチが、宝島社から登場しました。サイズは幅265×高さ50×縦185mm。]]></summary>
+        <author>
+            <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苦肉の策。絶滅しそうなミツバチを守るため、ミツバチを“魚”扱いにする]]></title>
+        <id>https://www.gizmodo.jp/2022/06/california-court-rules-bees-can-be-classified-as-fish.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/california-court-rules-bees-can-be-classified-as-fish.html"/>
+        <updated>2022-06-05T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[カリフォルニア州第三区高等裁判所は、絶滅の危機にあるミツバチを救うため、ミツバチを「魚」と同じ扱いにする法を制定。ミツバチが魚類になったというわけではなく、魚と同じ扱いをするカテゴリーに入ったことで保護が可能になったのです。]]></summary>
+        <author>
+            <name>岩田リョウコ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型13インチMacBook Pro、WWDC22で発表する計画を延期か]]></title>
+        <id>https://gori.me/?p=142120</id>
+        <link href="https://gori.me/macbookair/142120"/>
+        <updated>2022-06-05T21:45:47.000Z</updated>
+        <summary type="html"><![CDATA[Appleは当初、WWDC22でM1チップを搭載した新型MacBook Proの後継モデルを発表する計画があったが、中国工場のロックダウンで発表を延期した可能性がある。Appleに詳しいBloombergの名物記者Mark Gurman氏が、最新ニュースレターで明らかにした。 新型MacBook P…
+The post 新型13インチMacBook Pro、WWDC22で発表する計画を延期か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[スタパ齋藤の「スタパトロニクスMobile」]iPad mini 6で、うわさの“ほぼ裸ケース”こと「THE FROST AIR」を使う]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/stapa/1414671.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/stapa/1414671.html"/>
+        <updated>2022-06-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[iPad mini 6（iPad mini 第6世代）を愛用中。ケースに入れて運用中。なのだが、汗ばむ季節になってからちょっと気になることがある。手の指紋や汗により、ケースがミョーにヌルッとした感触になることがあるのだ。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[みんなのケータイ]dカード GOLD会員なのに……新dポイントクラブでランク「2つ星」という落とし穴]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/minna/1414426.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/minna/1414426.html"/>
+        <updated>2022-06-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[6月3日から、dポイントクラブ会員のランク付けが変更になりました。dポイントが貯まるdポイントクラブへは、ドコモユーザーでなくても入ることができますが、これまでの会員ランクはドコモ回線の契約期間に紐付いていたので、15年以上の筆者は最上位であるプラチナ。あまり有効活用はできませんでしたが、クーポンなどの特典が利用できるしくみでした。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[本日の一品]こりずに20枚目くらいのスクエアなBoogie Boardを手に入れた]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1414251.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1414251.html"/>
+        <updated>2022-06-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米国で発売されたばかりの世界初のBoogie boardを手に入れてから既に13年……。昨今では雑誌のオマケに付いたり、100円ショップで売られたりとやっと男女問わず一般の人の目に留まる普通の文具系商品になった感じだ。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CO2排出量を手軽に可視化できる「ENERGY X GREEN」]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1414178.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1414178.html"/>
+        <updated>2022-06-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NTT DOCOMO VENTURES DAY 2022において、booost technologiesは、CO2排出量を可視化するサービス「ENERGY X GREEN」を展示した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超現実でお仕事体験。カフェ店員ロープレができるワールド「MiniGreen」 #VRChat]]></title>
+        <id>https://www.gizmodo.jp/2022/06/minigreen-vrchat.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/minigreen-vrchat.html"/>
+        <updated>2022-06-05T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[さまざまなロールプレイが楽しめるのもVRChatのいいところ。MiniGreen417さんが作った「Home Cafe - MiniGreen」でも、カフェ店員ごっこが楽しめます。しかもガチ寄り。ワールド内にギミックがもりだくさんで、ホットコーヒーやアイスコーヒーだけではなく、カフェラテやキャラメルマキアートなども作れるんです。]]></summary>
+        <author>
+            <name>武者良太</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ISSや人工衛星が撮影。「宇宙から見た」地上の絶景10選]]></title>
         <id>https://www.gizmodo.jp/2022/06/10-of-the-best-images-of-earth-nasa-shared-this-month.html</id>
