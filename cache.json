@@ -6,6 +6,96 @@
       "siteUrl": "https://gori.me",
       "articles": [
         {
+          "id": "https://gori.me/?p=142179",
+          "author": "g.O.R.i",
+          "description": "Appleは、M2 MacBook Air発売後もM1 MacBook Airの販売を継続するが、M1チップのCPU/GPUカスタマイズオプションを廃止。8コアGPUモデルは選択できず、7コアGPUモデルに限定されている。8コアモデルを廃止した理由は不明だが、M2 MacBook Airとの差別化の…\nThe post M2発表後も販売継続のM1 MacBook Air、7コアGPUモデルに限定 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macbookair/142179",
+          "publishedOn": "2022-06-06T23:27:28.000Z",
+          "wordCount": 214,
+          "title": "M2発表後も販売継続のM1 MacBook Air、7コアGPUモデルに限定",
+          "imageUrl": "https://gori.me/uploads/2022/06/m1-macbook-air-models-800x536.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=142176",
+          "author": "g.O.R.i",
+          "description": "M2チップを搭載した初のMacとして新型MacBook Airが発表されたが、13インチMacBook ProにM2チップを搭載したモデルも発表された。 MacBook Airはデザインが刷新され、MagSafeポートが追加。4スピーカーサウンドシステムとフルHDカメラを内蔵し、高速充電に対応するな…\nThe post M2 MacBook Airに圧倒的に見劣りする、M2 MacBook Proという謎 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macbookpro/142176",
+          "publishedOn": "2022-06-06T22:55:54.000Z",
+          "wordCount": 263,
+          "title": "M2 MacBook Airに圧倒的に見劣りする、M2 MacBook Proという謎",
+          "imageUrl": "https://gori.me/uploads/2022/06/WWDC22-2022-Keynote-3936-800x445.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=142174",
+          "author": "g.O.R.i",
+          "description": "Appleは6月7日、WWDC22でMac向けOS「macOS 13 ”Ventura”」を正式発表。対応機種は2017年以降のMacに限定され、macOS MontereyでサポートされていたMac mini （2014）、Mac Pro（2013）、iMac（2015）、MacBook Pro（…\nThe post macOS Venturaの対応機種、2016年以前のMacはサポート対象外に first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macosx/macosventura/142174",
+          "publishedOn": "2022-06-06T22:09:30.000Z",
+          "wordCount": 226,
+          "title": "macOS Venturaの対応機種、2016年以前のMacはサポート対象外に",
+          "imageUrl": "https://gori.me/uploads/2022/06/WWDC22-2022-Keynote-4199-800x445.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=142172",
+          "author": "g.O.R.i",
+          "description": "Appleは6月7日、WWDC22でApple Watch向けOS「watchOS 9」を正式発表。対応機種はApple Watch Series 4以降となっており、Apple Watch Series 3は対象外となった。アップデートには、iOS 16以降を搭載したiPhone 8以降のiPho…\nThe post watchOS 9の対応機種、Series 3がついにサポート対象外に first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/watchos/watchos9/142172",
+          "publishedOn": "2022-06-06T21:55:58.000Z",
+          "wordCount": 212,
+          "title": "watchOS 9の対応機種、Series 3がついにサポート対象外に",
+          "imageUrl": "https://gori.me/uploads/2022/06/WWDC22-2022-Keynote-2497-800x445.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=142162",
+          "author": "g.O.R.i",
+          "description": "Appleは6月7日、WWDC22の基調講演で初披露した「Apple M2チップ」を搭載した新型MacBook Airを発表した。 特徴は、ウェッジ型の筐体を廃止した新デザイン。画面サイズは0.3インチ大きくなり13.6インチのLiquid Retinaディスプレイになり、1080p FaceTim…\nThe post M2 MacBook Air、正式発表。デザインや性能、M1との比較まとめ first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macbookair/142162",
+          "publishedOn": "2022-06-06T21:42:11.000Z",
+          "wordCount": 279,
+          "title": "M2 MacBook Air、正式発表。デザインや性能、M1との比較まとめ",
+          "imageUrl": "https://gori.me/uploads/2022/06/Apple-WWDC22-MacBook-Air-hero-220606-800x533.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=142155",
+          "author": "g.O.R.i",
+          "description": "iOS 16では、Face IDが横向き（ランドスケープ）でも利用可能になる。従来はiPhoneが縦向きでなければ動作せず、横から覗き込むような姿勢では認識されなかった。対応機種は明示されておらず、Face IDを搭載するすべてのiPhoneが利用できるかは不明。なおMacRumorsによると、開発…\nThe post iOS 16、横向きでもFace IDが利用可能に first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ios/ios16/142155",
+          "publishedOn": "2022-06-06T20:57:31.000Z",
+          "wordCount": 226,
+          "title": "iOS 16、横向きでもFace IDが利用可能に",
+          "imageUrl": "https://gori.me/uploads/2022/06/Gori-Using-the-iPhone13Pro-Camera-03-800x534.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=142153",
+          "author": "g.O.R.i",
+          "description": "Appleは6月7日、WWDC22の基調講演後に日本国内におけるMacの販売価格を値上げした。M1 MacBook Airは約2万円、16インチMacBook Proは4.5万円、Mac Studioは2.9万円の値上げが実施されている。値上げの理由は明らかではないが、円安の影響と考えられる。 値上…\nThe post つらい。Macの国内価格、値上げ。最大で数万円 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macbookair/142153",
+          "publishedOn": "2022-06-06T20:29:14.000Z",
+          "wordCount": 263,
+          "title": "つらい。Macの国内価格、値上げ。最大で数万円",
+          "imageUrl": "https://gori.me/uploads/2022/06/WWDC22-2022-Keynote-3225-800x445.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=142139",
+          "author": "g.O.R.i",
+          "description": "Appleは6月7日、WWDC22でiPad向けOS「iPadOS 16」を正式発表。対応機種は、iPad Pro（全モデル）、iPad Air（第3世代以降）、iPad（第5世代以降）、iPad mini（第5世代以降）。iPad mini 4およびiPad Air 2はサポート対象外となった。 …\nThe post iPadOS 16の対応機種、iPad mini 4とiPad Air 2はサポート対象外に first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ipados/ipados16/142139",
+          "publishedOn": "2022-06-06T19:16:14.000Z",
+          "wordCount": 211,
+          "title": "iPadOS 16の対応機種、iPad mini 4とiPad Air 2はサポート対象外に",
+          "imageUrl": "https://gori.me/uploads/2022/06/WWDC22-2022-Keynote-6011-800x446.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=142137",
+          "author": "g.O.R.i",
+          "description": "Appleは6月7日、WWDC22でiPhone向けOS「iOS 16」を正式発表。対応機種はiPhone 8以降のモデルとなっており、iPhone SE（第1世代）、iPhone 6s、iPhone 6s Plus、iPhone 7、iPhone 7 Plusはいずれもアップデート対象外となった。…\nThe post iOS 16の対応機種はiPhone 8以降。iPhone SEやiPhone 7は非対応 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ios/ios16/142137",
+          "publishedOn": "2022-06-06T18:59:48.000Z",
+          "wordCount": 261,
+          "title": "iOS 16の対応機種はiPhone 8以降。iPhone SEやiPhone 7は非対応",
+          "imageUrl": "https://gori.me/uploads/2022/06/WWDC22-2022-Keynote-560-800x446.jpg"
+        },
+        {
           "id": "https://gori.me/?p=142130",
           "author": "g.O.R.i",
           "description": "Apple公式ストアがメンテナンス画面に切り替わっている。メンテナンス画面は「まもなく公開」と表示。英語では「Developing news」となっている。 WWDCでメンテナンス画面の表示は珍しい。2018年から2021年までのWWDCでは用意されていない。2019年にはMac ProおよびPro…\nThe post #WWDC22 開催直前、Apple公式ストアがメンテ画面に切り替え first appeared on ゴリミー.\n\n 【もっと読む】",
@@ -1032,6 +1122,166 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/mobile.xml",
       "siteUrl": "https://www.itmedia.co.jp/mobile/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/07/news213.html",
+          "author": null,
+          "description": "Appleが2022年秋にリリース予定の「iOS 16」では、ロック画面やメッセージ、写真共有だけでなく、文字入力、Safari、マップなどでもアップデートが行われる。文字入力では、音声入力を止めることなくタッチ入力ができる。パスワードに代わる新たに固有のデジタルキー「パスキー」をSafariに導入する。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/07/news213.html",
+          "publishedOn": "2022-06-07T09:41:00.000Z",
+          "wordCount": 488,
+          "title": "iOS 16では音声入力、Safari、マップもアップデート　次世代のCarPlayも",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/07/l_st52693_ios16voice-01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/07/news154.html",
+          "author": null,
+          "description": "NTTドコモは、6月5日に「dポイントクラブクーポン」を拡充。全ランクが利用できるクーポンとして、全国のイオンシネマで毎週火曜日上映の映画チケットを1100円（税込み）で購入できる「ドコモチューズデー」などを提供する。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/07/news154.html",
+          "publishedOn": "2022-06-07T07:11:00.000Z",
+          "wordCount": 443,
+          "title": "「dポイントクラブクーポン」提供開始　毎週火曜日に映画が1100円に",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/07/l_asa_dclubcoupon_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/07/news183.html",
+          "author": null,
+          "description": "「NTTドコモでiPhoneを買ったら箱に記名させられた」――。そんな投稿をSNSで最近よく目にする。NTTドコモを含む携帯電話キャリア広報に具体的な条件や注意点を問い合わせた。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/07/news183.html",
+          "publishedOn": "2022-06-07T07:00:00.000Z",
+          "wordCount": 473,
+          "title": "スマホ契約で箱に記名　ドコモが転売対策　KDDI、ソフトバンク、楽天モバイルは？",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/07/l_rk1640414_docomokddisoftbankrakuten-01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/07/news141.html",
+          "author": null,
+          "description": "エキサイトモバイルは、6月7日に契約者向けスマホアプリ「My エキサイトモバイル」をリリース。データ通信量の確認や速度（高速／低速）の切り替え、データ容量のチャージなどが行える。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/07/news141.html",
+          "publishedOn": "2022-06-07T06:07:00.000Z",
+          "wordCount": 464,
+          "title": "スマホアプリ「My エキサイトモバイル」提供　データ容量確認や速度切替が可能に",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/07/l_asa_exMOBILEMY_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/07/news122.html",
+          "author": null,
+          "description": "Amazonの「Fire TVシリーズ」は、映像投影（キャスト）デバイスとして日本国内でも一定の地位を築いた。ヤマダホールディングスと提携してFire OSを搭載する「Fire TVスマートテレビ」も投入したが、今後日本においてFire TVシリーズはどのように展開されるのだろうか。米Amazonの担当者が語った。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/07/news122.html",
+          "publishedOn": "2022-06-07T03:30:00.000Z",
+          "wordCount": 533,
+          "title": "日本でFire TVシリーズはどんな感じ？　米Amazon担当者に聞いた",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/07/l_si7101-AM-01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/07/news125.html",
+          "author": null,
+          "description": "中古スマートフォンのECサイト「にこスマ」が、2022年5月の中古スマホ／機種別販売数のランキングを発表。「iPhone 8」が14カ月連続で1位を獲得した一方で「AQUOS R3」や「AQUOS sense3」もランクインしている。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/07/news125.html",
+          "publishedOn": "2022-06-07T02:55:00.000Z",
+          "wordCount": 457,
+          "title": "iPhone 8が14カ月連続で1位、AQUOSシリーズも急上昇　にこスマの5月中古スマホランキング",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/07/l_asa_Belong202205_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/07/news117.html",
+          "author": null,
+          "description": "Googleが6月の月例セキュリティ情報を公開し、パッチの配信を開始した。Androidでは41件の、Pixelでは79件の脆弱性が修正される。Pixelでは多数の問題修正や改善も行われる。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/07/news117.html",
+          "publishedOn": "2022-06-07T02:03:00.000Z",
+          "wordCount": 529,
+          "title": "AndroidとPixelに6月の月例更新　Pixelでは多数の改善も",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/07/cover_news117.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/07/news106.html",
+          "author": null,
+          "description": "Appleは7日、USB Type-Cポートを2基搭載し、2台の機器を同時に充電できるUSB-AC充電器を発表した。コンセント折りたたみ型と海外プラグ対応型と2製品で、価格はどちらも7800円（税込み）。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/07/news106.html",
+          "publishedOn": "2022-06-07T01:09:00.000Z",
+          "wordCount": 469,
+          "title": "AppleがType-Cポート2基搭載の充電器を近日発売　7800円",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/07/l_ti583156_appleac_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/07/news105.html",
+          "author": null,
+          "description": "米Appleが6月6日（現地時間）に開発者向けカンファレンス「WWDC22」で発表した「iOS 16」「iPadOS 16」「watchOS 9」の概要をまとめた。iOS 16はロック画面が大幅にアップデート。iPadOS 16はmacOSに近い形態で使えるようになる。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/07/news105.html",
+          "publishedOn": "2022-06-07T00:30:00.000Z",
+          "wordCount": 531,
+          "title": "WWDC22で発表された「iOS 16」「iPadOS 16」「watchOS 9」を5分でおさらい",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/07/l_rk1640414_iPadiOS16-01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/07/news101.html",
+          "author": null,
+          "description": "Appleは“iPhoneをMacのWebカメラにする”新機能を発表した。2022年秋に配信予定のMac向けの新OS「macOS Ventura」の機能の1つとして提供される",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/07/news101.html",
+          "publishedOn": "2022-06-07T00:30:00.000Z",
+          "wordCount": 496,
+          "title": "iPhoneをMacのWebカメラにする機能「macOS Ventura」で搭載へ",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/07/l_ti583156_ccamera_01.png"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/07/news095.html",
+          "author": null,
+          "description": "AppleはWWDC 2022で、スマートホーム共通規格「Matter」に今秋対応すると発表した。MatterはGoogleやAmazonも対応する予定の接続規格。クロスプラットホームでのスマートホーム端末の管理が可能になる。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/07/news095.html",
+          "publishedOn": "2022-06-06T23:23:00.000Z",
+          "wordCount": 466,
+          "title": "Apple、スマートホーム共通接続規格「Matter」に今秋対応　AmazonやGoogleの端末も操作可能に",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/07/cover_news095.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/07/news087.html",
+          "author": null,
+          "description": "Appleは7日、iPad向けの新OS「iPadOS 16」を発表した。新たなマルチタスク管理機能「ステージマネージャ」を導入。ウィンドウ形式でのアプリの表示や、外部ディスプレイ接続時のデスクトップの拡張など、よりmacOSに近い形態での利用が可能となる。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/07/news087.html",
+          "publishedOn": "2022-06-06T21:48:00.000Z",
+          "wordCount": 540,
+          "title": "「iPadOS 16」発表　複数ウィンドウや外部モニター、「取り消し・やり直し」操作も",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/07/cover_news087.png"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/07/news076.html",
+          "author": null,
+          "description": "Appleが、2022年秋に配信予定の「iOS 16」で、米国向けに「Apple Payで後払い」を提供する。Apple Payで支払うと、6週間にわたって4回払いでの分割払いが可能になる。後払いは、Apple Payが使える場所なら、実店舗でもオンラインでも利用できる。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/07/news076.html",
+          "publishedOn": "2022-06-06T19:56:00.000Z",
+          "wordCount": 469,
+          "title": "iOS 16では「Apple Payで後払い」が利用可能に　米国で提供",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/07/l_st52693_appp-01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/07/news075.html",
+          "author": null,
+          "description": "Appleは7日、「iOS 16」を正式に発表。2022年秋に一般提供を開始すると案内した。iPhone 8以降のモデルが対象となり、iPhone 7や初代iPhone SEはアップデート対象から外れた",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/07/news075.html",
+          "publishedOn": "2022-06-06T19:24:00.000Z",
+          "wordCount": 559,
+          "title": "「iOS 16」はiPhone 8以降が対象　iPhone 6s／7と初代SEは外れる",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/07/l_ti583156_ios16_03.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/07/news073.html",
+          "author": null,
+          "description": "Apple Watch用の「watchOS」に新バージョンが登場する。ワークアウト機能や心電図計測機能などにアップデートが施される他、服薬をスマートに促す新アプリも実装される。パブリックβ版は7月に、製品版は2022年秋にリリースされる予定だ。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/07/news073.html",
+          "publishedOn": "2022-06-06T19:00:00.000Z",
+          "wordCount": 503,
+          "title": "装着するだけで健康に――Appleが「watchOS 9」を発表　ワークアウト機能を強化　服薬を促す機能も",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/07/l_si7101-WOS-00.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/07/news072.html",
+          "author": null,
+          "description": "米Appleは6月6日（現地時間）、開発者向けカンファレンス「WWDC22」にて、iPhone向けの新OS「iOS 16」を発表した。ロック画面を大幅に刷新。壁紙の人物に奥行きを与えたり、予定→天気のウィジェットを表示したりできる。最大6人のユーザーが写真を追加、編集できる「iCloud共有写真ライブラリ」も提供する。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/07/news072.html",
+          "publishedOn": "2022-06-06T18:53:00.000Z",
+          "wordCount": 496,
+          "title": "「iOS 16」発表　iPhoneのロック画面に「過去最大のアップデート」",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/07/l_st52693_ios16-01.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/mobile/articles/2206/06/news187.html",
           "author": null,
@@ -2628,16 +2878,6 @@
           "wordCount": 200,
           "title": "統合テスト vs 単体テスト、なぜ統合テストの方が重要なのか――CoderPadが解説",
           "imageUrl": "https://image.itmedia.co.jp/ait/articles/2205/09/240_news033.jpg"
-        },
-        {
-          "id": "https://atmarkit.itmedia.co.jp/ait/articles/2205/09/news012.html",
-          "author": null,
-          "description": "海外の先進的企業の事例を基にテスト自動化に使われる手法を解説する本連載。第2回は、Netflixが考案したテスト手法「カオスエンジニアリング」について。",
-          "link": "https://atmarkit.itmedia.co.jp/ait/articles/2205/09/news012.html",
-          "publishedOn": "2022-05-08T20:00:00.000Z",
-          "wordCount": 167,
-          "title": "Netflix考案のテスト「カオスエンジニアリング」を探る――システムのあらゆる部分を“壊す”、そのメリットとは",
-          "imageUrl": "https://image.itmedia.co.jp/ait/articles/2205/09/cover_news012.png"
         }
       ]
     },
@@ -2646,6 +2886,296 @@
       "feedUrl": "https://k-tai.watch.impress.co.jp/data/rss/1.0/ktw/feed.rdf",
       "siteUrl": "https://k-tai.watch.impress.co.jp",
       "articles": [
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415305.html",
+          "author": null,
+          "description": "総務省は7日、「競争ルールの検証に関するWG（第32回）」をオンラインで開催した。本稿では、同WGで開示された資料のうち、「いわゆる『転売ヤー』対策について」に焦点を当てて紹介する。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415305.html",
+          "publishedOn": "2022-06-07T10:02:37.000Z",
+          "wordCount": 100,
+          "title": "“転売ヤー”対策に関する議論の内容は？　総務省のWG",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/305/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415298.html",
+          "author": null,
+          "description": "金子恭之総務大臣は、7日の閣議後記者会見で、国立公園の携帯電話基地局整備について言及した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415298.html",
+          "publishedOn": "2022-06-07T09:39:15.000Z",
+          "wordCount": 88,
+          "title": "金子総務大臣、国立公園の携帯電話基地局整備について言及",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/298/cont1_l.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415258.html",
+          "author": null,
+          "description": "米アップル（Apple）は、イベント「WWDC 2022」でデベロッパー向けの最新ツールやテクノロジー、APIを発表した。アプリ開発ツールXcodeの新要素やゲーム機能の強化、天気予報データを利用できるAPIなどが発表された。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415258.html",
+          "publishedOn": "2022-06-07T08:24:18.000Z",
+          "wordCount": 132,
+          "title": "Apple、WWDC 2022で開発ツールの新要素を発表――Xcodeサブスク版やゲーム機能強化など",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/258/cont1.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415262.html",
+          "author": null,
+          "description": "総務省は7日、「競争ルールの検証に関するWG（第32回）」をオンラインで開催した。本稿では、同WGで開示された資料のうち、「『一部ゼロ円』料金プランと価格圧搾の関係」に焦点を当てて紹介する。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415262.html",
+          "publishedOn": "2022-06-07T08:18:00.000Z",
+          "wordCount": 129,
+          "title": "KDDIの「povo 2.0」や楽天の“0円プラン”は、適正な料金と言えるか？　総務省のWG",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/262/001.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415132.html",
+          "author": null,
+          "description": "グーグル（Google）は、同社のスマートフォン「Pixel」シリーズを対象とした6月のアップデートを紹介している。なお、アップデートはPixel 4～Pixel 6、Pixel 6 Proが対象で、すでに提供が始まった。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415132.html",
+          "publishedOn": "2022-06-07T04:14:20.000Z",
+          "wordCount": 124,
+          "title": "グーグル「Pixel」シリーズの6月アップデート、自分だけのコンテンツを作れる機能など",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/132/screenshot_01.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415130.html",
+          "author": null,
+          "description": "米アップル（Apple）は、macOSの最新バージョンとして「macOS Ventura」を発表した。「ステージマネージャ」「連係カメラ」などの新機能を搭載する。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415130.html",
+          "publishedOn": "2022-06-07T03:32:23.000Z",
+          "wordCount": 127,
+          "title": "アップル、「macOS Ventura」を発表――“ステージマネージャ”などの新機能",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/130/3up-addl-features-220606.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415117.html",
+          "author": null,
+          "description": "米アップル（Apple）は、M1チップ搭載の「MacBook Air」について、価格改定を実施した。Amazon.co.jpや一部家電量販店では、値上げ前の旧価格で販売が継続している。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415117.html",
+          "publishedOn": "2022-06-07T03:04:23.000Z",
+          "wordCount": 102,
+          "title": "M1搭載「MacBook Air」が値上げ、Amazon.co.jpなどでは旧価格で販売中",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/117/cont1.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415049.html",
+          "author": null,
+          "description": "アップルは、WWDC 2022においてiPhoneをMacのWebカメラとして使える機能「Continuity Camera」（連係カメラ）を公開した。連係カメラ専用スタンドは2022年後半に発売の予定。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415049.html",
+          "publishedOn": "2022-06-06T23:18:10.000Z",
+          "wordCount": 104,
+          "title": "アップル、iPhoneをMacのWebカメラにできる「連係カメラ」機能",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/049/04.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/review/iphonetips/1415048.html",
+          "author": null,
+          "description": "アップルは現地時間6月6日（日本時間6月7日2時）、毎年恒例の開発者会議WWDCの冒頭基調講演で今年登場予定の次期OSを発表した。新デバイスとしては新発表となるM2チップを搭載するMacBook Airと13インチMacBook Proも発表されている。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/review/iphonetips/1415048.html",
+          "publishedOn": "2022-06-06T22:59:00.000Z",
+          "wordCount": 300,
+          "title": "[iPhone駆け込み寺]7日のアップル「WWDC 2022」まとめ、iOS 16/iPadOS 16発表、注目の新機能32選!!",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/048/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415047.html",
+          "author": null,
+          "description": "アップルは、WWDC 2022において次世代の「Apple CarPlay」の一部を公開した。搭載する自動車は2023年後半に発表されるという。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415047.html",
+          "publishedOn": "2022-06-06T22:45:55.000Z",
+          "wordCount": 108,
+          "title": "アップル、次世代「Apple CarPlay」を一部公開",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/047/010.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415046.html",
+          "author": null,
+          "description": "米アップル（Apple）は、2022年秋にリリース予定の「iPadOS 16」で、M1チップ搭載のiPad ProとiPad Airがステージマネージャに対応することを発表した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415046.html",
+          "publishedOn": "2022-06-06T22:18:24.000Z",
+          "wordCount": 105,
+          "title": "M1チップ+iPadOS 16、ウィンドウ重ねやサイズ変更をサポート",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/046/main.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415044.html",
+          "author": null,
+          "description": "アップルは、WWDC 2022で発表した「iPadOS 16」と「watchOS 9」について、それぞれの対応機種を明らかにした。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415044.html",
+          "publishedOn": "2022-06-06T21:41:59.000Z",
+          "wordCount": 124,
+          "title": "アップル、iPadOS 16とwatchOS 9の対応機種を発表",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/044/sub.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415043.html",
+          "author": null,
+          "description": "米アップル（Apple）は、開発者向けイベント「WWDC22」で、2022年秋にリリースを予定している「iOS 16」を紹介した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415043.html",
+          "publishedOn": "2022-06-06T21:24:40.000Z",
+          "wordCount": 104,
+          "title": "iOS 16、音声入力中もタッチキーが有効に、句読点の自動挿入も",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/043/02.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415042.html",
+          "author": null,
+          "description": "アップルは、WWDC 2022において「iPadOS 16」を発表した。今秋にもiPad（第5世代以降）、iPad mini（第5世代以降）、iPad Air（第3世代以降）、iPad Proに提供される。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415042.html",
+          "publishedOn": "2022-06-06T21:22:06.000Z",
+          "wordCount": 133,
+          "title": "アップル、「iPadOS 16」を発表――マルチタスクやSafariなどでアップデート",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/042/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415029.html",
+          "author": null,
+          "description": "アップルは、開発者向けイベント「WWDC 2022」の基調講演で、同社のWebブラウザ「Safari」の新機能「パスキー」を発表した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415029.html",
+          "publishedOn": "2022-06-06T21:08:46.000Z",
+          "wordCount": 102,
+          "title": "Safariの新機能「パスキー」、iPhone、iPad、Macでパスワード要らずのログインを実現",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/029/23.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/1414558.html",
+          "author": null,
+          "description": "今週のコミックランキングトップは、アニメ放送中『アオアシ（28）』、プロ選手へ……勝負の3日間！　2位は『空母いぶきGREAT GAME（7）』、国籍不明の武装勢力に侵攻される北海道！   書籍ランキング2位は『清明―隠蔽捜査8―』、人気シリーズ第二章が開幕です。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/1414558.html",
+          "publishedOn": "2022-06-06T21:00:00.000Z",
+          "wordCount": 111,
+          "title": "[電子書籍人気ランキング] 電子書籍人気ランキング（5月27日～6月2日）",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/include/common/p01/images/logo/ktw.l.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415038.html",
+          "author": null,
+          "description": "アップルは、独自のSoCであるApple Siliconの新バージョン「M2」を搭載するMacBook Airを発表した。あわせて13インチのMacBook Proにも搭載される。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415038.html",
+          "publishedOn": "2022-06-06T19:46:22.000Z",
+          "wordCount": 139,
+          "title": "アップル、M2チップ搭載のMacBook Airを発表",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/038/02.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415032.html",
+          "author": null,
+          "description": "アップルは、WWDC 2022において「watchOS 9」を発表した。Apple Watch Series 4以降に向けて今秋にも提供される。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415032.html",
+          "publishedOn": "2022-06-06T19:38:17.000Z",
+          "wordCount": 134,
+          "title": "アップル、「watchOS 9」を発表――睡眠ステージ判定や服薬サポートなど",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/032/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415030.html",
+          "author": null,
+          "description": "アップルは、同社独自のチップ（SoC）であるApple Siliconの第2世代にあたる「M2」を発表した。搭載製品として、Macbook Air、MacBook Proもあわせて発表されている。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415030.html",
+          "publishedOn": "2022-06-06T18:40:55.000Z",
+          "wordCount": 114,
+          "title": "アップル、Apple Silicon第2世代の「M2」チップを発表",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/030/07.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415026.html",
+          "author": null,
+          "description": "米Apple（アップル）は、「WWDC22」で「iOS 16」に含まれる、ファミリー共有機能のアップデートの内容を発表した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415026.html",
+          "publishedOn": "2022-06-06T18:36:14.000Z",
+          "wordCount": 108,
+          "title": "iOS 16、子どもの\"もっとゲームさせて\"をリモート承認可能に",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/026/main.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415025.html",
+          "author": null,
+          "description": "アップルは、WWDC 2022において「iOS 16」を今秋にも「iPhone 8」以降のデバイスに提供すると発表した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415025.html",
+          "publishedOn": "2022-06-06T18:09:43.000Z",
+          "wordCount": 112,
+          "title": "「iOS 16」はiPhone 8以降に提供へ、今秋予定",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/025/03.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415021.html",
+          "author": null,
+          "description": "アップルは、WWDC22において「iOS 16」を発表した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415021.html",
+          "publishedOn": "2022-06-06T17:56:58.000Z",
+          "wordCount": 191,
+          "title": "アップル、「iOS 16」を発表",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/021/sub.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415022.html",
+          "author": null,
+          "description": "米Apple（アップル）は、開発者向けイベント「WWDC22」を開催し、「iOS 16」で、ロック画面に「史上最大のアップデート」を実施する。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415022.html",
+          "publishedOn": "2022-06-06T17:24:43.000Z",
+          "wordCount": 103,
+          "title": "iOS 16、ロック画面に\"史上最大のアップデート\"",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/022/01.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1414958.html",
+          "author": null,
+          "description": "KDDIと福島県ハイテクプラザは共同研究契約を締結し、2022年6月下旬から、混雑時や電波が届きづらい場所での5G通信品質がロボット遠隔制御にどのような影響を与えるか検証する実証実験を行う。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1414958.html",
+          "publishedOn": "2022-06-06T15:00:00.000Z",
+          "wordCount": 91,
+          "title": "KDDI、福島県ハイテクプラザと5Gがロボット遠隔制御に与える影響を検証",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1414/958/p_index_p573_01.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/minna/1414949.html",
+          "author": null,
+          "description": "モバイルバッテリーやBluetoothスピーカーなど、幅広い製品を展開しているアンカー（Anker）。シンプルなデザインや使いやすさが気に入って、筆者も多数の製品を愛用しています。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/1414949.html",
+          "publishedOn": "2022-06-06T15:00:00.000Z",
+          "wordCount": 115,
+          "title": "[みんなのケータイ]アンカーのイヤホンを買って、「交換サービス」を初めて利用してみました",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1414/949/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1414928.html",
+          "author": null,
+          "description": "NTTドコモと日本電信電話（NTT）は、富士通、日本電気（NEC）、ノキア（Nokia）の3社と第6世代移動通信方式（6G）に関する実証実験で協力することに合意した。2030年頃のサービス提供開始をめざす。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1414928.html",
+          "publishedOn": "2022-06-06T15:00:00.000Z",
+          "wordCount": 90,
+          "title": "NTTドコモ、富士通やNEC、ノキアと6Gに関する実証実験で協力",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1414/928/06_00-3.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1414883.html",
+          "author": null,
+          "description": "サントリーの天然水スパークリング、500ミリリットル24本入りのダンボールをAmazonの定期便で3週間に一度配達してもらっているものの、2週間以内に飲みきるので配送ペースを上げようかと思っているくらい無糖炭酸好きな筆者。そんなわけで、タイガー魔法瓶の「真空断熱炭酸ボトル」は当然ながら買わずにはいられなかった。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1414883.html",
+          "publishedOn": "2022-06-06T15:00:00.000Z",
+          "wordCount": 108,
+          "title": "[本日の一品]やったぞ！ ついに冷たい炭酸がいつでも飲める！　タイガーの「真空断熱炭酸ボトル」",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1414/883/001.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/mca/1414842.html",
+          "author": null,
+          "description": "通信キャリア各社の2022年1～3月期決算が5月中旬までに出揃った。そこで各社の主要数値をグラフ化し比較していく。初回は契約数と解約率に焦点を当てる。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/mca/1414842.html",
+          "publishedOn": "2022-06-06T15:00:00.000Z",
+          "wordCount": 96,
+          "title": "[DATAで見るケータイ業界] 携帯契約数、1～3月期はドコモとソフトバンクが90万前後の増加を示す",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1414/842/20220604_1.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1414785.html",
+          "author": null,
+          "description": "KDDIとリバーフィールド、ソリトンシステムズは5G SAなどを活用した遠隔医療の実証実験を実施した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1414785.html",
+          "publishedOn": "2022-06-06T15:00:00.000Z",
+          "wordCount": 101,
+          "title": "5G SAを活用した手術支援ロボットの実証実験、KDDIなど3社",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1414/785/sub.jpg"
+        },
         {
           "id": "https://k-tai.watch.impress.co.jp/docs/news/1415015.html",
           "author": null,
@@ -5373,6 +5903,366 @@
       "feedUrl": "https://www.gizmodo.jp/index.xml",
       "siteUrl": "https://www.gizmodo.jp",
       "articles": [
+        {
+          "id": "https://www.gizmodo.jp/2022/06/abbott-freestyle-libre-3.html",
+          "author": "巽英俊",
+          "description": "糖尿病や心疾患患者のための医薬品、治療・診断機器を製造販売しているAbbott（アボット）は、同社の糖尿病患者向け連続血糖測定器（CGM）システム「FreeStyle Libre 3」が、このたび米国食品医薬品局（FDA）の認可を取得したと発表しました。",
+          "link": "https://www.gizmodo.jp/2022/06/abbott-freestyle-libre-3.html",
+          "publishedOn": "2022-06-07T12:00:00.000Z",
+          "wordCount": 112,
+          "title": "血糖値もスマートデバイスが知らせてくれる時代。「FreeStyle Libre 3」で正しく血糖値管理を",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/FSL3-960x430-v2.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/FSL3-960x430-v2.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/mercari-eco-pack.html",
+          "author": "巽英俊",
+          "description": "無駄な梱包材を減らすべく、フリマアプリの大手メルカリが立ち上がりました。繰り返して利用でき、返却も可能な梱包材「メルカリエコパック」の提供を開始したのです。",
+          "link": "https://www.gizmodo.jp/2022/06/mercari-eco-pack.html",
+          "publishedOn": "2022-06-07T11:00:00.000Z",
+          "wordCount": 100,
+          "title": "メルカリの再生可能梱包材、使用促進の仕組みをプラスして帰ってきた！ 商品を送るのもサステナブルなほうがいい",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/6f7f4219-ep_image5-1.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/6f7f4219-ep_image5-1.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/with_timcook_victory.html",
+          "author": "尾田和実",
+          "description": "ギズモード・ジャパン編集長がアップルCEOのティム・クックとの2ショットに成功！ その一部始終を本人手記にてお教えします。",
+          "link": "https://www.gizmodo.jp/2022/06/with_timcook_victory.html",
+          "publishedOn": "2022-06-07T10:30:00.000Z",
+          "wordCount": 116,
+          "title": "【編集長独占手記】私がアップルCEOティム・クックとの2ショットに成功した理由 #WWDC22",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/kaz_and_cook.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/kaz_and_cook.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/amazon-timesale-2022-0607-1.html",
+          "author": "メディアジーンメディアコマース",
+          "description": "Amazon（アマゾン）で毎日開催されているタイムセール。本日2022年6月7日は、ベッドでも床でも使える「西川の除湿シート」が32%オフ、山善のタワーファンが7,990円など、今すぐ欲しい人気のアイテムがお得に多数登場しています。",
+          "link": "https://www.gizmodo.jp/2022/06/amazon-timesale-2022-0607-1.html",
+          "publishedOn": "2022-06-07T09:45:00.000Z",
+          "wordCount": 298,
+          "title": "【Amazonタイムセール中！】ベッドでも床でも使える除湿シートが32%オフ、山善のタワーファンが7,990円など",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/81dBscsUDIS._AC_SL1500_.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/81dBscsUDIS._AC_SL1500_.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/apple-vr-ar-wwdc-2022.html",
+          "author": "satomi",
+          "description": "Apple（アップル）のAR／VR／XRヘッドセットは今年も噂で終わってしまい、期待して待っていた人たちからは「またナシだったか…」「がっかりだ」という声が早くも上がっています。",
+          "link": "https://www.gizmodo.jp/2022/06/apple-vr-ar-wwdc-2022.html",
+          "publishedOn": "2022-06-07T09:00:00.000Z",
+          "wordCount": 127,
+          "title": "また発表なし。アップルのVR／ARヘッドセット、なぜこんなにのんびりしてるの？ #WWDC22",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/20220606VRGoogle_rendering.jpeg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/20220606VRGoogle_rendering.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/wwdc22-redlist.html",
+          "author": "そうこ",
+          "description": "ソフトウェアやハードウェア、技術が進化していけば、今ある何かの存在意義が脅かされることもあります。今すぐなくなることはなくても、いつか振り返ったときに、アレがきっかけで衰退が始まったということはあるはず。",
+          "link": "https://www.gizmodo.jp/2022/06/wwdc22-redlist.html",
+          "publishedOn": "2022-06-07T09:00:00.000Z",
+          "wordCount": 119,
+          "title": "WWDC 2022で「Appleが撃退するもの」リスト",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/Applefes2.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/Applefes2.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/rakuten-sale-2022-0607-1.html",
+          "author": "メディアジーンメディアコマース",
+          "description": "楽天市場では、200万点以上が半額以下になるイベント ｢楽天スーパーSALE｣ を2022年6月11日（土）1時59分まで開催中。\n\n現在、スノーピーク×マキタのハイパワー扇風機、シロカの全自動コーヒーメーカーなど、お得な商品が多数登場しています。楽天スーパーSALEでは、 ｢ショップ買いまわり｣ にエントリーするとポイントが最大10倍。",
+          "link": "https://www.gizmodo.jp/2022/06/rakuten-sale-2022-0607-1.html",
+          "publishedOn": "2022-06-07T08:55:00.000Z",
+          "wordCount": 340,
+          "title": "【楽天スーパーSALE】スノーピーク×マキタのハイパワー扇風機、シロカの全自動コーヒーメーカーなどがセールに！",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/0000000922591_r1_06.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/0000000922591_r1_06.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/alienware-m15-r7.html",
+          "author": null,
+          "description": "Image:ギズモード・ジャパン編集部最短ルートでミニマルにゲームを楽しめ。PCゲームをする上で欠かせないのが、ハイスペックなゲーミングPC。ただ、PC本体から周辺機器まで全部を選んでそろえるとなるとけっこう大変。ハイスペックなPC本体（CPUにGPUにメモリに電源…）、最適な外部ディスプレイ、ゲーミング用のキーボードなどなど…デバイス選びに時間がかかってしまって肝心のゲームをする時間を確保できな",
+          "link": "https://www.gizmodo.jp/2022/06/alienware-m15-r7.html",
+          "publishedOn": "2022-06-07T08:00:00.000Z",
+          "wordCount": 95,
+          "title": "ゲームに必要なもの、全て詰まってます。妥協なきスペックのゲーミングラップトップPC「Alienware m15 R7」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/23/alienware_m15_main.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/23/alienware_m15_main.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/four-day-workweek-experiment.html",
+          "author": "湯木進悟",
+          "description": "もっと仕事の休みは増えてほしい。でも給料は減らさないでほしい。そんな願いって、本当にかなうのでしょうか？このほどNPOの4 Day Week Globalが、イギリスで全70社3,300人以上の従業員が参加する、世界最大規模の週休3日制度のパイロットプログラムを、半年にわたって実施していることが明らかになりましたよ。",
+          "link": "https://www.gizmodo.jp/2022/06/four-day-workweek-experiment.html",
+          "publishedOn": "2022-06-07T07:00:00.000Z",
+          "wordCount": 102,
+          "title": "夢が現実になるかも!?給料そのまま週休3日制度、世界最大規模でテスト中",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/005.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/005.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/earth-hits-record-carbon-dioxide-levels.html",
+          "author": "Kenji P. Miyajima",
+          "description": "アメリカ海洋大気庁（NOAA）によると、大気中の二酸化炭素濃度が産業革命前（280 ppm）と比べて50％以上高くなったようです。この数値は、過去数百万年で最高なのだとか。",
+          "link": "https://www.gizmodo.jp/2022/06/earth-hits-record-carbon-dioxide-levels.html",
+          "publishedOn": "2022-06-07T06:00:00.000Z",
+          "wordCount": 113,
+          "title": "地球どうなる？ 大気中の二酸化炭素濃度が数百万年で最高に…",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/2022-06-04_EarthHitsRecordCarbonDioxideLevels_01_Top.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/2022-06-04_EarthHitsRecordCarbonDioxideLevels_01_Top.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/king-jim-pouzoo.html",
+          "author": "中川真知子",
+          "description": "勉強にも仕事で疲れたときに、ふわふわもこもこのものを触るとホッとしませんか？　でも、私はデスク周りはできるだけシンプルにしておきたいんですよね。だから、癒しグッズを置くとしても、愛でる以上の要素が欲しい。そしたら見つけました。ぬいぐるみのポーチですって。",
+          "link": "https://www.gizmodo.jp/2022/06/king-jim-pouzoo.html",
+          "publishedOn": "2022-06-07T05:15:00.000Z",
+          "wordCount": 100,
+          "title": "「癒し」を持ち運ぶ。スマホスタンドにもなるペンポーチがかわいい",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/pouzoo_main_im01.jpeg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/pouzoo_main_im01.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/fujifilm-x-h2s.html",
+          "author": "ヤマダユウス型",
+          "description": "富士フイルムの製品発表会「X Summit OMIYA 2022」が先日開催され、最新のミラーレスカメラ「X-H2S」をはじめ、さまざまな激アツ情報が発表されました。ここまで大人気無さ全開の本気カメラが出たのは久しぶりですねぇ…！",
+          "link": "https://www.gizmodo.jp/2022/06/fujifilm-x-h2s.html",
+          "publishedOn": "2022-06-07T03:25:00.000Z",
+          "wordCount": 112,
+          "title": "ブラックアウトフリーの40コマ連写て…。富士フイルムからモンスターAPS-C「X-H2S」発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/220607xh2s_01.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/220607xh2s_01.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/msi-titan-gt77.html",
+          "author": "山田ちとら",
+          "description": "フラッグシップシリーズ「Titan GT」シリーズ最新作、Titan GT77 12UHS/12UGSが発表されました。2019年のTitan GT76以来のアップデートとなり、司会者が「王の帰還」と表現していたのが印象的でした。MSIによれば前作と比べてパフォーマンスは200％アップ、薄さは半分になったとのこと。これは確かに「キング」の貫禄。",
+          "link": "https://www.gizmodo.jp/2022/06/msi-titan-gt77.html",
+          "publishedOn": "2022-06-07T01:30:00.000Z",
+          "wordCount": 131,
+          "title": "「キング」再来。MSIが貫禄のゲームノート「TITAN GT77」を発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/220607_msititan_top.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/220607_msititan_top.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/254937-machi-ya-elusefor-review.html",
+          "author": "山田洋路",
+          "description": "「eLusefor」はスマホにマグネットで取り付けられるコンパクトな財布です。MagSafeマホなら、そのまま脱着可能。銀行カード、ID、名刺、お札、小銭用に6つのスロットがあります。",
+          "link": "https://www.gizmodo.jp/2022/06/254937-machi-ya-elusefor-review.html",
+          "publishedOn": "2022-06-07T00:45:00.000Z",
+          "wordCount": 102,
+          "title": "マグネットでスマホと一体化する極薄ミニマル財布「eLusefor」を使ってみた",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/01/eLusefor00.png"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/01/eLusefor00.png"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/wwdc2022-craig.html",
+          "author": "そうこ",
+          "description": "WWDCといえば、クレイグ・フェデリギ上級副社長です。ソフトウェアエンジニアリング担当なのでWWDCは出ずっぱり、CEOのティム・クック氏を超えてメインをはっています。毎年、ちょいちょい小ネタを挟んでくるのがフェデリギスタイルですが、今年は特にファン向け（？）にサービスカットが多かったのでまとめました。",
+          "link": "https://www.gizmodo.jp/2022/06/wwdc2022-craig.html",
+          "publishedOn": "2022-06-06T23:45:00.000Z",
+          "wordCount": 99,
+          "title": "テック界のファンサ王！ クレイグ・フェデリギのWWDC2022サービスカットまとめ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/220607federighi.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/220607federighi.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/wwdc22-newmacbookair.html",
+          "author": "はらいさん",
+          "description": "WWDC 2022でついに発表された新型MacBook Air。M2チップを搭載し、MagSafeも採用され、カラーバリエーションも全4色展開に増えるなど、嬉しいアップデートを遂げた最新モ",
+          "link": "https://www.gizmodo.jp/2022/06/wwdc22-newmacbookair.html",
+          "publishedOn": "2022-06-06T22:25:00.000Z",
+          "wordCount": 105,
+          "title": "新型MacBook Airはこんな感じ。現地から実機画像をお届けします！#WWDC22",
+          "enclosure": {
+            "length": "0",
+            "type": "image/gif",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/M2MBA.gif"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/M2MBA.gif"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/wwdc-2022-m2.html",
+          "author": "福田ミホ",
+          "description": "本日AppleがWWDCで発表した新MacBook AirとMacBook Pro、そこに搭載されるチップはAppleシリコン第2世代、M2です。M2は先代のM1と同じプラットフォームで構築されつつ、処理速度やメモリ帯域幅を向上させてます。って、まだハンズオンできてないんですけど、少なくともAppleはそういってます。",
+          "link": "https://www.gizmodo.jp/2022/06/wwdc-2022-m2.html",
+          "publishedOn": "2022-06-06T22:05:00.000Z",
+          "wordCount": 115,
+          "title": "Appleシリコン2期生・M2の実力やいかに？今年のWWDCでわかったこと #WWDC22",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/220606_m2summary1.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/220606_m2summary1.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/255141.html",
+          "author": "小暮ひさのり",
+          "description": "本日のWWDC22ではiOSもiPadOSも、watchOSも大きな新機能が発表されましたが、皆さんお忘れではないですか？ ティムすら触れていなかったけど、Apple TV用の「tvOS16」も出ます。",
+          "link": "https://www.gizmodo.jp/2022/06/255141.html",
+          "publishedOn": "2022-06-06T22:00:00.000Z",
+          "wordCount": 104,
+          "title": "一言も触れられなかったけど「tvOS 16」もちゃんと出ます #WWDC22",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/2022-06-07tvk00.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/2022-06-07tvk00.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/255142.html",
+          "author": "ヤマダユウス型",
+          "description": "image:Apple最先端のこのマシン、改めて振り返っておきましょう。WWDC2022にて発表された、新しいMacBookAir。主なトピックはなんといってもM2チップの搭載でしょう。小さく薄いAirなのに中身はめちゃんこパワフルっていうギャップ、萌えですわ。むしろ燃えですわ。まずは実機の写真と動画をみてくれこれがMacBookAirの新色｢ミッドナイト｣だ！現地から実機の写真と動画をお届けしま",
+          "link": "https://www.gizmodo.jp/2022/06/255142.html",
+          "publishedOn": "2022-06-06T22:00:00.000Z",
+          "wordCount": 140,
+          "title": "新型M2 MacBook Airについて知っておくべきことまとめ #WWDC22",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/ScreenShot2022-06-07at3.06.51.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/ScreenShot2022-06-07at3.06.51.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/wwdc22_new-os-functions.html",
+          "author": "塚本直樹",
+          "description": "昨晩アップル（Apple）が開催したイベント「WWDC22」、皆さんは見ましたか？ 「そんな夜遅くまで、起きていられないよ」って人のほうが、多いかもしれません。そんなあなたのために、この記事ではWWDC22にて発表された新OSの機能を、だいたいまとめてみました。",
+          "link": "https://www.gizmodo.jp/2022/06/wwdc22_new-os-functions.html",
+          "publishedOn": "2022-06-06T21:55:00.000Z",
+          "wordCount": 111,
+          "title": "【すぐ読める】アップルの新OSの機能、ここを見ればだいだいOK #WWDC22",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/ScreenShot2022-06-07at2.06.57-1.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/ScreenShot2022-06-07at2.06.57-1.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/watchos-9-wwdc22.html",
+          "author": "はらいさん",
+          "description": "Image:Apple嬉しい日本向けアップデートの1つ。新しいウォッチフェイスの追加に加え、ワークアウトアプリが強化されたwatchOS9ですが、密かにキーボード入力もアップデートされていました。Image:ApplewatchOS9の新機能まとめ画像の左側をよく見てみると、ありました。日本語の姿が。嬉しいことに、watchOS9ではキーボード入力が日本語に対応。（これで腕に向かって喋る機会が減ら",
+          "link": "https://www.gizmodo.jp/2022/06/watchos-9-wwdc22.html",
+          "publishedOn": "2022-06-06T21:48:00.000Z",
+          "wordCount": 101,
+          "title": "watchOS 9は日本語入力機能がパワーアップ。もう声は出さなくても大丈夫 #WWDC22",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/Apple-WWDC22-watchOS-9-hero-220606.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/Apple-WWDC22-watchOS-9-hero-220606.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/ios16-iphone-haptic-feedback.html",
+          "author": "小暮ひさのり",
+          "description": "WWDC 22ではiOS 16のさまざまな新機能が発表されましたが、発表会では触れられなかった、でも便利そうなアップデートもたくさんあるみたい。たとえば、キーボードの触覚フィードバックもそのひとつ。",
+          "link": "https://www.gizmodo.jp/2022/06/ios16-iphone-haptic-feedback.html",
+          "publishedOn": "2022-06-06T21:47:00.000Z",
+          "wordCount": 104,
+          "title": "ブルッと反応。iOS16ではiPhoneのキーボードに触覚フィードバックが用意されます #WWDC22",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/2022-06-07keyk00.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/2022-06-07keyk00.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/wwdc22-price-increase.html",
+          "author": "三浦一紀",
+          "description": "本日WWDCにて、M2版MacBook AirやM2版MacBook Pro（13インチ）が発表されました。そのとき、ちょっと心がザワッとしたのが。お値段。新製品たちの値段が前モデルより高いのはまあいいとして、併売される前モデルまで値段上がってるんですよ…。",
+          "link": "https://www.gizmodo.jp/2022/06/wwdc22-price-increase.html",
+          "publishedOn": "2022-06-06T21:37:00.000Z",
+          "wordCount": 106,
+          "title": "円安ですね。いつの間にかApple製品がいろいろ値上がりしてるんですけど #WWDC22",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%882022-06-076.34.36.png"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%882022-06-076.34.36.png"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/255138.html",
+          "author": "大野恭希",
+          "description": "M2 MacBook Airの外部ディスプレイサポートは、最大6K解像度・60Hzに対応しています。",
+          "link": "https://www.gizmodo.jp/2022/06/255138.html",
+          "publishedOn": "2022-06-06T21:30:00.000Z",
+          "wordCount": 106,
+          "title": "M2 MacBook Airは外部ディスプレイに1枚だけ接続可能",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/20220607macbookair_displaysupport.png"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/07/20220607macbookair_displaysupport.png"
+        },
         {
           "id": "https://www.gizmodo.jp/2022/06/wwdc-2022.html",
           "author": "塚本直樹",
