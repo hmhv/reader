@@ -6,6 +6,56 @@
       "siteUrl": "https://gori.me",
       "articles": [
         {
+          "id": "https://gori.me/?p=142223",
+          "author": "g.O.R.i",
+          "description": "iOS 16は、iPhoneのeSIMを別のiPhoneにBluetoothで転送できる機能が追加された。機種変更の際に、旧iPhoneから新iPhoneへの移行手続きが従来と比べて簡略化できる。 eSIMの転送は、設定アプリから行う。キャリアから発行されたQRコードを読み取る方法に加え、「別のiP…\nThe post iOS 16の新機能：旧iPhoneから新iPhoneへeSIMをBluetoothで転送可能に first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ios/ios16/142223",
+          "publishedOn": "2022-06-09T01:50:00.000Z",
+          "wordCount": 237,
+          "title": "iOS 16の新機能：旧iPhoneから新iPhoneへeSIMをBluetoothで転送可能に",
+          "imageUrl": "https://gori.me/uploads/2022/06/iPhonexIMGL6186_TP_V-800x484.jpeg"
+        },
+        {
+          "id": "https://gori.me/?p=142221",
+          "author": "g.O.R.i",
+          "description": "M2 MacBook Airはウェッジ型デザインを廃止し、11.3mmの均一の筐体厚になった。重さは1.24kgとなっておりM1モデルとほとんど同じだが、厚みは12インチMacBookよりも薄い。 下記ツイートは、左から順に24インチiMac、M2 MacBook Air、12インチMacBook、…\nThe post M2 MacBook Air、実は12インチMacBookより薄い first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macbookair/142221",
+          "publishedOn": "2022-06-08T22:05:54.000Z",
+          "wordCount": 186,
+          "title": "M2 MacBook Air、実は12インチMacBookより薄い",
+          "imageUrl": "https://gori.me/uploads/2022/06/Apple-WWDC22-MacBook-Air-4up-colors-hero-220606-800x533.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=142219",
+          "author": "g.O.R.i",
+          "description": "開発者向けに配信開始されたiOS 16のベータ版コードの中から、ディスプレイの常時点灯機能を示唆する記述が複数発見された。9to5Macによると、常時点灯ディスプレイに欠かせないiPhoneのバックライト管理に関する3種類の新しいフレームワークを発見したという。 ホーム画面やロック画面を管理するSp…\nThe post iOS 16の新ロック画面、常時点灯ディスプレイを意識？関連記述がベータ版からザックザク発見される first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone/iphone-news/142219",
+          "publishedOn": "2022-06-08T21:55:54.000Z",
+          "wordCount": 201,
+          "title": "iOS 16の新ロック画面、常時点灯ディスプレイを意識？関連記述がベータ版からザックザク発見される",
+          "imageUrl": "https://gori.me/uploads/2022/06/WWDC22-2022-Keynote-494-800x445.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=142215",
+          "author": "g.O.R.i",
+          "description": "M2 MacBook Airの発売に合わせて、Appleは2ポート搭載の最大35W出力USB-C充電器を2種類発表。従来のApple純正アダプタと同じデザインの「デュアルUSB-Cポート搭載35W電源アダプタ」と、コンパクトサイズの「デュアルUSB-Cポート搭載35Wコンパクト電源アダプタ」だ。 両…\nThe post Appleの新しい35Wデュアルポート電源アダプタ、”富豪価格”と僕の中で話題 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/mac-accessories/mac-usbc/142215",
+          "publishedOn": "2022-06-08T21:45:42.000Z",
+          "wordCount": 229,
+          "title": "Appleの新しい35Wデュアルポート電源アダプタ、”富豪価格”と僕の中で話題",
+          "imageUrl": "https://gori.me/uploads/2022/06/Dual-USBC-port-35w-adaptor-800x450.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=141180",
+          "author": "g.O.R.i",
+          "description": "Ankerは6月8日、メディア向け発表会「Anker Power Conference – ‘22 Spring」（4月13日開催）で発表した、iPad ProやiPad AirなどUSB-Cポートを搭載するiPadに向けられたスタンド「Anker 551 USB-C ハブ (8-in-1, Tab…\nThe post Anker、8ポートに拡張可能なiPad用USB-Cスタンドを発売 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ipad-accessories/ipad-prepherial/141180",
+          "publishedOn": "2022-06-08T13:15:54.000Z",
+          "wordCount": 219,
+          "title": "Anker、8ポートに拡張可能なiPad用USB-Cスタンドを発売",
+          "imageUrl": "https://gori.me/uploads/2022/04/Anker-555-USBC-Hub-8-in-1-Tablet-Stand-01-800x534.jpg"
+        },
+        {
           "id": "https://gori.me/?p=142213",
           "author": "g.O.R.i",
           "description": "Appleが、M2 MacBook Airの本体カラーに合わせて、USB-C – MagSafe 3ケーブルにスペースグレイ、ミッドナイト、スターライトの新色を追加した。従来からあるシルバーに加わり、合計4色から購入可能。価格はいずれも5,280円。新色は”まもなく登場”となっており、発…\nThe post M2 MacBook Airのカラーに合わせたMagSafeケーブル、USB-C端子の違和感がすごい first appeared on ゴリミー.\n\n 【もっと読む】",
@@ -1192,6 +1242,126 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/mobile.xml",
       "siteUrl": "https://www.itmedia.co.jp/mobile/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/09/news197.html",
+          "author": null,
+          "description": "Bluetooth Special Interest Groupは、米国時間6月8日に「Auracast ブロードキャスト オーディオ」を発表。対応機器を利用し、再生中の音楽を複数人で共有できるようになる。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/09/news197.html",
+          "publishedOn": "2022-06-09T09:14:00.000Z",
+          "wordCount": 467,
+          "title": "Bluetooth SIG、複数人でサウンドを共有できる「Auracast ブロードキャスト オーディオ」発表",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/09/l_asa_BluetoothAuracast_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/09/news157.html",
+          "author": null,
+          "description": "三井物産とKDDIは、6月9日に新会社「GEOTRA」を設立。人の流れを中心とした地理空間上の情報をAI分析／可視化ができるデータプラットフォームの提供を行い、都市DXを推進するという。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/09/news157.html",
+          "publishedOn": "2022-06-09T08:38:00.000Z",
+          "wordCount": 457,
+          "title": "三井物産とKDDIが新会社「GEOTRA」設立　人流をAI分析するラットフォームを提供",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/09/l_asa_GEOTRA_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/09/news182.html",
+          "author": null,
+          "description": "エレコムは、6月下旬にコンパクトな卓上ワイヤレス充電器を発売。AirPodsシリーズ専用の「くぼみトレー」が付属し、適切な位置にセットできる。価格は3280円（税込み）。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/09/news182.html",
+          "publishedOn": "2022-06-09T08:26:00.000Z",
+          "wordCount": 446,
+          "title": "AirPods専用の「くぼみトレー」を備えた卓上ワイヤレス充電器　エレコムから",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/09/l_asa_eleAirPods_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2205/29/news012.html",
+          "author": null,
+          "description": "iPhoneでSNSやトークアプリのテキストを入力している時、文字を間違えて入力したり、消しすぎることは多い。そんなときにいちいち入力し直すのは面倒なので、「シェイクで取り消し」を有効化してiPhoneを振ることで修正しよう。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2205/29/news012.html",
+          "publishedOn": "2022-06-09T07:30:00.000Z",
+          "wordCount": 450,
+          "title": "iPhoneで文字の入力ミスや消去を「なかったことにする」",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2205/29/l_pics_iphoneshake01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/09/news163.html",
+          "author": null,
+          "description": "NTTドコモの「ドコモ光」は、7月1日から解約金を減額した新たな定期契約プランを提供開始。解約金が戸建プランは5500円（税込み、以下同）、マンションプランは4180円、従量（ドコモ光 ミニ）プランは2970円になる。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/09/news163.html",
+          "publishedOn": "2022-06-09T07:17:00.000Z",
+          "wordCount": 445,
+          "title": "ドコモ光、7月から解約金を減額　2970円～5500円に",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/09/l_asa_dhikarikaiyaku_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/09/news153.html",
+          "author": null,
+          "description": "以前から度々うわさが出ていたGoogleのスマートウォッチ「Pixel Watch」が今秋発売されます。Pixel Watchのうわさは意外と古く、少なくとも2016年にまでさかのぼります。Wear OS 3の登場により、ようやくGoogleの考えるスマートウォッチの下地が出来上がったと判断したのでしょう。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/09/news153.html",
+          "publishedOn": "2022-06-09T06:23:00.000Z",
+          "wordCount": 540,
+          "title": "かねてウワサされていた「Pixel Watch」が2022年に登場する理由",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/09/l_st52693_google-01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/09/news123.html",
+          "author": null,
+          "description": "Qualcommは2022年6月8日にメディア向けラウンドテーブル「Qualcomm NOW」を開催。クアルコムジャパンの須永順子代表社長は、ミリ波はモバイルネットワークの費用効率化と品質向上をもたらすことを説明。5Gのポテンシャルを発揮できるミリ波を早期普及させることが不可欠だと力説した。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/09/news123.html",
+          "publishedOn": "2022-06-09T03:49:00.000Z",
+          "wordCount": 509,
+          "title": "5Gの普及には「ミリ波」が不可欠の理由　通信速度だけでないメリット、Qualcommが解説",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/09/cover_news123.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/09/news114.html",
+          "author": null,
+          "description": "サムスン電子ジャパンは、6月23日に約14.6型タブレット「Galaxy Tab S8 Ultra」と専用アクセサリー「Book Cover Keyboard」を発売。対象期間中にタブレット購入でアクセサリーをプレゼントするキャンペーンも行う。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/09/news114.html",
+          "publishedOn": "2022-06-09T03:35:00.000Z",
+          "wordCount": 534,
+          "title": "約14.6型の有機ELタブレット「Galaxy Tab S8 Ultra」、6月23日発売　約11.5万円",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/09/l_asa_GalaxyTabS8Ultra_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/09/news086.html",
+          "author": null,
+          "description": "Nothing Technologyが、7月13日0時に同社初のスマートフォン「phone(1)」を発表する。同社のWebサイトで発表会のライブ配信を行う。Nothingは、中国のスマートフォンメーカーOnePlusの共同創業者、カール・ペイ氏が2020年に英国で立ち上げた新興企業。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/09/news086.html",
+          "publishedOn": "2022-06-09T01:46:00.000Z",
+          "wordCount": 475,
+          "title": "Nothing初のスマートフォン「phone(1)」、7月13日0時に発表へ",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/09/l_st52693_nothing-01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/09/news077.html",
+          "author": null,
+          "description": "Googleが次期モバイルOS「Android 13」の「Beta 3」をリリースした。「プラットフォームの安定版」になり、開発者はアプリの最終的なテストが可能だ。7月に「Beta 4」が出て、正式版は今秋の計画だ。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/09/news077.html",
+          "publishedOn": "2022-06-09T00:46:00.000Z",
+          "wordCount": 497,
+          "title": "Google、「Android 13 Beta 3」公開　“プラットフォームの安定版”段階に",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/09/cover_news077.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/08/news169.html",
+          "author": null,
+          "description": "IDC Japanは、6月8日に国内の従来型携帯電話／スマートフォンの2022年第1四半期（1～3月）の出荷台数を発表。3Gサービスを終了するキャリアが低価格モデルを中心に仕入を増やし、前年同期比4.0％増の1015万台となった。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/08/news169.html",
+          "publishedOn": "2022-06-08T23:00:00.000Z",
+          "wordCount": 455,
+          "title": "2022年第1四半期の国内携帯出荷、3G終了に伴う低価格モデルで前年増に",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/08/l_asa_IDC_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/08/news185.html",
+          "author": null,
+          "description": "ニューズドテックは、2022年5月の中古iPhone売買ランキングを発表。販売は2カ月連続でiPhone 7（32GB）、買い取りはiPhone 12（64GB）がそれぞれ1位となった。販売台数はiPhone／Androidともに増加傾向で、昨年同月比158％となる。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/08/news185.html",
+          "publishedOn": "2022-06-08T21:00:00.000Z",
+          "wordCount": 468,
+          "title": "中古スマホの販売数は2021年5月比で158％に　依然iPhone 7／8が2強",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/08/l_asa_newsedtech05_01.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/mobile/articles/2206/08/news162.html",
           "author": null,
@@ -3086,6 +3256,156 @@
       "feedUrl": "https://k-tai.watch.impress.co.jp/data/rss/1.0/ktw/feed.rdf",
       "siteUrl": "https://k-tai.watch.impress.co.jp",
       "articles": [
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415882.html",
+          "author": null,
+          "description": "KDDIと三井物産は、人流データ分析で新会社「GEOTRA」（ジオトラ）を設立した。今後、スマートシティなどの推進に向けて人の移動手段や目的、時間の予測が可能なプラットフォームを提供する。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415882.html",
+          "publishedOn": "2022-06-09T09:36:44.000Z",
+          "wordCount": 122,
+          "title": "KDDIと三井物産、高精度人流データで新会社「ジオトラ」設立――スマートシティ推進に向け協力",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/882/115.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415934.html",
+          "author": null,
+          "description": "米グーグル（Google）は、Androidの次期バージョンとなる「Android 13」のベータ版の第3弾を発表した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415934.html",
+          "publishedOn": "2022-06-09T08:34:10.000Z",
+          "wordCount": 120,
+          "title": "「Android 13」のベータ版第3弾が発表、“安定化バージョン”に",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/934/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415872.html",
+          "author": null,
+          "description": "NTTドコモは、宅内向け光回線「ドコモ光」の定期契約プランについて、7月1日から解約金の金額を変更し、新たな定期契約プランとして提供を開始する。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415872.html",
+          "publishedOn": "2022-06-09T06:44:07.000Z",
+          "wordCount": 90,
+          "title": "「ドコモ光」、7月から定期契約プランの解約金を減額へ",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/872/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415822.html",
+          "author": null,
+          "description": "中国のInfiRay Technologies（インフィレイテクノロジーズ）は、スマートフォン用のサーマルカメラ「InfiRay T2S+」を国内向けに発売した。本稿執筆時点で、Amazon.co.jpでの価格は4万8600円。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415822.html",
+          "publishedOn": "2022-06-09T06:11:43.000Z",
+          "wordCount": 101,
+          "title": "InfiRay、8mmマクロレンズ搭載のスマホ用サーマルカメラ「T2S+」",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/822/side.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415803.html",
+          "author": null,
+          "description": "日本無線（JRC）とスカパーJSAT、東京大学、情報通信研究機構（NICT）は、欧州宇宙機関（ESA）とEurescom、フラウンホーファー研究所（Fraunhofer FOKUS Institute）と協力し、衛星回線を含む日欧間の長距離回線で5G通信を成立させる実験に成功した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415803.html",
+          "publishedOn": "2022-06-09T03:53:01.000Z",
+          "wordCount": 101,
+          "title": "「5G＋衛星通信」で日欧間の伝送実験に成功、JRC／スカパーJSAT／東大／NICT",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/803/top.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415771.html",
+          "author": null,
+          "description": "アマゾン（Amazon）は、6月9日にブランドプロテクションレポートを公開した。アマゾンで偽のブランド品などを販売する悪質な業者から、ユーザーを守る取り組みについて紹介されている。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415771.html",
+          "publishedOn": "2022-06-09T03:15:30.000Z",
+          "wordCount": 96,
+          "title": "アマゾン、“ニセブランド”からユーザーを守る取り組みとは？",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/771/Amazon.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415779.html",
+          "author": null,
+          "description": "英Nothing Technologyは、7月13日0時（日本時間、現地時間12日16時）に同社初のスマートフォンとなる「Nothing phone（1）」を発表する。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415779.html",
+          "publishedOn": "2022-06-09T03:06:06.000Z",
+          "wordCount": 112,
+          "title": "英Nothing、7月13日0時に初のスマートフォン発表へ",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/779/n01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415776.html",
+          "author": null,
+          "description": "サムスン電子は、Androidタブレットの新製品「Galaxy Tab S8 Ultra」を、6月23日に発売する。本稿執筆時点で、Amazon.co.jpでの価格は14万1800円。Amazon.co.jpのほか、「Galaxy Harajuku」やヨドバシ.com、ビックカメラ.comなどでも取り扱われる。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415776.html",
+          "publishedOn": "2022-06-09T02:53:58.000Z",
+          "wordCount": 144,
+          "title": "サムスン、「Galaxy Tab S8 Ultra」を6月23日に発売",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/776/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415558.html",
+          "author": null,
+          "description": "ソフトバンクは、MVNOサービスの「LINEモバイル」において、au回線（音声通話SIM）のユーザーを対象に、一部提供サービスを変更する。変更は、6月16日～30日の間に順次実施される予定。同社によれば、au回線でのサービスを継続して提供するために必要なシステム改修だという。その詳細は非公開とのこと。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415558.html",
+          "publishedOn": "2022-06-09T02:22:45.000Z",
+          "wordCount": 94,
+          "title": "LINEモバイルのau回線でサービス変更、6月16日以降はVoLTE利用できず",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/558/linemobile_l.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415621.html",
+          "author": null,
+          "description": "インターネットイニシアティブ（IIJ）は、ファミリーマートで「IIJmioクーポンカード/デジタル20%増量キャンペーン」を開始した。期間は6月27日まで。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415621.html",
+          "publishedOn": "2022-06-08T15:01:00.000Z",
+          "wordCount": 86,
+          "title": "IIJmio、ファミリーマート限定で「IIJmioクーポンカード/デジタル20%増量キャンペーン」",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/621/iijmio_l.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/minna/1415623.html",
+          "author": null,
+          "description": "筆者の目には「複視」という症状があります。そんな筆者にとってAndroidの画面の一部だけを拡大して表示できる機能がとても便利です。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/1415623.html",
+          "publishedOn": "2022-06-08T15:00:00.000Z",
+          "wordCount": 97,
+          "title": "[みんなのケータイ]スマホで細かい文字が読みづらい？　Android 12の「画面の一部を拡大」できる機能がおすすめ",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/623/sub.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1415549.html",
+          "author": null,
+          "description": "6月に入って東京も日差しが強くなってきた。この日差しを活かせるようにと折り畳みできるソーラーパネル「BigBlue 28W ソーラーチャージャー」を購入したので紹介したい。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1415549.html",
+          "publishedOn": "2022-06-08T15:00:00.000Z",
+          "wordCount": 111,
+          "title": "[本日の一品]「BigBlue 28W ソーラーチャージャー」で夏の日差しを有効活用しよう",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/549/full.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415529.html",
+          "author": null,
+          "description": "NTTドコモのポイントサービス「dポイント」で、「モスバーガー 対象商品はdポイント5倍キャンペーン」が開始された。期間は7月2日まで。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415529.html",
+          "publishedOn": "2022-06-08T15:00:00.000Z",
+          "wordCount": 90,
+          "title": "モスバーガーで「海老チリ風バーガー」「海老カツバーガー」を購入するとdポイントが5倍に",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/529/01_l.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/value/1415310.html",
+          "author": null,
+          "description": "ドコモは6月9日に、「ahamo大盛り」をスタートさせます。オンライン専用料金プランとして開始したahamoは、ワンプランを売りにしていましたが、ahamo大盛りで選択肢が1つ増えた格好です。ただし、あくまで料金プランは1つであることに変わりはありません。その理由は、ahamo大盛りがあくまでオプションという位置づけになっているからです。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/value/1415310.html",
+          "publishedOn": "2022-06-08T15:00:00.000Z",
+          "wordCount": 129,
+          "title": "[石野純也の「スマホとお金」]「ahamo大盛り」本日9日スタート、その使いこなしワザや「ギガホプレミア」との違いを徹底解説",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/310/1.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1415663.html",
+          "author": null,
+          "description": "8日、NHKなどが京都府での「au PAY」の不正利用被害を報じた。KDDIによれば「2022年に入ってから、フィッシング詐欺に関する問い合わせが増えている」という。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1415663.html",
+          "publishedOn": "2022-06-08T13:13:34.000Z",
+          "wordCount": 102,
+          "title": "「au PAY」狙う不正利用報道、背景にフィッシング詐欺の急増か",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1415/663/01.jpg"
+        },
         {
           "id": "https://k-tai.watch.impress.co.jp/docs/news/1415576.html",
           "author": null,
@@ -6333,6 +6653,381 @@
       "feedUrl": "https://www.gizmodo.jp/index.xml",
       "siteUrl": "https://www.gizmodo.jp",
       "articles": [
+        {
+          "id": "https://www.gizmodo.jp/2022/06/macos-ventura-0facetime.html",
+          "author": "小暮ひさのり",
+          "description": "Image:Appleごめ〜ん、ちょっとiPhoneからかけ直すわ。なんてことは過去になります。開発中のmacOSVenturaやiOS16、iPadOS16ではFaceTime通話がHandoffに対応。iPhoneからMac。MacからiPad。iPadからiPhoneなど、デバイス間で通話を切らずにFaceTimeを引き継げるようになります。たとえば、Macの前で話していたとして、「コンビニ",
+          "link": "https://www.gizmodo.jp/2022/06/macos-ventura-0facetime.html",
+          "publishedOn": "2022-06-09T12:30:00.000Z",
+          "wordCount": 93,
+          "title": "通話切らなくてもOK！ macOS VenturaとiOS16では端末間でFaceTimeを引き継げるよ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/2022-06-09vek00.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/2022-06-09vek00.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/msi-ahead-of-the-curve.html",
+          "author": "山田ちとら",
+          "description": "先日行なわれた世界屈指のゲーミング製品メーカー、MSIの発表会「AHEAD OF THE CURVE」。最高峰スペックのゲーミングノートPC「TITAN GT77」がリリースされたほかにも、いくつか攻めてるなって感じたポイントをご紹介します。",
+          "link": "https://www.gizmodo.jp/2022/06/msi-ahead-of-the-curve.html",
+          "publishedOn": "2022-06-09T12:00:00.000Z",
+          "wordCount": 102,
+          "title": "MSIが攻め攻め！ 240Hzの有機EL、キャリブレーション証明書、音声コマンドまで",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/220609_msigalore_top.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/220609_msigalore_top.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/255081-machi-ya-mugenhookplus-review.html",
+          "author": "山科拓郎",
+          "description": "過去のプロジェクトで2千万円を超える支援額を集めた「無限フック」が、進化して登場！ 掛ける／吊るす／立てるの基本機能はそのままに、耐荷重が15kgにパワーアップしています。",
+          "link": "https://www.gizmodo.jp/2022/06/255081-machi-ya-mugenhookplus-review.html",
+          "publishedOn": "2022-06-09T11:45:00.000Z",
+          "wordCount": 99,
+          "title": "人気の「無限フック」が耐荷重15kgに進化！重いバッグもひっかけられて床置き不要に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/06/744d0ee8-aead-4c14-b885-ff6b97ecbe3c.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/06/744d0ee8-aead-4c14-b885-ff6b97ecbe3c.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/light-umbrella.html",
+          "author": "岡本玄介",
+          "description": "Image:mabu光る傘で交通安全！傘の専門店mabuが作ったLED内蔵傘「アンブレランタン」が、海外のデザイン系サイトで取り挙げられています。頭のすぐ上で光るので、道行く自動車や自転車などからも目立って安全。それに足元が明るくなるので、段差でつまずいたり水たまりにハマることもなくなるでしょう。運転手がすぐ見つけられるように自衛車を運転すると分かりますが、雨の夜道は視界が悪いので、歩行者が光って",
+          "link": "https://www.gizmodo.jp/2022/06/light-umbrella.html",
+          "publishedOn": "2022-06-09T11:30:00.000Z",
+          "wordCount": 91,
+          "title": "雨の夜道の視認性向上に。LEDが頭上で灯る「アンブレランタン」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/220610_mabu1.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/220610_mabu1.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/elon-musk-twitter.html",
+          "author": "巽英俊",
+          "description": "4月にTwitter（ツイッター）社の買収提案をぶち上げ、その後なんだかんだありながらもこの買収話をまとめ上げて、経営陣との合意に達したイーロン・マスク。支持も批判も多い人物ですが、ビジネスパーソンとしてはさすが一流。タフで優秀なネゴシエイターと思わされたのですが、ここに来て買収の中止を示唆する動きを見せています。すでに報道されているように、その理由は「Twitter側がアカウント中のスパムボット",
+          "link": "https://www.gizmodo.jp/2022/06/elon-musk-twitter.html",
+          "publishedOn": "2022-06-09T11:00:00.000Z",
+          "wordCount": 87,
+          "title": "イーロン、買収やめるってよ。イーロン×Twitter運営の双方が抱える問題点",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/shutterstock_2149752817.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/shutterstock_2149752817.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/255080-machi-ya-piccolo-review.html",
+          "author": "山科拓郎",
+          "description": "直径わずか3.4cmの「画面クリーナーPiccolo」には、クリーナー本体がピタッとはまる専用ケースが付属。カメラのストラップやポケットにクリップで装着でき、思い立ったらすぐにスマホ画面やカメラレンズを掃除できます。",
+          "link": "https://www.gizmodo.jp/2022/06/255080-machi-ya-piccolo-review.html",
+          "publishedOn": "2022-06-09T10:45:00.000Z",
+          "wordCount": 95,
+          "title": "思い立ったらすぐ拭ける！ クリップで挟んで“身につける”画面クリーナー「Piccolo」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/gif",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/06/85bfa5dc-78a0-446e-8463-8784d3d0498f-1.gif"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/06/85bfa5dc-78a0-446e-8463-8784d3d0498f-1.gif"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/ios16esim.html",
+          "author": "小暮ひさのり",
+          "description": "Image:MacRumors日本では…クッ…。言えない、キャリア側の対応が必要だから日本でどうなるかはわからんです…。とは言えない！というわけで、使えるかはわかんないんだけど。って前置きの元で話しますけど、iOS16ではeSIMの転送機能がサポートされるようです。この機能を利用することでBluetoothを利用してiPhoneから別のiPhoneへとeSIMの情報や電話番号などが、転送できるとの",
+          "link": "https://www.gizmodo.jp/2022/06/ios16esim.html",
+          "publishedOn": "2022-06-09T10:30:00.000Z",
+          "wordCount": 85,
+          "title": "iOS16ではiPhone間でeSIM情報を転送できる。機種変に便利だけど、日本では…",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/2022-06-09esim00_th.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/2022-06-09esim00_th.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/kawasaki-ebike-elektrode.html",
+          "author": "岡本玄介",
+          "description": "カワサキが北米市場で子ども用の電動BMX「ELEKTRODE」を8月以降に発売。最高時速の変更は親が行うペアレンタルロック機能搭載。",
+          "link": "https://www.gizmodo.jp/2022/06/kawasaki-ebike-elektrode.html",
+          "publishedOn": "2022-06-09T10:00:00.000Z",
+          "wordCount": 101,
+          "title": "カワサキから子供用の電動BMXが登場。未来のライダーが育つかな？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/220610_kawasaki.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/220610_kawasaki.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/amazon-timesale-2022-0609-1.html",
+          "author": "メディアジーンメディアコマース",
+          "description": "Amazon（アマゾン）で毎日開催されているタイムセール。本日2022年6月9日は、ニューバランスのアンダーシャツが35%オフなど、今すぐ欲しい人気のアイテムがお得に多数登場しています。",
+          "link": "https://www.gizmodo.jp/2022/06/amazon-timesale-2022-0609-1.html",
+          "publishedOn": "2022-06-09T09:45:00.000Z",
+          "wordCount": 315,
+          "title": "【Amazonタイムセール中！】吸汗速乾で夏に最適。ニューバランスのアンダーシャツが35%オフ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/top.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/top.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/karaage-pepsi.html",
+          "author": "中川真知子",
+          "description": "サントリー食品インターナショナルが立ち上がり、「ペプシ からあげ専用」を作りました。6月14日（火）より夏季限定新発売とのことなのでまだ飲んでいないけど、人類はからあげ戦争に勝った気がする。",
+          "link": "https://www.gizmodo.jp/2022/06/karaage-pepsi.html",
+          "publishedOn": "2022-06-09T09:30:00.000Z",
+          "wordCount": 85,
+          "title": "からあげに人類の完全勝利を告げるペプシ、あらわる",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/1.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/1.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/kenko-tokina-bronine-volkit.html",
+          "author": "三浦一紀",
+          "description": "ケンコー・トキナーから複数メーカーのデジカメ用バッテリーを一元で充電できる「Bronine VOLKIT バッテリーチャージャーシステム」発売に。",
+          "link": "https://www.gizmodo.jp/2022/06/kenko-tokina-bronine-volkit.html",
+          "publishedOn": "2022-06-09T09:00:00.000Z",
+          "wordCount": 100,
+          "title": "複数メーカーのデジカメを使っている方、バッテリーの充電を一元化してみませんか？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/220609bronine-01.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/220609bronine-01.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/rakuten-sale-2022-0609-1.html",
+          "author": "メディアジーンメディアコマース",
+          "description": "楽天市場では、｢楽天スーパーSALE｣ を2022年6月11日（土）1時59分まで開催中。 ｢ショップ買いまわり｣ にエントリーするとポイントが最大10倍になる、3カ月に一度のお得な期間です。\n\n現在、Ankerのポータブル電源「757 Portable Power Station」やダイソンの扇風機「Pure Cool Link」など、お得な商品が多数登場しています。",
+          "link": "https://www.gizmodo.jp/2022/06/rakuten-sale-2022-0609-1.html",
+          "publishedOn": "2022-06-09T08:45:00.000Z",
+          "wordCount": 343,
+          "title": "【楽天スーパーセール】先月発売のAnkerポータブル電源が23,000円オフ！  ダイソンの扇風機や掃除機もお買い得",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/A1770001_800x.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/A1770001_800x.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/eron-does-not-subscribe-to-youtube-premium.html",
+          "author": "そうこ",
+          "description": "世界一のビリオネア、イーロン・マスクは月額12ドルのYouTube Premiumに加入していない模様。",
+          "link": "https://www.gizmodo.jp/2022/06/eron-does-not-subscribe-to-youtube-premium.html",
+          "publishedOn": "2022-06-09T08:30:00.000Z",
+          "wordCount": 104,
+          "title": "世界一のお金持ちイーロン・マスク、YouTube Premiumには未加入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/shutterstock_1910531596.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/shutterstock_1910531596.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/uber-and-waymo-form-business-alliance.html",
+          "author": "そうこ",
+          "description": "UberとWaymoが自動運転トラック業務で事業連携。過去には訴訟沙汰にもなった両社の協業に注目が集まる。",
+          "link": "https://www.gizmodo.jp/2022/06/uber-and-waymo-form-business-alliance.html",
+          "publishedOn": "2022-06-09T08:00:00.000Z",
+          "wordCount": 95,
+          "title": "UberとWaymoがタッグを組んで開発をする貨物輸送トラックの未来",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/shutterstock_520278616.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/shutterstock_520278616.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/anker-8-in-1.html",
+          "author": "小暮ひさのり",
+          "description": "iPadOS 16で外部ディスプレイ接続が本当に便利になりそう。故に、iPadを接続する準備が必要です！Ankerが発表していた「Anker 551 USB-C ハブ（8-in-1, Tablet Stand）」がしれっと販売開始しているので、ポチっておきましょう。",
+          "link": "https://www.gizmodo.jp/2022/06/anker-8-in-1.html",
+          "publishedOn": "2022-06-09T07:00:00.000Z",
+          "wordCount": 109,
+          "title": "Ankerの映像出力できる8-in-1タブレットスタンド販売開始！ 数量限定10％OFFだよ急げ！",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/2022-06-09ank00.JPG"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/2022-06-09ank00.JPG"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/garmin-forerunner.html",
+          "author": "巽英俊",
+          "description": "Garminで人気の高い「ForeAthlete」シリーズが刷新され、「Forerunner（フォアランナー）」シリーズとして生まれ変わります。",
+          "link": "https://www.gizmodo.jp/2022/06/garmin-forerunner.html",
+          "publishedOn": "2022-06-09T06:00:00.000Z",
+          "wordCount": 101,
+          "title": "ランナー注目！ Garminの新しいランニング用スマウォが高機能でいい感じ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/Forerunner255_SlateGray_left_24_runningPower2.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/Forerunner255_SlateGray_left_24_runningPower2.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/255088-machi-ya-magtumbler2-0-review.html",
+          "author": "山科拓郎",
+          "description": "「MAG TUMBLER2.0」は、濃さのコントロールが超簡単な茶葉専用ガラスタンブラー。逆さにするだけのワンアクションで、茶葉フィルターがフタにくっつき、抽出を好きなタイミングでストップできます。",
+          "link": "https://www.gizmodo.jp/2022/06/255088-machi-ya-magtumbler2-0-review.html",
+          "publishedOn": "2022-06-09T05:45:00.000Z",
+          "wordCount": 109,
+          "title": "茶葉フィルターがフタにピタッ！ 濃さを簡単に調整できるガラス製タンブラー",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/06/2b6da329-a043-44fb-9c6f-6a53965fc3c0.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/06/2b6da329-a043-44fb-9c6f-6a53965fc3c0.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/ipad14-1.html",
+          "author": "三浦一紀",
+          "description": "Image:DenPhotos/Shutterstock.comこれはそそられる。僕はかねてから、「13インチクラスのタブレットが欲しい」と思っていました。12.9インチのiPadProでもいいんですけど、もう一声！13インチ以上！というのが希望なので、購入は見送っていました。でも、もしかしたらその希望が叶っちゃうかも。リーカーのMajinBu氏によると、14.1インチでM2チップ搭載のiPadが",
+          "link": "https://www.gizmodo.jp/2022/06/ipad14-1.html",
+          "publishedOn": "2022-06-09T05:30:00.000Z",
+          "wordCount": 138,
+          "title": "大画面のiPadが欲しい！ もしかしたらM2搭載14.1インチのiPadが出るかもしれません",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/220609iPad14.jpeg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/220609iPad14.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/apple-macbook-air-m2-chip-2022-notch-wedge-preview-hand.html",
+          "author": "そうこ",
+          "description": "WWDCで発表されたばかりのMacBook Air (2022)。米Gizmodoも同じくハンズオンしてきました。先にまとめて言っちゃうと「Airがあれば、新型MacBook Proのほうはスルーしてよし」だそうです。",
+          "link": "https://www.gizmodo.jp/2022/06/apple-macbook-air-m2-chip-2022-notch-wedge-preview-hand.html",
+          "publishedOn": "2022-06-09T05:00:00.000Z",
+          "wordCount": 126,
+          "title": "M2搭載MacBook Airさっそく触ってみた！",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/220609macbookair22.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/220609macbookair22.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/ipad-m1-stagemanager.html",
+          "author": "小暮ひさのり",
+          "description": "WWDC 22で発表されたiPadOS 16の新機能「ステージマネージャー」。現状わかっている仕様では、この新機能はM1搭載iPadでのみ動作するとのこと。つまり、新しいiPad ProシリーズとiPad Airですね。",
+          "link": "https://www.gizmodo.jp/2022/06/ipad-m1-stagemanager.html",
+          "publishedOn": "2022-06-09T04:30:00.000Z",
+          "wordCount": 98,
+          "title": "新機能「ステージマネージャー」の恩恵をすべてのiPadが受けられるわけではない。たぶんM1だけ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/2022-06-09maipk02.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/2022-06-09maipk02.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/ios-16-airpods.html",
+          "author": "はらいさん",
+          "description": "iOS 16ではiPhoneのフロントカメラを使って自分好みの空間オーディオを設定できるようになるAirPodsですが、ついに設定画面も簡単にアクセスできるようになります。",
+          "link": "https://www.gizmodo.jp/2022/06/ios-16-airpods.html",
+          "publishedOn": "2022-06-09T04:00:00.000Z",
+          "wordCount": 127,
+          "title": "iOS 16ではAirPodsの設定画面に簡単にアクセスできるようになるよ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/220609airpods.jpeg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/220609airpods.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/dostarlimab-cancel-trial.html",
+          "author": "福田ミホ",
+          "description": "あるがん治療薬の治験で、小規模な実験ながら驚きの結果が出ました。中期の直腸がん患者18人がみんな完全寛解、つまり腫瘍が消えてしまったんです。参加したのが18人と少人数なので、これからもっと検証が必要ですが、とにかく同じようながん患者やその家族、医療関係者には大きな希望を与えています。",
+          "link": "https://www.gizmodo.jp/2022/06/dostarlimab-cancel-trial.html",
+          "publishedOn": "2022-06-09T03:00:00.000Z",
+          "wordCount": 108,
+          "title": "直腸がん治療薬開発で驚きの結果：治験参加で全員が寛解",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/220608_cancerdrug.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/220608_cancerdrug.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/amazon-daiya-idea-indoor-laundry-1.html",
+          "author": "ユキコニシムラ",
+          "description": "ダイヤの「お部屋で平干しネット」は衣類の型崩れを防ぎ、乾きやすく干せるアイテム。メッシュ地と、立体アーチ形状により、通気性が良いのが特徴。しかも、使わないときは丸められるので、隙間に収納できます。それに、広げるだけで手軽に使えますよ。",
+          "link": "https://www.gizmodo.jp/2022/06/amazon-daiya-idea-indoor-laundry-1.html",
+          "publishedOn": "2022-06-09T02:55:00.000Z",
+          "wordCount": 89,
+          "title": "衣類を型崩れさせず、効率良く乾かせる部屋干しネット。パッと開いてコンパクトにたためる",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/06/topgiz.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/06/topgiz.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/huawei-watch-fit-2.html",
+          "author": "ヤマダユウス型",
+          "description": "Photo:ヤマダユウス型「着けっぱなし」こそ、使いやすさの要。僕は何台かスマートウォッチを使ってきたんですけど、その中で分かったことがあります。それは、バッテリー持ちはとにかく正義だってこと。特に僕は健康管理のガジェットとして活用したいので、長時間着けっぱなしにできることが重要なんです。寝ている間に充電しなければならないとなると、睡眠データが取れないので魅力が半減してしまうんですよね。バッテリー",
+          "link": "https://www.gizmodo.jp/2022/06/huawei-watch-fit-2.html",
+          "publishedOn": "2022-06-09T02:00:00.000Z",
+          "wordCount": 136,
+          "title": "着けっぱなしにできてこそスマートウォッチ。「HUAWEI WATCH FIT 2」のロングバッテリーは正義！",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/25/220525huaweiwatchfit2_01.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/25/220525huaweiwatchfit2_01.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/nothing-phone-event-july-31st.html",
+          "author": "そうこ",
+          "description": "OnePlus共同創設者、Carl Pei氏が率いるNothing。ワイヤレスイヤフォンに続き製品第2弾となるスマートフォンphone (1)の発表イベントの日時が明らかになりました。約1ヶ月後、7月13日。日本時間で0時スタートです。学び直し、やり直し。今までのスマホの概念を覆すぞ！という意気込みを感じますね。",
+          "link": "https://www.gizmodo.jp/2022/06/nothing-phone-event-july-31st.html",
+          "publishedOn": "2022-06-09T00:30:00.000Z",
+          "wordCount": 127,
+          "title": "透明スマホ、Nothing phone (1) 発表イベントは7月13日！",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/2022-0609-nt-ph1-event-date-02.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/09/2022-0609-nt-ph1-event-date-02.jpg"
+        },
         {
           "id": "https://www.gizmodo.jp/2022/06/yahoo-map-5.html",
           "author": "小暮ひさのり",
