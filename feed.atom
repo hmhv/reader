@@ -2,10 +2,647 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hmhv.github.io/reader/index.html</id>
     <title>hmhv::news</title>
-    <updated>2022-06-15T12:32:09.883Z</updated>
+    <updated>2022-06-16T12:33:28.565Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hmhv.github.io/reader/index.html"/>
     <link rel="self" href="https://hmhv.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウワサのMacBook Air 15インチ、M2 Proも選べるハイスペ機かも？]]></title>
+        <id>https://www.gizmodo.jp/2022/06/macbook-air-15-m2-pro.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/macbook-air-15-m2-pro.html"/>
+        <updated>2022-06-16T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple（アップル）関連の情報に詳しいアナリストミンチー・クオ（Ming-Chi Kuo）氏が、15インチのMacBookについての情報を語っています。興味深いのは未発表の「M2 Pro」オプションが用意されていることですね]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモから「AQUOS wish2 SH-51C」24日発売、2.2万円]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1417843.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1417843.html"/>
+        <updated>2022-06-16T11:42:24.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモは、シャープ製の5Gスマートフォン「AQUOS wish2 SH-51C」を6月24日に発売する。価格は2万2000円。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[明け方の空に太陽系の惑星がずらっと並ぶ。6月18日は早起きして天体観測しようぜ]]></title>
+        <id>https://www.gizmodo.jp/2022/06/planets-in-series.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/planets-in-series.html"/>
+        <updated>2022-06-16T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今年の6月中旬から下旬は、地球から見ると明け方の空に太陽系の惑星が勢揃いします。まだ暗い時間帯に全惑星が揃うので、肉眼でもその様子が視認できる貴重な機会です。]]></summary>
+        <author>
+            <name>巽英俊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12インチMacBook？ 何も聞いてない。とアナリスト談]]></title>
+        <id>https://www.gizmodo.jp/2022/06/12-inch-macbook.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/12-inch-macbook.html"/>
+        <updated>2022-06-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple（アップル）が15インチMacBook Airと12インチのMacBookを開発している説。話の出どころはBloombergとなっているので、否応なしにマジか！（ガタッ）と期待が高まっちゃったんですけど、12インチモデルはちょっと怪しい雰囲気です。]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Amazonタイムセール中！】薄さ7mmのスリムデザイン、16,948円のASUSモニターや超軽量100g折りたたみ傘など]]></title>
+        <id>https://www.gizmodo.jp/2022/06/amazon-timesale-2022-0616-1.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/amazon-timesale-2022-0616-1.html"/>
+        <updated>2022-06-16T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon（アマゾン）で毎日開催されているタイムセール。本日2022年6月16日は、16,948円のASUSモニターや超軽量100g折りたたみ傘など、今すぐ欲しい人気のアイテムがお得に多数登場しています。]]></summary>
+        <author>
+            <name>メディアジーンメディアコマース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[半年ぶりに帰ってくるゥ！ ソニーが「α7C」と「ZV-E10」の注文受付を6月24日以降再開へ]]></title>
+        <id>https://www.gizmodo.jp/2022/06/resumed-sales-of-sony-a7c-and-zve10.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/resumed-sales-of-sony-a7c-and-zve10.html"/>
+        <updated>2022-06-16T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ソニーのデジカメ「α7C」と「VLOGCAM ZV-E10」シリーズの注文受付再開。]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[家庭のお湯が水素で沸く。そんな時代がやってくるかもしれない]]></title>
+        <id>https://www.gizmodo.jp/2022/06/rinnai-innovation-manifesto-2050.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/rinnai-innovation-manifesto-2050.html"/>
+        <updated>2022-06-16T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[給湯器といえばガスというイメージがありますけど、リンナイが開発したのは家庭用給湯器における水素100%燃焼技術。そう、化石燃料に頼らず、CO2を一切排出しないでお湯を（安全に）沸かせる技術です。]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mineo、「OPPO Reno7 A」を7月1日発売]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1417789.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1417789.html"/>
+        <updated>2022-06-16T08:50:52.000Z</updated>
+        <summary type="html"><![CDATA[オプテージは、MVNOサービス「mineo」で、OPPOの5Gスマートフォン「OPPO Reno7 A」を7月1日に発売する。価格は4万656円、月1694円×24回の分割払いでも購入できる。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宇宙飛行士「UFOは未来人が時空を超えて来るタイムトラベラーなのかも？」]]></title>
+        <id>https://www.gizmodo.jp/2022/06/a-pilot-was-talking-about-potential-time-travel.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/a-pilot-was-talking-about-potential-time-travel.html"/>
+        <updated>2022-06-16T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[イギリスの情報番組『グッド・モーニング・ブリテン』に、ESA初の英国人宇宙飛行士ティム・ピーク氏が出演。｢未確認航空現象｣の航空機は、「もしかしたら未来人が時間旅行して来たのかもしれない」とコメントしました。]]></summary>
+        <author>
+            <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「NUROモバイル」au回線のオートプレフィックス機能を提供開始、トリプルキャリアで通話料半額に]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1417759.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1417759.html"/>
+        <updated>2022-06-16T07:50:34.000Z</updated>
+        <summary type="html"><![CDATA[ソニーネットワークコミュニケーションズは、MVNOサービス「NUROモバイル」について、au回線でのオートプレフィックス機能の提供を6月16日から順次開始すると発表した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワイモバイル「AQUOS wish2」を6月23日に発売、2万6640円]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1417753.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1417753.html"/>
+        <updated>2022-06-16T07:37:22.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクは、ワイモバイルからシャープ製の5Gスマートフォン「AQUOS wish2」を6月23日に発売する。価格は2万6640円、月740×36回または月1110円×24回の分割払いでも購入できる。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon.co.jp「プライムデー」を7月12日～13日に開催]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1417751.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1417751.html"/>
+        <updated>2022-06-16T07:28:13.000Z</updated>
+        <summary type="html"><![CDATA[Amazon.co.jpでプライム会員限定セール「プライムデー」が7月12日～13日に開催することが発表された。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワイモバイルから「OPPO Reno7 A」6月23日発売、PayPayポイントがもらえるキャンペーンも]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1417746.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1417746.html"/>
+        <updated>2022-06-16T07:24:48.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクは、ワイモバイルからOPPO製の5Gスマートフォン「OPPO Reno7 A」を6月23日に発売する。予約は17日から受け付ける。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPPO「Reno7 A」、実機フォトレポート]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/review/1417747.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/review/1417747.html"/>
+        <updated>2022-06-16T07:18:27.000Z</updated>
+        <summary type="html"><![CDATA[オウガ・ジャパンは16日、Androidスマートフォンの新商品として「OPPO Reno7 A」を発表した。発売日は23日で、想定価格は4万4800円。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IIJmioで「Reno7 A」23日発売、MNPなら1万9800円に]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1417736.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1417736.html"/>
+        <updated>2022-06-16T07:03:59.000Z</updated>
+        <summary type="html"><![CDATA[インターネットイニシアティブ（IIJ）は、個人向けにSIMロックフリー端末を販売する「IIJmioサプライサービス」で、23日に「OPPO Reno7 A」を発売する。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NUROモバイル、au回線も専用アプリなしで通話料金が11円／30秒に]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/16/news151.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/16/news151.html"/>
+        <updated>2022-06-16T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[モバイルサービス「NUROモバイル」が、6月16日にau回線のオートプレフィックス機能を提供開始。NTTドコモやソフトバンクと同様に、通話料金が従来の22円／30秒から11円／30秒となる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5万円以下で超賢い選択。OPPO Reno7 Aはミドルエンドスマホの限界を突破している]]></title>
+        <id>https://www.gizmodo.jp/2022/06/oppo-reno7-a.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/oppo-reno7-a.html"/>
+        <updated>2022-06-16T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:ギズモード・ジャパン4万円台の限界点を毎年更新する猛者。OPPO（オッポ）の最新スマートフォン「OPPOReno7A」が6月16日に発表されました。価格はSIMフリー版で4万4800円（税込）。この5万円以下の機種はさまざまなスマホメーカーが挑戦している、いわゆる“売れ筋”ラインのスマホなんですが、今年のOPPOの新作はどうなったのでしょうか。動画でレビューしました。ちなみに今回の動画]]></summary>
+        <author>
+            <name>編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソニーとHonda、モビリティ事業の新会社 「ソニー・ホンダモビリティ株式会社」設立で合弁契約を締結]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/16/news159.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/16/news159.html"/>
+        <updated>2022-06-16T06:55:00.000Z</updated>
+        <summary type="html"><![CDATA[ソニーグループと本田技研工業（Honda）は6月16日、モビリティ事業の新会社「ソニー・ホンダモビリティ株式会社」の設立に関して、合弁契約書を締結したと発表した。この提携は3月4日に発表済み。両社は2022年中の新会社設立を目指し、新会社によるEVの販売と、モビリティ向けサービスを2025年に開始する予定だ。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[さよなら、Internet Explorer]]></title>
+        <id>https://www.gizmodo.jp/2022/06/bye-internet-explorer.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/bye-internet-explorer.html"/>
+        <updated>2022-06-16T06:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoftが正式にIE（Internet Explorer）の引退を発表しましたね。かつては主流だったブラウザが駆け抜けた26年。最後はかなり歩みがゆっくりだったけど。2022年6月15日という日をどうか忘れないであげてください。最後までIEを使い続けたユーザーは、自動でEdgeに移行されるそうです。IEのサポートも正式に終了し、ユーザーはEdgeを使うよう促されます。最終的には、Wind]]></summary>
+        <author>
+            <name>Kenji P. Miyajima</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Nothing phone (1)」背面の一部を公開、7月13日イベント開催]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1417717.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1417717.html"/>
+        <updated>2022-06-16T06:16:04.000Z</updated>
+        <summary type="html"><![CDATA[英国のNothing（ナッシング）は、スマートフォンの新製品として予告されている「Nothing phone (1)」の背面デザインの一部を公開した。7月13日0時（日本時間）にローンチイベントを公開するとしている。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモ、「AQUOS wish2」を6月24日発売　5G WELCOME割適用で5500円に]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/16/news150.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/16/news150.html"/>
+        <updated>2022-06-16T06:15:00.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモはシャープ製の5Gスマートフォン「AQUOS wish2 SH-51C」を6月24日に発売する。ドコモオンラインショップ価格は2万2000円で、最大36回の割賦払いにも対応する。他社からドコモに乗り換えると、5G WELCOME割を適用でき、1万6500円引きの5500円で購入できる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BIGLOBE、5G対応SIMフリーモバイルルーター「AIR-2」の法人販売を開始]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/16/news123.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/16/news123.html"/>
+        <updated>2022-06-16T06:10:00.000Z</updated>
+        <summary type="html"><![CDATA[BIGLOBEは、5G対応のSIMロックフリーモバイルルーターの法人向け販売を開始。対象はAIR-U製「AIR-2」で容量5400mAhのバッテリーを搭載し、価格は3万2780円（税込み）。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Rakuten UN-LIMIT VII」徹底解説　「0円廃止」でも楽天モバイルに残るべきユーザーは？]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/16/news062.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/16/news062.html"/>
+        <updated>2022-06-16T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[楽天モバイルが7月1日から提供する新プラン「Rakuten UN-LIMIT VII」が話題です。その多くは「月額0円から」を取りやめることに集中していますが、それ以外にも注目すべきポイントはあります。過去のプランを振り返りつつチェックしていきましょう。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[次期無印iPad（第10世代モデル）はUSB-Cポートに変わるかも]]></title>
+        <id>https://www.gizmodo.jp/2022/06/next-ipad-will-have-usb-c-port.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/next-ipad-will-have-usb-c-port.html"/>
+        <updated>2022-06-16T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[iPadの次期モデルはUSB-Cポートを搭載して5G通信にも対応。]]></summary>
+        <author>
+            <name>はらいさん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プライムデー2022、7月12日・13日に開催決定]]></title>
+        <id>https://gori.me/?p=142340</id>
+        <link href="https://gori.me/amazon/amazon-sale/142340"/>
+        <updated>2022-06-16T05:42:52.000Z</updated>
+        <summary type="html"><![CDATA[Amazonは、プライム会員向けの年に一度のビッグセール「プライムデー」を7月12日（火）および13日（水）の48時間開催すると発表した。 2022年のプライムデーでは、Amazonデバイス、PC機器、ファッション、家電、日用品、食品・飲料、ホーム&キッチン、スポーツ用品などを含む幅広いカ…
+The post プライムデー2022、7月12日・13日に開催決定 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Y!mobile、シンプルデザインの5Gスマホ「AQUOS wish2」を6月23日に発売]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/16/news134.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/16/news134.html"/>
+        <updated>2022-06-16T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクは、Y!mobileブランドの新製品として5Gスマホ「AQUOS wish2」を6月23日から発売する。自然をモチーフとした色合いとシンプルなデザインで、ボディには再生プラスチック材を使用している。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手首でチラ見してニヤり。タグ・ホイヤーからNFT表示ができるスマートウォッチ]]></title>
+        <id>https://www.gizmodo.jp/2022/06/tag-heuer-connected-calibre-e4.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/tag-heuer-connected-calibre-e4.html"/>
+        <updated>2022-06-16T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[タグ・ホイヤーが収集したNFTアートを表示できるスマートウォッチ「CONNECTED CALIBRE E4」コレクションを発売。]]></summary>
+        <author>
+            <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「OPPO公式オンラインショップ」16日15時スタート、オープニングキャンペーン開催]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1417665.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1417665.html"/>
+        <updated>2022-06-16T04:35:53.000Z</updated>
+        <summary type="html"><![CDATA[オウガ・ジャパンは、OPPOブランドの公式ECサイト「OPPO公式オンラインショップ」を16日15時にオープンする。オープニングキャンペーンを実施する。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPPO、タブレットを2022年後半に日本で発売――Reno7 A発表会で予告]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/16/news122.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/16/news122.html"/>
+        <updated>2022-06-16T04:06:00.000Z</updated>
+        <summary type="html"><![CDATA[OPPO Japanは、Androidタブレットを2022年下半期に日本市場で発売する。16日に開催した「OPPO Reno7 A」の発表会の中で明らかにした。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デルタ航空が顔認証を活用して、見た人それぞれに表示が変わるディスプレイを導入]]></title>
+        <id>https://www.gizmodo.jp/2022/06/delta-parallel-reality-technology.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/delta-parallel-reality-technology.html"/>
+        <updated>2022-06-16T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[デルタ航空が顔認証を活用して、見た人それぞれに個別のフライト番号を伝えてくれるディスプレイを導入。]]></summary>
+        <author>
+            <name>岩田リョウコ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPPO、2022年下半期にタブレット発表を予告]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1417649.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1417649.html"/>
+        <updated>2022-06-16T03:57:49.000Z</updated>
+        <summary type="html"><![CDATA[オウガジャパンは16日、新型スマートフォン「Reno7 A」の発表会において、2022年下半期に新たなスマートデバイスを発表することを明らかにした。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楽天モバイル「OPPO Reno7 A」を6月30日に発売]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1417638.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1417638.html"/>
+        <updated>2022-06-16T03:36:43.000Z</updated>
+        <summary type="html"><![CDATA[楽天モバイルは、OPPOの5Gスマートフォン「OPPO Reno7 A」を6月30日に発売する。価格は4万5800円。あわせて購入者全員にフルワイヤレスイヤホン「OPPO Enco Buds」を進呈するキャンペーンを開催する。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[auとUQ、「OPPO Reno7 A」23日発売]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1417268.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1417268.html"/>
+        <updated>2022-06-16T03:30:13.000Z</updated>
+        <summary type="html"><![CDATA[KDDIと沖縄セルラーは、Androidスマートフォンの新モデル「OPPO Reno7 A」を23日に発売する。16日12時には予約受付が始まった。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPPO初の公式ECサイトが6月16日オープン　全品送料無料]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/16/news113.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/16/news113.html"/>
+        <updated>2022-06-16T03:15:00.000Z</updated>
+        <summary type="html"><![CDATA[オウガ・ジャパンは初の公式ECサイト「OPPO公式オンラインショップ」を6月16日15時にオープンする。スマートフォンをはじめ、イヤフォンやスマートウォッチといったIoT関連製品などを取りそろえる。オープンを記念してキャンペーンを実施する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「OPPO Reno7 A」が6月23日発売　FeliCaやメモリ拡張対応で4万4800円]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/16/news059.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/16/news059.html"/>
+        <updated>2022-06-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[オウガ・ジャパンが6月16日、SIMロックフリースマートフォンの新製品「OPPO Reno7 A」を発表した。6月23日に発売する。au、Y!mobile、楽天モバイルの3キャリア、MVNO、家電量販店などが、同日以降に順次販売する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPPOが「Reno7 A」を発表、23日発売]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1417165.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1417165.html"/>
+        <updated>2022-06-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[オウガ・ジャパンは、Androidスマートフォンの新商品として「OPPO Reno7 A」を発表した。16日15時から予約が始まり、23日に発売される。想定価格は4万4800円。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M2搭載の新型iPad Proが今年の秋に発売されるかも]]></title>
+        <id>https://www.gizmodo.jp/2022/06/255412.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/255412.html"/>
+        <updated>2022-06-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WWDC 2022で発表された新型MacBook AirとMacBook Proには新しいM2チップが採用されましたが、次にM2チップが搭載されるデバイスは流れ的にもiPad Proになるのかもしれません。]]></summary>
+        <author>
+            <name>はらいさん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon.co.jpで「Xiaomi 11T Pro」など最大1万円割引]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1417614.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1417614.html"/>
+        <updated>2022-06-16T02:58:18.000Z</updated>
+        <summary type="html"><![CDATA[Amazon.co.jpでシャオミ（Xiaomi）の「Xiaomi 11T Pro」と「Mi スマートバンド6」が最大20％割引されるクーポンを配布している。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safariのタブが多すぎ問題　iPhoneで簡単に整理する方法]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/16/news034.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/16/news034.html"/>
+        <updated>2022-06-16T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[iPhoneの標準アプリ「Safari」には、タブを簡単に整頓する機能がある。調べ物や「ブックマークするほどでもないけど、覚えておきたいから残しているタブ」など、タブを大量に並べてしまったときに便利な機能だ。長押しすれば自分の好きな順に並べ替えることもできる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ligntningケーブル1本で蓄電と充電　サンワから1万mAhのモバイルバッテリー]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/16/news097.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/16/news097.html"/>
+        <updated>2022-06-16T02:19:00.000Z</updated>
+        <summary type="html"><![CDATA[サンワサプライは、Ligntningケーブルが1本でiPhone／iPadの充電とモバイルバッテリーへの蓄電が可能なMFi認証モバイルバッテリー「700-BTL048W」を発売。容量は1万mAhで、電池の残量目安を4段階で確認できるLEDも搭載する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アメリカの仮想通貨詐欺被害額、2021年1月からで10億ドル]]></title>
+        <id>https://www.gizmodo.jp/2022/06/virtual-currency-fraud-cost-one-billion.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/virtual-currency-fraud-cost-one-billion.html"/>
+        <updated>2022-06-16T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年1月から翌3月で、アメリカの仮想通貨関連の詐欺被害額は10億ドルに上った。]]></summary>
+        <author>
+            <name>そうこ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15インチ型MacBookはM2またはM2 Proチップ搭載、2023年半ばに発表か]]></title>
+        <id>https://gori.me/?p=142336</id>
+        <link href="https://gori.me/macbookair/142336"/>
+        <updated>2022-06-16T01:31:47.000Z</updated>
+        <summary type="html"><![CDATA[Appleが開発中と噂される15インチ型MacBookは、M2チップまたはM2 Proチップを搭載する可能性がある。Apple情報に詳しいアナリストMing-Chi Kuo氏によると、M2チップモデルは35Wアダプタ、M2 Proモデルは67Wアダプタが同梱されるという。 15インチ型MacBook…
+The post 15インチ型MacBookはM2またはM2 Proチップ搭載、2023年半ばに発表か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[月990円で“低速使い放題”　mineoの「マイそく」はどこまで実用的か]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/06/news169.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/06/news169.html"/>
+        <updated>2022-06-16T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[mineoの新プラン「マイそく」は、速度で選ぶ使い放題型の料金プランだ。リーズナブルな料金でどれだけ使えるのか、実力を検証した]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本当に解決策はそれしかない？ テーザー銃メーカーが電撃ドローンを全米の学校に配ると張り切る]]></title>
+        <id>https://www.gizmodo.jp/2022/06/axon-taser-drone.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/axon-taser-drone.html"/>
+        <updated>2022-06-16T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米国で銃の乱射事件が激増するなか、米Axon（アクソン）社がスタンガン搭載ドローンを開発して全米の学校に配る構想を発表。人権・倫理の観点から波紋を呼んでいます。]]></summary>
+        <author>
+            <name>satomi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アウトドアで大活躍のウェアラブルな防水ミニ財布「Submerge」]]></title>
+        <id>https://www.gizmodo.jp/2022/06/255370-machi-ya-submerge-start.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/255370-machi-ya-submerge-start.html"/>
+        <updated>2022-06-16T00:45:00.000Z</updated>
+        <summary type="html"><![CDATA[防水ウェアラブルアウトドアウォレット&カードホルダー「Submerge（サブマージ）」が日本上陸！ 腕に巻いて、ランニングや海や川などのレジャーで存分に楽しめます。貨幣、カード、鍵などの貴重品がすっぽりはいる大きさです。]]></summary>
+        <author>
+            <name>飯田あゆみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M2チップ、M1より20％高速と判明。各種ベンチマークスコアが流出]]></title>
+        <id>https://gori.me/?p=142335</id>
+        <link href="https://gori.me/macbookair/142335"/>
+        <updated>2022-06-15T23:02:02.000Z</updated>
+        <summary type="html"><![CDATA[13インチMacBook Pro（2022）とMacBook Air（2022）に搭載されるM2チップは、M1チップと比べて約20％高速化されていることが判明した。6月17日の予約開始を控えているM2 MacBook Proの各種ベンチマークスコアが流出した。 GeekbenchのCPUベンチマーク…
+The post M2チップ、M1より20％高速と判明。各種ベンチマークスコアが流出 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吊るすだけで場所取らず。シャツのシワ伸ばしと乾燥ができるハンガー型乾燥機]]></title>
+        <id>https://www.gizmodo.jp/2022/06/thanko-iron-irazu.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/thanko-iron-irazu.html"/>
+        <updated>2022-06-15T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[サンコーからエアバッグに服を着せ、約65度ので乾かすハンガー型衣類乾燥機「アイロンいら～ず3」発売。]]></summary>
+        <author>
+            <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS/iPadOS 15.6やmacOS Monterey 12.5のPublic Beta 3、配信開始]]></title>
+        <id>https://gori.me/?p=142333</id>
+        <link href="https://gori.me/ios/ios15/142333"/>
+        <updated>2022-06-15T22:24:19.000Z</updated>
+        <summary type="html"><![CDATA[Apple Beta Software Programより Appleは6月16日、「iOS 15.6 Public beta 3」「iPadOS 15.6 Public beta 3」「macOS Monterey 12.5 Public beta 3」をパブリックベータプログラム登録者向けに配信…
+The post iOS/iPadOS 15.6やmacOS Monterey 12.5のPublic Beta 3、配信開始 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[このときAppleまだ創業3カ月。若き日のスティーヴ・ジョブズ署名入り小切手がオークションに出品中]]></title>
+        <id>https://www.gizmodo.jp/2022/06/steve-jobs-signed-check.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/steve-jobs-signed-check.html"/>
+        <updated>2022-06-15T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スティーヴ・ジョブズの署名が入ったApple（アップル）の小切手がオークションに出品されています。]]></summary>
+        <author>
+            <name>巽英俊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オーディオブックが3カ月聴き放題。Audible、プライム会員向けキャンペーン開催中]]></title>
+        <id>https://gori.me/?p=142331</id>
+        <link href="https://gori.me/amazon/amazon-sale/142331"/>
+        <updated>2022-06-15T21:45:56.000Z</updated>
+        <summary type="html"><![CDATA[Amazonのオーディオブック聴き放題サービス「Audible（オーディブル）」が、プライム会員向けに3カ月無料体験キャンペーンを開催している。キャンペーンは2022年7月25日まで。 Audibleは俳優や声優、プロのナレーターによって読み上げられた本を音声で聴くことができるサービス。人気作家のベ…
+The post オーディオブックが3カ月聴き放題。Audible、プライム会員向けキャンペーン開催中 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PayPayの「あなたのまちを応援プロジェクト」、8月以降のキャンペーンを発表]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/15/news202.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/15/news202.html"/>
+        <updated>2022-06-15T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PayPayは、地方自治体と共同で実施している「あなたのまちを応援プロジェクト」へ8月以降に参加する自治体を発表した。新たに13の共同キャンペーンを実施し、335の自治体での実施が決定した。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[水に浮くドラえもんデザインの防水ケース　Hameeが発売]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/15/news193.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/15/news193.html"/>
+        <updated>2022-06-15T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hameeは、水に浮く防水ケース「DIVAID」シリーズへ「アイムドラえもん／DIVAID フローティング防水ケース ワイドサイズ（日焼け／ドット）」を追加。価格は2420円（税込み）。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDDI松田氏が「宇宙ビジネスとスターリンクとの連携」を講演、Interop Tokyo 22基調講演]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1417532.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1417532.html"/>
+        <updated>2022-06-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ネットワーク技術の展示会「Interop Tokyo 22」が、幕張メッセ（千葉県千葉市）で開催されている（リアルイベントは17日まで）。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[石野純也の「スマホとお金」]ドコモの「エコノミーMVNO」を深掘り！　少ないデータ量で十分な人にぴったりなプランの特徴と魅力とは]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/value/1417530.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/value/1417530.html"/>
+        <updated>2022-06-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前回の連載で、ドコモには「ahamo小盛り」に相当する料金プランがないことを説明しましたが、その役割を担っているのが、「エコノミーMVNO」です。エコノミーMVNOは、ドコモと提携したMVNOのこと。回線自体はドコモから借り、MVNO側が運営していますが、ドコモショップで取り扱われているのが通常のMVNOとの大きな違いと言えるでしょう。dポイントの導入も必須条件になっており、ドコモと同様、毎月の料金に対してdポイントが付与されます。ドコモは、このエコノミーMVNOを「小容量をカバーする料金」と位置づけています。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シャープの「AQUOS sense4 plus」、Android 12に]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1417480.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1417480.html"/>
+        <updated>2022-06-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[シャープは、同社のAndroidスマートフォン「AQUOS sense4 plus」について、OSをAndroid 12にアップデートするソフトウェア更新の提供を開始した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモ井伊社長「エリア拡大で競争する時代じゃない」、オリジナル映像作品の制作やドコモショップへの考え方も]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/interview/1417457.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/interview/1417457.html"/>
+        <updated>2022-06-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモの井伊基之代表取締役社長が15日、本誌インタビューに応えた。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アドビ「Lightroom」に加わった新機能、その内容は]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1417424.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1417424.html"/>
+        <updated>2022-06-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米アドビ（Adobe）は、Adobe Creative Cloudの「Adobe Lightroom」のアップデートによる新機能を発表した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI蔵書管理サポートサービス「SHELF EYE（シェルフアイ）」、鹿児島市立天文館図書館に導入]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1417423.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1417423.html"/>
+        <updated>2022-06-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[京セラコミュニケーションシステムは、AI蔵書管理サポートサービス「SHELF EYE（シェルフアイ）」と「セルフ貸出機」を鹿児島市立天文館図書館に導入した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[みんなのケータイ]Androidにもマグネットが欲しい]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/minna/1417012.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/minna/1417012.html"/>
+        <updated>2022-06-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[唐突ですが、マグネットっていいですよね。跡も残さず繰り返し使えて強力にくっついてくれて、しかも手軽に取り外しもできるマグネットは、色んな所に活用されています。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[本日の一品]最大20WのUSB PDに対応、小型ながら3個口搭載の超小型電源タップ「AOT-T1」]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1416904.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1416904.html"/>
+        <updated>2022-06-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[遠征先のホテルやテレワーク用のスペースでは、コンセントの数が足りないこともしばしば。こうした時のために、コンセントの口を分配させつつ、さらにUSBポートを搭載することでデバイスの充電を可能にするタップは、取り扱うメーカーが最近続々と増えつつある。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ジャック・ドーシーがWeb3どころかWeb5を生きている件]]></title>
+        <id>https://www.gizmodo.jp/2022/06/jack-dorsey-lives-on-web5.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/jack-dorsey-lives-on-web5.html"/>
+        <updated>2022-06-15T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Web3という言葉、最近ますます聞きます。分散型インターネット時代だと言われていますが、まだWeb3ってイマイチよくわからないという人の方が多いと思います。そんな世間の理解進行はなんのその、ジャック・ドーシー氏はすでにWeb5に突入しました。]]></summary>
+        <author>
+            <name>そうこ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[14インチiPadはProMotionなしの可能性。ん？Proシリーズじゃないってこと？]]></title>
+        <id>https://www.gizmodo.jp/2022/06/14-inch-ipad-without-promotion-rumor.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/14-inch-ipad-without-promotion-rumor.html"/>
+        <updated>2022-06-15T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ProじゃないデカイPad。
+
+って可能性が出てきました。Apple（アップル）は14.1インチという大画面iPadを開発しているかも？みたいな噂がありますが、その画面についての続報です。]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AIに魂が宿ったと上司に報告したGoogle社員、有給謹慎処分に]]></title>
         <id>https://www.gizmodo.jp/2022/06/lamda-has-come-to-life.html</id>
@@ -13928,16 +14565,6 @@ The post AppleのAR/VRヘッドセット、完成間近？取締役会で披露�
  【もっと読む】]]></summary>
         <author>
             <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Log4j脆弱性に55万件のアラート送信も――GitHubで安全なソフトウェアを作成する5つの簡単な方法とは]]></title>
-        <id>https://atmarkit.itmedia.co.jp/ait/articles/2205/17/news050.html</id>
-        <link href="https://atmarkit.itmedia.co.jp/ait/articles/2205/17/news050.html"/>
-        <updated>2022-05-17T01:25:00.000Z</updated>
-        <summary type="html"><![CDATA[GitHubは、「GitHub」のネイティブツールや機能を活用してより安全なソフトウェアを作成する5つの方法を紹介した。]]></summary>
-        <author>
-            <name>＠IT Test &amp; Toolsフォーラム 最新記事一覧</name>
         </author>
     </entry>
 </feed>
