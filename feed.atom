@@ -2,10 +2,515 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hmhv.github.io/reader/index.html</id>
     <title>hmhv::news</title>
-    <updated>2022-06-17T12:34:21.819Z</updated>
+    <updated>2022-06-18T12:27:40.335Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hmhv.github.io/reader/index.html"/>
     <link rel="self" href="https://hmhv.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ニュージーランドでは温暖化でペンギンの子どもがバタバタ死んでいる…]]></title>
+        <id>https://www.gizmodo.jp/2022/06/global-warming-causes-mass-penguin-deaths.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/global-warming-causes-mass-penguin-deaths.html"/>
+        <updated>2022-06-18T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ニュージーランドのビーチで数百羽に及ぶコガタペンギンが発見される。温暖化の影響か。]]></summary>
+        <author>
+            <name>Kenji P. Miyajima</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[簡易テントにもなるよ。NASA技術を活用した軽量高性能なサバイバルシート]]></title>
+        <id>https://www.gizmodo.jp/2022/06/machi-ya-stitch-simon-start.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/machi-ya-stitch-simon-start.html"/>
+        <updated>2022-06-18T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[「Stitch&Simon」は、過酷な条件のもとでの宇宙探査用として NASAで設計・開発された素材で作られたサバイバルシート。保温性や静音性に優れ、緊急時にはテントとしての活用も可能。とてもコンパクトに収納でき、いざというときの備えとしても活用できる製品です。]]></summary>
+        <author>
+            <name>kotoha ozawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スマホ撮影だけで精巧な3Dアバターを作れる技術をMetaが開発]]></title>
+        <id>https://www.gizmodo.jp/2022/06/metas-3d-avatar-technology.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/metas-3d-avatar-technology.html"/>
+        <updated>2022-06-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Metaがスマホで撮影したデータだけで精巧な3Dアバターを作ることができる技術を開発。]]></summary>
+        <author>
+            <name>福田ミホ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Amazonタイムセール祭り】お得にまとめ買いのチャンス。1本177円のアサヒスーパードライや28%オフの低糖質カップヌードルなど]]></title>
+        <id>https://www.gizmodo.jp/2022/06/amazon-timesale-fes-2022-0618-3.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/amazon-timesale-fes-2022-0618-3.html"/>
+        <updated>2022-06-18T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon（アマゾン）では、2022年6月18日9時から6月20日23時59分まで「Amazonタイムセール祭り」を開催中。現在、1本177円のアサヒスーパードライや28%オフの低糖質カップヌードルなど、今すぐ使えるアイテムがお買い得に登場しています。]]></summary>
+        <author>
+            <name>メディアジーンメディアコマース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASAがUFOやUAPの謎に徹底的に取り組む！ 科学者チームの結成を発表]]></title>
+        <id>https://www.gizmodo.jp/2022/06/nasa-study-ufos-unidentified-aerial-phenomena.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/nasa-study-ufos-unidentified-aerial-phenomena.html"/>
+        <updated>2022-06-18T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NASAが今秋から科学者チームを結成して未確認航空現象（UAP）の調査を開始すると発表しました。未確認飛行物体（UFO）は物体を指しますが、飛んでいないものや光線とかそういうのも全部含めて「未確認航空現象全般」の調査をするそうです。]]></summary>
+        <author>
+            <name>岩田リョウコ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歴史に残る名マウス。「MX MASTER 2S」が33％OFF＋350円OFFクーポンはカート行き決定では？【Amazonタイムセール祭り】]]></title>
+        <id>https://www.gizmodo.jp/2022/06/amazon-sale-mx-master-2s-1.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/amazon-sale-mx-master-2s-1.html"/>
+        <updated>2022-06-18T07:35:00.000Z</updated>
+        <summary type="html"><![CDATA[高精度で高性能で、使いやすい。と、人気のロジクールのハイエンドマウス「MX MASTER 2S」をタイムセールで発見！ しかも、4,591円オフに加えて、原稿執筆時点では350円オフのクーポンまで付いているというびっくり値引き。]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモ販売ランキング：5月はiPhone 13が圧倒、昨秋発売のXperia 5 IIIも人気【2022年5月】]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/18/news063.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/18/news063.html"/>
+        <updated>2022-06-18T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ドコモオンラインショップが公表している「売れ筋ランキング」。2022年5月はiPhone 13の128GBモデルが1位を、256GBモデルが2位をそれぞれ獲得した。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[簡単取り付けで洗濯機をナノバブル化できるアダプター]]></title>
+        <id>https://www.gizmodo.jp/2022/06/machi-ya-nanobubble-end.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/machi-ya-nanobubble-end.html"/>
+        <updated>2022-06-18T06:45:00.000Z</updated>
+        <summary type="html"><![CDATA[「スーパーナノバブルトルネーダ」は、特許取得済みのコアを採用した洗濯機用のナノバブル発生装置。ナノバブルは、一般的な泡と比較すると繊維の奥まで届いて洗浄する汚れをキレイに落としてくれるそう。開発企業は、ナノバブルの研究を10年前から行っており、本格派のプロダクトと言えそうですよ。]]></summary>
+        <author>
+            <name>kotoha ozawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[au販売ランキング：トップ5までiPhoneが独占、AQUOS sense6sもランクイン【2022年5月】]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/18/news067.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/18/news067.html"/>
+        <updated>2022-06-18T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[au Online Shopが公表している「スマートフォン・ケータイ売れ筋ランキング」。2022年5月は、iPhone 13の128GBが1位を獲得した。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモ販売ランキング：新発売「Xperia Ace III SO-53C」が1位に【6月6日～6月12日】]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/18/news061.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/18/news061.html"/>
+        <updated>2022-06-18T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ドコモオンラインショップの「売れ筋ランキング」。6月6日～6月12日の期間は新発売の「Xperia Ace III SO-53C」が1位を獲得した。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Amazonタイムセール祭り】旅行やアウトドアに！ Ankerのモバイルバッテリーが30％オフ、ホカオネオネのスニーカーが25%オフなど]]></title>
+        <id>https://www.gizmodo.jp/2022/06/amazon-timesale-fes-2022-0618-2.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/amazon-timesale-fes-2022-0618-2.html"/>
+        <updated>2022-06-18T05:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon（アマゾン）では、2022年6月18日9時から6月20日23時59分まで「Amazonタイムセール祭り」を開催中。
+
+ 現在、Ankerの超大容量モバイルバッテリーやホカオネオネのトレッキングシューズなど、旅行中に活躍してくれそうなアイテムがお買い得に登場しています。]]></summary>
+        <author>
+            <name>メディアジーンメディアコマース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[たくさんあるiPhoneの「リマインダー」、重要なものだけ目立たせる方法]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/18/news031.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/18/news031.html"/>
+        <updated>2022-06-18T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[iPhoneの「リマインダー」は、色やアイコンを変えたり「優先度」を設定してさらに見やすくできる。どう使えば大量のリマインダーを作成しても分かりやすいか考えてみた。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[うかうかしてると在庫なくなるやつ！ CIOの45W充電器は早めに確保しておこう！【Amazonタイムセール祭り】]]></title>
+        <id>https://www.gizmodo.jp/2022/06/amazon-sale-cio-45w.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/amazon-sale-cio-45w.html"/>
+        <updated>2022-06-18T03:35:00.000Z</updated>
+        <summary type="html"><![CDATA[最近はコンパクトで高出力な充電器も増えていますけど、バランス感絶妙で最高なのがCIOの「NovaPort DUO PD 45W」。45Wでマルチポートで小型！という充電器の大三元を満たしたモデルがセールで安いんです！]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[もっちもちでおいしい「高加水パン」を自宅で手軽に作れる、sirocaのホームベーカリーがかなり良さげです]]></title>
+        <id>https://www.gizmodo.jp/2022/06/siroca-home-bakery-basic-plus.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/siroca-home-bakery-basic-plus.html"/>
+        <updated>2022-06-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[シロカの最新ホームベーカリーがパンを作る手間と時間を大幅にカットしてくれると聞いたので、さっそく詳しい話を伺ってきました。]]></summary>
+        <author>
+            <name>山田ちとら</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「iPhone SE（第2世代）」「Apple Watch SE」「iPad mini（第6世代）」がお買い得！　Amazonタイムセール]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/18/news058.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/18/news058.html"/>
+        <updated>2022-06-18T02:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazonがタイムセールを実施している。Apple製品も一部対象となっているので、簡単にチェックしておこう。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[箱に「名前」「スタンプ」でスマートフォンの転売は防げるの？]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/18/news049.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/18/news049.html"/>
+        <updated>2022-06-18T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スマートフォンの値引き合戦が過熱する一方で、それを「悪用」した転売が問題となりつつあります。そんな中、ドコモがドコモショップに指示した転売防止策が議論を呼んでいます。果たして、本当に転売を防げる対策といえるのでしょうか……？]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アウディ、使用済みの充電池を再利用してeリクシャーを試作]]></title>
+        <id>https://www.gizmodo.jp/2022/06/audi-reuses-rechargeable-batteries.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/audi-reuses-rechargeable-batteries.html"/>
+        <updated>2022-06-18T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アウディがインドでEVの充電池を再利用して電動リクシャーに転用。女性による宅配便事業に活用。]]></summary>
+        <author>
+            <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[厚さを4cmから15cmまで拡張可能な撥水加工のスリングバッグ「SEKKEI S-sling」]]></title>
+        <id>https://www.gizmodo.jp/2022/06/255397-machi-ya-sekkeisling-start.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/255397-machi-ya-sekkeisling-start.html"/>
+        <updated>2022-06-18T01:45:00.000Z</updated>
+        <summary type="html"><![CDATA[「SEKKEI S-sling」は拡張できるスリングバッグ。普段は厚み4cmと薄いですが、拡張することで一眼レフも入る15cmに。荷物をたくさん持ち運ぶ必要があるときにも実力を発揮してくれます。生地には撥水加工がしっかり。カラーはブラック、グレーの2種類です]]></summary>
+        <author>
+            <name>山田洋路</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[まだまだ現役！防水・おサイフケータイ対応のApple iPhone SE（第2世代）がセールに出てる！【Amazonタイムセール祭り】]]></title>
+        <id>https://www.gizmodo.jp/2022/06/amazon-sale-iphone-se-2nd.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/amazon-sale-iphone-se-2nd.html"/>
+        <updated>2022-06-18T01:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazonのセールには極稀にAppleプロダクトが登場するんですけど、iPhoneが安くなるって本当に稀なんですよね。そして、今回はその稀が振ってきたパターンで、iPhone SE（第2世代）がタイムセールに登場しています。]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開発陣に聞く「Xperia 1 IV」　光学ズーム実装の背景から“スマホだけで宅録”実現まで]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/18/news025.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/18/news025.html"/>
+        <updated>2022-06-18T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年夏、3キャリアが取り扱う「Xperia 1 IV」は注目の1台だ。本機はソニーの技術結晶であるカメラ、ディスプレイ、オーディオはもちろん、クリエイターに刺さるような機能も搭載している。光学ズーム実装の背景から“スマホだけで宅録”実現まで、Xperia 1 IVの魅力や技術について、企画開発に関わった方々に話を聞いた。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon.co.jpで「タイムセール祭り」始まる、20日まで]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1418269.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1418269.html"/>
+        <updated>2022-06-18T00:55:40.000Z</updated>
+        <summary type="html"><![CDATA[Amazon.co.jpで、「タイムセール祭り」が始まった。セール期間は20日23時59分まで。アップル（Apple）やアマゾン（Amazon）の製品など、さまざまな製品がセール価格で販売されている。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワイモバイルで「iPhone SE（第3世代）」が値下がり、オンラインストア]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1418266.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1418266.html"/>
+        <updated>2022-06-18T00:49:11.000Z</updated>
+        <summary type="html"><![CDATA[ワイモバイルのオンラインストアで、「iPhone SE（第3世代）」が値下げされて販売されている。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Amazonタイムセール祭り】Apple Watchやザ・ノース・フェイスのバックパックも！ まずチェックしたい25アイテムはこれだ]]></title>
+        <id>https://www.gizmodo.jp/2022/06/amazon-timesale-fes-2022-0618-1.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/amazon-timesale-fes-2022-0618-1.html"/>
+        <updated>2022-06-18T00:45:00.000Z</updated>
+        <summary type="html"><![CDATA[本日6月18日9時から開催された「Amazonタイムセール祭り」。
+
+Apple Watchや iPad miniなど、注目の20アイテムをピックアップしました。 すぐに在庫切れとなる可能性もあるので、狙っていた人は早めにゲットしましょう！]]></summary>
+        <author>
+            <name>メディアジーンメディアコマース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anker製品がAmazonタイムセール祭りに登場、PD対応65Wの2ポート充電器が26％オフなど]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1418144.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1418144.html"/>
+        <updated>2022-06-18T00:29:56.000Z</updated>
+        <summary type="html"><![CDATA[Amazon.co.jpで開催中の「タイムセール祭り」で、Ankerのモバイルバッテリーや充電器、スマートフォン用ケーブルなどがセール対象となっている。セール期間は20日23時59分まで。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CIOの急速充電器などがAmazonタイムセール祭りに]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1418152.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1418152.html"/>
+        <updated>2022-06-18T00:24:39.000Z</updated>
+        <summary type="html"><![CDATA[モバイルバッテリーや充電器などを販売するCIOは、6月20日23時59分まで開催されるAmazonタイムセール祭りで、急速充電器や充電ケーブル、iPad対応のキーボード、首掛け式の扇風機をセール価格で販売している。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日、Apple Watch SEがいつもより5％も安く買えます。Amazonならね【Amazonタイムセール祭り】]]></title>
+        <id>https://www.gizmodo.jp/2022/06/amazon-sale-apple-watch-se.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/amazon-sale-apple-watch-se.html"/>
+        <updated>2022-06-18T00:20:00.000Z</updated>
+        <summary type="html"><![CDATA[コスパの高いApple Watch SEが、本日のAmazonタイムセール祭りでさらに安くなっていて、軒並み5％オフの大チャンス。]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[そんなにAppleが好きになったのかAmazon！ iPad miniがまさかの4,000円以上値引きだ！【Amazonタイムセール祭り】]]></title>
+        <id>https://www.gizmodo.jp/2022/06/amazon-ipad-mini-sale.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/amazon-ipad-mini-sale.html"/>
+        <updated>2022-06-18T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[僕の中の正義の血が叫ぶのです。だって、最新の！現行の！フルスクリーンの！iPad miniがセールになっていて4,137円も安いんですよ！]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Apple Watch SE」がセール、Amazonタイムセール祭りで]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1418122.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1418122.html"/>
+        <updated>2022-06-18T00:14:58.000Z</updated>
+        <summary type="html"><![CDATA[Amazon.co.jpのAmazonタイムセール祭りにおいて、「Apple Watch SE」がセール価格の3万1160円～で販売されている。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazonタイムセール祭りで「iPhone SE」（第2世代）がセール]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1418147.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1418147.html"/>
+        <updated>2022-06-18T00:09:58.000Z</updated>
+        <summary type="html"><![CDATA[Amazon.co.jpのAmazonタイムセール祭りにおいて、アップルの「iPhone SE」（第2世代）がセール価格で販売されている。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6月のAmazonタイムセール祭りがスタート。注目・目玉商品をピックアップ]]></title>
+        <id>https://gori.me/?p=142359</id>
+        <link href="https://gori.me/amazon/amazon-sale/142359"/>
+        <updated>2022-06-18T00:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Amazonの「タイムセール祭り」がスタートした。セールは6月20日（月）23時59分まで。会場はこちらから。 最大10%ポイントアップキャンペーンも開催中。スポーツ・アウトドア関連用品はさらに4.5%ポイントアップはさらに4％ポイントアップする。参加には事前エントリーが必要となるため、予め確認して…
+The post 6月のAmazonタイムセール祭りがスタート。注目・目玉商品をピックアップ first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ウエスタンデジタル、Amazonタイムセール祭りでポータブルSSDなど]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1418219.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1418219.html"/>
+        <updated>2022-06-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ウエスタンデジタル（WD）は、ポータブルSSDや外付けハードディスクなどの商品を開催中のAmazonタイムセール祭りに出品している。セール期間は20日23時59分まで。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シャオミ製品が登場、Amazonタイムセール祭り]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1418119.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1418119.html"/>
+        <updated>2022-06-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[現在開催中のAmazonタイムセール祭りで、シャオミ（Xiaomi）のスマートフォンやスマートウォッチなどがセール価格で販売されている。タイムセール祭りは20日23時59分まで。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fire HDタブレットがセット買いでお得に、Amazonタイムセール祭り]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1418112.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1418112.html"/>
+        <updated>2022-06-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon.co.jpで開催中の「タイムセール祭り」で、「Fire HD」タブレットのセット商品がセール価格で販売されている。期間は20日23時59分まで。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazonタイムセール祭り、Kindleが最大3000円オフ]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1418071.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1418071.html"/>
+        <updated>2022-06-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon.co.jpで18日9時から開催中の「タイムセール祭り」では、電子書籍リーダー「Kindle」がセール価格で販売されている。期間は20日23時59分まで。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Fire TV」シリーズが最大30％オフ、Amazonタイムセール祭り]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1417107.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1417107.html"/>
+        <updated>2022-06-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[現在開催中のAmazonのタイムセール祭りで、「Fire TV」シリーズが最大30％オフのセール価格で販売されている。タイムセール祭りは20日23時59分まで。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIが考え刀鍛冶が打ったWeb3な日本刀「TACHI」。SF世界のカタナだな]]></title>
+        <id>https://www.gizmodo.jp/2022/06/tachi-ai-katana.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/tachi-ai-katana.html"/>
+        <updated>2022-06-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:fialaimアートとしての刀ですって。400年以上の伝統を引き継ぐ刀鍛治職人と、AIとWeb3が三位一体となった日本刀「TACHI」がお披露目されました。手に持ったらスッポ抜けそうで、鍔もないけどトラス構造で耐久性はありそう。有機的なデザインで台座に合体して立てて保管するのも斬新ですが…抜き身でちょっと危なげだったりします。太刀が立ったから「TACHI」鍛冶師は大阪・奈良を拠点にして]]></summary>
+        <author>
+            <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヒットする条件が整った「OPPO Reno7 A」　それでも“長く使う”上で気になる2つの課題]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/18/news051.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/18/news051.html"/>
+        <updated>2022-06-17T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[オウガ・ジャパンは、OPPOブランドの最新モデル「OPPO Reno7 A」を、6月23日に発売する。Reno Aシリーズの売りともいえる、サイフケータイや防水・防塵などの日本仕様は網羅している。一方で、Reno7 Aは、機能やスペックが“進化しただけでなく、日本市場に向けたローカライズも“深化”している。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Macの上にiPhoneを乗せるためのマウント。3Dプリンターがあれば出力できます]]></title>
+        <id>https://www.gizmodo.jp/2022/06/mac-iphone-mount-3d-printing.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/mac-iphone-mount-3d-printing.html"/>
+        <updated>2022-06-17T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[macOS Venturaの新機能としてiPhoneをWebカメラにするドッキングシステム「連係カメラ」が予告されています。これにはディスプレイの上にiPhoneを固定するためのマウントが必要になり、Belkinなどのサードパーティからも登場が予告されています。
+
+…でも、市販はきっとOSの公開後、きっと秋。
+
+というわけで、今すぐ試したい！というデベロッパーのために、有志によって3Dプリンターで]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゲオ、中古のiPhone SE（第2世代）とiPhone Xが1円のキャンペーン　UQ mobileとの同時購入で]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/17/news205.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/17/news205.html"/>
+        <updated>2022-06-17T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ゲオストアは、6月17日～7月25日に「えらべる!iPhone キャンペーン」を実施。UQ mobileの音声SIMと同時購入し、条件を満たすと中古iPhone SE（第2世代）またはiPhone Xを1円で購入できる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazonで「Galaxy Tab S8+」「Galaxy M23 5G」が最大10％＆5000円オフ]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/17/news195.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/17/news195.html"/>
+        <updated>2022-06-17T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazonでタブレット「Galaxy Tab S8+」やSIMフリーモデル「Galaxy M23 5G」と純正アクセサリーを対象としたキャンペーンが開催。期間中は最大10％または5000円割引が適用となる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1,000作品が最大50％オフ。「Kindle本 小説・ライトノベルセール」開催中]]></title>
+        <id>https://gori.me/?p=142367</id>
+        <link href="https://gori.me/sale/kindle-sale/142367"/>
+        <updated>2022-06-17T14:38:27.000Z</updated>
+        <summary type="html"><![CDATA[Kindleストアが、対象作品1,000点以上が最大50％オフで購入できる「Kindle本 小説・ライトノベルセール」を開催している。セールは2022年6月30日（木）まで。 対象作品には、『新装版　ソフィーの世界　上 ―哲学者からの不思議な手紙』、『護られなかった者たちへ』、『「読む」って、どんな…
+The post 1,000作品が最大50％オフ。「Kindle本 小説・ライトノベルセール」開催中 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワイモバイル、5G対応iPhone SE（第3世代）を21,600円オフで販売中]]></title>
+        <id>https://gori.me/?p=142365</id>
+        <link href="https://gori.me/iphone/iphonese/142365"/>
+        <updated>2022-06-17T14:37:36.000Z</updated>
+        <summary type="html"><![CDATA[Y!mobileが、iPhone SE（第3世代）を新規契約または他社回線から乗り換え（MNP）した場合、通常価格の最大21,600円オフで購入できるセールを開催している。 iPhone SE（第3世代）は、見た目こそ前モデルと同じだが、内部は最新仕様にアップデート。iPhone 13シリーズと同じ…
+The post ワイモバイル、5G対応iPhone SE（第3世代）を21,600円オフで販売中 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夜間の最低気温が32度！米南西部フェニックス、昼も夜も危険な暑さに]]></title>
+        <id>https://www.gizmodo.jp/2022/06/phoenix-arizona-extreme-heat-nighttime-temperature.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/phoenix-arizona-extreme-heat-nighttime-temperature.html"/>
+        <updated>2022-06-17T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカで最も暑い都市のひとつとして知られるアリゾナ州フェニックスですが、6月は特にひどい暑さが続いています。数日連続で最高気温が華氏110度（摂氏43度）を超えました。6月16日には、フェニックス・スカイハーバー国際空港の最高気温が45度に達しました。でも、それよりもっと心配なのは、夜中にも観測史上最高となる32度を記録していること。The Guardianは、夏が始まってすぐに夜がこんなに暑く]]></summary>
+        <author>
+            <name>Kenji P. Miyajima</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エルゴノミクスキーボードおすすめ3選！無理のない姿勢でデスクワークにのぞめる商品を厳選]]></title>
+        <id>https://www.gizmodo.jp/2022/06/comfortable-ergo-keyboard.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/comfortable-ergo-keyboard.html"/>
+        <updated>2022-06-17T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[エルゴノミクスキーボードとは、できるだけ無理のない自然な姿勢で作業できる「人間工学に基づいた」キーボードのこと。長時間のPC作業やホームオフィスに最適ですが、特殊な形状なものが多いので選ぶのに迷ってしまいます。そこで、今回はWirecutter編集部おすすめ機種3選をご紹介します！]]></summary>
+        <author>
+            <name>R.Mitsubori</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPad Air 4が登場したが、iPad Pro（2018）のほうが安い。iPad整備済商品の最新情報（2022年6月17日更新）]]></title>
+        <id>https://gori.me/?p=142363</id>
+        <link href="https://gori.me/sale/apple-refurbished/142363"/>
+        <updated>2022-06-17T13:29:35.000Z</updated>
+        <summary type="html"><![CDATA[通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みiPad情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日はiPad Air（第4世代）が整…
+The post iPad Air 4が登場したが、iPad Pro（2018）のほうが安い。iPad整備済商品の最新情報（2022年6月17日更新） first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MacBook Pro（M2）の性能ってどのMacと比較すればいい？ えっ、MacPro…だ…と？]]></title>
+        <id>https://www.gizmodo.jp/2022/06/macbook-pro-m2-bench.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/macbook-pro-m2-bench.html"/>
+        <updated>2022-06-17T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本日から注文が始まるM2チップ搭載のMacBook Pro。先日はGeekBenchのスコアが発見され、Appleの言うM1より最大18％高速が概ね間違いではないことが判明しています。
+
+で、それってどれだけ早いの？既存のMacと比べてどうなの？ってところですよね。お答えします。]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一度は振り回したいよね！ ライトセーバーを忠実に再現した「V5カイバーライト」]]></title>
+        <id>https://www.gizmodo.jp/2022/06/machi-ya-kyberlight-start.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/machi-ya-kyberlight-start.html"/>
+        <updated>2022-06-17T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ発の「V5カイバーライト」は、映画さながらのリアルなサウンドと光を再現するアルミニウム合金とポリカーボネートで作られたレーザーブレードです。ボタン2つとシンプルなインターフェースで操作も簡単。デュアルコネクタを使用すれば両刃スタイルで楽しむことができます。]]></summary>
+        <author>
+            <name>kotoha ozawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[”富豪価格”のApple純正35Wデュアルポート電源アダプタ、販売開始]]></title>
+        <id>https://gori.me/?p=142361</id>
+        <link href="https://gori.me/mac-accessories/mac-usbc/142361"/>
+        <updated>2022-06-17T12:36:11.000Z</updated>
+        <summary type="html"><![CDATA[Appleが6月18日、2ポート搭載の最大35W出力USB-C充電器を販売開始した。従来のApple純正アダプタと同じデザインの「デュアルUSB-Cポート搭載35W電源アダプタ」と、コンパクトサイズの「デュアルUSB-Cポート搭載35Wコンパクト電源アダプタ」の2種類だ。 価格は、両製品とも7,80…
+The post ”富豪価格”のApple純正35Wデュアルポート電源アダプタ、販売開始 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[M2 MacBook Pro、予約受付を開始]]></title>
         <id>https://gori.me/?p=142360</id>
@@ -15198,19 +15703,6 @@ The post 高い本が半額。「Kindle本高額書籍キャンペーン」開�
         <updated>2022-05-20T02:05:50.000Z</updated>
         <summary type="html"><![CDATA[ソフトバンクのオンライン専用ブランドLINEMOが、「ミニプラン基本料半年間実質無料キャンペーン」をスタートした。キャンペーン期間中、LINEMOの月額990円の「ミニプラン」を他社からの乗り換え契約（MNP）もしくは新しい番号で契約（新規）すると、PayPayポイント990円相当を6カ月間、毎月も…
 The post 楽天を意識？LINEMO、3GBプランの6カ月間実質無料キャンペーンを開始 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AppleのAR/VRヘッドセット、完成間近？取締役会で披露か]]></title>
-        <id>https://gori.me/?p=141785</id>
-        <link href="https://gori.me/apple/apple-news/141785"/>
-        <updated>2022-05-19T22:55:57.000Z</updated>
-        <summary type="html"><![CDATA[Renders by Ianより AppleのAR/VRヘッドセットは完成間近の可能性がある。Bloombergによると、取締役会で実機が披露されたという。詳細は不明。動作する専用OS「realityOS」（略称：rOS）の開発も強化しているそうだ。早ければ年内に正式発表されるが、一般販売は2023…
-The post AppleのAR/VRヘッドセット、完成間近？取締役会で披露か first appeared on ゴリミー.
 
  【もっと読む】]]></summary>
         <author>
