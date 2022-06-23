@@ -6,6 +6,86 @@
       "siteUrl": "https://gori.me",
       "articles": [
         {
+          "id": "https://gori.me/?p=142427",
+          "author": "g.O.R.i",
+          "description": "iOS 16は、4G（LTE）回線でもiCloudバックアップに対応する。従来はWi-Fiのみとなっており、一部通信キャリアは5G通信時に限り「モバイル通信経由でバックアップ」が有効化されていた。今後は4G（LTE）回線にも拡大する。 ただし利用した場合はモバイル通信データ量を消費する。データ無制限…\nThe post iOS 16：4G（LTE）回線でiCloudバックアップに対応 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ios/ios16/142427",
+          "publishedOn": "2022-06-23T02:34:38.000Z",
+          "wordCount": 1000,
+          "title": "iOS 16：4G（LTE）回線でiCloudバックアップに対応",
+          "imageUrl": "https://gori.me/uploads/2022/06/Mobile-Backup-with-4G-01-800x534.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=141170",
+          "author": "g.O.R.i",
+          "description": "Ankerは6月23日、メディア向け発表会「Anker Power Conference – ‘22 Spring」（4月13日開催）で発表した、最大100W出力が可能なUSB充電器「Anker 736 Charger（Nano II 100W）」を販売開始した。価格は8.990円。 本当に100W…\nThe post Ankerの新型100W充電器は世界最小級。USB-C×2＋USB-A×1の3ポート仕様 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone-accessories/charging-hub/141170",
+          "publishedOn": "2022-06-23T02:00:57.000Z",
+          "wordCount": 1112,
+          "title": "Ankerの新型100W充電器は世界最小級。USB-C×2＋USB-A×1の3ポート仕様",
+          "imageUrl": "https://gori.me/uploads/2022/04/Anker-736-Charger-Nano-II-100W-01-800x534.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=141151",
+          "author": "g.O.R.i",
+          "description": "Ankerは6月23日、メディア向け発表会「Anker Power Conference – ‘22 Spring」（4月13日開催）で発表した、USB PD対応の急速充電器とモバイルバッテリーを兼ね揃えた「Anker 511 Power Bank（PowerCore Fusion 5000）」を販…\nThe post Ankerの「充電器＋モバイルバッテリー」製品、スティック型に進化 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone-accessories/battery/141151",
+          "publishedOn": "2022-06-23T02:00:20.000Z",
+          "wordCount": 1011,
+          "title": "Ankerの「充電器＋モバイルバッテリー」製品、スティック型に進化",
+          "imageUrl": "https://gori.me/uploads/2022/04/Anker-511-PowerBank-01-800x534.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=142425",
+          "author": "g.O.R.i",
+          "description": "watchOS 9では、Apple Watch Series 4およびApple Watch Series 5に内蔵されたバッテリーの最大容量をキャリブレーション（調整）する。今秋の正式版にアップデート後、いずれかのモデルを持つユーザーは正確な電池残量が確認できるようになる。 Appleは、iOS …\nThe post watchOS 9：Apple Watch Series 4/Series 5の最大バッテリー容量を調整へ first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple-watch/series4/142425",
+          "publishedOn": "2022-06-23T00:43:02.000Z",
+          "wordCount": 1054,
+          "title": "watchOS 9：Apple Watch Series 4/Series 5の最大バッテリー容量を調整へ",
+          "imageUrl": "https://gori.me/uploads/2018/10/Apple-Watch-Series-4-infograph-modular-01-723x542.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=142424",
+          "author": "g.O.R.i",
+          "description": "Twitterは6月23日、長文をブログ記事のような形で投稿できる新機能「Twitter Notes」を発表した。現在は米国、英国、ガーナの一部ユーザーを対象にテストを行っており、一般公開の時期は不明だ。 Notesでは、最大100文字のタイトルと最大2,500文字の文章を作成できる。UIはnote…\nThe post Twitterに最大2,500文字が”投稿”可能に。ブログ機能「Notes」を発表 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/twitter/twitter-news/142424",
+          "publishedOn": "2022-06-23T00:26:52.000Z",
+          "wordCount": 1004,
+          "title": "Twitterに最大2,500文字が”投稿”可能に。ブログ機能「Notes」を発表",
+          "imageUrl": "https://gori.me/uploads/2022/06/Twitter-Notes-coming-soon-800x500.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=142422",
+          "author": "g.O.R.i",
+          "description": "Appleよりキャプチャ iPadはiPadOS 16以降、HomeKit製品のホームハブ機能がサポートされなくなる。MacRumorsによると、iOS 16ベータ版のコード内にiPadのサポート外を説明する記述があるという。Appleは、iPadOS 16のプレビューページに「ホームハブとして利用…\nThe post iPadOS 16：iPadのホームハブ機能を廃止 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ipados/ipados16/142422",
+          "publishedOn": "2022-06-22T22:49:07.000Z",
+          "wordCount": 981,
+          "title": "iPadOS 16：iPadのホームハブ機能を廃止",
+          "imageUrl": "https://gori.me/uploads/2022/06/homekit-apple-camera-800x536.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=142420",
+          "author": "g.O.R.i",
+          "description": "Appleは6月23日、「iOS 16 beta 2」「iPadOS 16 beta 2」「macOS 13 beta 2」「watchOS 9 beta 2」「tvOS 16 beta 2」を開発者向けに配信開始した。WWDC22の基調講演直後にリリースされた最初のベータ版以来、初のアップデートだ…\nThe post iOS/iPadOS 16やmacOS VenturaのBeta 2、開発者向けに配信開始 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ios/ios16/142420",
+          "publishedOn": "2022-06-22T22:30:58.000Z",
+          "wordCount": 1069,
+          "title": "iOS/iPadOS 16やmacOS VenturaのBeta 2、開発者向けに配信開始",
+          "imageUrl": "https://gori.me/uploads/2022/06/brandon-romanchuk-scsXux0vykw-unsplash-800x534.jpeg"
+        },
+        {
+          "id": "https://gori.me/?p=142409",
+          "author": "g.O.R.i",
+          "description": "M2チップを搭載した13インチMacBook Pro（2022）の先行レビューが国内外で解禁された。一般販売は6月24日（金）を予定している。 M2 MacBook ProはM1モデルと同じ外観だが、M2チップによりCPU性能が18％高速化、GPU性能が35％高速化、ニューラルエンジン性能が40％高…\nThe post M2 MacBook Proの先行レビューまとめ first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macbookpro/142409",
+          "publishedOn": "2022-06-22T13:15:40.000Z",
+          "wordCount": 975,
+          "title": "M2 MacBook Proの先行レビューまとめ",
+          "imageUrl": "https://gori.me/uploads/2022/06/Apple-MacBook-Pro-M2-13-availability-June-2022-hero-800x534.jpg"
+        },
+        {
           "id": "https://gori.me/?p=142381",
           "author": "g.O.R.i",
           "description": "初代iPhoneはコピペができなかった。コピー・アンド・ペーストに対応したのは、iPhone 3GSにプリインストールされていた2009年リリースの「iPhone OS 3.0」から。テレビCMにしてまでアピールしていた。 なぜ初代iPhoneはコピペができなかったのか。Appleの元ソフトウェアエ…\nThe post 初代iPhoneはコピペができなかった。元エンジニアが告白「時間がなかった」 first appeared on ゴリミー.\n\n 【もっと読む】",
@@ -1444,136 +1524,6 @@
           "wordCount": 176,
           "title": "Canon EOS R7とR10の先行プレビュー・ハンズオン動画まとめ",
           "imageUrl": "https://gori.me/uploads/2022/05/915f35bb8d4a84ce2795401050389b9f-800x454.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=141858",
-          "author": "g.O.R.i",
-          "description": "Appleが、基調講演やPlatforms State of the Unionなど、世界開発者会議2022（WWDC22）の開催スケジュールを公開した。完全オンラインで、世界中の3,000万人を超えるAppleの開発者が無料で参加できる。 基調講演は、現地時間6月6日午前10時（日本時間6月7日午…\nThe post WWDC22、基調講演は日本時間6月7日午前2時より開催 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/apple/wwdc/141858",
-          "publishedOn": "2022-05-25T00:15:52.000Z",
-          "wordCount": 185,
-          "title": "WWDC22、基調講演は日本時間6月7日午前2時より開催",
-          "imageUrl": "https://gori.me/uploads/2022/05/Apple-WWDC22-details-announcement-hero-800x450.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=141853",
-          "author": "g.O.R.i",
-          "description": "auのオンライン専用プラン「povo 2.0」が、Amazonで「povo 2.0エントリーコード購入特典500ポイントプレゼント」キャンペーンを実施している。新規契約者向けの「povo2.0 エントリーコード/3GB（30日間）」または「povo2.0 エントリーコード/20GB（30日間）」を購…\nThe post povo 2.0、Amazonでエントリーコード購入で500ポイントプレゼント first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/mobile/smartphone/141853",
-          "publishedOn": "2022-05-24T21:45:31.000Z",
-          "wordCount": 167,
-          "title": "povo 2.0、Amazonでエントリーコード購入で500ポイントプレゼント",
-          "imageUrl": "https://gori.me/uploads/2022/05/Povo20_amazon-campaigna-800x400.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=141855",
-          "author": "g.O.R.i",
-          "description": "Amazonが、Kindle本5点まとめて買うと さらに10％ポイント還元を開催している。対象となっている作品は72,107冊。キャンペーンは5月30日まで。 対象作品およびセールページはこちらから。Kindleストアでは、対象作品20,000点が50％ポイント還元で購入できる「Kindle本ポイン…\nThe post Kindleストア、5冊同時購入でさらに10％ポイント還元（5/30まで） first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/sale/kindle-sale/141855",
-          "publishedOn": "2022-05-24T21:35:40.000Z",
-          "wordCount": 146,
-          "title": "Kindleストア、5冊同時購入でさらに10％ポイント還元（5/30まで）",
-          "imageUrl": "https://gori.me/uploads/2022/03/Kindle-Books-matome-gai-5-books-800x500.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=141136",
-          "author": "g.O.R.i",
-          "description": "Ankerが、4月13日にメディア向け発表会「Anker Power Conference – ‘22 Spring」で披露したポータブル電源「Anker 757 Portable Power Station (PowerHouse 1229Wh) 」を販売開始した。価格は169,900…\nThe post Ankerの最強ポータブル電源、ついに電子レンジやドライヤーも利用可能に first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/iphone-accessories/battery/141136",
-          "publishedOn": "2022-05-24T14:00:18.000Z",
-          "wordCount": 184,
-          "title": "Ankerの最強ポータブル電源、ついに電子レンジやドライヤーも利用可能に",
-          "imageUrl": "https://gori.me/uploads/2022/04/Anker-757-Portable-Power-Station-Powerhouse1229wh-01-800x534.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=141851",
-          "author": "g.O.R.i",
-          "description": "Appleは5月24日、Apple Watchプライドエディションバンドとプライドの文字盤の2022年コレクションを発表した。「プライドエディションスポーツループ」と「プライドエディションNikeスポーツループ」の価格は、いずれも5,280円。本日より購入可能だ。 「プライドエディションスポーツルー…\nThe post 2022年版のApple Watchプライドエディションバンド、発売。新文字盤も提供 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/watch-accessories/watch-band/141851",
-          "publishedOn": "2022-05-24T13:30:03.000Z",
-          "wordCount": 153,
-          "title": "2022年版のApple Watchプライドエディションバンド、発売。新文字盤も提供",
-          "imageUrl": "https://gori.me/uploads/2022/05/New-Pride-Bands-for-AppleWatch-800x450.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=141849",
-          "author": "g.O.R.i",
-          "description": "Logicoolは5月24日、高品質マウス「MX MASTER 3S」を発表した。価格は税込14,960円。2022年6月16日（木）に発売を予定している。 前モデル「MX MASTER 3」より、静音性とトラッキング精度が大幅に強化。エクセル・コーディング、映像編集などの作業効率を上げたいビジネス…\nThe post Logicool、MX MASTER 3Sを発表。静音性とトラッキング精度が大幅に強化 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/mac-accessories/mac-prepherial/141849",
-          "publishedOn": "2022-05-24T09:16:58.000Z",
-          "wordCount": 187,
-          "title": "Logicool、MX MASTER 3Sを発表。静音性とトラッキング精度が大幅に強化",
-          "imageUrl": "https://gori.me/uploads/2022/05/MX-Master-3S-Wireless-Mouse-001-800x432.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=141847",
-          "author": "g.O.R.i",
-          "description": "Logicoolは5月24日、MXシリーズ史上初となるメカニカルキーボード「MX MECHANICAL」と「MX MECHANICAL MINI」を発表した。価格は、「MX MECHANICAL」が20,790円、「MX MECHANICAL MINI 」が18,700円（いずれも税込）。2022年…\nThe post Logicool、MXシリーズ初のメカニカルキーボード「MX MECHANICAL」「MX MECHANICAL MINI」を発表 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/mac-accessories/mac-keyboard/141847",
-          "publishedOn": "2022-05-24T09:04:42.000Z",
-          "wordCount": 235,
-          "title": "Logicool、MXシリーズ初のメカニカルキーボード「MX MECHANICAL」「MX MECHANICAL MINI」を発表",
-          "imageUrl": "https://gori.me/uploads/2022/05/mx-mechanical-keyboard-800x509.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=141845",
-          "author": "g.O.R.i",
-          "description": "AirPods Proの第2世代モデル（AirPods Pro 2）は、現行モデルと同じくLightningポートを搭載する可能性がある。Apple情報に詳しいアナリストMing-Chi Kuo氏は、2023年にiPhoneのUSB-C化、Lightningポート搭載製品のUSB-C化も続くと予想し…\nThe post AirPods Pro 2、Lightningポートを引き続き搭載か first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/music-accessories/airpods/141845",
-          "publishedOn": "2022-05-24T07:29:45.000Z",
-          "wordCount": 312,
-          "title": "AirPods Pro 2、Lightningポートを引き続き搭載か",
-          "imageUrl": "https://gori.me/uploads/2022/05/kreeson-naraidoo-Dwz_Cmllk3w-unsplash-800x500.jpeg"
-        },
-        {
-          "id": "https://gori.me/?p=141842",
-          "author": "g.O.R.i",
-          "description": "Canonは5月24日、RFマウント初のAPS-Cサイズカメラ用「RF-Sレンズ」として、「RF-S18-45mm F4.5-6.3 IS STM」および「RF-S18-150mm F3.5-6.3 IS STM」を正式発表した。価格はオープン価格。発売は2022年6月下旬を予定している。 2022…\nThe post Canon、初のRF-Sレンズ「RF-S18-45mm F4.5-6.3 IS STM」「RF-S18-150mm F3.5-6.3 IS STM」を発表 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/camera/lens/141842",
-          "publishedOn": "2022-05-24T04:43:32.000Z",
-          "wordCount": 197,
-          "title": "Canon、初のRF-Sレンズ「RF-S18-45mm F4.5-6.3 IS STM」「RF-S18-150mm F3.5-6.3 IS STM」を発表",
-          "imageUrl": "https://gori.me/uploads/2022/05/Canon-RF-S-Lens-18_150-18_45-800x500.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=141840",
-          "author": "g.O.R.i",
-          "description": "Canonは5月24日、小型・軽量ボディーに「EOS Rシステム」の高い性能を凝縮し、本格的な静止画・動画撮影をより手軽に楽しむことができるミラーレスカメラ「EOS R10」を正式発表した。価格はオープン価格。発売は2022年7月下旬を予定している。 メカシャッター/電子先幕による撮影時は、AF/A…\nThe post Canon、新型APS-Cミラーレス「EOS R10」を正式発表 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/camera/camera-news/141840",
-          "publishedOn": "2022-05-24T04:31:28.000Z",
-          "wordCount": 174,
-          "title": "Canon、新型APS-Cミラーレス「EOS R10」を正式発表",
-          "imageUrl": "https://gori.me/uploads/2022/05/Canon-EOS-R10-Official-Release-800x500.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=141838",
-          "author": "g.O.R.i",
-          "description": "Canonは5月24日、RFマウントを採用する「EOS Rシステム」のAPS-Cハイエンドモデルカメラとして、新開発の有効画素数最大約3250万画素APS-CサイズCMOSセンサー搭載のミラーレスカメラ「EOS R7」を正式発表した。価格はオープン価格。発売は2022年7月下旬を予定している。 メカ…\nThe post Canon、新型APS-Cミラーレス「EOS R7」を正式発表 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/camera/camera-news/141838",
-          "publishedOn": "2022-05-24T04:23:05.000Z",
-          "wordCount": 168,
-          "title": "Canon、新型APS-Cミラーレス「EOS R7」を正式発表",
-          "imageUrl": "https://gori.me/uploads/2022/05/Canon-EOS-R7-Official-Release-800x500.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=141829",
-          "author": "g.O.R.i",
-          "description": "2022年の新型iPhone（iPhone 14）は、通常モデルとProモデルにそれぞれ6.1インチと6.7インチのディスプレイサイズが用意され、4機種展開になる噂だ。5.4インチの「iPhone 14 mini」は出ない可能性が高い。例年どおりであれば9月に発表・発売されるだろう。 iPhoneの…\nThe post iPhone 14は待つべき？カメラ以外の理由が思い当たらない… first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/iphone/iphone-news/141829",
-          "publishedOn": "2022-05-24T02:07:45.000Z",
-          "wordCount": 447,
-          "title": "iPhone 14は待つべき？カメラ以外の理由が思い当たらない…",
-          "imageUrl": "https://gori.me/uploads/2022/05/Should-we-wait-for-iPhone14-01-800x534.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=141833",
-          "author": "g.O.R.i",
-          "description": "Pangolin Wildlife Photographyよりキャプチャ Canonより近日中に正式発表が噂される、APS-Cセンサー搭載ミラーレスカメラ「EOS R7」と「EOS R10」のハンズオン動画が公開された。 EOS R7は、3,250万画素でデュアルピクセルCMOS AF IIセンサー…\nThe post Canon EOS R7とR10のハンズオン動画が公開。スペック比較も first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/camera/camera-news/141833",
-          "publishedOn": "2022-05-24T01:47:52.000Z",
-          "wordCount": 183,
-          "title": "Canon EOS R7とR10のハンズオン動画が公開。スペック比較も",
-          "imageUrl": "https://gori.me/uploads/2022/05/EOS-R7-and-R10-800x450.jpg"
         }
       ]
     },
@@ -1582,6 +1532,136 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/mobile.xml",
       "siteUrl": "https://www.itmedia.co.jp/mobile/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/23/news247.html",
+          "author": null,
+          "description": "Xiaomiが、第3のブランド「POCO（ポコ）」のスマートフォンを日本でも展開することになった。最新ハイエンドプロセッサであるSnapdragon 8 Gen 1を搭載しながらも、早期購入で7万円を切る価格で購入できることに驚くばかりだが、その狙いをXiaomiの担当者に聞いた。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/23/news247.html",
+          "publishedOn": "2022-06-23T12:00:00.000Z",
+          "wordCount": 3017,
+          "title": "狙うは“原点回帰”　テクノロジー愛好家向けブランド「POCO」を日本導入するXiaomiの狙いを聞く",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/23/l_si7101-POCO-01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/23/news223.html",
+          "author": null,
+          "description": "トリニティのライフスタイルアクセサリーブランド「Catalyst」は、6月30日から「完全防水ケース for AirPods（第3世代）」を発売。水深100mの完全防水と、3mの耐衝撃プロテクションを備える。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/23/news223.html",
+          "publishedOn": "2022-06-23T10:13:00.000Z",
+          "wordCount": 2997,
+          "title": "Catalyst、水深100mの完全防水を備えたAirPods（第3世代）対応ケース発売",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/23/l_asa_trinityAirPods_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/23/news030.html",
+          "author": null,
+          "description": "予告されていた通り、中国Xiaomiから生まれたブランド「POCO」が日本に初上陸を果たした。日本で発売される最初のハイエンドスマートフォンは「POCO F4 GT」。Snapdragon 8 Gen 1搭載で7万4800円から。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/23/news030.html",
+          "publishedOn": "2022-06-23T10:00:00.000Z",
+          "wordCount": 3117,
+          "title": "Xiaomiの「POCO F4 GT」日本初上陸　Snapdragon 8 Gen 1搭載で7万4800円から",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/23/l_rk1640414_POCOF4GT-01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/23/news233.html",
+          "author": null,
+          "description": "ソフトバンクは「ソフトバンクショップ in ZEPETO」を6月23日にオープンした。「ZEPETOアプリ」（Android／iOS）をスマホなどにダウンロードし、3Dアバターを作った上で同店へ来店すると、メタバース空間でアバターによる接客などが受けられる。サービスの契約や、端末、アクセサリーなどの購入はオンラインショップへ推移し、ユーザー自身が行わなければならない。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/23/news233.html",
+          "publishedOn": "2022-06-23T09:55:00.000Z",
+          "wordCount": 3031,
+          "title": "“メタバースなソフトバンクショップ”開設　24時間365日いつでもサポート",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/23/l_rk1640414_SoftBankMetaverse-01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/23/news183.html",
+          "author": null,
+          "description": "MM総研は、6月23日に「国内MVNO市場調査（2022年3月末時点）」の結果を発表した。独自サービス型SIMの回線契約数は1259.4万回線（前年同期比0.2％減）となった。2022年3月末時点で独自サービス型SIM市場の事業者シェア1位はIIJ。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/23/news183.html",
+          "publishedOn": "2022-06-23T08:00:00.000Z",
+          "wordCount": 2977,
+          "title": "MVNO市場は回復基調に、シェアはIIJが1位　MM総研の調査から",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/23/l_asa_MMsouken_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/23/news203.html",
+          "author": null,
+          "description": "アンカー・ジャパンは、USB急速充電器とモバイルバッテリーの一体型モデル「Anker 511 Power Bank（PowerCore Fusion 5000）」を発売した。コンパクトなリップスティック型で、取り出しやすいストラップ付き。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/23/news203.html",
+          "publishedOn": "2022-06-23T07:55:00.000Z",
+          "wordCount": 3020,
+          "title": "リップスティック型の5000mAhモバイルバッテリー　アンカーから",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/23/l_asa_anker511PowerBank_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/23/news171.html",
+          "author": null,
+          "description": "楽天カードと楽天ペイメントは、総務省が実施する「マイナポイント第2弾」に参加する。楽天カードまたは楽天ペイを登録すした上で条件を満たすと、最大2万円相当の楽天ポイントがもらえる。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/23/news171.html",
+          "publishedOn": "2022-06-23T06:30:00.000Z",
+          "wordCount": 2982,
+          "title": "楽天カードと楽天ペイが「マイナポイント第2弾」に参加　最大2万円相当の楽天ポイントをプレゼント",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/23/l_asa_rakumy20000_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/23/news156.html",
+          "author": null,
+          "description": "トリニティが、シャープのスマートフォン「AQUOS」とのコラボレーション企画第2弾を実施する。動画内で出題したクイズに正解した全員へ、AQUOS wish／wish2対応製品で使える50％オフクーポンをプレゼントする。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/23/news156.html",
+          "publishedOn": "2022-06-23T05:00:00.000Z",
+          "wordCount": 2993,
+          "title": "AQUOS×Simplismコラボ企画第2弾　「AQUOS wish」「AQUOS wish2」対応製品が半額になるクーポンをプレゼント中",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/23/l_asa_trinityAQUOSWish2_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/23/news137.html",
+          "author": null,
+          "description": "フィットビットは、サブスクリプションサービス「Fitbit Premium」（月額640円／年額6400円）向けの新機能として、「睡眠プロフィール」の提供を始めた。睡眠プロフィールは、ユーザーの睡眠パターンを長期に渡って分析し、より良い睡眠へのヒントを動物のキャラクターと共に示す機能だ。1カ月当たり最低14日間は、睡眠時にFitbitの着用が必要。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/23/news137.html",
+          "publishedOn": "2022-06-23T03:55:00.000Z",
+          "wordCount": 3007,
+          "title": "Fitbitから睡眠の質を改善する機能　分析データを動物に類型化",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/23/l_rk1640414_Fitbit-01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/23/news135.html",
+          "author": null,
+          "description": "KDDIが、7月上旬～8月下旬の期間限定で富士山頂を5G／4G LTEのエリアとする。山小屋や登山口／登山道も4G LTEでのエリア化が実施される。同社子会社のワイヤ・アンド・ワイヤレス（Wi2）も、7月～9月上旬に無料のWi-Fiサービス「富士山 Wi-Fi」を富士山の山小屋を含む46カ所で提供する。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/23/news135.html",
+          "publishedOn": "2022-06-23T03:50:00.000Z",
+          "wordCount": 3020,
+          "title": "富士山頂で「au 5G」を7月上旬～8月下旬に提供　無料Wi-Fiサービスも用意",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/23/l_asa_KDDIfuji5G4G_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/23/news113.html",
+          "author": null,
+          "description": "全日本空輸（ANA）は6月22日、カウンターへ行かずにスマートフォンで空席確認が行えるサービスを始めた。日本の航空会社としては初めてという。利用者はスマートフォンからANAアプリやANAウェブサイトへアクセスし、空席待ちの申し込みや状況照会が可能になる。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/23/news113.html",
+          "publishedOn": "2022-06-23T01:35:00.000Z",
+          "wordCount": 2993,
+          "title": "カウンターへ行かずにスマホで空席確認　ANAの新サービス",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/23/cover_news113.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/23/news093.html",
+          "author": null,
+          "description": "KDDIは5月22日、第38期定時株主総会を開催した。2022年から2024年は5Gを中核に据えて事業変革を推進する。新中期経営戦略では、事業戦略を「サテライトグロース戦略」と位置付け、本格化を迎える5Gを中心に置き、通信を核とした注力領域を拡大していく。株主からの質問では、不適切な販売や3G停波後の影響、5Gサービスの今後について指摘があった。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/23/news093.html",
+          "publishedOn": "2022-06-22T23:51:00.000Z",
+          "wordCount": 3004,
+          "title": "「不適切な販売どうして放置？」「5Gで特徴的なサービスがない」　KDDI株主総会で指摘、高橋社長の答えは？",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/23/l_st52693_kddistock-01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2206/22/news191.html",
+          "author": null,
+          "description": "CIOが、6月22日20時～6月27日1時59分に開催される楽天市場の「お買い物マラソン」に参加。GaN対応急速充電器やモバイルバッテリー、ネックファンなどを最大66％オフで販売する。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2206/22/news191.html",
+          "publishedOn": "2022-06-22T22:30:00.000Z",
+          "wordCount": 2998,
+          "title": "CIO、楽天市場「お買い物マラソン」に参加　急速充電器やオーディオアイテムが最大66％オフ",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/22/l_asa_CIOraku66_01.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/mobile/articles/2206/22/news195.html",
           "author": null,
@@ -4501,106 +4581,6 @@
           "wordCount": 628,
           "title": "フラグシップ徹底比較　「Galaxy S22 Ultra」と「Galaxy Z Fold3 5G」はどちらを選ぶ？",
           "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2205/24/l_pics_galaxyhikaku01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2205/25/news049.html",
-          "author": null,
-          "description": "電気通信事業法の改正以来激減してきたスマホの「特価販売」が、新たな手法によって復活しつつあります。しかし、そのことに伴い「転売ヤー」と呼ばれる転売目的の端末購入が再び問題となりつつあります。その現状について、携帯電話販売店のスタッフに聞いてみました。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2205/25/news049.html",
-          "publishedOn": "2022-05-24T22:00:00.000Z",
-          "wordCount": 456,
-          "title": "スマホ特価販売の「闇」　転売対策に右往左往する販売店の声",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2205/25/cover_news049.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2205/24/news180.html",
-          "author": null,
-          "description": "エレコムは、キッチン向けスマホ＆タブレットスタンド3種類を発売。アームが自由自在に伸縮するフレキシブルアーム、コンパクトな卓上タイプ、吸盤タイプを用意し、マットな質感のグリーンとアイボリーで展開する。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2205/24/news180.html",
-          "publishedOn": "2022-05-24T08:51:00.000Z",
-          "wordCount": 441,
-          "title": "レシピ画面を見ながら調理　キッチンで役立つスマホ＆タブレットスタンド",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2205/24/l_asa_elekitchenstand_01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2205/24/news165.html",
-          "author": null,
-          "description": "エレコムは、IP67の防水／防塵（じん）を搭載したアウトドア向けモバイルバッテリーから容量1万mAhと容量1万5000mAhの2モデルを発売する。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2205/24/news165.html",
-          "publishedOn": "2022-05-24T07:58:00.000Z",
-          "wordCount": 453,
-          "title": "アウトドア向け、防水対応の1万／1万5000mAhモバイルバッテリー発売",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2205/24/l_asa_eleNESTOUT_01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2205/24/news159.html",
-          "author": null,
-          "description": "",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2205/24/news159.html",
-          "publishedOn": "2022-05-24T07:30:00.000Z",
-          "wordCount": 444,
-          "title": "福岡市地下鉄で「Visaのタッチ決済」を使った乗車実験を実施　5月31日から",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2205/24/l_si7101-SMC-01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2205/24/news137.html",
-          "author": null,
-          "description": "LINEは5月24日、AI文字起こしアプリ「CLOVA Note」（iOS／Android、Webブラウザ）ベータ版の提供を始めた。CLOVA NoteはAI音声認識技術「CLOVA Speech」を活用し、収録した音声をテキストに変換できるサービス。ブックマーク機能やキーワード検索も可能だ。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2205/24/news137.html",
-          "publishedOn": "2022-05-24T06:10:00.000Z",
-          "wordCount": 456,
-          "title": "LINE、AI文字起こしサービス「CLOVA Note」を提供　複数話者の聞き分けも可能",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2205/24/l_rk1640414_LINE-01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2205/24/news133.html",
-          "author": null,
-          "description": "Amazon.co.jpでpovo2.0エントリーコードを購入すると、Amazonポイント500円分をプレゼントするキャンペーンを開催。また、Amazon経由で他社からahamoへ乗り換えると1万ポイントのdポイントを付与する。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2205/24/news133.html",
-          "publishedOn": "2022-05-24T05:45:00.000Z",
-          "wordCount": 431,
-          "title": "Amazon、ahamoへ乗り換えで1万ポイント還元　povoは500ポイント還元",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2205/24/l_asa_Amazonpovoahamo_01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2205/24/news136.html",
-          "author": null,
-          "description": "エレコムが、USB PD（Power Delivery）の最新規格で盛り込まれた100W超240Wまでの電力供給に対応するUSB Type-Cケーブルを発売した。伝送規格はUSB 2.0とUSB4を用意しており、USB 2.0規格の場合はケーブルの長さを1mと2mから選べる。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2205/24/news136.html",
-          "publishedOn": "2022-05-24T05:10:00.000Z",
-          "wordCount": 498,
-          "title": "エレコムが「USB PD EPR」対応のUSB Type-Cケーブルを発売　3880円から",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2205/24/l_si7101-EPR-01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2205/24/news118.html",
-          "author": null,
-          "description": "ニューズドテックは、2021年／2022年（1月～4月）の中古携帯販売シェア比較を発表。2021年1月時点の中古スマホは6割未満だったが、2022年4月には約8割に到達した。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2205/24/news118.html",
-          "publishedOn": "2022-05-24T03:24:00.000Z",
-          "wordCount": 432,
-          "title": "中古スマホのシェアが8割、中古ガラケーは1割未満に　ニューズドテック調べ",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2205/24/l_asa_newsedtech202120220104_01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2205/24/news106.html",
-          "author": null,
-          "description": "DMM.comの「DMMいろいろレンタル」は、クラウドSIMを採用したWi-Fiサービスへ月20GB／200GBプランを追加。6カ月利用で月額1900円から利用できる。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2205/24/news106.html",
-          "publishedOn": "2022-05-24T02:39:00.000Z",
-          "wordCount": 431,
-          "title": "DMMいろいろレンタル、クラウドWi-Fiサービスに20GBと200GBの新プラン",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2205/24/l_asa_DMMWiFi200_01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2205/23/news029.html",
-          "author": null,
-          "description": "3月発売の「Redmi Note 11」と4月発売の「Redmi Note 10T」。名前は似ているがスペックは違う。どちらも長短併せ持ったスマホなので、違いを検証してみた。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2205/23/news029.html",
-          "publishedOn": "2022-05-24T01:00:00.000Z",
-          "wordCount": 573,
-          "title": "「Redmi Note 11」と「Redmi Note 10T」は何が違う？　スペックから性能までを徹底比較",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2205/23/cover_news029.jpg"
         }
       ]
     },
@@ -4608,13 +4588,274 @@
       "title": "＠IT Test & Toolsフォーラム 最新記事一覧",
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/ait_testtools.xml",
       "siteUrl": "https://atmarkit.itmedia.co.jp/ait/subtop/testtools/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://atmarkit.itmedia.co.jp/ait/articles/2206/06/news010.html",
+          "author": null,
+          "description": "海外の先進的企業の事例を基にテスト自動化に使われる手法を解説する本連載。最終回は、アジャイル開発におけるテスト自動化において重要な考え方とは何かを解説する。",
+          "link": "https://atmarkit.itmedia.co.jp/ait/articles/2206/06/news010.html",
+          "publishedOn": "2022-06-22T20:00:00.000Z",
+          "wordCount": 5335,
+          "title": "肥大化し続けるソフトウェアをどうテストする？　アジャイル時代のソフトウェアテストに必要な考え方",
+          "imageUrl": "https://image.itmedia.co.jp/ait/articles/2206/06/cover_news010.png"
+        }
+      ]
     },
     {
       "title": "ケータイ Watch",
       "feedUrl": "https://k-tai.watch.impress.co.jp/data/rss/1.0/ktw/feed.rdf",
       "siteUrl": "https://k-tai.watch.impress.co.jp",
       "articles": [
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1419702.html",
+          "author": null,
+          "description": "シャオミ（Xiaomi）は、POCOブランドのハイエンドスマートフォン「POCO F4 GT」を6月23日に発売した。オープンマーケット版で2モデル展開される。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1419702.html",
+          "publishedOn": "2022-06-23T11:44:28.000Z",
+          "wordCount": 4326,
+          "title": "「POCO F4 GT」発売、スペックや価格をチェック",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1419/702/top.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/interview/1419235.html",
+          "author": null,
+          "description": "シャオミ（Xiaomi）は6月23日、グローバル展開しているブランド「POCO」を日本で展開することを正式に発表した。あわせて、ハイエンドモデルのスマートフォン「POCO F4 GT」を発表、発売した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/interview/1419235.html",
+          "publishedOn": "2022-06-23T10:00:00.000Z",
+          "wordCount": 4368,
+          "title": "シャオミのブランド「POCO」が日本上陸、Xiaomiと何が違う？　スティーブン・ワン氏から聞いた",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1419/235/cont205.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1418673.html",
+          "author": null,
+          "description": "シャオミ（Xiaomi）は、グローバルで展開しているPOCOブランドのハイエンドスマートフォン「POCO F4 GT」を国内で6月23日に発売した。価格は7万4800円～。販路が限定されている（後述）ほか、6月26日23時59分まで早割価格6万4800円～で購入できる。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1418673.html",
+          "publishedOn": "2022-06-23T10:00:00.000Z",
+          "wordCount": 4341,
+          "title": "シャオミのブランドPOCOから「POCO F4 GT」が発売――7万円で買えるハイエンドスマホ",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1418/673/top.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1419650.html",
+          "author": null,
+          "description": "JR東日本は、実施中の「マイナポイントはSuicaで貯めよう！キャンペーン第2弾」に特典を追加すると発表した。期間は6月30日から「マイナポイント第2弾」終了まで。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1419650.html",
+          "publishedOn": "2022-06-23T08:25:36.000Z",
+          "wordCount": 4277,
+          "title": "「マイナポイントはSuicaで貯めよう！キャンペーン第2弾」に特典追加、JRE POINT1万ポイントがあたる",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1419/650/suica.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1419640.html",
+          "author": null,
+          "description": "アマゾンジャパンは23日、7月に実施するセール「プライムデー」に関する発表会を開催した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1419640.html",
+          "publishedOn": "2022-06-23T08:09:52.000Z",
+          "wordCount": 4328,
+          "title": "HIKAKINやMrs. GREEN APPLEが登場、Amazonプライムデーの発表会",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1419/640/P1066471.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1419556.html",
+          "author": null,
+          "description": "ソフトバンクは23日、第36回定時株主総会を開催した。会場には同社 代表取締役社長執行役員兼CEOの宮川潤一氏が登壇した。本稿では質疑応答を中心にお伝えする。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1419556.html",
+          "publishedOn": "2022-06-23T08:01:00.000Z",
+          "wordCount": 4289,
+          "title": "6Gへの対応や5Gの進捗など、ソフトバンクの株主総会",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1419/556/sub.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1419604.html",
+          "author": null,
+          "description": "楽天モバイルは、同社が運用する「消火栓標識型基地局」について、その開発時などのエピソードを紹介するブログエントリーを公開した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1419604.html",
+          "publishedOn": "2022-06-23T07:32:26.000Z",
+          "wordCount": 4267,
+          "title": "楽天モバイルが「消火栓標識型」基地局を紹介するブログ",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1419/604/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1419590.html",
+          "author": null,
+          "description": "サムスン電子はAndroidタブレット「Galaxy Tab S8 Ultra」を本日23日に発売した。Amazon.co.jpでの価格は14万1800円（記事執筆時点）。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1419590.html",
+          "publishedOn": "2022-06-23T07:09:12.000Z",
+          "wordCount": 4334,
+          "title": "「Galaxy Tab S8 Ultra」本日発売、「Snapdragon 8 Gen 1」搭載のAndroidタブレット",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1419/590/main.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1419572.html",
+          "author": null,
+          "description": "ソフトバンクは、NAVER Zが運営するメタバースプラットフォーム「ZEPETO」にバーチャル店舗「ソフトバンクショップ in ZEPETO」をオープンした。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1419572.html",
+          "publishedOn": "2022-06-23T06:18:58.000Z",
+          "wordCount": 4272,
+          "title": "メタバース「ZEPETO」にソフトバンクショップがオープン",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1419/572/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1419545.html",
+          "author": null,
+          "description": "KDDIと沖縄セルラーは、「povo2.0」の対応端末に「OPPO Reno7 A」を追加した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1419545.html",
+          "publishedOn": "2022-06-23T05:43:45.000Z",
+          "wordCount": 4287,
+          "title": "povo2.0の対応端末に「OPPO Reno7 A」が追加",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1419/545/renoa.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1419506.html",
+          "author": null,
+          "description": "KDDIは、富士山頂の4G LTEに加えて5Gのエリア化を7月上旬から8月下旬まで実施すると発表した。快適な通信環境の提供による安心・安全な富士登山のサポートを目的としている。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1419506.html",
+          "publishedOn": "2022-06-23T04:44:20.000Z",
+          "wordCount": 4283,
+          "title": "富士山頂で7月上旬から「au 5G」提供、「富士山 Wi-Fi」も",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1419/506/au.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1419510.html",
+          "author": null,
+          "description": "アンカー（Anker）は、最大100W出力対応の充電器「Anker 736 Charger (Nano II 100W)」を6月23日に発売した。価格は8990円。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1419510.html",
+          "publishedOn": "2022-06-23T04:01:30.000Z",
+          "wordCount": 4323,
+          "title": "アンカーから最大100W出力の3ポート充電器「Anker 736 Charger (Nano II 100W)」",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1419/510/cont1.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1419503.html",
+          "author": null,
+          "description": "福岡県飯塚市は、「e-ZUKAスマートアプリコンテスト2022」を開催する。7月1日～9月9日にかけて作品を募集する。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1419503.html",
+          "publishedOn": "2022-06-23T03:50:13.000Z",
+          "wordCount": 4273,
+          "title": "「e-ZUKAスマートアプリコンテスト2022」、New Normal時代に向けたアプリを募集",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1419/503/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1419494.html",
+          "author": null,
+          "description": "Twitterは、長文が投稿できる新機能「Twitter Notes」を発表した。一部の国で導入されており、「Twitter Japan」のアカウントによると、現時点で日本からの閲覧はできない。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1419494.html",
+          "publishedOn": "2022-06-23T03:47:45.000Z",
+          "wordCount": 4275,
+          "title": "2500字までの長文を投稿できる新機能「Twitter Notes」が一部で公開",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1419/494/twitter.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1419472.html",
+          "author": null,
+          "description": "ソフトバンク 代表取締役社長執行役員兼CEOの宮川潤一氏が、23日の株主総会において孫正義氏の携帯電話事業に関する関心について発言する場面があった。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1419472.html",
+          "publishedOn": "2022-06-23T03:37:33.000Z",
+          "wordCount": 4272,
+          "title": "孫正義氏が携帯電話ネットワーク強化に意気込み、「俺がやるんだ」――宮川氏が株主総会でコメント",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1419/472/sub.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1419465.html",
+          "author": null,
+          "description": "ビックカメラグループのラネットは、MVNOサービス「BIC SIM」で、ギガプランが6カ月間300円割引になるキャンペーンを実施している。期間は7月31日まで。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1419465.html",
+          "publishedOn": "2022-06-23T03:25:23.000Z",
+          "wordCount": 4283,
+          "title": "「BIC SIM」のギガプランが6カ月間300円割引になるキャンペーン",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1419/465/main.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1419477.html",
+          "author": null,
+          "description": "アマゾンジャパンは、Amazon.co.jpにおいて、セール「プライムデー」を実施する。期間は7月12日0時～13日23時59分まで。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1419477.html",
+          "publishedOn": "2022-06-23T03:00:28.000Z",
+          "wordCount": 4299,
+          "title": "アマゾン「プライムデー」、セール対象の一部が発表",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1419/477/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1419375.html",
+          "author": null,
+          "description": "オウガ・ジャパンの5G対応Androidスマートフォン「OPPO Reno7 A」が、本日23日に発売される（一部の販路を除く）。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1419375.html",
+          "publishedOn": "2022-06-22T15:00:00.000Z",
+          "wordCount": 4364,
+          "title": "「OPPO Reno7 A」本日23日発売、価格や主なスペックは",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1419/375/00.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/review/1419369.html",
+          "author": null,
+          "description": "オウガ・ジャパンの5G対応Androidスマートフォン「OPPO Reno7 A」が、本日23日に発売される（一部の販路を除く）。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/review/1419369.html",
+          "publishedOn": "2022-06-22T15:00:00.000Z",
+          "wordCount": 4369,
+          "title": "「OPPO Reno7 A」クイックレビュー、しっかり長く使えるパートナーな一台",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1419/369/DSC03755.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/review/1419325.html",
+          "author": null,
+          "description": "シャープ製のAndroidスマートフォン「AQUOS wish2」。ソフトバンクのワイモバイルから23日に発売され、NTTドコモからは24日に発売される。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/review/1419325.html",
+          "publishedOn": "2022-06-22T15:00:00.000Z",
+          "wordCount": 4298,
+          "title": "「AQUOS wish2」クイックフォトレビュー",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1419/325/DSC03681.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1419277.html",
+          "author": null,
+          "description": "シャープは、同社のAndroidスマートフォン「AQUOS zero2 SH-M13」について、Android 12へバージョンアップするソフトウェア更新の提供を開始した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1419277.html",
+          "publishedOn": "2022-06-22T15:00:00.000Z",
+          "wordCount": 4296,
+          "title": "シャープの「AQUOS zero2」、Android 12に",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1419/277/shm13.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/minna/1419194.html",
+          "author": null,
+          "description": "5月末から6月中旬まで、ドイツ・ハノーバーで行われた「Hannover Messe 2022」、イタリア・ミラノで開催された「ミラノデザインウィーク2022」の取材でヨーロッパへ渡航してきました。筆者は今年2月にスペイン・バルセロナで行われた「MWC 2022」の取材ができず、3年ぶりのヨーロッパには大きな期待、特に現地の5Gエリアがどこまで広がっているのかが気になるところでした。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/1419194.html",
+          "publishedOn": "2022-06-22T15:00:00.000Z",
+          "wordCount": 4311,
+          "title": "[みんなのケータイ]3年ぶりのヨーロッパ。ドイツ、イタリア、スペインで「5GプリペイドSIM」の購入チャレンジ",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1419/194/04.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1419174.html",
+          "author": null,
+          "description": "今年の梅雨は、例年に比べて気温の低い日が多いが、そのぶん、晴れたり曇ったりした日との気温差が大きい。そうでなくとも暑さに弱く、ちょっとのことで大汗をかいてしまう筆者にとっては、これが苦痛でたまらない。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1419174.html",
+          "publishedOn": "2022-06-22T15:00:00.000Z",
+          "wordCount": 4299,
+          "title": "[本日の一品]ほてった体を水で冷やせ！ 水冷式ウエア「DIRECT COOL」を使ってみた",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1419/174/MW_dc_01.JPG"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/value/1419040.html",
+          "author": null,
+          "description": "0円スタートで注目を集めた楽天モバイルの「UN-LIMIT VI」が、間もなく終了します。これを受け、povo2.0やLINEMOなどのオンライン専用プランが改めて注目を集めています。一方で、音声通話ができなくてよければ、ソフトバンクにもお得な料金プランが存在します。それが、タブレットやパソコン向けに用意されている「データ通信専用3GBプラン」です。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/value/1419040.html",
+          "publishedOn": "2022-06-22T15:00:00.000Z",
+          "wordCount": 4322,
+          "title": "[石野純也の「スマホとお金」]ソフトバンクの「データ通信専用3GBプラン」が実質0円どころか、もっとおトクな理由",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1419/040/00.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/topic/galaxy/1417400.html",
+          "author": null,
+          "description": "サムスン電子から登場した「Galaxy S22 / S22 Ultra」は、カメラ性能に一層の磨きをかけたAndroidスマートフォンだ。両モデルとも複数のカメラを搭載して、使い勝手と画質をさらなる高みへと押し上げた端末となっている。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/topic/galaxy/1417400.html",
+          "publishedOn": "2022-06-22T15:00:00.000Z",
+          "wordCount": 4341,
+          "title": "サムスン「Galaxy S22 Ultra」、4つのカメラを徹底的に試す！[Sponsored]",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1417/400/DSC_3085.jpg"
+        },
         {
           "id": "https://k-tai.watch.impress.co.jp/docs/news/1419283.html",
           "author": null,
@@ -9724,176 +9965,6 @@
           "wordCount": 98,
           "title": "アップルの開発者向けイベント「WWDC」のプログラム発表、基調講演は6月7日2時～",
           "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1411/745/applewwdc.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1411657.html",
-          "author": null,
-          "description": "一時期ちょっとしたブーム……というほどでもないかもしれないが、話題になった、モニター上に追加できる収納棚をダイソーでゲットした。もちろん100円（税込110円）だ。類似製品はだいたい1000円台、2000円台からのものが多いので、まさに激安。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1411657.html",
-          "publishedOn": "2022-05-24T15:00:00.000Z",
-          "wordCount": 101,
-          "title": "[本日の一品]人気のモニター上収納棚を100円ショップでゲット！",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1411/657/004.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1411654.html",
-          "author": null,
-          "description": "モレスキンジャパンは、第3世代となる「スマートライティングセット」を、6月下旬から実店舗で発売する。価格は3万1790円。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1411654.html",
-          "publishedOn": "2022-05-24T15:00:00.000Z",
-          "wordCount": 101,
-          "title": "モレスキン、第3世代の「スマートライティングセット」を実店舗で展開へ",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1411/654/04.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1411624.html",
-          "author": null,
-          "description": "グーグル（Google）のサービス「Google ストリートビュー」が、サービス開始から15周年を迎えた。グーグルジャパンのブログでは、「ストリートビューが 15 歳になりました」と題し、過去15年間の歩みが紹介されている。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1411624.html",
-          "publishedOn": "2022-05-24T15:00:00.000Z",
-          "wordCount": 107,
-          "title": "Google ストリートビューが15周年、歴史や今後の展望を紹介",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1411/624/pastedimage0.png"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1411598.html",
-          "author": null,
-          "description": "TransferJetコンソーシアムは、60GHz帯を用いた超高速近接無線通信「TransferJet X」の規格化が完了したことを発表した。10Gbpsを超える超高速近接無線通信として、大容量データの転送などにおける活用が期待される。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1411598.html",
-          "publishedOn": "2022-05-24T15:00:00.000Z",
-          "wordCount": 111,
-          "title": "10Gbps超の超高速近接無線通信「TransferJet X」、規格化が完了",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1411/598/original.png"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1411559.html",
-          "author": null,
-          "description": "エレコムは、最大240Wでの給電を可能にするUSB Power Delivery EPRに対応したUSB Type-Cケーブル「USB4-CCPEN」シリーズと「U2C-CCPEN」シリーズを発売した。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1411559.html",
-          "publishedOn": "2022-05-24T15:00:00.000Z",
-          "wordCount": 100,
-          "title": "エレコム、240W給電が可能なUSB Type-Cケーブルを発売",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1411/559/sub1.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/column/minna/1411523.html",
-          "author": null,
-          "description": "約1年6カ月ぶりにメイン端末を買い替えました。auの「SCG13」、Galaxy S22です。“Ultra”が付かない、オーソドックスなほうのモデルで、お値段は12万5030円。機種変更扱いになりますので、この他に2200円の手数料がかかりました。「スマホトクするプログラム」での割賦購入もかなり真剣に検討しましたが、短いスパンで買い替えるケースが仕事柄あるため、一括支払いで購入しました。わかっちゃぁいますが、やっぱり高いですね……。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/1411523.html",
-          "publishedOn": "2022-05-24T15:00:00.000Z",
-          "wordCount": 145,
-          "title": "[みんなのケータイ]au版Galaxy S22を買った理由。ミリ波！　光学3倍！　重さ168g！",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1411/523/01.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/1411462.html",
-          "author": null,
-          "description": "1ヶ月半くらい前、AirPods Proを買った。2019年末から使っていたAirPods Proだが、現行品はケースがMagSafe対応で“マグネットで充電器に吸着しての充電”が可能なので、きっと便利ということでポチッ。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/1411462.html",
-          "publishedOn": "2022-05-24T15:00:00.000Z",
-          "wordCount": 237,
-          "title": "[スタパ齋藤のApple野郎]アーッ、AirPods Pro落下っ!!!　壊れ……なかった!!!　そしてケース!!!",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1411/462/stpapl2022-05-25thumbnail.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1411588.html",
-          "author": null,
-          "description": "総務省は24日、「競争ルールの検証に関するWG（第31回）」をオンライン開催した。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1411588.html",
-          "publishedOn": "2022-05-24T09:20:49.000Z",
-          "wordCount": 105,
-          "title": "「スマホの対応周波数のルール化は慎重に」、総務省のWG",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1411/588/02.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1411526.html",
-          "author": null,
-          "description": "エレコムは、アウトドアギアシリーズ「NESTOUT（ネストアウト）」からモバイルバッテリーの新商品を発売した。1万mAhと1万5000mAhの容量で合計6製品をラインアップする。価格は6980円～。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1411526.html",
-          "publishedOn": "2022-05-24T06:41:44.000Z",
-          "wordCount": 95,
-          "title": "エレコムの「アウトドア向けモバイルバッテリー」に1万／1万5000mAhモデルが登場",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1411/526/top.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1411522.html",
-          "author": null,
-          "description": "エレコムは、スマートフォンとの連携に対応した小型アルコールチェッカー（型番：HCS-AC01BTWH）を8月末に発売する。価格はオープン価格。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1411522.html",
-          "publishedOn": "2022-05-24T06:24:53.000Z",
-          "wordCount": 90,
-          "title": "エレコム、スマホと連携できるアルコールチェッカー",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1411/522/main.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1411477.html",
-          "author": null,
-          "description": "KDDI総合研究所と名古屋工業大学は、テラヘルツ帯で電波の放射方向を変更できるマルチビームアンテナの開発に成功した。Beyond 5G/6G時代において、超高速・大容量通信の実現への貢献が期待される。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1411477.html",
-          "publishedOn": "2022-05-24T04:11:42.000Z",
-          "wordCount": 100,
-          "title": "KDDI総研と名工大、テラヘルツ帯マルチビームアンテナの開発に成功",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1411/477/01.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1411466.html",
-          "author": null,
-          "description": "グーグル（Google）は、発話障害をもつユーザーが音声認識を利用しやすくなることを目指す研究「Project Euphonia（プロジェクト ユーフォニア）」について、5月19日から日本語を含む5カ国語に研究活動を拡大したことを発表した。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1411466.html",
-          "publishedOn": "2022-05-24T03:43:50.000Z",
-          "wordCount": 100,
-          "title": "グーグル、発話障害ユーザーの音声認識研究を日本語など全5言語に拡大",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1411/466/google.png"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1411439.html",
-          "author": null,
-          "description": "クアルコムは、電気自動車と充電ステーションを結ぶ電力線通信機器「QCA7006AQ」を発表した。2022年第4四半期初頭までに生産が可能になるという。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1411439.html",
-          "publishedOn": "2022-05-24T03:41:55.000Z",
-          "wordCount": 95,
-          "title": "自宅でEV充電中にクラウドと結ぶ電力線通信を、クアルコムが新製品",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1411/439/sub.png"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1411455.html",
-          "author": null,
-          "description": "Amazon.co.jpから、NTTドコモのオンライン専用料金プラン「ahamo」へMNPで申し込むと、dポイント1万ポイントが進呈されるキャンペーンが始まった。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1411455.html",
-          "publishedOn": "2022-05-24T03:27:04.000Z",
-          "wordCount": 87,
-          "title": "Amazon、「ahamo」に乗り換えるとdポイント1万ポイント",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1411/455/01.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1411422.html",
-          "author": null,
-          "description": "Shokzは、骨伝導イヤホン「OpenRun」からバンドを21mm短くした小型モデル「OpenRun Mini」の一般販売を開始した。価格は1万7880円。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1411422.html",
-          "publishedOn": "2022-05-24T03:08:43.000Z",
-          "wordCount": 94,
-          "title": "Shokz、「OpenRun」の小型モデル「OpenRun Mini」を発売",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1411/422/main.png"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1411441.html",
-          "author": null,
-          "description": "Amazon.co.jpで、KDDIのオンライン専用料金ブランド「povo2.0」のエントリーコードを購入すると、Amazonポイント500円分が進呈されるキャンペーンが始まった。期間は5月31日23時59分まで。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1411441.html",
-          "publishedOn": "2022-05-24T03:08:33.000Z",
-          "wordCount": 90,
-          "title": "Amazon、「povo2.0」のエントリーコード購入で500ポイント還元",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1411/441/02.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1411426.html",
-          "author": null,
-          "description": "LINEは24日、AI音声認識アプリ「CLOVA Note（クローバ・ノート）」のベータ版を提供開始した。無料で利用できる。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1411426.html",
-          "publishedOn": "2022-05-24T02:54:09.000Z",
-          "wordCount": 104,
-          "title": "LINEから文字起こしアプリ「CLOVA Note」登場、無料のベータ版で",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1411/426/top.png"
         }
       ]
     },
@@ -9902,6 +9973,381 @@
       "feedUrl": "https://www.gizmodo.jp/index.xml",
       "siteUrl": "https://www.gizmodo.jp",
       "articles": [
+        {
+          "id": "https://www.gizmodo.jp/2022/06/aibnb.html",
+          "author": "おおぬま",
+          "description": "Aibnb旅の良し悪しは宿しだい旅行の醍醐味はたくさんありますが、宿を楽しみにしている人はけっこう多いはず。私も旅行中はゆっくりできるホテルや旅館で過ごす時間がなんだかんだで1番お気に入りでした。朝から観光地巡ったりして、めちゃくちゃ疲れるので。そんな宿ですが、今回、宿泊施設の貸し借りを行うサービス「Airbnb（エアビーアンドビー）」は宿の「最高に風変わりなアイディア」を募集、そして支援する「ス",
+          "link": "https://www.gizmodo.jp/2022/06/aibnb.html",
+          "publishedOn": "2022-06-23T12:30:00.000Z",
+          "wordCount": 304,
+          "title": "1度は泊まってみたい、Aibnbの最高に風変わりな家",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/23/UFO%E3%83%8F%E3%82%A6%E3%82%B9.jpeg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/23/UFO%E3%83%8F%E3%82%A6%E3%82%B9.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/high-temperatures-due-to-heat-wave-in-us.html",
+          "author": "Kenji P. Miyajima",
+          "description": "アメリカではヒートドームが各地で高温をもたらしている。今週末は南部や南東部で38度超えの予想も。",
+          "link": "https://www.gizmodo.jp/2022/06/high-temperatures-due-to-heat-wave-in-us.html",
+          "publishedOn": "2022-06-23T12:00:00.000Z",
+          "wordCount": 334,
+          "title": "生き地獄のような酷暑がアメリカを襲う。まだやっと夏至を迎えたばかりなのに…",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/23/shutterstock_1409269208.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/23/shutterstock_1409269208.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/twitter-note.html",
+          "author": "小暮ひさのり",
+          "description": "以前「Twitterが長文記事をテストしているらしい」という話題が上がりましたが、その続報。Twitterより正式にテスト中であることが発表されました。",
+          "link": "https://www.gizmodo.jp/2022/06/twitter-note.html",
+          "publishedOn": "2022-06-23T11:45:00.000Z",
+          "wordCount": 324,
+          "title": "長文、どんとこい。Twitterがテスト中の新機能「Notes」は最大2500文字まで書ける",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/23/2022-06-23tuwkga00.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/23/2022-06-23tuwkga00.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/lg-28mq780-b.html",
+          "author": "ヤマダユウス型",
+          "description": "LGから画期的なアスペクト比のディスプレイ「28MQ780-B」が登場しました。CES2022ではイノベーションアワードも受賞したディスプレイで、その比率は16：18。ディスプレイ縦長派の心を掴みに来てますねぇ。",
+          "link": "https://www.gizmodo.jp/2022/06/lg-28mq780-b.html",
+          "publishedOn": "2022-06-23T11:30:00.000Z",
+          "wordCount": 310,
+          "title": "画面は大きく、机のスペースは小さく。動画編集におすすめな16：18のディスプレイが発売",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/23/mnt-dualup-ergo-28mq780-07-2-1-programmer-desktop.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/23/mnt-dualup-ergo-28mq780-07-2-1-programmer-desktop.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/evidence-fabrication-by-malware-in-india.html",
+          "author": "satomi",
+          "description": "インドの警察が首相暗殺計画のファイルなどを捏造しマルウェアで拡散。捏造した証拠で人権運動家を逮捕して悪評が広まる。",
+          "link": "https://www.gizmodo.jp/2022/06/evidence-fabrication-by-malware-in-india.html",
+          "publishedOn": "2022-06-23T11:00:00.000Z",
+          "wordCount": 325,
+          "title": "インドの警察が首相暗殺計画のファイルなど捏造、活動家や記者の端末に保存して逮捕!?",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/23/shutterstock_1339029611.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/23/shutterstock_1339029611.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/machi-ya-minidock-review.html",
+          "author": "Yama3",
+          "description": "「miniDock」はわずか13gの中にHDMI、PD100W対応のUSB Type-C、USB Type-A端子の必要最低限を備えた極小USB Type-Cハブ。映像は4K60Hzまで対応しNintendo SwitchやノートPC、タブレットと一緒に持ち出すのにも最適なアイテムです。今回は実際に使ってみたレポートをお届けします。",
+          "link": "https://www.gizmodo.jp/2022/06/machi-ya-minidock-review.html",
+          "publishedOn": "2022-06-23T10:45:00.000Z",
+          "wordCount": 342,
+          "title": "Nintendo Switchにも使える極少USB Type-Cハブを使ってみた",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/17/DSC04211.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/17/DSC04211.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/woolaid.html",
+          "author": "岡本玄介",
+          "description": "プラスチックではなくウールでできたばんそうこう「Wool+Aid」。通気性に優れて快適なだけでなく、捨てても自然分解可能というエコな製品です。",
+          "link": "https://www.gizmodo.jp/2022/06/woolaid.html",
+          "publishedOn": "2022-06-23T10:30:00.000Z",
+          "wordCount": 317,
+          "title": "100％メリノウール製のばんそうこう。肌にやさしくて生分解する",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/23/220624_woolaid.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/23/220624_woolaid.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/nothing-phone-lighting-marques-brownlee-mkbhd-pre-order.html",
+          "author": "そうこ",
+          "description": "日本時間では7月13日に発表されるNothing初のスマートフォン「phone (1)」。すでに外観デザインは公開されており、背面スケルトン＆光るのが大きな特徴となることがわかっています。発表を目前に、テック系YouTuberのMarques Brownleeさん（MKBHD）が触ってみた動画を公開しています。",
+          "link": "https://www.gizmodo.jp/2022/06/nothing-phone-lighting-marques-brownlee-mkbhd-pre-order.html",
+          "publishedOn": "2022-06-23T10:00:00.000Z",
+          "wordCount": 339,
+          "title": "Nothing phone (1)は、リリース前の現時点では特に印象ナッシング？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/23/220623nothingphone1.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/23/220623nothingphone1.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/amazon-timesale-2022-0623-1.html",
+          "author": "メディアジーンメディアコマース",
+          "description": "Amazon（アマゾン）で毎日開催されているタイムセール。本日2022年6月23日は、冷蔵庫にも安心して置けるキューブ型の脱臭剤が1,255円、ザバスのホエイプロテインが19%オフなど、今すぐ欲しい人気のアイテムがお得に多数登場しています。",
+          "link": "https://www.gizmodo.jp/2022/06/amazon-timesale-2022-0623-1.html",
+          "publishedOn": "2022-06-23T09:45:00.000Z",
+          "wordCount": 515,
+          "title": "【Amazonタイムセール中！】冷蔵庫にも安心して置けるキューブ型の脱臭剤が1,255円、ザバスのホエイプロテインが19%オフとお買い得",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/23/20220623.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/23/20220623.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/beer.html",
+          "author": "おおぬま",
+          "description": "お酒の強さは人それぞれ。お酒の場ってみんなで盛り上がるのが楽しくて、ついつい飲み過ぎちゃうことが多いですよね。翌日は必ず頭痛と後悔の念に襲われるくせに、なぜかいつも同じことを繰り返してしまっています。ほんと、学ばない...。そこで、自分のようにお酒をついつい飲みすぎてしまう人におすすめしたいのが、サントリーから誕生した濃さを自由に変えられるビール「ビアボール」。サントリー炭酸で割って飲む、新しいビ",
+          "link": "https://www.gizmodo.jp/2022/06/beer.html",
+          "publishedOn": "2022-06-23T09:30:00.000Z",
+          "wordCount": 305,
+          "title": "炭酸で割って飲むビール「ビアボール」が辛い二日酔いを防いでくれるかも",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/22/%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC.jpeg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/22/%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/rakuten-sale-2022-0623-1.html",
+          "author": "メディアジーンメディアコマース",
+          "description": "楽天市場では、複数ショップでの買い回りでポイントがアップする｢お買いものマラソン｣を6月27日（月）1:59まで開催中。\n\n現在、バッテリーが2週間もつスカーゲンのスマートウォッチが50％オフ、エコフローのポータブル電源が15％オフなど、お得な商品が多数登場しています。",
+          "link": "https://www.gizmodo.jp/2022/06/rakuten-sale-2022-0623-1.html",
+          "publishedOn": "2022-06-23T08:45:00.000Z",
+          "wordCount": 591,
+          "title": "【楽天お買い物マラソン】バッテリーが2週間もつスカーゲンのスマートウォッチが50％オフ、エコフローのポータブル電源が15％オフ！",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/23/skargen.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/23/skargen.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/255787.html",
+          "author": "小暮ひさのり",
+          "description": "来月7月12日〜13日の二日間は予定開けておいてくださいね。だって、Amazonプライムデーが始まるんです。\n\nそう、プライムデーですよ！ Prime会員に向けた年に1度の本気セールということもあり、このチャンスをずーっと待っていたよ。という方も多いと思うんです。\n\nそして！本日！はやくも！セール対象商品の一部がチラ見せされました！",
+          "link": "https://www.gizmodo.jp/2022/06/255787.html",
+          "publishedOn": "2022-06-23T07:30:00.000Z",
+          "wordCount": 316,
+          "title": "「Amazonプライムデー 2022」対象商品が発表！眺めてるだけでも気分がアガるゥ！",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/23/2022-06-23purik00.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/23/2022-06-23purik00.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/watch-youtube-videos-on-your-apple-watch.html",
+          "author": "そうこ",
+          "description": "Apple WatchでYouTube動画を視聴できるアプリ「WatchTube」。使いやすいインターフェース。",
+          "link": "https://www.gizmodo.jp/2022/06/watch-youtube-videos-on-your-apple-watch.html",
+          "publishedOn": "2022-06-23T07:00:00.000Z",
+          "wordCount": 325,
+          "title": "Apple WatchでYouTube動画を視聴できるアプリ「WatchTube」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/23/WatchTube-YouTube-Apple-Watch-app.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/23/WatchTube-YouTube-Apple-Watch-app.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/machi-ya-aron2-review.html",
+          "author": "Haruki Matsumoto",
+          "description": "ドイツの老舗メーカーCarl Schmidt Sohnが生んだ「ARON」は、省スペースに調理できる工夫が詰まった機能的なお鍋。蓋置き機能や湯切り穴など随所に時短や省スペースへの工夫が備わっているのが特徴です。また今回は従来よりも大型な24cmモデルを展開しているので、実際に使ってみた感想をお届けします！",
+          "link": "https://www.gizmodo.jp/2022/06/machi-ya-aron2-review.html",
+          "publishedOn": "2022-06-23T06:45:00.000Z",
+          "wordCount": 334,
+          "title": "省スペースに使える工夫満載。ドイツ発の時短鍋「ARON」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/16/87b1aaf8-9376-4796-bb9e-d6015d7e0679.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/16/87b1aaf8-9376-4796-bb9e-d6015d7e0679.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/meta-avatars-store.html",
+          "author": "そうこ",
+          "description": "Meta CEOのマーク・ザッカーバーグ氏が、Facebookで「Avatars Store」を発表。メタバース空間でアバターに好みの服を着せられる。",
+          "link": "https://www.gizmodo.jp/2022/06/meta-avatars-store.html",
+          "publishedOn": "2022-06-23T06:00:00.000Z",
+          "wordCount": 321,
+          "title": "Metaがアバター用アパレルストアをオープン予定！ プラダやバレンシアガなど参入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/23/meta01.jpeg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/23/meta01.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/anker-powercore-fusion.html",
+          "author": "中川真知子",
+          "description": "充電器としてもモバイルバッテリーとしても使えると大ヒットしたAnkerのPowerCore Fusion。\n\nそのシリーズに、スリムバージョンが登場しました。一足早く触らせてもらったのですが、モバイルバッテリーの新しい使い方ができそうです。",
+          "link": "https://www.gizmodo.jp/2022/06/anker-powercore-fusion.html",
+          "publishedOn": "2022-06-23T05:00:00.000Z",
+          "wordCount": 366,
+          "title": "スティック型になったAnkerのPowerCore Fusion 、ストラップが意外と効いてきそう",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/21/E3AA9756-4D85-4580-82B3-922DC337D0EA.jpeg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/21/E3AA9756-4D85-4580-82B3-922DC337D0EA.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/255615-machi-ya-sonae-start.html",
+          "author": "山田洋路",
+          "description": "「 SoNAe 」は、アウトドアブランド FAL.CO(ファルコ) の手がけるソーラー機能を搭載した大容量モバイルバッテリーです。Type-C対応のパソコンにも充電が可能、最大4台同時充電できます。防水加工でLEDライト付きです。",
+          "link": "https://www.gizmodo.jp/2022/06/255615-machi-ya-sonae-start.html",
+          "publishedOn": "2022-06-23T04:45:00.000Z",
+          "wordCount": 318,
+          "title": "ソーラー充電もできる大容量モバイルバッテリー「 SoNAe 」はMcBookも充電可能",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/19/SoNAe%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC00.png"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/19/SoNAe%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC00.png"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/metaverse-kokuyo-shop.html",
+          "author": "岡本玄介",
+          "description": "オフィス用品や文房具のコクヨがメタバースに進出。凸版印刷のバーチャルショッピングモール「メタパ」にて「KOKUYOショップ」をオープンしました。ショップの形はテープのり「ドットライナー」を再現したもの。2階建て構造でいろいろ楽しめるようになっています。",
+          "link": "https://www.gizmodo.jp/2022/06/metaverse-kokuyo-shop.html",
+          "publishedOn": "2022-06-23T04:00:00.000Z",
+          "wordCount": 312,
+          "title": "テープのりがお店になっちゃった!? メタバース「メタパ」に「KOKUYOショップ」が開店",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/22/220623_kokuyo1.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/22/220623_kokuyo1.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/anker-nano-ii-100w.html",
+          "author": "三浦一紀",
+          "description": "コンパクトな100W充電器。ポート構成はUSB-C×2にUSB-A×1。使用するポートの組み合わせで最大出力W数は変わりますが、3ポート同時でも45W、30W、18Wの出力が得られます。",
+          "link": "https://www.gizmodo.jp/2022/06/anker-nano-ii-100w.html",
+          "publishedOn": "2022-06-23T03:30:00.000Z",
+          "wordCount": 433,
+          "title": "充電器はどこまで小さくなるんだ…。「Anker Nano II 100W」はコンパクトだけどちょっと重い",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/21/220621Anker100W-01.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/21/220621Anker100W-01.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/projector-nx1.html",
+          "author": "岡本玄介",
+          "description": "フレキシブル・アームとクランプでベッドの端に挟んで投影する、手のひらサイズのプロジェクター「NX1」。これがあるとダメ人間に拍車がかかりそうです。",
+          "link": "https://www.gizmodo.jp/2022/06/projector-nx1.html",
+          "publishedOn": "2022-06-23T03:00:00.000Z",
+          "wordCount": 336,
+          "title": "もう一生寝室暮らしでイイかも。ベッドの端っこに挟むだけの小型プロジェクター",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/22/220623_nx.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/22/220623_nx.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/anker-2in1-fusion.html",
+          "author": "小暮ひさのり",
+          "description": "今年4月に行われた｢Anker Power Conference 22 Spring｣で発表された、充電器でありモバイルバッテリーでもある2in1の｢Anker 511 Power Bank（PowerCore Fusion 5000）｣がようやく発売されました！",
+          "link": "https://www.gizmodo.jp/2022/06/anker-2in1-fusion.html",
+          "publishedOn": "2022-06-23T02:30:00.000Z",
+          "wordCount": 397,
+          "title": "荷物を本当に減らしたい人が選ぶべき充電器。Ankerの2in1、新型Fusionが今日から発売だよ！",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/16/2022-06-16Ank00.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/16/2022-06-16Ank00.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/sony-loose-instrument.html",
+          "author": "ヤマダユウス型",
+          "description": "「楽器がひける」って憧れですよね～。自分の手で音楽を奏でられるのって、プリミティブな喜びがありますし、カッコよさげ。\nそんな楽器演奏を、もっともっと簡単に楽しめるとしたら...？ そんな願いをかなえるテクノロジー、あるんです。\n\n2022年7月23日〜24日に、大阪にて「TEAM EXPO FES」が開催されます。同イベント内で「ゆる楽器ハッカソン2022 IN 大阪」が開催されるのですが、現在そ",
+          "link": "https://www.gizmodo.jp/2022/06/sony-loose-instrument.html",
+          "publishedOn": "2022-06-23T02:00:00.000Z",
+          "wordCount": 328,
+          "title": "ミュージシャンじゃなくても弾ける「ゆる楽器」がすっごく楽しそう",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/21/220621yurugakkihakkason_01.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/21/220621yurugakkihakkason_01.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/255613-machi-ya-naynto-start.html",
+          "author": "にしやまあやか",
+          "description": "猫のようなモフモフのスマホリング「猫-ring NYANTO（ニャント）」が登場。特許取得の仕組みを使用した新しいスマホリングで、手や首の負担を軽減して、姿勢改善もサポートします。吸着素材なので何度でも取り外し可能。",
+          "link": "https://www.gizmodo.jp/2022/06/255613-machi-ya-naynto-start.html",
+          "publishedOn": "2022-06-23T01:45:00.000Z",
+          "wordCount": 333,
+          "title": "機能性と癒しを兼ね備えたスマホリング「猫-ring NYANTO」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/19/NYANTO00.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/19/NYANTO00.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/tsmc-2nm-2025.html",
+          "author": "そうこ",
+          "description": "iPhoneのチップ製造もてがける台湾のチップ製造企業TSMCが、米国で開催された業界イベントにて、2025年までに2nmチップの製造を始めると発表しました。\n2nmチップは「ナノシートトランジスタアーキテクチャ」をベースとしており、電力効率や性能において大きくアップデートされたものになるといいます。",
+          "link": "https://www.gizmodo.jp/2022/06/tsmc-2nm-2025.html",
+          "publishedOn": "2022-06-23T01:00:00.000Z",
+          "wordCount": 309,
+          "title": "iPhoneチップメーカー、2025年までに2nmプロセッサの生産開始へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/22/A15.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/22/A15.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/06/255612-machi-ya-sekkeisling-review.html",
+          "author": "山田洋路",
+          "description": "「SEKKEI S-sling」は拡張できるスリングバッグ。普段は厚み4cmと薄いですが、拡張することで一眼レフも入る15cmに。荷物をたくさん持ち運ぶ必要があるときにも実力を発揮してくれます。生地には撥水加工がしっかり。カラーはブラック、グレーの2種類です",
+          "link": "https://www.gizmodo.jp/2022/06/255612-machi-ya-sekkeisling-review.html",
+          "publishedOn": "2022-06-23T00:45:00.000Z",
+          "wordCount": 338,
+          "title": "17cm幅のiPadがきっちり収まるスリングバッグ「SEKKEI S-sling」の実力とは？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/19/SEKKEIS-sling00.png"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/19/SEKKEIS-sling00.png"
+        },
         {
           "id": "https://www.gizmodo.jp/2022/06/sierra-designs-journal-standard-relume.html",
           "author": "巽英俊",
@@ -18706,441 +19152,6 @@
             "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/2022-05-24denk00.jpg"
           },
           "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/2022-05-24denk00.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/project-stealth.html",
-          "author": "金本太郎",
-          "description": "自作PCを組み立てるうえでちょっとやっかいなケーブルの処理を大幅にシンプルにするアイデアが、PCメーカーのGIGABYTEから登場。その名も「PROJECT STEALTH」",
-          "link": "https://www.gizmodo.jp/2022/05/project-stealth.html",
-          "publishedOn": "2022-05-25T00:00:00.000Z",
-          "wordCount": 88,
-          "title": "ケーブルどこ？ ギガバイトの「PROJECT STEALTH」はケーブルが見えない自作PC",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/intro.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/intro.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/wwdc-keynote.html",
-          "author": "はらいさん",
-          "description": "Apple（アップル）による年に1度のビッグイベント、WWDC 2022がまもなく開催されます。日本時間6月7日（火）午前2時から始まる同イベント、たっぷり仮眠を取って備えましょう。",
-          "link": "https://www.gizmodo.jp/2022/05/wwdc-keynote.html",
-          "publishedOn": "2022-05-24T22:45:00.000Z",
-          "wordCount": 89,
-          "title": "Apple、WWDC 2022基調講演は日本時間6月7日（火）午前2時からと発表",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/25/Apple-WWDC22-details-announcement-hero.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/25/Apple-WWDC22-details-announcement-hero.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/apple-watch-pride-band-2022.html",
-          "author": "塚本直樹",
-          "description": "最近は梅雨入りを思わせる不安定なお天気が続いていましたが、6月といえばLGBTQ＋コミュニティが平和のムーブメントをアピールする「プライド月間」がやってきます。それにさきがけ、Apple（アップル）からは「新しいApple Watchプライドエディションのバンド」と、それにあわせた無料の文字盤が登場しました！",
-          "link": "https://www.gizmodo.jp/2022/05/apple-watch-pride-band-2022.html",
-          "publishedOn": "2022-05-24T22:00:00.000Z",
-          "wordCount": 103,
-          "title": "Apple Watchのプライドバンドと無料の文字盤が今年も登場！",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/applepride.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/applepride.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/milestone-master-piece.html",
-          "author": "岡本玄介",
-          "description": "Image:master-pieceヘッドランプは頭に巻くだけにあらず。バッグブランドmaster-pieceから、アウトドアブランドmilestoneのヘッドランプを合体させるとランタンになるバックパック「milestonexmaster-pieceバックパックM」が誕生しました。半透明のポケットにヘッドランプを入れると、光が拡散されて周囲を照らし、下部に装着するとテールランプの役目も果たします",
-          "link": "https://www.gizmodo.jp/2022/05/milestone-master-piece.html",
-          "publishedOn": "2022-05-24T14:00:00.000Z",
-          "wordCount": 113,
-          "title": "ヘッドランプと合体！ランタンとして使えるマスターピースのバックパック",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/220525_masterpiece.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/220525_masterpiece.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/black-diamond-moji.html",
-          "author": "R.Mitsubori",
-          "description": "キャンプなどのアウトドアや、非常時に活躍してくれるのがランタン。実用性重視の物も多いですが、アウトドアブランドBlack Diamond（ブラックダイヤモンド）の Moji（モジ）はコンパクトでコロンとしたボディが愛らしい、人気アイテム。軽くて持ち運びしやすいLEDランタンなので、キャンプや登山などどんなところにも連れて行けます。今回は、Mojiを愛用するWirecutterの記者Elissa S",
-          "link": "https://www.gizmodo.jp/2022/05/black-diamond-moji.html",
-          "publishedOn": "2022-05-24T13:30:00.000Z",
-          "wordCount": 111,
-          "title": "Black Diamond（ブラックダイヤモンド）の「モジ」を愛用する理由。手のひらサイズのかわいいランタン",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/18/1-1.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/18/1-1.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/collision-between-whale-shark-and-ship.html",
-          "author": "岩田リョウコ",
-          "description": "ジンベイザメが船との衝突事故で個体数を減らしている。船の航路近くで活動する性質のためで、早急な対策が求められる。",
-          "link": "https://www.gizmodo.jp/2022/05/collision-between-whale-shark-and-ship.html",
-          "publishedOn": "2022-05-24T13:00:00.000Z",
-          "wordCount": 83,
-          "title": "ジンベイザメは船舶との衝突事故で個体数が減っている",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/shutterstock_733451527.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/shutterstock_733451527.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/254434-machi-ya-piccolo-start.html",
-          "author": "飯田あゆみ",
-          "description": "直径わずか3.4cmの「画面クリーナーPiccolo」には、本体がピタッとはまる専用ケースが付属。カメラのストラップやポケットにクリップで装着して、思い立ったらすぐにスマホ画面やカメラレンズを掃除できます。",
-          "link": "https://www.gizmodo.jp/2022/05/254434-machi-ya-piccolo-start.html",
-          "publishedOn": "2022-05-24T12:45:00.000Z",
-          "wordCount": 85,
-          "title": "ベルトやポケットに装着OK。即使える画面クリーナーでスマホ画面やレンズを美しくキープ！",
-          "enclosure": {
-            "length": "0",
-            "type": "image/gif",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/20/d6ececf3-12d2-42cc-9830-78c2d9bf7a8c.gif"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/20/d6ececf3-12d2-42cc-9830-78c2d9bf7a8c.gif"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/galaxy-watch4-get-google-assistant.html",
-          "author": "そうこ",
-          "description": "Wear OSがアプデして、ついに…ついにSamsungのGalaxy Watch4がGoogleアシスタントに対応しました！\n5月24日付のSamsung公式ブログでアップデートを発表。発表後すぐからGalaxy Watch4にGoogleアシスタントをダウンロード可能になっています。",
-          "link": "https://www.gizmodo.jp/2022/05/galaxy-watch4-get-google-assistant.html",
-          "publishedOn": "2022-05-24T12:30:00.000Z",
-          "wordCount": 108,
-          "title": "思ってたより早い！ SamsungのGalaxy Watch4がGoogleアシスタント対応に！",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/220524galaxywatch4gassistant.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/220524galaxywatch4gassistant.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/canon-apsc-eos-r7-eos-r10.html",
-          "author": "三浦一紀",
-          "description": "本日、キヤノンからミラーレス一眼の新製品「EOS R7」と「EOS R10」が発表されました。この両機種、EOS Rシリーズ初のAPS-C機となります。",
-          "link": "https://www.gizmodo.jp/2022/05/canon-apsc-eos-r7-eos-r10.html",
-          "publishedOn": "2022-05-24T12:00:00.000Z",
-          "wordCount": 196,
-          "title": "今年はAPS-Cのカメラが熱くなる！ キヤノンからAPS-Cミラーレス「EOS R7」「EOS R10」発表",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/220524EOSR7R10-01.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/220524EOSR7R10-01.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/254117-costory-eufy.html",
-          "author": "にしやまあやか",
-          "description": "この記事は、ギズモード・ジャパン［日本版］が所属する(株)メディアジーンのCoSTORYチームが編集・執筆した別企画の記事です。ライフハッカー[日本版]から転載高価なイメージゆえに「お掃除ロボットは買わなくて良い」と強がっていた筆者。そんな筆者の目からウロコを落としてくれたのが、「EufyRoboVac11S」。こちらはバッテリーやスピーカーに定評のあるメーカー、Anker(アンカー)が作ったお掃",
-          "link": "https://www.gizmodo.jp/2022/05/254117-costory-eufy.html",
-          "publishedOn": "2022-05-24T11:45:00.000Z",
-          "wordCount": 117,
-          "title": "これで十分! Ankerのお掃除ロボット「Eufy RoboVac 11S」は機能も価格もスマートだけど驚くほどゴミが取れた。",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/11/%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB.png"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/11/%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB.png"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/google-pixel-watch-apple-charging-cable-magnetic.html",
-          "author": "そうこ",
-          "description": "どんな端末になるんだろ。\n\nGoogle I/Oで発表されたAndroidユーザー待望のPixel Watch。リリースが楽しみですが、どうやらとある部品がApple Watchと同じ工場で生産されるっぽいです。",
-          "link": "https://www.gizmodo.jp/2022/05/google-pixel-watch-apple-charging-cable-magnetic.html",
-          "publishedOn": "2022-05-24T11:00:00.000Z",
-          "wordCount": 97,
-          "title": "充電ケーブルはUSB-Cに？Google純正スマートウォッチ「Pixel Watch」のうわさあれこれ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/220524smartwatches.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/220524smartwatches.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/254417-machi-ya-horizon-end.html",
-          "author": "saori",
-          "description": "革靴とスニーカーのハイブリッドデザイン「HORIZON」。デザインはシンプルで、幅広い服装に合わせられます。清潔感があって爽やかなルックスは、クールビズスタイルにもピッタリです。",
-          "link": "https://www.gizmodo.jp/2022/05/254417-machi-ya-horizon-end.html",
-          "publishedOn": "2022-05-24T10:45:00.000Z",
-          "wordCount": 85,
-          "title": "上品さと軽量さを兼ね揃えたビジカジスニーカー「HORIZON」",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/19/490069f5-0d3d-4be0-86a0-7d4b0fc83fce-1.jpeg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/19/490069f5-0d3d-4be0-86a0-7d4b0fc83fce-1.jpeg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/motorola-frontier.html",
-          "author": "湯木進悟",
-          "description": "Motorola Chinaから、今年7月に新たな200メガピクセル（2億画素）のカメラを誇る新モデルが発売されることが明かされたと、このほどGSMArena.comが報じました",
-          "link": "https://www.gizmodo.jp/2022/05/motorola-frontier.html",
-          "publishedOn": "2022-05-24T10:30:00.000Z",
-          "wordCount": 80,
-          "title": "モトローラから2億画素カメラの最強スマホ。7月発売決定",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/1-1.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/1-1.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/universal-orlando-resort-1.html",
-          "author": "そうこ",
-          "description": "コロナパンデミックで、世界中で多くのテーマパークが一時閉園していた間に流行っていたのが、映像でみるジェットコースター。フロリダ州のユニバーサル・オーランド・リゾートの絶叫系アトラクションを（独断と偏見で）5点満点で採点＆ランクづけしてみました。",
-          "link": "https://www.gizmodo.jp/2022/05/universal-orlando-resort-1.html",
-          "publishedOn": "2022-05-24T10:00:00.000Z",
-          "wordCount": 118,
-          "title": "1番怖いのはどれ？ ユニバーサル・オーランド・リゾートの最恐ジェットコースター映像",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/220524uorrides.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/220524uorrides.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/amazon-timesale-2022-0524-1.html",
-          "author": "メディアジーンメディアコマース",
-          "description": "Amazon（アマゾン）で毎日開催されているタイムセール。本日2022年5月24日は、アイリスの布団乾燥機やひんやり敷きパッドなど、今すぐ欲しい人気のアイテムがお得に多数登場しています。",
-          "link": "https://www.gizmodo.jp/2022/05/amazon-timesale-2022-0524-1.html",
-          "publishedOn": "2022-05-24T09:45:00.000Z",
-          "wordCount": 292,
-          "title": "【Amazonタイムセール中！】靴や押し入れの湿気とりもできる、アイリスの布団乾燥機が8,530円！ ひんやり敷きパッドもお買い得に",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/51MmdxoVmQL._AC_SL1000_.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/51MmdxoVmQL._AC_SL1000_.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/3r-image-board-pen-tablet.html",
-          "author": "岡本玄介",
-          "description": "電子メモパッドとしてだけでなく、PCと連携してペンタブやイラストのトレース台としても使える「いまじぼーど」がかなり便利そう。",
-          "link": "https://www.gizmodo.jp/2022/05/3r-image-board-pen-tablet.html",
-          "publishedOn": "2022-05-24T09:00:00.000Z",
-          "wordCount": 82,
-          "title": "電子メモやトレース＆デジタル化もできるペンタブ「いまじぼーど」。両面使えて効率的！",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/220524_3r.jpeg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/220524_3r.jpeg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/rakuten-sale-2022-0524-1.html",
-          "author": "メディアジーンメディアコマース",
-          "description": "楽天市場では、複数ショップでの買い回りでポイントがアップする｢お買いものマラソン｣が5月27日（金）1:59まで開催中。\n\n現在、TEVAのサンダルが30％オフ、ルンバ e5が1万円オフとお買い得に登場しています。",
-          "link": "https://www.gizmodo.jp/2022/05/rakuten-sale-2022-0524-1.html",
-          "publishedOn": "2022-05-24T08:45:00.000Z",
-          "wordCount": 311,
-          "title": "【楽天お買い物マラソン開催中！】TEVAのサンダルが30％オフ、ルンバ e5が1万円オフとお買い得！",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/ba6065-01_1.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/ba6065-01_1.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/upcycle-sneaker.html",
-          "author": "岡本玄介",
-          "description": "広島県府中市のスニーカーメーカースピングルカンパニーが、千羽鶴をアップサイクルした「SPM-1005」を開発しました。千羽鶴から作られる「折り鶴再生糸（折り鶴レーヨン）」という素材が生み出され、アッパー部分に使われています。",
-          "link": "https://www.gizmodo.jp/2022/05/upcycle-sneaker.html",
-          "publishedOn": "2022-05-24T08:00:00.000Z",
-          "wordCount": 86,
-          "title": "新たな一歩。広島や長崎に届いた千羽鶴をアップサイクルしたスニーカー",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/23/220524_spingle.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/23/220524_spingle.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/254433-machi-ya-magtumbler-start.html",
-          "author": "にしやまあやか",
-          "description": "machi-yaでクラウドファンディング実施中の茶葉専用ガラスタンブラー「MAG TUMBLER2.0」は、茶葉から淹れるお茶を手軽に楽しむのにピッタリ。逆さにするだけのワンアクションで抽出具合を調整できて手軽。",
-          "link": "https://www.gizmodo.jp/2022/05/254433-machi-ya-magtumbler-start.html",
-          "publishedOn": "2022-05-24T07:45:00.000Z",
-          "wordCount": 107,
-          "title": "毎日のティータイム充実。茶葉専用タンブラー「MAG TUMBLER 2.0」",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/19/7c308c8f-c818-46de-875b-c5ae4b92a709.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/19/7c308c8f-c818-46de-875b-c5ae4b92a709.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/how2-quick-record-movie.html",
-          "author": "禿頭帽子屋/Word Connection JAPAN",
-          "description": "何らかの理由で身の危険を感じたときなど、とっさにスマホで動画を撮りたいときがあるかもしれません。いざというときのために、お使いのスマートフォンでどんな使い方があるか、知っておいてもよさそうです。",
-          "link": "https://www.gizmodo.jp/2022/05/how2-quick-record-movie.html",
-          "publishedOn": "2022-05-24T07:00:00.000Z",
-          "wordCount": 104,
-          "title": "緊急事態！ そんなときに使えるスマホの録画機能",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/18/ezgif-1-a9ecac6de0.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/18/ezgif-1-a9ecac6de0.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/machi-ya-infiniteair12-start.html",
-          "author": "kotoha ozawa",
-          "description": "「INFINITY AIR 12」は、災害時の備えにも安心なイギリスで開発されたポータブル風力発電機です。風に対する耐久性や耐水性能もあるため、悪条件で利用可能で、分解すればノートPCサイズになるため、持ち運びにも便利。新たな災害対策としても活用ができそうですね。",
-          "link": "https://www.gizmodo.jp/2022/05/machi-ya-infiniteair12-start.html",
-          "publishedOn": "2022-05-24T06:45:00.000Z",
-          "wordCount": 116,
-          "title": "アウトドアや災害時にも役立つポータブル風力発電機が登場",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/13/infiniteair12_4-1.png"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/13/infiniteair12_4-1.png"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/coemo-takaratomy.html",
-          "author": "岡本玄介",
-          "description": "タカラトミーから、AIがパパやママそっくりの声を生成し、さまざまな物語を読み聞かせるスピーカー「coemo（コエモ）」が登場します。作られた両親の声にプラスして、プロのナレーターによる感情表現や抑揚も再現。話の途中には効果音やBGMも加わるので、エンタメ感が演出されます。",
-          "link": "https://www.gizmodo.jp/2022/05/coemo-takaratomy.html",
-          "publishedOn": "2022-05-24T06:00:00.000Z",
-          "wordCount": 82,
-          "title": "忙しいパパママの強い味方。AIが声をマネして読み聞かせしてくれるスピーカー「コエモ」",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/220524_coemo.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/220524_coemo.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/toilet-bubble-washer.html",
-          "author": "岡本玄介",
-          "description": "かつてサンコーが作った、トイレのボウル内にモコモコの泡を出す｢後付けトイレバブル洗浄機｣が、大幅なアップグレードで「後付けトイレバブル洗浄機BIG」として帰ってきました。",
-          "link": "https://www.gizmodo.jp/2022/05/toilet-bubble-washer.html",
-          "publishedOn": "2022-05-24T05:00:00.000Z",
-          "wordCount": 82,
-          "title": "大容量になった「後付けトイレバブル洗浄機BIG」。初代ユーザーから見ても良アプデの予感",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/23/220523_thanko.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/23/220523_thanko.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/agi-its-all-about-scale-now.html",
-          "author": "大野恭希",
-          "description": "先日AlphaGoで知られるDeepMindが新たなAIシステムGatoを発表しました。",
-          "link": "https://www.gizmodo.jp/2022/05/agi-its-all-about-scale-now.html",
-          "publishedOn": "2022-05-24T04:00:00.000Z",
-          "wordCount": 125,
-          "title": "胸熱展開。人間を凌駕する人工知能の実現はけっこう早いのかも",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/23/20220523agi.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/23/20220523agi.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/fiio-ka1.html",
-          "author": "武者良太",
-          "description": "いまどきのイヤホン端子が無いスマホ。ドラムはタイトにどかんと鳴り、その響きに負けずとボーカルが前に出てきて、金物もキラキラと鳴り響く。そんな音楽再生環境をお手軽に実現したい方は、このFiioの「KA1」のような、スティックタイプのUSB DACに注目してみましょう。",
-          "link": "https://www.gizmodo.jp/2022/05/fiio-ka1.html",
-          "publishedOn": "2022-05-24T03:30:00.000Z",
-          "wordCount": 82,
-          "title": "イヤホンだけじゃありません、アクティブスピーカーの音もキラリ高めるUSB DAC",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/1.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/1.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/machi-ya-havententsafari-review.html",
-          "author": "junior",
-          "description": "「Haven Tent Safari」は、フルフラットになり腰が痛くなりづらい構造の人気ハンモックテントシリーズの新作。グランピングをテーマに添え、リクライニング機能やエアマットにスエード加工を施すなどラグジュアリーさがUPしました。",
-          "link": "https://www.gizmodo.jp/2022/05/machi-ya-havententsafari-review.html",
-          "publishedOn": "2022-05-24T02:45:00.000Z",
-          "wordCount": 104,
-          "title": "高級感がアップ。空中テント「Haven Tent Safari」を使ってみた",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/20/DSCF8585.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/20/DSCF8585.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/hover-1-hoverboards-recalled.html",
-          "author": "岩田リョウコ",
-          "description": "ホバーボード「Hover-1 Superfly Hoverboard」がリコールに。ソフトウェアのトラブルで操縦しなくても動いてしまう可能性がある。",
-          "link": "https://www.gizmodo.jp/2022/05/hover-1-hoverboards-recalled.html",
-          "publishedOn": "2022-05-24T02:30:00.000Z",
-          "wordCount": 91,
-          "title": "誰も乗っていなくても動いちゃう？ Hover-1のホバーボード、9万3000台がリコールに",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/4ef758e5d77364f93df5aa9268d1400f.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/24/4ef758e5d77364f93df5aa9268d1400f.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/horse-that-replies-to-emails-on-your-behalf.html",
-          "author": "岡本玄介",
-          "description": "休暇中に来たメールに、馬が適当な文字列で返信してくれるアイルランドのサービス「OutHorse」が面白い。",
-          "link": "https://www.gizmodo.jp/2022/05/horse-that-replies-to-emails-on-your-behalf.html",
-          "publishedOn": "2022-05-24T02:00:00.000Z",
-          "wordCount": 100,
-          "title": "休暇中に来たメールにお馬さんが返信してくれるアイスランドのサービス「OutHorse」",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/23/220524_outhourse.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/23/220524_outhourse.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/05/ecoflow-wave.html",
-          "author": "ヤマダユウス型",
-          "description": "ポータブル電源メーカーのEcoFlowから、新製品ポータブルクーラー「EcoFlow Wave」が登場しました。EcoFlowのポタ電との連携や、ポタ電で培ったバッテリーのノウハウが特徴的です。",
-          "link": "https://www.gizmodo.jp/2022/05/ecoflow-wave.html",
-          "publishedOn": "2022-05-24T01:00:00.000Z",
-          "wordCount": 92,
-          "title": "外でもリビングと同じくらい涼しい！ EcoFlowからポータブル＆ガチに使えるクーラーが登場",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/19/220519ecoflowwave_01.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/19/220519ecoflowwave_01.jpg"
         }
       ]
     }
