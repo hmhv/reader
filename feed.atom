@@ -2,10 +2,623 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hmhv.github.io/reader/index.html</id>
     <title>hmhv::news</title>
-    <updated>2022-06-27T12:35:20.422Z</updated>
+    <updated>2022-06-28T12:35:08.286Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hmhv.github.io/reader/index.html"/>
     <link rel="self" href="https://hmhv.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米アラスカ州の山火事が過去数十年最速で拡大]]></title>
+        <id>https://www.gizmodo.jp/2022/06/alaska-wildfire.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/alaska-wildfire.html"/>
+        <updated>2022-06-28T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アラスカ州も山火事で大変なことになっています。National Interagency Fire Center（全米省庁合同火災センター） によると、今年に入ってから同州で発生した山火事による焼失面積は記事作成時点（米時間6月27日）で108万エーカー（4,370平方キロ）まで広がっています。東京都2つ分。ここ数十年で最速の100万エーカー突破だそうです。うれしくない記録ですね…。]]></summary>
+        <author>
+            <name>Kenji P. Miyajima</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[著名アナリストいわく「AppleはARヘッドセットで大成功を納める」。でも発表はけっきょく来年？]]></title>
+        <id>https://www.gizmodo.jp/2022/06/apple-ar-mr-vr-headset-release-date-2023-kuo.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/apple-ar-mr-vr-headset-release-date-2023-kuo.html"/>
+        <updated>2022-06-28T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AppleのAR/MRヘッドセットに関しては噂が多すぎて、何を信じたらいいのかわかりません。が、Apple関連の著名アナリスト ミンチー・クオ氏は、2023年の1月に発表される説を推しています。ネタ元Mediumにクオ氏が寄稿した記事にて、AppleのARヘッドセット参入はAR含むヴァーチャルの世界が成長する鍵であり、Appleはヘッドセット業界のゲームチェンジャーになると語っています。]]></summary>
+        <author>
+            <name>そうこ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自宅で“ダーツ×射撃”。レーザーガンで楽しむ本格ダーツゲーム！]]></title>
+        <id>https://www.gizmodo.jp/2022/06/255833-machi-ya-dartshot-start.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/255833-machi-ya-dartshot-start.html"/>
+        <updated>2022-06-28T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[machi-yaに登場した「DartShot」は、本格派レーザーガンを使用した新感覚ダーツゲーム。“1人で射撃練習”も“大人数でわいわいバトル”も楽しめます。]]></summary>
+        <author>
+            <name>山田洋路</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JRE POINTからSuicaへの新規チャージが停止中]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1417648.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1417648.html"/>
+        <updated>2022-06-28T11:06:26.000Z</updated>
+        <summary type="html"><![CDATA[JR東日本は、JRE POINT（JREポイント）からSuicaへのポイントチャージについて、不正なメールがユーザーへ届いているとして、新規受付を一時的に停止している。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オフィスでレトルトカレーが食べたくなった。よし「レトルト亭」の出番だ！]]></title>
+        <id>https://www.gizmodo.jp/2022/06/retort-tei-apix.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/retort-tei-apix.html"/>
+        <updated>2022-06-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「レトルト亭」とは、アピックスインターナショナルが発売する、レトルト食品を温めることに特化した家電。レトルトパウチを熱することなら誰にも負けない製品なんです。]]></summary>
+        <author>
+            <name>三浦一紀</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人気の秘密はいかに？ ミニマルウォレット「usuha-mini」を使ってみた]]></title>
+        <id>https://www.gizmodo.jp/2022/06/machi-ya-usuhaminismoothver-review2.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/machi-ya-usuhaminismoothver-review2.html"/>
+        <updated>2022-06-28T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[「usuha-mini smooth ver.」は、二つ折り財布の限界サイズ「8cm×8.8cm」と定義し設計美を追求したコンパクトな二つ折り財布。ビジネスシーンでも使える上質なレザーを使用し、その小さなボディからは想像できない大容量で、カード7枚・お札15枚・小銭25枚が入ります。]]></summary>
+        <author>
+            <name>kotoha ozawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「iPhone⇔Android」でも引き継ぎOK！　LINEアプリに直近14日以内のトークを自動で継承する機能]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/28/news200.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/28/news200.html"/>
+        <updated>2022-06-28T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[iPhoneとAndroidスマホ――LINEアプリでは異なるプラットフォーム間の機種変更でトーク履歴を一切引き継げないという大きな問題があった。しかし、最新版に実装された新たな引き継ぎ方法を使うと、直近14日以内であれば異なるプラットフォーム間での機種変更でもトーク履歴を引き継げるようになる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Amazonタイムセール中！】ウィルキンソンの炭酸水が1本あたり72円、飲み物の冷たさを持続する缶ホルダーが56%オフとお買い得]]></title>
+        <id>https://www.gizmodo.jp/2022/06/amazon-timesale-2022-0628-1.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/amazon-timesale-2022-0628-1.html"/>
+        <updated>2022-06-28T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[本日2022年6月28日は、ウィルキンソンの炭酸水が1本あたり72円、飲み物の冷たさを持続する缶ホルダーが56%オフと、今すぐ欲しい人気のアイテムがお得に多数登場しています。]]></summary>
+        <author>
+            <name>メディアジーンメディアコマース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ギズ屋台】親指サイズのゲーム機「Thumby」や「ファーゴ」が再入荷！人気商品なのでチェックはお早めに]]></title>
+        <id>https://www.gizmodo.jp/2022/06/giz-yatai-restock.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/giz-yatai-restock.html"/>
+        <updated>2022-06-28T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[暑い夏がスタートするとともに、ギズ屋台の魅惑のガジェットもさらに盛り上がりをみせています。これまで人気で品切れだった、親指サイズのゲーム機「Thumby」、USBポートつきの電源タップ「ファーゴ」、ノイズを軽減する耳栓「EARPEACE SLEEP」が再入荷しましたよ！]]></summary>
+        <author>
+            <name>塚本直樹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTC、新スマホ「Desire 22 pro」を発表]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1420743.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1420743.html"/>
+        <updated>2022-06-28T09:17:26.000Z</updated>
+        <summary type="html"><![CDATA[HTCは、最新型スマートフォン「Desire 22 pro」を発表した。台湾での価格は1万1990台湾ドル（約5万5000円）。日本での展開は現時点で触れられていない。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【楽天タイムセール】エアコンの効率アップに！ アイリスの上下左右首振りサーキュレーターが20％ポイント還元中]]></title>
+        <id>https://www.gizmodo.jp/2022/06/rakuten-sale-2022-0628-1.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/rakuten-sale-2022-0628-1.html"/>
+        <updated>2022-06-28T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[楽天市場では、最大50%と高ポイント還元イベント｢楽天スーパーDEAL｣を開催中。
+
+本日2022年6月28日（火）は、アイリスの上下左右首振りサーキュレーターが20％ポイント還元中と、お得な商品が多数登場しています。]]></summary>
+        <author>
+            <name>メディアジーンメディアコマース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LINEのアカウントがQRコードで引き継げるように]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1420701.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1420701.html"/>
+        <updated>2022-06-28T08:08:14.000Z</updated>
+        <summary type="html"><![CDATA[LINEは、コミュニケーションアプリ「LINE」において、QRコードでアカウントを引き継げる機能を追加した。Android版とiOS版の両方で利用できる。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[肌に優しいハッカスプレー、すぐにひんやりする上に虫も寄ってこない]]></title>
+        <id>https://www.gizmodo.jp/2022/06/mintspray.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/mintspray.html"/>
+        <updated>2022-06-28T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:健栄製薬ハッカ油、万能すぎ。暑くなると気になるのが電気の消費量。特にリモートワークがあると、一日中エアコンをつけているので、かなり多くなりますよね。でも、今年は節電の夏。ということで、ハッカ油でセルフ冷却してみませんか？虫も寄り付かなくなりますよ。清涼スプレーで体感温度を下げようハッカ油の簡単な使い方の1つが、水と混ぜるだけでできる清涼スプレー。首筋、腕、わきなどに吹きかけると、すぐに]]></summary>
+        <author>
+            <name>おおぬま</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[掛けて、吊るして、スマホを立てられる。大好評の「無限フックPlus」がプロジェクト終了間近]]></title>
+        <id>https://www.gizmodo.jp/2022/06/255830-machi-ya-mugenhookplus-end.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/255830-machi-ya-mugenhookplus-end.html"/>
+        <updated>2022-06-28T07:45:00.000Z</updated>
+        <summary type="html"><![CDATA[掛ける／吊るす／立てるの3wayキーホルダー「無限フック」が、サイズアップして耐荷重15kgに進化。プロジェクト終了前に、その魅力をおさらいします。]]></summary>
+        <author>
+            <name>飯田あゆみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glocal WiFi、月額4290円の300GBプランを新設　端末代は0円]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/28/news172.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/28/news172.html"/>
+        <updated>2022-06-28T07:16:00.000Z</updated>
+        <summary type="html"><![CDATA[グローカルネットが提供するクラウドWiFiルーターサービス「Glocal WiFi」は、シンプルデイフリープランに月間データ容量が300GBのプラン「ギガ300」を新設した。利用料金は4290円（税込み）。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AppleはM2プロセッサーのバリエーションで4機種の新たなMacを開発中か？]]></title>
+        <id>https://www.gizmodo.jp/2022/06/apple-m2-variants.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/apple-m2-variants.html"/>
+        <updated>2022-06-28T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple（アップル）が今後リリースするであろうM2搭載Macのラインナップについて、BloombergのMark Gurman記者が言及しています。M2 Pro、Ultra、Max、Extremeと発展していくとの予想で、それぞれが載る製品も紹介。]]></summary>
+        <author>
+            <name>巽英俊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[チャージせずにd払いで支払うには？　レジ前で慌てないための手段]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/28/news166.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/28/news166.html"/>
+        <updated>2022-06-28T06:45:00.000Z</updated>
+        <summary type="html"><![CDATA[事前にチャージした残高から支払えるコード決済サービスd払い。チャージできない、残高不足などの利用により、レジ前で焦ったことはないだろうか？　そんな悩みを解決するための手段をご紹介する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メモ特化のカラーデジタルノート「Hannsnote」を使ってみた]]></title>
+        <id>https://www.gizmodo.jp/2022/06/machi-ya-hannsnote-review.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/machi-ya-hannsnote-review.html"/>
+        <updated>2022-06-28T06:45:00.000Z</updated>
+        <summary type="html"><![CDATA[「Hannsnote」は、メモに特化したカラー表示可能なデジタルノートです。一見タブレットのように見えますが、ネットにもつながらず、搭載しているのはメモを取るという一つの機能のみ。低電力消費で永く使え、アイデア創出、思考の整理などメモに特化してお使いいただけます。]]></summary>
+        <author>
+            <name>Haruki Matsumoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楽天モバイルの新テレビCMに「ゆず」起用、7月1日～]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1420679.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1420679.html"/>
+        <updated>2022-06-28T06:29:33.000Z</updated>
+        <summary type="html"><![CDATA[楽天モバイルは、アーティストの「ゆず」を起用した新テレビCM「Rakuten UN-LIMIT VII サプライズがやってきた篇」を7月1日より全国で放送する。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Watch Series8では、iOS風の新たな省エネモードを搭載？]]></title>
+        <id>https://www.gizmodo.jp/2022/06/apple-watch-low-power-mode.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/apple-watch-low-power-mode.html"/>
+        <updated>2022-06-28T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple Watch Series 8には、バッテリーを節約しながら使える低電力モード機能が搭載される模様。]]></summary>
+        <author>
+            <name>そうこ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[携帯キャリアやMVNOの新料金プラン、5月末時点で約3割が移行]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/28/news152.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/28/news152.html"/>
+        <updated>2022-06-28T05:55:00.000Z</updated>
+        <summary type="html"><![CDATA[総務省は、6月28日に携帯電話事業者が提供する「新料金プラン」の契約数が5月末時点で約4050万になったと発表。一般利用者向けの携帯電話契約数の約27％に相当する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモの「マイナポイント第2弾」、d払い／dカード登録で最大2万ポイントもらえる]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/28/news139.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/28/news139.html"/>
+        <updated>2022-06-28T05:44:00.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモは、総務省が実施する「マイナポイント第2弾」の決済事業者として「マイナポイント第2弾　d払いでdポイント最大20,000ポイントもらえる！」を実施する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[携帯各社とMVNOの「新料金プラン」、約4050万契約に]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1420635.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1420635.html"/>
+        <updated>2022-06-28T05:00:45.000Z</updated>
+        <summary type="html"><![CDATA[総務省は、携帯電話各社が提供する新料金プランの契約数が5月末時点で約4050万契約になったと発表した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Xperia PRO-I」ユーザーが「Xperia 1 IV」を買ったワケ　実機で違いを比較]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/28/news150.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/28/news150.html"/>
+        <updated>2022-06-28T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「Xperia PRO-I」「Xperia 1 IV」のどちらも2022年6月末時点で、ソニーの最新ハイエンドスマートフォンだ。そこでXperia PRO-Iユーザーから見た、Xperia 1 IVの魅力を実機で確かめてみたい。あわせてスペック表もチェックしたい。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[さらに最強性能になるM2 ProとM3チップの情報が…]]></title>
+        <id>https://www.gizmodo.jp/2022/06/m2-pro-has-significantly-improved-specs.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/m2-pro-has-significantly-improved-specs.html"/>
+        <updated>2022-06-28T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アップルは今年後半よりスタートする3nmプロセスでのTSMCによるチップ製造枠を確保済み。M2 Proは大幅スペック向上化？]]></summary>
+        <author>
+            <name>湯木進悟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[お店のエアコンに5Gアンテナ内蔵へ、電気興業が実験]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1420637.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1420637.html"/>
+        <updated>2022-06-28T04:49:54.000Z</updated>
+        <summary type="html"><![CDATA[電気興業（DKK）は、屋内での5Gエリア構築に活用できる「空調機内蔵アンテナ」を開発した。ダイキン工業の協力を得て大阪大学で実験する。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「IIJmio」がデータ20％増量、ローソンとミニストップ限定で]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1420616.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1420616.html"/>
+        <updated>2022-06-28T04:10:51.000Z</updated>
+        <summary type="html"><![CDATA[インターネットイニシアティブ（IIJ）は、データ通信量をチャージできる「クーポンカード」をローソンとミニストップで購入すると、通信量を20％増量するキャンペーンを開始した。期間は7月31日まで。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UQ mobile、「auかんたん決済」利用でPontaポイント最大15％還元キャンペーン]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/28/news120.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/28/news120.html"/>
+        <updated>2022-06-28T04:05:00.000Z</updated>
+        <summary type="html"><![CDATA[KDDIは、UQ mobileユーザーを対象に「auかんたん決済」の利用で最大15％のPontaポイント還元キャンペーンを開催。通算税込み2000円～2999円の利用で200Pontaポイント、3000円以上の利用で450Pontaポイントをプレゼントする。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シトロエンのオシャレで可愛いEVバギー、限定50台が17分28秒で即完売]]></title>
+        <id>https://www.gizmodo.jp/2022/06/citroen-my-ami-buggy.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/citroen-my-ami-buggy.html"/>
+        <updated>2022-06-28T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[シトロエンの小型EV「ami」のバギーバージョンがフランスで発売。限定50台が17分ほどで売り切れとなりました。]]></summary>
+        <author>
+            <name>巽英俊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ファミペイ」3000円以上チャージで無料クーポンなど、7月に3周年記念キャンペーン]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1420601.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1420601.html"/>
+        <updated>2022-06-28T03:56:26.000Z</updated>
+        <summary type="html"><![CDATA[ファミリーマートは、同社のアプリ「ファミペイ」の3周年を記念して「ファミペイ3周年キャンペーン」第1弾を実施する。期間は7月1日～7月25日。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモ「d払い」、“マイナポイント第2弾”最大2万円分の対象に]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1420589.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1420589.html"/>
+        <updated>2022-06-28T03:35:25.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモは、「d払い」について、総務省が実施する「マイナポイント第2弾」に対応することを発表した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Googleの“モバイルエコシステム”に関する考え方とは？　政府が考える規制への反論か]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1420565.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1420565.html"/>
+        <updated>2022-06-28T03:12:34.000Z</updated>
+        <summary type="html"><![CDATA[グーグル（Google）は、公式ブログにおいて、モバイルエコシステムに関する同社の考えを紹介している。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UQ mobile、「auかんたん決済」利用で最大15％還元――7月から]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1420553.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1420553.html"/>
+        <updated>2022-06-28T03:11:30.000Z</updated>
+        <summary type="html"><![CDATA[KDDIと沖縄セルラーは、UQ mobileにおいてauかんたん決済の利用で最大15％を還元するキャンペーンを実施する。期間は7月1日～7月31日。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7月の「Amazonプライムデー」、追加のセール対象商品に「Xiaomi 11T Pro」など]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1420563.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1420563.html"/>
+        <updated>2022-06-28T03:02:34.000Z</updated>
+        <summary type="html"><![CDATA[7月12日と13日に予定されているAmazon.co.jpのセール「プライムデー」で、対象商品の一部が案内されている。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワイヤーで引っ張り弱い腕の動きを助ける「ウェアラブル筋肉」という研究]]></title>
+        <id>https://www.gizmodo.jp/2022/06/wearable-muscles.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/wearable-muscles.html"/>
+        <updated>2022-06-28T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スイス連邦工科大学にて、アクチュエイターとワイヤーで筋力が弱った腕をサポートする外筋肉「ウェアラブル・マッスル」の研究が進んでいる。]]></summary>
+        <author>
+            <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韓国のスターバックスがSamsungとコラボで「Galaxy Buds2」のラテカップ型オリジナルケース発売]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/28/news105.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/28/news105.html"/>
+        <updated>2022-06-28T02:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Starbucksの韓国オフィスとSamsungがコラボし、「Galaxy Buds2」のオリジナルケースを発売する。ラテカップ型のケースは5万9000ウォン（約6210円）。韓国でのみ限定個数を販売する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワイモバイルやLINEMO、ソフトバンク回線のMVNOも「＋メッセージ」利用可能に]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1420533.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1420533.html"/>
+        <updated>2022-06-28T02:15:51.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクは、携帯電話向けのメッセージングサービス「＋メッセージ（プラスメッセージ）」が、ワイモバイルやLINEMO、ソフトバンク回線のMVNOでも利用できるようになったと発表した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Y!mobileとLINEMOで「＋メッセージ」が利用可能に　ソフトバンク回線のMVNOサービスも対応]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/28/news099.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/28/news099.html"/>
+        <updated>2022-06-28T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクにおける「＋メッセージ」が、Y!mobile／LINEMOブランドと同社回線を利用するMVNOサービスでも利用できるようになった。新たに対応するブランドにおいて＋メッセージを利用したい場合は、スマートフォンに最新版のアプリをインストール（更新）する必要がある。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国政府からインフルエンサーへのNGリスト、医療や法律に関する発言には許可が必要に]]></title>
+        <id>https://www.gizmodo.jp/2022/06/strict-regulations-for-influencers-in-china.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/strict-regulations-for-influencers-in-china.html"/>
+        <updated>2022-06-28T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[中国政府はネット上のインフルエンサーに対して、“それ相応の資格"なしに法律、医療、ファイナンスに関する発言を禁止することを通知。]]></summary>
+        <author>
+            <name>Rina Fukazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海で防水ウォレット「Submerge」を試してみた]]></title>
+        <id>https://www.gizmodo.jp/2022/06/255804-machi-ya-submerge-review.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/255804-machi-ya-submerge-review.html"/>
+        <updated>2022-06-28T01:45:00.000Z</updated>
+        <summary type="html"><![CDATA[防水ウェアラブルアウトドアウォレット&カードホルダー「Submerge（サブマージ）」が日本上陸！ 腕に巻いて、ランニングや海や川などのレジャーで存分に楽しめます。貨幣、カード、鍵などの貴重品がすっぽりはいる大きさです。]]></summary>
+        <author>
+            <name>飯田あゆみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モンブラン、Wear OS 3搭載のスマートウォッチを16万3900円で発売へ]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/28/news092.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/28/news092.html"/>
+        <updated>2022-06-28T01:39:00.000Z</updated>
+        <summary type="html"><![CDATA[独Montblancは、「Wear OS 3」搭載の新スマートウォッチ「Summit 3」を発表した。プロセッサはQualcommの「Snapdragon Wear 4100+」。価格は16万3900円だ。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スマホの充電端子、なぜ「USB Type-C」に統一？　iPhoneはどうなる？]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/28/news072.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/28/news072.html"/>
+        <updated>2022-06-28T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[欧州議会と欧州理事会は6月7日（現地時間）、あらゆる電子機器に充電用ポートとしてUSB Type-Cの搭載を義務付けるという無線機器法の改正案について暫定合意に達したと発表しました。早ければ2024年秋以降にEU圏内で発売されるスマートフォンやタブレットはUSB Type-Cの搭載が必須となります。Appleは反発していますが、既にUSB Type-Cを搭載したiPhoneをテストしているといううわさもあります。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモ、KDDI、ソフトバンクが「ジャパンドローン 2022」出展　大手3キャリアが注目する理由とは]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/28/news040.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/28/news040.html"/>
+        <updated>2022-06-28T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[6月22日から23日まで幕張メッセにて、国内最大級の民間ドローン展示会「ジャパンドローン2022」が開催された。ドローン関連や将来の空飛ぶクルマを目指す多くの企業が出展するなか、ドコモとKDDI、ソフトバンクの大手携帯電話事業者3社も出展。その模様について紹介していこう。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[波動拳ッ！サントリーの炭酸水で『ストⅡ』（ミニゲーム）が遊べる]]></title>
+        <id>https://www.gizmodo.jp/2022/06/suntry-the-strong-fighter-ii.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/suntry-the-strong-fighter-ii.html"/>
+        <updated>2022-06-28T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[当時アーケードで連コした方、スーファミのボタンがカスカスになるほどやり込んだかつての少年少女。そして2018年に発売された『ストリートファイター 30th アニバーサリーコレクション』で初めてプレイしたという方も多いと思います。
+
+そんなストⅡ、まだまだ衰えることを知らず！ 6月27日からサントリーの強炭酸水「THE STRONG」とのコラボがスタートしています。]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マグネットでスマホにくっつくミニマル財布「eLusefor」がまもなく終了！]]></title>
+        <id>https://www.gizmodo.jp/2022/06/255603-machi-ya-elusefor-end.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/255603-machi-ya-elusefor-end.html"/>
+        <updated>2022-06-28T00:45:00.000Z</updated>
+        <summary type="html"><![CDATA[「eLusefor」はスマホにマグネットで取り付けられるコンパクトな財布です。MagSafeマホなら、そのまま脱着可能。銀行カード、ID、名刺、お札、小銭用に6つのスロットがあります。]]></summary>
+        <author>
+            <name>山田洋路</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSD性能低下のM2 MacBook Pro、動作に影響大。M1よりすべて遅い]]></title>
+        <id>https://gori.me/?p=142500</id>
+        <link href="https://gori.me/macbookpro/142500"/>
+        <updated>2022-06-28T00:07:17.000Z</updated>
+        <summary type="html"><![CDATA[M2チップを搭載したMacBook Proの256GBモデルは、M1モデルと比べてSSDの読み書き速度が低下していると判明した。原因は、NANDフラッシュメモリチップが減らされたことだ。 YouTubeチャンネル「Max Tech」が28日、最新動画を公開。SSD速度の低下はベンチマークスコアだけで…
+The post SSD性能低下のM2 MacBook Pro、動作に影響大。M1よりすべて遅い first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[四角く薄くメタリック。大人の節電にピッタリなハンディーファン]]></title>
+        <id>https://www.gizmodo.jp/2022/06/doshisha-gentle-fan.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/doshisha-gentle-fan.html"/>
+        <updated>2022-06-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ドウシシャから大人のためのスタイリッシュなハンディー扇風機「ジェントルファン」発売。]]></summary>
+        <author>
+            <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[余ったそうめんを救うリカバリーアイテム「そうめん専用ソース」]]></title>
+        <id>https://www.gizmodo.jp/2022/06/somen.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/somen.html"/>
+        <updated>2022-06-27T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[夏に食べたくなるものと言えばそうめんですよね。ただ、たれがめんつゆ一択で飽きるので、買った分を食べきれないこともしばしば。そんな時に便利なのが中川政七商店の「そうめん専用ソース」。これ1つで味が一気に変化しますよ。]]></summary>
+        <author>
+            <name>おおぬま</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高品質なストロボでおなじみ、プロフォトの一部製品が値上げ]]></title>
+        <id>https://www.gizmodo.jp/2022/06/profoto-price.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/profoto-price.html"/>
+        <updated>2022-06-27T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[写真って、光が良ければどう撮っても正解になる感ありません？ それだけライティングや照明器具が大事ってことなんですけど、プロ向けの照明器具を取り扱うプロフォト（Profoto）も、昨今の情勢を受けて値上げに踏み切るそうです。]]></summary>
+        <author>
+            <name>ヤマダユウス型</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[植物と魚を眺めながらコーヒーブレイク。フラワーパーク「HANA・BIYORI」内のスタバが最高だった]]></title>
+        <id>https://gori.me/?p=142485</id>
+        <link href="https://gori.me/food/cafe/142485"/>
+        <updated>2022-06-27T21:55:09.000Z</updated>
+        <summary type="html"><![CDATA[よみうりランドに隣接したフラワーパーク「HANA・BIYORI」は、花が大好きな娘たちにピッタリな場所だ。当初の目的はホタル観賞イベント「ほたるびより」に行くことだったが、先に入場していたほうが整理券を早く入手できると知り、お昼を食べてから14時過ぎに到着した。 本記事ではHANA・BIYORIの中…
+The post 植物と魚を眺めながらコーヒーブレイク。フラワーパーク「HANA・BIYORI」内のスタバが最高だった first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[よみうりランド隣接のフラワーパーク「HANA・BIYORI」でホタル観賞。子連れの注意点まとめ]]></title>
+        <id>https://gori.me/?p=142463</id>
+        <link href="https://gori.me/papa/fun-with-kids/142463"/>
+        <updated>2022-06-27T21:45:14.000Z</updated>
+        <summary type="html"><![CDATA[夏といえばホタルだ。正確には5月中旬から6月中旬にかけて出現ピークを迎えるとされている。 生息場所は静かできれいな水辺が条件。都内近郊では難しいかと思っていたが、よみうりランド隣接のフラワーパーク「HANA・BIYORI」でホタル観賞イベント「ほたるびより」が開催されていることを知り、足を運んでみた…
+The post よみうりランド隣接のフラワーパーク「HANA・BIYORI」でホタル観賞。子連れの注意点まとめ first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楽天モバイルが“新プラン自動移行”の理由に挙げる「電気通信事業法第27条の3」とは何か？]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/28/news070.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/28/news070.html"/>
+        <updated>2022-06-27T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[楽天モバイルが7月から提供する新料金プラン「Rakuten UN-LIMIT VII」は、1GB以下の「月額0円」が撤廃されることが話題を集めていますが、既存ユーザーにも自動で適用されます。その理由について、同社は電気通信事業法第27条の3が規定する「行き過ぎた囲い込みの禁止」という規制に抵触するためだとしています。この「電気通信事業法第27条の3」について、その成立の経緯から詳しく振り返ってみたいと思います。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[電子書籍人気ランキング] 電子書籍人気ランキング（6月17日～6月23日）]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/1420474.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/1420474.html"/>
+        <updated>2022-06-27T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今週のコミックランキングはトップに『キングダム 65』、秦連合軍が決戦の地へ！　2位『葬送のフリーレン（8）』は過酷な北部高原へ。3位は、踊る幽霊の謎に迫る『薬屋のひとりごと～猫猫の後宮謎解き手帳～（14）』！ 書籍ランキングトップは古代史のタブーに切り込む『コミック版 逆説の日本史 古代黎明篇』です。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[続く経営不振… Netfixがさらに300人を解雇]]></title>
+        <id>https://www.gizmodo.jp/2022/06/netflix-fires-300-people.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/netflix-fires-300-people.html"/>
+        <updated>2022-06-27T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Netflix窮地の時は続く。2022年第1四半期省益報告で会員数が初めて減少し、業績不振からリストラが始まりましが、その流れがさらに加速。Netflxが新たに約300人を解雇したことがわかりました。216人はアメリカとカナダ、53人はヨーロッパ、17人はラテンアメリカの社員ということです。]]></summary>
+        <author>
+            <name>そうこ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[みんなのケータイ]Galaxy S22の写真管理アプリは機能豊富、「オブジェクト消去」もできます]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/minna/1420461.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/minna/1420461.html"/>
+        <updated>2022-06-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【本文】  　auの「Galaxy S22 SCG13」を利用し始めてからまもなく2カ月。端末の雰囲気といいますか、使い勝手も大分掴めてきました。今回は、サムスン系端末の1つの特徴となっている写真管理アプリについて説明したいと思います。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[本日の一品]ソニーのヘッドホン「WH-1000XM5」は複数台への接続がさらに便利になった]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1420458.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1420458.html"/>
+        <updated>2022-06-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[音楽視聴のスタイルはさまざまだが、最近はBluetoothでのワイヤレス視聴が一般的だ。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スマホで「参議院選挙の不在者投票」を申し込んでみた]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/review/1420307.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/review/1420307.html"/>
+        <updated>2022-06-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[日本の選挙制度では、投票日に住民票記載の住所近くの投票所に出向き投票する方法をとっている。投票日に用事がある人などには、各選挙管理委員会が設置する期日前投票所で、事前に投票することができるが、なんらかの事情で現在の居住地と投票所が離れてしまっているユーザーもいる。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「arrows We」が100万台超え！　その理由とこれからをFCNTに聞く]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/interview/1418196.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/interview/1418196.html"/>
+        <updated>2022-06-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年12月に発売されたFCNTのAndroidスマートフォン「arrows We」。2万円台という低価格でありながら、5Gに対応しているほか、従来のarrowsシリーズの指紋認証や高耐久、洗えるスマホといった基本性能をしっかり受け継いでおり、価格以上の価値を感じられる端末に仕上がっている。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Watchのベルトと金具を自由に組み合わせるUNiCASEのサービスを、錦糸町パルコ店で覗いてみた]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1417845.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1417845.html"/>
+        <updated>2022-06-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[UNiCASE錦糸町パルコで、「MORELLATO（モレラート）」と「CASSIS（カシス）」というブランドの革ベルトと好みのカラーのApple Watch用の金具（尾錠）を組み合わせて購入できる新サービスが登場した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[干ばつのせいで、イタリアでは第二次世界大戦時の沈没船が姿を現す]]></title>
+        <id>https://www.gizmodo.jp/2022/06/sunken-wwii-ship-reappears-in-italian-river-amid-drough-1849088674.html</id>
+        <link href="https://www.gizmodo.jp/2022/06/sunken-wwii-ship-reappears-in-italian-river-amid-drough-1849088674.html"/>
+        <updated>2022-06-27T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[写真は2019年のポー川Image:FedericoFermeglia/GettyImagesイタリア最長の川の水位が異常なほど低下したため、沈没していた第二次世界大戦時の艀（はしけ）が姿を現しました。Zibelloという艀が出現したのは、イタリア北部の村グアルティエーリ近くの水域。この船は第二次世界大戦中には木材を運ぶために使われ、1943年に沈没したとAP通信は報じています。ガーディアン紙の報]]></summary>
+        <author>
+            <name>たもり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[未来のエンタメのために、VTuberのライブでNFTを配る。「未来の当たり前」に挑む、Brave groupの挑戦]]></title>
         <id>https://www.gizmodo.jp/2022/06/brave-group.html</id>
@@ -34,6 +647,16 @@
         <summary type="html"><![CDATA[サンワダイレクトより、USB-Cで入力し、LightningとUSB-Cへの出力が選べるケーブル「500-IPLM030BK」が発売されました。]]></summary>
         <author>
             <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IIJの法人向けフルMVNOサービス、納品後にプランを選べる「ストック品目」提供開始]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2206/27/news188.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2206/27/news188.html"/>
+        <updated>2022-06-27T11:03:00.000Z</updated>
+        <summary type="html"><![CDATA[IIJは、法人向けフルMVNOサービス「IIJモバイルサービス／タイプI」で「ストック品目」を提供開始。SIMカード納品後にプランやネットワークタイプなどを選べる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
         </author>
     </entry>
     <entry>
@@ -15496,299 +16119,6 @@ The post iPhone 14 ProのA16チップ、A15チップと同じ5nmプロセスか 
  【もっと読む】]]></summary>
         <author>
             <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アウトドアでも氷が必要だ。人類の文明が車載用製氷機を生み出した]]></title>
-        <id>https://www.gizmodo.jp/2022/05/roommate-2styl-ice-maker.html</id>
-        <link href="https://www.gizmodo.jp/2022/05/roommate-2styl-ice-maker.html"/>
-        <updated>2022-05-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:ROOMMATEクルマで氷を作るんだ！これから暑い夏を迎えます（その前に梅雨がありますけど）。もう夏の予定を立てている方もいるのではないでしょうか。海に！山に！草原に！夏のアウトドアのアクティビティでは、涼を取ることは必須。氷があったりすると結構便利かと思うんですが、氷を持ち運ぶのはたいへんですよね。クーラーボックスに入れていっても溶けてしまったりして、結局途中のコンビニで補給したり…]]></summary>
-        <author>
-            <name>三浦一紀</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 14 Pro、常時オンディスプレイに対応か]]></title>
-        <id>https://gori.me/?p=142005</id>
-        <link href="https://gori.me/iphone/iphone-news/142005"/>
-        <updated>2022-05-29T21:55:14.000Z</updated>
-        <summary type="html"><![CDATA[2022年の新型iPhone（iPhone 14）シリーズのうち、Proモデル2機種は常時オンディスプレイに対応する可能性がある。Appleに詳しいBloombergの名物記者Mark Gurmanの最新ニュースレターによると、「iOS 16」はディスプレイの常時オン機能をサポートしているという。 …
-The post iPhone 14 Pro、常時オンディスプレイに対応か first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 16はロック画面が大幅改良、iPadOS 16は”アプリをウィンドウ化したマルチタスク機能”を実装か]]></title>
-        <id>https://gori.me/?p=142004</id>
-        <link href="https://gori.me/ios/ios-news/142004"/>
-        <updated>2022-05-29T21:45:47.000Z</updated>
-        <summary type="html"><![CDATA[AppleがWWDC22で正式発表する次期OSの一部機能を、Bloombergの名物記者Mark Gurmanが最新ニュースレターで明らかにした。 「iOS 16」はロック画面が大幅に改良され、「ウィジェットのような機能を持つ壁紙」が用意されるという。またディスプレイの常時オン機能をサポートし、20…
-The post iOS 16はロック画面が大幅改良、iPadOS 16は”アプリをウィンドウ化したマルチタスク機能”を実装か first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楽天モバイルと香川県、大規模災害時の通信インフラ確保で協力]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1412702.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1412702.html"/>
-        <updated>2022-05-29T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[楽天モバイルは、香川県と「大規模災害時における通信手段の確保及び提供に関する協定」を5月20日に締結した。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[スタパ齋藤の「スタパトロニクスMobile」]サイコーのMagSafe充電アイテムを手に入れた!!!]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/column/stapa/1412511.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/column/stapa/1412511.html"/>
-        <updated>2022-05-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[俺の場合、気づいたらMagSafeモバイルバッテリーを多用するヤツになっていた。強い理由がない限り、MagSafeモバイルバッテリーばかり使用。理由は、非常に手軽＆便利だから。そしてMagSafeモバイルバッテリーを追加購入などしつつ、最近ではサイコーのMagSafe充電アイテムを手に入れた。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[みんなのケータイ]野球をスタジアムで観戦しながらライブ中継も観たらデータ容量が溶けました]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/column/minna/1412505.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/column/minna/1412505.html"/>
-        <updated>2022-05-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筆者、今年からプロ野球チームの千葉ロッテマリーンズのファンクラブに入りました。佐々木朗希投手の投げるところを生で観たいという理由からなのですが、今のところ、球場に足を運んでも登板日を外してしまい、一度も観られずにいます。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[本日の一品]Qrio Lockの安心できる解錠手段として「Qrio Key S」を手に入れた]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1412491.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1412491.html"/>
-        <updated>2022-05-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[我が家はスマートロックのQrio Lock（Q-SL2）が発売されて直ぐに自宅の玄関ドアに導入した。偶然娘夫婦も少し遅れて同じQrio Lockを導入したようだった。Qrio Lockの最大のウリは物理鍵を忘れて出かけてもオートロック設定をやってさえいれば外出後自動的に施錠され、帰宅時にはスマホで解錠出来るスマートライフを満喫出来ることだ。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[革靴とスニーカーのハイブリッドシューズ「HORIZON」]]></title>
-        <id>https://www.gizmodo.jp/2022/05/254512-machi-ya-horizon-review-repost.html</id>
-        <link href="https://www.gizmodo.jp/2022/05/254512-machi-ya-horizon-review-repost.html"/>
-        <updated>2022-05-29T12:45:00.000Z</updated>
-        <summary type="html"><![CDATA[革靴とスニーカーのハイブリッドデザイン「HORIZON」。デザインはシンプルで、幅広い服装に合わせられます。清潔感があって爽やかなルックスは、クールビズスタイルにもピッタリです。]]></summary>
-        <author>
-            <name>saori</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Amazonタイムセール祭り】AKRacingも！ロングセラーからデスクワークで使えるものまで、ゲーミングチェアがお買い得セール中！]]></title>
-        <id>https://www.gizmodo.jp/2022/05/amazon-timesale-fes-2022-05-gamingchair.html</id>
-        <link href="https://www.gizmodo.jp/2022/05/amazon-timesale-fes-2022-05-gamingchair.html"/>
-        <updated>2022-05-29T12:45:00.000Z</updated>
-        <summary type="html"><![CDATA[快適な座り心地のゲーミングチェアは、ゲーマーはもちろん、デスクワーカーからも注目されているアイテム。今回、Amazonタイムセールでお得に購入できる要注目のゲーミングチェアを5つほどピックアップしてみました。椅子に長時間座ることが多くて腰がツラくなるという人、ぜひチェックしてみてください。]]></summary>
-        <author>
-            <name>田中宏和</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怖いけど見てみたい…死後の世界をVRで体験できる「地獄VR」爆誕。横浜でお試しもできるぞ]]></title>
-        <id>https://www.gizmodo.jp/2022/05/jigoku-vr.html</id>
-        <link href="https://www.gizmodo.jp/2022/05/jigoku-vr.html"/>
-        <updated>2022-05-29T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:地獄VRヘッドセットに白い三角「天冠」で雰囲気を演出。現実には存在しない世界を見ることができるVRですが、仮想現実の世界で地獄が体験できる「地獄VR」というコンテンツが作られました。「悪いことをすると地獄に堕ちるよ！」なんて言われたことがある人は、その身をもって仮想体験することが可能になるのです。アニメキャラが動き回る「地獄VR」は、アニメと融合したコンテンツで理解しやすそうな作りにな]]></summary>
-        <author>
-            <name>岡本玄介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[窓のない車、おろし金iPhone…ファンも思わず笑っちゃうAppleの謎特許10選]]></title>
-        <id>https://www.gizmodo.jp/2022/05/the-10-dumbest-apple-patents-that-made-people-lose-their-minds.html</id>
-        <link href="https://www.gizmodo.jp/2022/05/the-10-dumbest-apple-patents-that-made-people-lose-their-minds.html"/>
-        <updated>2022-05-29T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[時間をかけた割には…という事例もあるけど（例：バタフライキーボード）、いい成果につながることもあるので（例：FaceID）悪いことじゃないのだけど、研究開発に時間をかけすぎるあまり後追いになることもしばしば。「毎年毎年同じものを出している」という声もあるくらい慎重です。]]></summary>
-        <author>
-            <name>satomi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ベルボンとコールマンコラボのLEDライトは撮影に、アウトドアに大活躍。安くなってるから買っといたほうがいいですよ【Amazonタイムセール祭り】]]></title>
-        <id>https://www.gizmodo.jp/2022/05/amazon-sale-velbon-coleman-led.html</id>
-        <link href="https://www.gizmodo.jp/2022/05/amazon-sale-velbon-coleman-led.html"/>
-        <updated>2022-05-29T10:35:00.000Z</updated>
-        <summary type="html"><![CDATA[ベルボンとコールマンがコラボしたLEDマルチライト。今、Amazonのタイムセールで過去最安価格で販売されているので、気になっていた方はぜひぜひ。]]></summary>
-        <author>
-            <name>三浦一紀</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「realityOS」が商標登録。AppleのAR/VRヘッドセット、WWDC22で発表か]]></title>
-        <id>https://gori.me/?p=142003</id>
-        <link href="https://gori.me/apple/apple-news/142003"/>
-        <updated>2022-05-29T10:06:08.000Z</updated>
-        <summary type="html"><![CDATA[AppleのAR/VRヘッドセットに搭載される専用OS「realityOS」の商標登録が、米国で行われた。米国特許庁（USPTO）の情報によると、合同会社「Realityo Systems LLC」が2021年12月8日に、「周辺機器」「ソフトウェア」「ウェアラブルコンピューターハードウェア」などの…
-The post 「realityOS」が商標登録。AppleのAR/VRヘッドセット、WWDC22で発表か first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Amazonタイムセール祭り】梅雨時の時間つぶしに。ボードゲームやプラモデルがお買い得！]]></title>
-        <id>https://www.gizmodo.jp/2022/05/amazon-timesale-fes-2022-0529-3.html</id>
-        <link href="https://www.gizmodo.jp/2022/05/amazon-timesale-fes-2022-0529-3.html"/>
-        <updated>2022-05-29T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon（アマゾン）では、2022年5月28日9時から5月30日23時59分まで｢Amazonタイムセール祭り｣を開催中です。
-
-現在、ボードゲームやプラモデルなど、梅雨時に室内で遊べるアイテムがお買い得に登場しています。]]></summary>
-        <author>
-            <name>メディアジーンメディアコマース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ダイソンのロボットが家事を楽にしてくれる日が来るかも]]></title>
-        <id>https://www.gizmodo.jp/2022/05/dyson-home-robot.html</id>
-        <link href="https://www.gizmodo.jp/2022/05/dyson-home-robot.html"/>
-        <updated>2022-05-29T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[掃除機やドライヤーを手掛けるダイソンが、家庭用ロボットの開発に関するビデオをチラ見せ公開しました。]]></summary>
-        <author>
-            <name>岡本玄介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今買わないと損するレベル。「MX MASTER 2S」が4,590円オフ＋500円のクーポン配布の大盤振る舞いです！【Amazonタイムセール祭り】]]></title>
-        <id>https://www.gizmodo.jp/2022/05/amazon-sale-mx-master-2s.html</id>
-        <link href="https://www.gizmodo.jp/2022/05/amazon-sale-mx-master-2s.html"/>
-        <updated>2022-05-29T07:35:00.000Z</updated>
-        <summary type="html"><![CDATA[高精度で高性能で、使いやすくて、気持ちいい。そんなロジクールのハイエンドマウス「MX MASTER 2S」がセールなんですよ！]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[レンズ交換もOK！ 本格仕様なインスタントカメラ「NONS SL42 MK2」]]></title>
-        <id>https://www.gizmodo.jp/2022/05/machi-ya-nonssl42mk2-end.html</id>
-        <link href="https://www.gizmodo.jp/2022/05/machi-ya-nonssl42mk2-end.html"/>
-        <updated>2022-05-29T06:45:00.000Z</updated>
-        <summary type="html"><![CDATA[「NONS SL42 MK2」は、撮影後その場でプリント出来るインスタントカメラの機能を備えた一眼レフスタイルのフィルムカメラ。実際の一眼レフのように、レンズ交換や絞り、シャッタースピードの操作に加え、一眼レフに対応したレンズのボケ感や描写力を楽しめる製品です。]]></summary>
-        <author>
-            <name>kotoha ozawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Amazonタイムセール祭り】ボダムやカリタのコーヒーメーカー、ミルなどがお買い得に！ セール中のコーヒー用品まとめ]]></title>
-        <id>https://www.gizmodo.jp/2022/05/amazon-timesale-fes-2022-0529-2.html</id>
-        <link href="https://www.gizmodo.jp/2022/05/amazon-timesale-fes-2022-0529-2.html"/>
-        <updated>2022-05-29T05:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon（アマゾン）では、2022年5月28日9時から5月30日23時59分まで｢Amazonタイムセール祭り｣を開催中です。
-
-現在、ボダムやカリタのコーヒーメーカーやミルなど、今すぐ使えるコーヒー用品がお買い得に登場しています。]]></summary>
-        <author>
-            <name>メディアジーンメディアコマース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ジャック・ドーシーがいないTwitterは少し寂しい]]></title>
-        <id>https://www.gizmodo.jp/2022/05/jack-dorsey-twitter-board-of-directors-elon-musk.html</id>
-        <link href="https://www.gizmodo.jp/2022/05/jack-dorsey-twitter-board-of-directors-elon-musk.html"/>
-        <updated>2022-05-29T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Twitter共同創業者のジャック・ドーシー氏が取締役を退任。すでに去年の11月に同社のCEOを辞任していて、取締役も辞めることは決まっていましたが、5月25日で任期満了で無事に終了。]]></summary>
-        <author>
-            <name>岩田リョウコ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[キャンパー必携！ 焦げつかない「ノンスティック加工メスティン」のキャンペーンが終了間近]]></title>
-        <id>https://www.gizmodo.jp/2022/05/254569-machi-ya-thiaouthelif-end.html</id>
-        <link href="https://www.gizmodo.jp/2022/05/254569-machi-ya-thiaouthelif-end.html"/>
-        <updated>2022-05-29T04:45:00.000Z</updated>
-        <summary type="html"><![CDATA[万能調理器具・メスティン最大の弱点を解消！ ノンスティック（フッ素樹脂）加工が施された、注目のメスティンが手に入るプロジェクト、終了前に改めてご紹介します。]]></summary>
-        <author>
-            <name>にしやまあやか</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PCとスマホを持ち歩くなら、CIOの45W充電器を買ったほうがいい。2ポートで小さいし、今なら500円オフだよ！【Amazonタイムセール祭り】]]></title>
-        <id>https://www.gizmodo.jp/2022/05/amazon-sale-cio-45.html</id>
-        <link href="https://www.gizmodo.jp/2022/05/amazon-sale-cio-45.html"/>
-        <updated>2022-05-29T03:35:00.000Z</updated>
-        <summary type="html"><![CDATA[ノートPCを充電したいし、スマホも充電したい。できれば同時に充電したい！っていう当たり前のニーズを、当たり前に満たしてくれるCIOの「NovaPort DUO PD」が、セールで3,480円！ いつもより500円オフで買い時を迎えております。]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[外部ディスプレイにもタッチコントローラにもなるキーボード]]></title>
-        <id>https://www.gizmodo.jp/2022/05/k2-display-keyboard.html</id>
-        <link href="https://www.gizmodo.jp/2022/05/k2-display-keyboard.html"/>
-        <updated>2022-05-29T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「K2 USB Mechanical Keyboard with 12.6" Touchscreen」はキーボード部の上に12.6インチの横長々タッチディスプレイを搭載。解像度は1920 x 515ピクセルで、Plug&Playに対応しているからPCやMac、AndroidとUSBで接続すればすぐ外部モニター＆外付けキーボードとして認識してくれます。]]></summary>
-        <author>
-            <name>武者良太</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Amazonタイムセール祭り】サンダル・シューズが安い！ホカ オネオネ、ニューバランスなどが最大35％オフ]]></title>
-        <id>https://www.gizmodo.jp/2022/05/amazon-timesale-fes-2022-0529-1.html</id>
-        <link href="https://www.gizmodo.jp/2022/05/amazon-timesale-fes-2022-0529-1.html"/>
-        <updated>2022-05-29T02:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon（アマゾン）では、5月30日23時59分まで｢Amazonタイムセール祭り｣を開催中。ホカ オネオネ、ニューバランスなどのシューズが最大35％オフとお買い得に登場しています。]]></summary>
-        <author>
-            <name>メディアジーンメディアコマース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今回のセールの目玉でしょ！  全自動ルンバ「ルンバ i7+」が3.5万円OFFの鬼値引き！【Amazonタイムセール祭り】]]></title>
-        <id>https://www.gizmodo.jp/2022/05/amazon-sale-rumba-i7-plus.html</id>
-        <link href="https://www.gizmodo.jp/2022/05/amazon-sale-rumba-i7-plus.html"/>
-        <updated>2022-05-29T01:35:00.000Z</updated>
-        <summary type="html"><![CDATA[マッピング対応で頭がよくて高性能で、ゴミ捨てすら自動化する「ルンバ i7＋」がAmazonセールで3万5000万円のびっくり値引き。なんと8万4800円でポチれます！]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d払いのキャンペーンまとめ【5月29日最新版】　進呈率アップやプラス50％進呈が目立つ]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2205/29/news019.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2205/29/news019.html"/>
-        <updated>2022-05-29T01:15:00.000Z</updated>
-        <summary type="html"><![CDATA[NTTドコモが2022年5月29日～6月6日に実施しているd払いとdポイントのキャンペーンをまとめた。「毎週おトクなd曜日」はポイント進呈率が最大4.5％へアップ。d払いの初回利用時でプラス50％のdポイントを進呈する他、ドトールコーヒーショップなどでdポイントを最大10倍進呈する。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PayPayキャンペーンまとめ【5月29日最新版】　40%や全額還元に注目]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2205/29/news018.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2205/29/news018.html"/>
-        <updated>2022-05-29T01:05:00.000Z</updated>
-        <summary type="html"><![CDATA[2022年5月29日〜6月6日にPayPayが実施しているキャンペーンをまとめた。目玉は最大全額還元の「ペイペイジャンボ」。2000円（税込み、以下同）以上の買い物で最大半額還元の「スーパーマーケットジャンボ」や、花王商品の購入で最大40％還元のキャンペーンにも注目したい。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楽天ポイント、みんなの銀行、三井住友カードのキャンペーンまとめ【5月29日最新版】　抽選で最大全額還元]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2205/29/news017.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2205/29/news017.html"/>
-        <updated>2022-05-29T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2022年5月29日～6月6日に楽天ペイメント、みんなの銀行、三井住友カードが実施しているキャンペーンをまとめた。楽天ペイメントは抽選で全額ポイント還元、みんなの銀行はデビットカード利用で1万円をプレゼント、三井住友カードは新規入会とApple Pay／Google Pay利用で最大5000円分を還元する。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今、外部メモリスロットを備えたスマートフォンが減っている理由]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2205/27/news028.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2205/27/news028.html"/>
-        <updated>2022-05-29T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[近年のスマートフォンでは、Android端末でもSDカードを使用できない機種も多く存在している。比較的高価なスマートフォンにてSDカード利用できない機種が多いが利用できなくなる傾向にあるのか、少し掘り下げてみようと思う。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
         </author>
     </entry>
 </feed>
