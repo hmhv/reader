@@ -14,3 +14,5 @@ sources:
 siteTitle: "hmhv::news"
 
 timezone: Asia/Tokyo
+
+cacheMaxDays: 7
