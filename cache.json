@@ -6,6 +6,26 @@
       "siteUrl": "https://gori.me",
       "articles": [
         {
+          "id": "https://gori.me/?p=142577",
+          "author": "g.O.R.i",
+          "description": "au、povo、UQ mobileなどKDDIの提供するネットワークにおいて、7月2日1時35分ごろより発生していた通信障害の復旧作業が完了した。西日本エリアは11時00分ごろ、東日本エリアは17時30分ごろに終えており、データ通信を中心として徐々に回復するという。 西日本とは、富山県、石川県、福井…\nThe post auの通信障害、復旧作業は終了。利用しづらい状況は継続、本格再開時期は未定 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/mobile/smartphone/142577",
+          "publishedOn": "2022-07-03T11:46:20.000Z",
+          "wordCount": 948,
+          "title": "auの通信障害、復旧作業は終了。利用しづらい状況は継続、本格再開時期は未定",
+          "imageUrl": "https://gori.me/uploads/2022/07/au-not-able-to-connect-to-network-yet-800x500.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=142533",
+          "author": "g.O.R.i",
+          "description": "7月12日・13日開催のプライムデーに先立ち、Kindle本の読み放題サービス「Kindle Unlimited」が3カ月99円で利用できる太っ腹なキャンペーンが開催中だ。 過去6か月以内にKindle Unlimitedの無料体験、またはキャンペーンを利用していないプライム会員が対象。2022年7…\nThe post Kindle Unlimited、3カ月99円。プライムデーまでの登録で96％オフ first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/kindle-sale/142533",
+          "publishedOn": "2022-07-02T21:45:30.000Z",
+          "wordCount": 979,
+          "title": "Kindle Unlimited、3カ月99円。プライムデーまでの登録で96％オフ",
+          "imageUrl": "https://gori.me/uploads/2022/06/KindleUnlimited-Prime-Day-2022-Campaign-01-800x534.jpg"
+        },
+        {
           "id": "https://gori.me/?p=142573",
           "author": "g.O.R.i",
           "description": "KDDIの通信サービスに障害が発生している。7月2日16時現在、au携帯電話、UQ mobile携帯電話、povo、au回線利用事業者の音声通話およびデータ通信が利用しづらい状況だ。復旧の目処は立っていない。 通信障害は、7月2日1時35分頃から問題が発生。手元のau回線では電波アンテナが1本も表示…\nThe post au復旧の目処立たず。通信障害の原因は設備障害、緊急電話にも影響 first appeared on ゴリミー.\n\n 【もっと読む】",
@@ -254,16 +274,6 @@
           "wordCount": 1100,
           "title": "M2 MacBook Proの256GBモデルは”ハズレ”。SSD速度が著しく低下",
           "imageUrl": "https://gori.me/uploads/2022/06/Slower-SSDs-on-M2-MacBook-Pro-256GB-model-800x450.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=142487",
-          "author": "g.O.R.i",
-          "description": "Appleは2022年秋から2023年前半にかけて、怒涛の新製品発表を行う可能性がある。Appleに詳しいBloombergの名物記者Mark Gurman氏が、最新ニュースレターで発表される各製品の最新情報を公開した。 【関連】【2022年】Apple新製品の噂まとめ：予想スペックや特徴、発表時期…\nThe post Apple、今秋以降は怒涛の新製品発表か。著名ジャーナリストの最新予測まとめ first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/macbookair/142487",
-          "publishedOn": "2022-06-26T21:45:24.000Z",
-          "wordCount": 1132,
-          "title": "Apple、今秋以降は怒涛の新製品発表か。著名ジャーナリストの最新予測まとめ",
-          "imageUrl": "https://gori.me/uploads/2022/06/julian-o-hayon-Bs-zngH79Ds-unsplash-800x500.jpg"
         }
       ]
     },
@@ -272,6 +282,56 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/mobile.xml",
       "siteUrl": "https://www.itmedia.co.jp/mobile/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2207/03/news061.html",
+          "author": null,
+          "description": "7月2日1時35分から発生していたKDDIの通信障害について、西日本エリアは3日11時ごろ、東日本エリアは3日17時30分頃に復旧作業が完了した。ただし復旧作業終了後も、トラフィックの輻輳（ふくそう）を軽減するための制御により、利用しにくい状態が続いている。通信障害の原因は7月2日未明の設備障害により、VoLTE交換機で輻輳が発生したため。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2207/03/news061.html",
+          "publishedOn": "2022-07-03T10:12:00.000Z",
+          "wordCount": 2992,
+          "title": "KDDIの通信障害、復旧作業が完了　利用しにくい状態は続く",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2207/03/l_st52693_kddi-01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2207/03/news057.html",
+          "author": null,
+          "description": "KDDIの7月3日、au網で発生中の通信障害について緊急会見を実施した。説明会での発言を元に、障害の状況や影響範囲、発生原因についてまとめた。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2207/03/news057.html",
+          "publishedOn": "2022-07-03T09:30:00.000Z",
+          "wordCount": 3002,
+          "title": "KDDI“過去最大”の通信障害、発生の経緯は？　緊急会見で判明したこと",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2207/03/l_ti583156_kddi_02.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2207/03/news035.html",
+          "author": null,
+          "description": "au／UQ mobile／povo携帯電話において7月2日深夜から続く通信障害について、KDDIが緊急会見を実施し謝罪した。障害の復旧は、西日本エリア（静岡県／長野県／富山県以西）は7月3日11時以降、東日本エリアは同日17時30分以降を見込んでいる。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2207/03/news035.html",
+          "publishedOn": "2022-07-03T02:40:00.000Z",
+          "wordCount": 3005,
+          "title": "KDDIが携帯電話ネットワークの通信障害を謝罪　完全復旧は7月3日17時30分以降見込み",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2207/03/cover_news035.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2207/03/news016.html",
+          "author": null,
+          "description": "PayPayが2022年7月4日から11日まで実施しているキャンペーンをまとめた。7月からスタートする「夏のPayPay祭」は最大10万ポイント還元、クーポン配布の強化など、注目の内容だ。「PayPayフリマ」は、初回販売時に最大1800円分の送料を実質無料にするキャンペーンを開催している。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2207/03/news016.html",
+          "publishedOn": "2022-07-03T01:00:00.000Z",
+          "wordCount": 3016,
+          "title": "PayPayキャンペーンまとめ【7月3日最新版】　最大10万ポイント還元やクーポンでお得に",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2207/03/l_rk1640414_PayPay-01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2207/03/news027.html",
+          "author": null,
+          "description": "7月2日1時15分頃から継続しているau／UQ mobile／povo携帯電話の通信障害。その回復見込みがエリアごとに示された。西日本エリア（静岡県／長野県／富山県以西）では7月3日7時15分に回復を見込んでいたが、11時頃の見込みに変更された。東日本エリアでは7時時点で70％程度回復し、9時めどに復旧を目指して見込んでいるという。【更新】",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2207/03/news027.html",
+          "publishedOn": "2022-07-02T22:15:00.000Z",
+          "wordCount": 3000,
+          "title": "西日本は11時、東日本は9時――au／UQ mobile／povo携帯電話の障害復旧見込みが示される",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2207/03/l_si7101-KDDI-01.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/mobile/articles/2207/02/news057.html",
           "author": null,
@@ -1011,56 +1071,6 @@
           "wordCount": 3165,
           "title": "「Xperia 10 IV」と「Xperia Ace III」はどちらが買い？　スペックから使い勝手までを徹底比較",
           "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/27/l_ti583156_xperia-01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2206/27/news066.html",
-          "author": null,
-          "description": "NTTドコモの共通ポイント「dポイント」の新たな会員プログラムがスタートした。これまでの「ステージ制」から「ランク制」となり、ランクアップの仕組みや特典が大幅に変更された。このランク制の導入には「『dポイントがたまる、使える』をもっと実感してほしい」という背景があったという。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2206/27/news066.html",
-          "publishedOn": "2022-06-26T23:00:00.000Z",
-          "wordCount": 3004,
-          "title": "ドコモに聞く「dポイントクラブ」改定の背景　なぜ契約年数を条件から撤廃したのか？",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/27/l_st52693_dpointcint-01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2206/26/news026.html",
-          "author": null,
-          "description": "NTTドコモが2022年6月26日から7月4日まで実施しているd払い、dカード、dポイントのキャンペーンをまとめた。d払いでは初回利用時にプラス50％のdポイントを進呈。当たりでも外れでも必ずポイントがもらえるdカード GOLDのキャンペーン、抽選で50倍進呈のモスバーガーのキャンペーンに注目したい。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2206/26/news026.html",
-          "publishedOn": "2022-06-26T01:00:00.000Z",
-          "wordCount": 3004,
-          "title": "d払い、dカード、dポイントキャンペーンまとめ【6月26日最新版】　50万ポイント山分け、抽選で50倍進呈も",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/26/l_rk1640414_docomo-01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2206/26/news025.html",
-          "author": null,
-          "description": "楽天ペイメント、みんなの銀行、三井住友カードが2022年6月26日から7月4日まで実施しているキャンペーンをまとめた。楽天ペイメントは抽選で全額ポイント還元、みんなの銀行はデビットカード利用で1万円をプレゼント、三井住友カードは新規入会とApple Pay／Google Pay利用で最大5000円分を還元する。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2206/26/news025.html",
-          "publishedOn": "2022-06-26T01:00:00.000Z",
-          "wordCount": 3031,
-          "title": "楽天ペイメント、みんなの銀行、三井住友カードのキャンペーンまとめ【6月26日最新版】　最大全額還元は6月末まで",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/26/l_rk1640414_Rakuten-01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2206/26/news022.html",
-          "author": null,
-          "description": "PayPayが2022年6月26日から7月4日まで実施しているキャンペーンをまとめた。7月からスタートする「夏のPayPay祭」は最大10万ポイント還元、クーポン配布の強化など、注目の内容だ。6月末で終わるキャンペーンもあるので注意したい。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2206/26/news022.html",
-          "publishedOn": "2022-06-26T01:00:00.000Z",
-          "wordCount": 3002,
-          "title": "PayPayキャンペーンまとめ【6月26日最新版】　最大10万ポイント還元が始まる",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/26/l_rk1640414_PayPay-01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2206/26/news020.html",
-          "author": null,
-          "description": "PCがネット上のコミュニケーションツールだった時代に生まれたアスキーアートは、現代では日本語と英語のみならずアラビア語などさまざまな外国文字を使ってかわいらしく彩られるようになった。そんな顔文字を自作したいと思ったことはないだろうか。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2206/26/news020.html",
-          "publishedOn": "2022-06-26T01:00:00.000Z",
-          "wordCount": 2977,
-          "title": "iPhoneでかわいい顔文字を“気合と根性で”自作する方法",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2206/26/l_pics_iphonekeyboard01.jpg"
         }
       ]
     },
@@ -1075,6 +1085,106 @@
       "feedUrl": "https://k-tai.watch.impress.co.jp/data/rss/1.0/ktw/feed.rdf",
       "siteUrl": "https://k-tai.watch.impress.co.jp",
       "articles": [
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1422024.html",
+          "author": null,
+          "description": "KDDIは、7月2日1時35分に発生した、携帯電話サービスの通信障害について、東日本エリアでの復旧作業が17時30分ごろに終了したと発表した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1422024.html",
+          "publishedOn": "2022-07-03T09:53:26.000Z",
+          "wordCount": 4262,
+          "title": "「au通信障害」は東日本の復旧作業も完了、完全回復までネットワーク上で検証",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1422/024/k06.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1422022.html",
+          "author": null,
+          "description": "KDDIの髙橋誠代表取締役社長は、2日に発生した携帯電話サービスの通信障害について、3日午前に記者会見へ臨んだ。本誌別記事で、これまで判明した障害の内容についてお伝えしており、本稿では、その説明のあとに実施された、主な質疑応答の内容をまとめた。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1422022.html",
+          "publishedOn": "2022-07-03T09:39:09.000Z",
+          "wordCount": 4355,
+          "title": "「au通信障害」KDDI髙橋社長の会見質疑詳報、なにが起きたのか、「ドコモの教訓」は？",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1422/022/k08.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1422018.html",
+          "author": null,
+          "description": "KDDIの髙橋誠代表取締役社長は、2日に発生した携帯電話サービスの通信障害について、3日午前に記者会見に臨んだ。そのなかで、ユーザーの手元にあるスマートフォンについて、iPhoneとAndroidで挙動の違いがあったことを明らかにした。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1422018.html",
+          "publishedOn": "2022-07-03T05:46:14.000Z",
+          "wordCount": 4263,
+          "title": "auの通信障害、KDDI髙橋社長「iPhoneは通信できることもあった」",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1422/018/k07.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1422017.html",
+          "author": null,
+          "description": "KDDIの髙橋誠代表取締役社長は、2日に発生した携帯電話サービスの通信障害について、3日午前に記者会見に臨み、ユーザーへの補償について「検討していく」と述べた。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1422017.html",
+          "publishedOn": "2022-07-03T05:16:26.000Z",
+          "wordCount": 4261,
+          "title": "KDDI髙橋社長、au通信障害の補償は「検討していく」",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1422/017/k01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1422016.html",
+          "author": null,
+          "description": "金子恭之総務大臣は3日、臨時記者会見を開き、2日1時35分に発生したKDDIの通信障害について「大変遺憾」とコメントした。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1422016.html",
+          "publishedOn": "2022-07-03T04:14:44.000Z",
+          "wordCount": 4265,
+          "title": "auの通信障害、金子総務大臣「大変遺憾」",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1422/016/01.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1422015.html",
+          "author": null,
+          "description": "KDDIは、2日から発生している通信障害について、3日午前、記者説明会を開催し、冒頭、髙橋誠代表取締役社長が謝罪した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1422015.html",
+          "publishedOn": "2022-07-03T04:06:45.000Z",
+          "wordCount": 4276,
+          "title": "KDDI髙橋社長が「au通信障害」謝罪、現時点で判明している経緯とは",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1422/015/DSC00191.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1422013.html",
+          "author": null,
+          "description": "KDDIは、2日1時35分に発生した通信障害について、西日本エリアに関しては、11時ごろに復旧作業が終了したと発表した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1422013.html",
+          "publishedOn": "2022-07-03T03:45:11.000Z",
+          "wordCount": 4262,
+          "title": "au通信障害、西日本は11時に復旧作業終了、東日本は17時30分に終了予定",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1422/013/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1422007.html",
+          "author": null,
+          "description": "KDDIは、2日1時35分から発生中の携帯電話サービスにおける通信障害について、3日11時から記者説明会を開催する。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1422007.html",
+          "publishedOn": "2022-07-02T23:10:12.000Z",
+          "wordCount": 4261,
+          "title": "KDDI、3日11時から「au通信障害」で記者説明会",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1422/007/kddi.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1422006.html",
+          "author": null,
+          "description": "KDDIは、2日1時25分に発生した通信障害について、東日本、西日本ともに70％程度、回復してきたと発表した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1422006.html",
+          "publishedOn": "2022-07-02T22:46:44.000Z",
+          "wordCount": 4270,
+          "title": "au通信障害は70％程度回復",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1422/006/kddi.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1422005.html",
+          "author": null,
+          "description": "KDDIの携帯電話サービスで、2日1時35分から発生していた通信障害が、発生から24時間を経過した。同社では「データ通信を中心に、徐々に回復してきている」と発表。西日本では7時15分、東日本では9時30分を目標に、復旧に向けた活動に取り組んでいるという。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1422005.html",
+          "publishedOn": "2022-07-02T16:36:37.000Z",
+          "wordCount": 4265,
+          "title": "au通信障害が回復傾向へ、朝には復旧目指す",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1422/005/au0703.jpg"
+        },
         {
           "id": "https://k-tai.watch.impress.co.jp/docs/news/1421988.html",
           "author": null,
@@ -2304,36 +2414,6 @@
           "wordCount": 4277,
           "title": "ドコモの「AQUOS R7」価格決まる",
           "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1420/192/01.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/column/minna/1419970.html",
-          "author": null,
-          "description": "折りたたみスマートフォンのGalaxy Z Fold3 5Gを手にしてから、半年以上が過ぎた。厳密にいえば、手元に届いてから8カ月以上経過しているのだが、保護ケースが届くまで、怖くて持ち出せなかったという事情がある。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/1419970.html",
-          "publishedOn": "2022-06-26T15:00:00.000Z",
-          "wordCount": 4346,
-          "title": "[みんなのケータイ]Galaxy Z Fold3 5Gを半年以上使ってわかってきたこと",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1419/970/MW_gf_08_03.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/column/stapa/1419950.html",
-          "author": null,
-          "description": "趣味＆仕事でe-bikeに乗る俺だが、わりと多くのシチュエーションでバックパックを背負う。自分のe-bikeにはキャリアがあってそこに荷物を積める。だが仕事でメーカーから借りたe-bikeにはキャリアなしのものが多いので、その場合はバックパックに荷物を入れるのであった。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/1419950.html",
-          "publishedOn": "2022-06-26T15:00:00.000Z",
-          "wordCount": 4388,
-          "title": "[スタパ齋藤の「スタパトロニクスMobile」]梅雨から夏へ、アウトドア向けスマートフォンケースあれこれ",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1419/950/stptncs2022-06-27thumbnail.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1419940.html",
-          "author": null,
-          "description": "筆者は普段愛用しているカラーモデルのBOOX Nova Air Cや富士通のQuadernoなどの筆記ペンにワコムと三菱鉛筆のコラボレーション商品であるデジタル鉛筆「Hi-uni DIGITAL for Wacom」を発売以来ずっと気に入って使っている。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1419940.html",
-          "publishedOn": "2022-06-26T15:00:00.000Z",
-          "wordCount": 4307,
-          "title": "[本日の一品]GIGAスクール向けの三菱鉛筆uniタッチペンをTickTock用に買ってみた",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1419/940/1.jpg"
         }
       ]
     },
@@ -2342,6 +2422,201 @@
       "feedUrl": "https://www.gizmodo.jp/index.xml",
       "siteUrl": "https://www.gizmodo.jp",
       "articles": [
+        {
+          "id": "https://www.gizmodo.jp/2022/07/astronomy-moons-solar-system-titan-io-europa-1849041741.html",
+          "author": "たもり",
+          "description": "これまでに観測されてきたものや今後のミッションで探査対象となっている天体など、太陽系の衛星の中でも個性豊かな面々を取り上げてみました。",
+          "link": "https://www.gizmodo.jp/2022/07/astronomy-moons-solar-system-titan-io-europa-1849041741.html",
+          "publishedOn": "2022-07-03T12:00:00.000Z",
+          "wordCount": 366,
+          "title": "タイタン、イオ、エウロパ...太陽系のかっこいい衛星9選",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/07/01/220701moon.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/07/01/220701moon.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/07/optical-mic-camera-record-multiple-instruments-separate.html",
+          "author": "Rina Fukazu",
+          "description": "ギターの弦を鳴らすと、空気中を振動する音波が発生してギター本体も振動します。こうした音の振動にレーザーを当てることで、光の斑点の動きとして可視化。これを解析することで、音を正確に再現することに成功したようです。",
+          "link": "https://www.gizmodo.jp/2022/07/optical-mic-camera-record-multiple-instruments-separate.html",
+          "publishedOn": "2022-07-03T11:00:00.000Z",
+          "wordCount": 323,
+          "title": "音の「振動」にレーザーを当て、音を分けて抽出できるシステム。故障している車のパーツが音で聞き分けられるかも",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/07/02/220701opticalmiccamera.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/07/02/220701opticalmiccamera.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/07/primeday2022-otoku-matome.html",
+          "author": "小暮ひさのり",
+          "description": "まもなくAmazonプライムデー。事前準備をしっかりしておくことで、Amazonプライムデーはさらにおトクになるって、知ってました？ ここでは、それらの賢いお買い物Tipsを紹介していくので参考にしてください。",
+          "link": "https://www.gizmodo.jp/2022/07/primeday2022-otoku-matome.html",
+          "publishedOn": "2022-07-03T09:00:00.000Z",
+          "wordCount": 340,
+          "title": "プライムデーのおトク度をUPする方法、ぜんぶまとめて教えます【もうすぐAmazonプライムデー】",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/07/01/2022-07-01amak00.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/07/01/2022-07-01amak00.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/07/256031-machi-ya-naynto-review.html",
+          "author": "にしやまあやか",
+          "description": "猫のようなモフモフのスマホリング「猫-ring NYANTO（ニャント）」が登場。特許取得の仕組みを使用した新しいスマホリングで、手や首の負担を軽減して、姿勢改善もサポートします。吸着素材なので何度でも取り外し可能。",
+          "link": "https://www.gizmodo.jp/2022/07/256031-machi-ya-naynto-review.html",
+          "publishedOn": "2022-07-03T08:45:00.000Z",
+          "wordCount": 348,
+          "title": "モフモフで癒されるスマホリング｢猫-ring NYANTO｣を使ってみた",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/29/NYANTO00.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/29/NYANTO00.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/07/specter1-carbon-ebike.html",
+          "author": "岡本玄介",
+          "description": "ベルギーにて、フル・カーボンファイバー製で重さ19.8kgの電動アシスト自転車「SPECTER 1」が作られました。空気抵抗を考慮したデザインなので、パっと見た印象はまるでステルス戦闘機「F-117」。700Wのモーターで最高時速が45kmと、電アシなのに爆速です。",
+          "link": "https://www.gizmodo.jp/2022/07/specter1-carbon-ebike.html",
+          "publishedOn": "2022-07-03T08:00:00.000Z",
+          "wordCount": 326,
+          "title": "ステルス機みたいなカーボン製フレームの未来的なeバイク「SPECTER 1」。最高時速は45km！",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/07/01/220704_specter0.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/07/01/220704_specter0.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/07/machi-ya-minidock-end.html",
+          "author": "kotoha ozawa",
+          "description": "「miniDock」はわずか13gの中にHDMI、PD100W対応のUSB Type-C、USB Type-A端子の必要最低限を備えた極小USB Type-Cハブ。映像は4K60Hzまで対応しNintendo SwitchやノートPC、タブレットと一緒に持ち出すのにも最適なアイテムです。今回は実際に使ってみたレポートをお届けします。",
+          "link": "https://www.gizmodo.jp/2022/07/machi-ya-minidock-end.html",
+          "publishedOn": "2022-07-03T06:45:00.000Z",
+          "wordCount": 344,
+          "title": "わずか13g！ 超軽量コンパクトなUSB Type-Cハブ「miniDOCK」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/28/minidock_10.png"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/28/minidock_10.png"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/07/surface-laptop-go-2-review-1.html",
+          "author": "三浦一紀",
+          "description": "最近は自宅だけでなく、出先で仕事をすることも増えてきました。そうなると欲しくなるのがモバイルノートPC。コンパクトで高性能でかっこよくてお手頃価格で…。希望を並べたらキリがないんですけど、最近「これは！」と思う製品があります。Microsoft（マイクロソフト）の「Surface Laptop Go 2」です。",
+          "link": "https://www.gizmodo.jp/2022/07/surface-laptop-go-2-review-1.html",
+          "publishedOn": "2022-07-03T05:00:00.000Z",
+          "wordCount": 406,
+          "title": "いま一番欲しいモバイルノートPC「Surface Laptop Go 2」。発熱以外はすべて満足",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/28/2206128SurfaceLaptopGo2-01.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/28/2206128SurfaceLaptopGo2-01.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/07/best-wireless-outdoor-home-security-camera.html",
+          "author": "R.Mitsubori",
+          "description": "犯罪やいたずら防止はもちろん、留守中の訪問者をチェックたり、外出中に帰宅する子どもの様子を確認したり…とスマート防犯カメラはさまざまな心配事を解消してくれます。低価格のサブスク登録でさらに多様なサービスを提供してくれることも多いので、一家に一台あれば安心便利！ということで今回は、Wirecutterが厳選したカメラのおすすめランキングをご紹介します。",
+          "link": "https://www.gizmodo.jp/2022/07/best-wireless-outdoor-home-security-camera.html",
+          "publishedOn": "2022-07-03T03:30:00.000Z",
+          "wordCount": 489,
+          "title": "防犯カメラに最適なWebカメラおすすめ3選。屋外でも室内でも使えるモデルを厳選",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/26/1.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/26/1.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/07/amazon-rhythm-handy-fan.html",
+          "author": "田中宏和",
+          "description": "吊り下げタイプにも卓上タイプにもなるRHYTHM（リズム）の「Silky Wind Mobile 3」は、一般的な1枚羽根より強い風を起こすことができる2重反転ファンを搭載したパワフルなハンディファン。とりあえず選んでおけば間違いないアイテムです。",
+          "link": "https://www.gizmodo.jp/2022/07/amazon-rhythm-handy-fan.html",
+          "publishedOn": "2022-07-03T02:45:00.000Z",
+          "wordCount": 322,
+          "title": "カラビナ付きだから持ち運びに便利、しかもパワフルなハンディファン",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/29/220628_handy-fan_top.jpeg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/29/220628_handy-fan_top.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/07/thanko-cold-brew.html",
+          "author": "巽英俊",
+          "description": "こう暑くなってくるとアイスコーヒーがおいしいですね。特に水出しコーヒーのすっきりして雑味のない味わいは最高です。ただ水出しはとにかく時間がかかります。抽出には半日くらいかかるので、寝る前にセッティングしたりするんですが、すぐに飲みたいときはそんなに待っちゃいられません。",
+          "link": "https://www.gizmodo.jp/2022/07/thanko-cold-brew.html",
+          "publishedOn": "2022-07-03T02:00:00.000Z",
+          "wordCount": 307,
+          "title": "ひと晩待つ必要なし！クリアテイストの水出しコーヒーがたった15分で抽出できるボトル",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/30/5_000000003998.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/30/5_000000003998.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/07/255990-machi-ya-titano_cookware-review.html",
+          "author": "山科拓郎",
+          "description": "チタン専門の日用品ブランド・TITANO（チタノ）がmachi-yaに再登場！ チタン製まな板「Slice（スライス）」＆チタン製ボウル「Airaw（エアロー）」で、冷製パスタを作ってみました。",
+          "link": "https://www.gizmodo.jp/2022/07/255990-machi-ya-titano_cookware-review.html",
+          "publishedOn": "2022-07-03T00:45:00.000Z",
+          "wordCount": 328,
+          "title": "スタイリッシュなチタン製まな板とボウル を使ってみた",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/29/Slice%26Airaw00.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/29/Slice%26Airaw00.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/07/ewview-basebread-prime-day2022.html",
+          "author": "編集部",
+          "description": "2022年7月12日（火）、13日（水）にAmazonの特大セール｢プライムデー｣が開催されます。すでに予告されている｢プライムデータイムセール対象商品リスト｣の中から、完全栄養食 BASE BREADの魅力をきょうだいメディア｢MYLOHAS｣で行なった実験企画でおさらい。",
+          "link": "https://www.gizmodo.jp/2022/07/ewview-basebread-prime-day2022.html",
+          "publishedOn": "2022-07-03T00:00:00.000Z",
+          "wordCount": 334,
+          "title": "完全栄養パンを30日間食べ続けてみたら、なぜか体重が2kg減りました【プライムデー対象商品 事前リサーチ】",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/07/02/%E3%83%98%E3%82%99%E3%83%BC%E3%82%B9%E3%83%95%E3%82%99%E3%83%AC%E3%83%83%E3%83%88%E3%82%996.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/07/02/%E3%83%98%E3%82%99%E3%83%BC%E3%82%B9%E3%83%95%E3%82%99%E3%83%AC%E3%83%83%E3%83%88%E3%82%996.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/07/machi-ya-usuhamini-end.html",
+          "author": "kotoha ozawa",
+          "description": "「usuha-mini smooth ver.」は、二つ折り財布の限界サイズ「8cm×8.8cm」と定義し設計美を追求したコンパクトな二つ折り財布。ビジネスシーンでも使える上質なレザーを使用し、その小さなボディからは想像できない大容量で、カード7枚・お札15枚・小銭25枚が入ります。",
+          "link": "https://www.gizmodo.jp/2022/07/machi-ya-usuhamini-end.html",
+          "publishedOn": "2022-07-02T12:45:00.000Z",
+          "wordCount": 332,
+          "title": "小さくても使いやすいを考え抜いたレザーウォレット「usuha-mini」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/28/2c041476-cbf0-45a3-92fc-d867c60a6b0f-1.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/28/2c041476-cbf0-45a3-92fc-d867c60a6b0f-1.jpg"
+        },
         {
           "id": "https://www.gizmodo.jp/2022/07/solar-orbiter-2.html",
           "author": "山田ちとら",
@@ -4321,141 +4596,6 @@
             "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/25/220625mpckey61.jpg"
           },
           "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/25/220625mpckey61.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/06/belkin-soundform-immerse.html",
-          "author": "大野恭希",
-          "description": "Belkinが発売しているSOUNDFORM Immerseノイズキャンセリングイヤフォン最大の特徴は、アップルの「探す」ネットワークに対応すること。",
-          "link": "https://www.gizmodo.jp/2022/06/belkin-soundform-immerse.html",
-          "publishedOn": "2022-06-26T23:00:00.000Z",
-          "wordCount": 331,
-          "title": "待ってた人多そう！「探す」で見つけられるBelkinのノイキャンSOUNDFORM Immerse",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/25/20220625_belkin.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/25/20220625_belkin.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/06/chesed-worlds-vrchat.html",
-          "author": "武者良太",
-          "description": "1つはVRChatユーザーなら誰でも入れるクロスプラットフォームワールド。もう1つはPC環境でなければ入れないPCワールドです。前者はQuest 2単体でもログインできますが、後者は（VR環境なら）高価なゲーミングPCが必要です。\n\nQuest 2でVRChatにログインするユーザーが急増しているものの、VRChatワールド紹介サイト「VRChatの世界（β）」上で確認するかぎり10万を超えるワー",
-          "link": "https://www.gizmodo.jp/2022/06/chesed-worlds-vrchat.html",
-          "publishedOn": "2022-06-26T13:00:00.000Z",
-          "wordCount": 341,
-          "title": "7日で天地創造。 #VRChat のワールドを週1で作り続ける神様",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/24/%E3%82%B1%E3%82%BB%E3%83%89.JPG"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/24/%E3%82%B1%E3%82%BB%E3%83%89.JPG"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/06/two-sword-style-of-windows-and-macos.html",
-          "author": "禿頭帽子屋/Word Connection JAPAN",
-          "description": "WindowsかmacOSか、どちらかを選んで使わなければいけない―もちろん、そんなことはありません。両方のOSを使いこなすコンピューター生活を送っている人もいます。長年どちらかのプラットフォームを使ってきて、そろそろもう一方にも手を出してみたい、そういうときには、少しばかりヘルプが必要かもしれません。そこで今回は、WindowsとmacOS、両方を使うためのガイドをお届けすることにしました。",
-          "link": "https://www.gizmodo.jp/2022/06/two-sword-style-of-windows-and-macos.html",
-          "publishedOn": "2022-06-26T12:00:00.000Z",
-          "wordCount": 332,
-          "title": "WindowsとmacOSを二刀流で使う15のヒントをご紹介",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/22/ezgif-5-7398a32e4b.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/22/ezgif-5-7398a32e4b.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/06/255822.html",
-          "author": "Kenji P. Miyajima",
-          "description": "ニューメキシコ州史上最大の山火事は、まだ終わりが見えません。4月に発生したHermits Peak/Calf Canyon Fireの延焼面積は、1,382平方キロ以上に及んでいます。この火災によって、数百棟の家屋と重要な文化財や施設が焼失し、数千人が避難を余儀なくされました。現在も避難勧告が出されている状況です。",
-          "link": "https://www.gizmodo.jp/2022/06/255822.html",
-          "publishedOn": "2022-06-26T09:00:00.000Z",
-          "wordCount": 338,
-          "title": "気候変動さえなければこんなことには…。ニューメキシコ州最大の山火事の原因が判明",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/24/shutterstock_163349603.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/24/shutterstock_163349603.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/06/giant-bacteria.html",
-          "author": "岩田リョウコ",
-          "description": "カリブ海のグアドループという島で水中に生息する規格外のバクテリアが科学者チームによって発見されました。「チオマルガリータ・マグニピカ」と名付けられた新発見のバクテリアは、あまりにもデカすぎて肉眼で見えてしまうバクテリアらしからぬバクテリア！",
-          "link": "https://www.gizmodo.jp/2022/06/giant-bacteria.html",
-          "publishedOn": "2022-06-26T08:00:00.000Z",
-          "wordCount": 315,
-          "title": "人間ならエベレストくらいの身長の巨大バクテリアが発見される",
-          "enclosure": {
-            "length": "0",
-            "type": "image/gif",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/25/8c557c7e2e744191680f0289ba5b2418.gif"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/25/8c557c7e2e744191680f0289ba5b2418.gif"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/06/mocci.html",
-          "author": "岡本玄介",
-          "description": "ミュンヘン生まれで、ドイツデザイン賞「特別賞」も受賞した電動アシスト自転車「mocci Magic Ride」。ペダルはありますが、その先にはチェーンやベルトのような機械的に動力を伝達する仕組みがなく、ペダル発電でハブモーターを回して走るのが特徴です。",
-          "link": "https://www.gizmodo.jp/2022/06/mocci.html",
-          "publishedOn": "2022-06-26T06:00:00.000Z",
-          "wordCount": 328,
-          "title": "ペダルで発電する自転車「mocci」が未来のお仕事ビークルになるかも",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/25/220627_mocci1.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/25/220627_mocci1.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/06/graphene-moft.html",
-          "author": "岡本玄介",
-          "description": "ノートPCの折りたたみスタンドでお馴染み「MOFT」から、PCの底面に通気孔が空いたグラフェン製シートを貼って放熱を促す「MOFT Cooling Stand」が登場。シンプルさが魅力です。",
-          "link": "https://www.gizmodo.jp/2022/06/graphene-moft.html",
-          "publishedOn": "2022-06-26T03:00:00.000Z",
-          "wordCount": 310,
-          "title": "底面にグラフェンのシートを貼って放熱を促すMOFTの折りたたみスタンド",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/24/220627_moft.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/24/220627_moft.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/06/255715-machi-ya-kensuimachine-end.html",
-          "author": "山田洋路",
-          "description": "もうジムに行かなくても大丈夫！ 自宅でちょっとしたスペースでサッと組み立ててトレーニングができる折り畳み式懸垂マシンの登場しました。必要な面積は140cm×100cmで高さは210cm。狭い空間でも運動が出来るサイズです。",
-          "link": "https://www.gizmodo.jp/2022/06/255715-machi-ya-kensuimachine-end.html",
-          "publishedOn": "2022-06-26T01:45:00.000Z",
-          "wordCount": 318,
-          "title": "折り畳めるホームジム「コンパクト懸垂マシン」がまもなく終了！",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/21/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E6%87%B8%E5%9E%82%E3%83%9E%E3%82%B7%E3%83%B300.png"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/21/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E6%87%B8%E5%9E%82%E3%83%9E%E3%82%B7%E3%83%B300.png"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/06/255602-machi-ya-aspara-end.html",
-          "author": "飯田あゆみ",
-          "description": "「アスパラガーデンLITE」はどこでも簡単に、種から野菜やハーブ、花を育てることができる室内用水耕栽培キットです。独自のLEDライトで植物の種類ごとに、最適な水・栄養・光の調整を全自動で行います。気軽に自宅で家庭菜園を楽しめます。",
-          "link": "https://www.gizmodo.jp/2022/06/255602-machi-ya-aspara-end.html",
-          "publishedOn": "2022-06-26T00:45:00.000Z",
-          "wordCount": 320,
-          "title": "フルオートで失敗知らずの水耕栽培キット「アスパラガーデンLITE」がまもなく終了！",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/18/%E3%82%A2%E3%82%B9%E3%83%91%E3%83%A9%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3LITE00.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/06/18/%E3%82%A2%E3%82%B9%E3%83%91%E3%83%A9%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3LITE00.jpg"
         }
       ]
     }
