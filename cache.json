@@ -6,6 +6,56 @@
       "siteUrl": "https://gori.me",
       "articles": [
         {
+          "id": "https://gori.me/?p=144038",
+          "author": "g.O.R.i",
+          "description": "Appleは10月5日より、App Storeで販売する有料アプリおよびアプリ内課金の価格改定を実施すると発表した。120円だったアプリは160円、250円だったアプリは320円、370円だったアプリは480円になり、約3割の値上げになる。 対象となるアプリはiPhone用だけではなく、iPadやM…\nThe post App Store、10月5日に値上げへ。120円→160円など3割増 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apps/iphone-app-news/144038",
+          "publishedOn": "2022-09-20T02:06:52.000Z",
+          "wordCount": 977,
+          "title": "App Store、10月5日に値上げへ。120円→160円など3割増",
+          "imageUrl": "https://gori.me/uploads/2022/09/App-Store-on-iOS16-iPhone14Pro-01-800x534.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=144026",
+          "author": "g.O.R.i",
+          "description": "iPhoneやiPadのメモアプリは、手書きした図形を書き終えたあとにホールドし続けることで、整った形になる機能が実装されている。同様の機能をスクリーンショットでも利用できる。みんな知っていただろうか。 以下に動作中の様子を撮影した画面収録を載せておく。 確認できる範囲ではiOS 14.7.1が動作…\nThe post iPhoneのスクショに手書きした図形を綺麗に整える方法、知ってる？ first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ios/ios-tips/144026",
+          "publishedOn": "2022-09-19T22:56:30.000Z",
+          "wordCount": 968,
+          "title": "iPhoneのスクショに手書きした図形を綺麗に整える方法、知ってる？",
+          "imageUrl": "https://gori.me/uploads/2022/09/iphone-screenshot-shapes.gif"
+        },
+        {
+          "id": "https://gori.me/?p=144036",
+          "author": "g.O.R.i",
+          "description": "iOS 16にアップデート後、アプリにコピー・アンド・ペーストをする際に「ペーストしようとしています。よろしいですか？許可しますか？」の確認画面が表示される機会が増えた。アプリによっては毎回表示され鬱陶しさを感じている人もいるだろう。 AppleのシニアマネージャーRon Huang氏はMacRum…\nThe post iOS 16で頻出するコピペの確認画面はバグ。近日中に修正へ first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ios/ios16/144036",
+          "publishedOn": "2022-09-19T21:37:31.000Z",
+          "wordCount": 998,
+          "title": "iOS 16で頻出するコピペの確認画面はバグ。近日中に修正へ",
+          "imageUrl": "https://gori.me/uploads/2022/09/copy-and-paste-prompt-ios16-800x500.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=144034",
+          "author": "g.O.R.i",
+          "description": "iPhone 14 ProとiPhone 14 Pro Max一部モデルで報告されている、サードパーティアプリを使ってメイン（広角）カメラで撮影すると振動で激しく揺れたような映像になってしま不具合は、来週中に修正される。Appleが、MacRumorsを通じて明らかにした。 So uh, we’re…\nThe post iPhone 14 Proのカメラがガタガタ揺れる不具合、来週に修正へ first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone/iphone14pro/144034",
+          "publishedOn": "2022-09-19T21:30:49.000Z",
+          "wordCount": 1086,
+          "title": "iPhone 14 Proのカメラがガタガタ揺れる不具合、来週に修正へ",
+          "imageUrl": "https://gori.me/uploads/2022/09/AppleEvent-Sep2022-FarOut5288-800x446.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=144033",
+          "author": "g.O.R.i",
+          "description": "Logitechよりキャプチャ 米Logitech（日本ではLogicool）がCrayon Digital Pencilの公式ページを更新し、誤って新型iPad Proの存在を明らかにしてしまった。対応デバイスの一覧に11インチiPad Pro（第4世代）、12.9インチiPad Pro（第6世代…\nThe post Logitech「近日中に新型iPad Pro出るよ……ｱｯ」 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ipad/ipad-news/144033",
+          "publishedOn": "2022-09-19T21:30:22.000Z",
+          "wordCount": 999,
+          "title": "Logitech「近日中に新型iPad Pro出るよ……ｱｯ」",
+          "imageUrl": "https://gori.me/uploads/2022/09/logitech-ipad-pro-800x521.jpeg"
+        },
+        {
           "id": "https://gori.me/?p=144028",
           "author": "g.O.R.i",
           "description": "iPhone 14 ProとiPhone 14 Pro Maxの一部モデルで、サードパーティアプリを使ってメイン（広角）カメラで撮影すると振動で激しく揺れたような映像になってしまう不具合が報告されている。MacRumorsによると、Instagram、TikTok、Snapchatなどのアプリが影響…\nThe post iPhone 14 Proのカメラ、InstagramやTikTokでガタガタ揺れる不具合 first appeared on ゴリミー.\n\n 【もっと読む】",
@@ -304,76 +354,6 @@
           "wordCount": 1097,
           "title": "iPhone 14/Proの先行レビューまとめ",
           "imageUrl": "https://gori.me/uploads/2022/09/AppleEvent-Sep2022-FarOut5095-800x446.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=143919",
-          "author": "g.O.R.i",
-          "description": "Yahoo! JAPANが提供する11種類のiOSアプリが、iOS 16の新機能であるロック画面のカスタマイズに対応する。9月13日時点では、「Yahoo! JAPAN」、「Yahoo!天気」、「Yahoo!ニュース」、「Yahoo!ショッピング」、「Yahoo!リアルタイム検索」の5種類のアプリが…\nThe post Yahoo! JAPANの各アプリ、iOS 16のロック画面用ウィジェットに対応へ first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/apps/iphone-app-news/143919",
-          "publishedOn": "2022-09-13T21:50:56.000Z",
-          "wordCount": 998,
-          "title": "Yahoo! JAPANの各アプリ、iOS 16のロック画面用ウィジェットに対応へ",
-          "imageUrl": "https://gori.me/uploads/2022/09/iOS16-lockscreen-widget-yahoo-01-800x420.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=143909",
-          "author": "g.O.R.i",
-          "description": "Googleの各アプリが、iOS 16の新機能であるロック画面のカスタマイズに対応する。Google検索、Google Chrome、Googleドライブ、Googleマップ、Gmail、Googleニュースの各アプリは今後数週間以内にアップデートされ、ロック画面用のウィジェットが実装されるという。…\nThe post Google、iOS 16のロック画面ウィジェットに対応へ first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/google/google-news/143909",
-          "publishedOn": "2022-09-13T21:50:33.000Z",
-          "wordCount": 982,
-          "title": "Google、iOS 16のロック画面ウィジェットに対応へ",
-          "imageUrl": "https://gori.me/uploads/2022/09/google-ios16-lockscreen-widgets-coming-800x451.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=143901",
-          "author": "g.O.R.i",
-          "description": "Amazonは9月13日、新型「Kindle」および「Kindleキッズモデル」を発表した。価格は、Kindleが税込10,980円、Kindleキッズモデルが税込12,980円。現在予約受付中。10月12日より出荷開始を予定している。 新型Kindleの新機能や特徴 新型Kindleは、サイズが1…\nThe post Amazon、新型「Kindle」と「Kindleキッズモデル」を発表。より軽く、コンパクトに first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/amazon/amazon-devices/143901",
-          "publishedOn": "2022-09-13T21:30:33.000Z",
-          "wordCount": 979,
-          "title": "Amazon、新型「Kindle」と「Kindleキッズモデル」を発表。より軽く、コンパクトに",
-          "imageUrl": "https://gori.me/uploads/2022/09/New-Kindle-and-KindleKidsModel-from-Amazon-800x500.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=143903",
-          "author": "g.O.R.i",
-          "description": "Appleは現地時間9月12日、Apple Watchの低電力モードに関する公式サポートページ「Use Low Power Mode on your Apple Watch」を公開した。低電力モードは、watchOS 9で実装された「省電力モード」に代わる新機能。Apple Watch Series…\nThe post Apple Watchの低電力モードを有効化する方法、利用できなくなる機能 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/watchos/watchos9/143903",
-          "publishedOn": "2022-09-13T21:30:23.000Z",
-          "wordCount": 1009,
-          "title": "Apple Watchの低電力モードを有効化する方法、利用できなくなる機能",
-          "imageUrl": "https://gori.me/uploads/2022/09/AppleEvent-Sep2022-FarOut1056-800x446.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=143907",
-          "author": "g.O.R.i",
-          "description": "Apple Watch Series 8、Apple Watch SE（第2世代）、Apple Watch Ultraに内蔵されているバッテリーの容量が明らかになった。MySmartPriceによると、各モデルが中国の強制製品認証制度（China Compulsory Certiﬁcation/CC…\nThe post Apple Watch Ultraのバッテリー容量、Series 8/45mmより75％多い first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/apple-watch/watchse/143907",
-          "publishedOn": "2022-09-13T21:30:05.000Z",
-          "wordCount": 1089,
-          "title": "Apple Watch Ultraのバッテリー容量、Series 8/45mmより75％多い",
-          "imageUrl": "https://gori.me/uploads/2022/09/AppleEvent-Sep2022-FarOut2416-800x446.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=143892",
-          "author": "g.O.R.i",
-          "description": "Twitterが9月13日、臨時株主総会を開催。4月にイーロン・マスク氏と合意した440億ドル（約6.3兆円）の買収取引を承認した。日本経済新聞によると、マスク氏による買収への賛否を問う議案は発行済み株式数の過半数の賛成票を獲得。経営陣は取引完了に向けて粛々と手続きを進める構えだという。 マスク氏は…\nThe post Twitter、イーロン・マスク氏による買収を承認 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/twitter/twitter-news/143892",
-          "publishedOn": "2022-09-13T18:34:16.000Z",
-          "wordCount": 944,
-          "title": "Twitter、イーロン・マスク氏による買収を承認",
-          "imageUrl": "https://gori.me/uploads/2022/04/Twitter-and-Elon-Musk-01-800x534.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=143891",
-          "author": "g.O.R.i",
-          "description": "Appleが、iOS 16のリリースに合わせてAirPodsシリーズのファームウェアアップデート内容が確認できるリリースノートを公開した。専用サポートページ「About firmware updates for AirPods」で確認できる。従来はAirPodsシリーズのファームウェア内容は非公開だ…\nThe post AirPodsシリーズのファームウェアアップデート内容が公開 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/music-accessories/airpods/143891",
-          "publishedOn": "2022-09-13T18:34:06.000Z",
-          "wordCount": 966,
-          "title": "AirPodsシリーズのファームウェアアップデート内容が公開",
-          "imageUrl": "https://gori.me/uploads/2022/09/sophia-stark-WMZi_gH85LQ-unsplash-800x534.jpg"
         }
       ]
     },
@@ -382,6 +362,106 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/mobile.xml",
       "siteUrl": "https://www.itmedia.co.jp/mobile/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2209/20/news171.html",
+          "author": null,
+          "description": "NTTドコモのモバイル社会研究所は、2022年2月に感染症対策の意識に関する調査を実施。感染症対策で「キャッシュレス決済の利用」をしているのは36.9％で、60～70代のシニア女性は約半数がキャッシュレス決済で買い物をしている。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2209/20/news171.html",
+          "publishedOn": "2022-09-20T10:24:00.000Z",
+          "wordCount": 3103,
+          "title": "感染症対策としての「キャッシュレス決済」、シニア女性の約半数が利用　ドコモ調べ",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2209/20/l_asa_dkansen_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2209/20/news185.html",
+          "author": null,
+          "description": "NTTドコモは9月20日15時33分から、スマートフォン向けメッセージサービス「＋メッセージ」が利用しづらくなっていることを明らかにした。影響範囲や原因について詳しく調べている。＋メッセージは電話番号だけで最大で全角2730文字を送受信できるサービスだ。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2209/20/news185.html",
+          "publishedOn": "2022-09-20T10:03:00.000Z",
+          "wordCount": 3111,
+          "title": "ドコモの「＋メッセージ」で送受信がしづらく　9月20日15時33分から",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2209/20/cover_news185.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2209/20/news160.html",
+          "author": null,
+          "description": "OCN モバイル ONE オンラインショップは、9月30日からスマートフォン「moto g32」と「OCN モバイル ONE」のセット販売を開始。価格は2万1505円（税込み、以下同）で、MNPは7205円で購入できる。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2209/20/news160.html",
+          "publishedOn": "2022-09-20T09:39:00.000Z",
+          "wordCount": 3164,
+          "title": "OCN モバイル ONE、「moto g32」を2万1505円で9月30日に発売",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2209/20/l_asa_OCNmotog32_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2209/20/news151.html",
+          "author": null,
+          "description": "総務省が実施する「マイナポイント事業」へのPayPay登録者が1000万人を突破。ポイント付与権利総額は1300億円分を超えている。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2209/20/news151.html",
+          "publishedOn": "2022-09-20T09:36:00.000Z",
+          "wordCount": 3110,
+          "title": "PayPayのマイナポイント登録者が1000万人を突破　付与権利総額は1300億円分に",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2209/20/l_asa_paypaymy1000_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2209/20/news174.html",
+          "author": null,
+          "description": "LINEがLINEアプリの「トーク履歴」の引き継ぎ機能をバージョンアップした。LINEアカウントで事前に「バックアップ用のPINコード」を設定しておけば、端末が故障したり紛失／盗難に遭遇したりした場合でも直近14日間にやりとりしたトーク履歴であれば復元できるようになる。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2209/20/news174.html",
+          "publishedOn": "2022-09-20T09:30:00.000Z",
+          "wordCount": 3158,
+          "title": "LINEアプリの「トーク履歴」引き継ぎ機能がバージョンアップ　端末の故障／紛失／盗難でも直近14日以内なら復元可能に",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2209/20/cover_news174.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2209/20/news118.html",
+          "author": null,
+          "description": "エレコムは、iPhone、AirPods、Apple Watchを3台同時充電できる3in1タイプのマグネット内蔵ワイヤレス充電器を発売。iPhoneはケース、Apple Watchはバンドに装着したまま充電可能だ。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2209/20/news118.html",
+          "publishedOn": "2022-09-20T06:45:00.000Z",
+          "wordCount": 3133,
+          "title": "エレコム、iOSデバイスを3台同時充電できるマグネット内蔵ワイヤレス充電器を発売",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2209/20/l_asa_eleWMS04_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2209/20/news100.html",
+          "author": null,
+          "description": "NTTドコモは、9月20日に「AQUOS R7 SH-52C」のソフトウェアアップデートを実施。カメラの夜景撮影や料理撮影、HDR撮影の品質を改善し、オートフォーカスの安定性やズーム時の解像感を向上させている。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2209/20/news100.html",
+          "publishedOn": "2022-09-20T06:02:00.000Z",
+          "wordCount": 3139,
+          "title": "ドコモが「AQUOS R7」をアップデート　カメラ機能の品質を改善",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2209/20/l_asa_dAQUOSR7SH52C_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2209/20/news128.html",
+          "author": null,
+          "description": "Appleは10月5日から、App Storeで販売する有料アプリと、アプリ内課金の価格を値上げする。既に改定後の価格表が公開されている。日本での最低価格は従来の120円から160円に引き上げられる。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2209/20/news128.html",
+          "publishedOn": "2022-09-20T06:00:00.000Z",
+          "wordCount": 3128,
+          "title": "App Storeの有料アプリが値上げ、10月5日以降は最低価格が120円から160円に改定",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2209/20/l_rk1640414_AppleTierUpdates-01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2209/20/news123.html",
+          "author": null,
+          "description": "総務省が、現在実施している「マイナポイント」の第2弾の対象となるマイナンバーカードの申請（取得の申し込み）期限を12月末まで延長することになった。マイナンバーカードの取得をさらに進めることが狙いであると思われる。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2209/20/news123.html",
+          "publishedOn": "2022-09-20T05:40:00.000Z",
+          "wordCount": 3109,
+          "title": "「マイナポイント第2弾」のカード申請期限が延長される　2022年12月末まで",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2209/20/cover_news123.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2209/20/news104.html",
+          "author": null,
+          "description": "ドコモのエコノミーMVNOに参画して以降、OCN モバイル ONEが順調に契約者数を拡大している。一方、同社をドコモ傘下の廉価ブランドと見ると、Y!mobileやUQ mobileには完全に対抗し切れていない。今後、NTTレゾナントはどのような戦略でOCN モバイル ONEを展開していくのか。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2209/20/news104.html",
+          "publishedOn": "2022-09-20T03:23:00.000Z",
+          "wordCount": 3182,
+          "title": "ドコモ傘下となった「OCN モバイル ONE」の戦略　「Y!mobileやUQ mobileに対抗できるブランドになりたい」",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2209/20/cover_news104.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/mobile/articles/2209/19/news043.html",
           "author": null,
@@ -861,126 +941,6 @@
           "wordCount": 3154,
           "title": "ベルキン、iPhone 14シリーズ向け保護フィルム3種を発売　1000円台から",
           "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2209/14/l_asa_BelkiniPhoneglass_01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2209/14/news064.html",
-          "author": null,
-          "description": "厚生労働省とデジタル庁が運用する「新型コロナウイルス接触確認アプリ（COCOA）」について、河野太郎デジタル大臣は9月13日の会見で、機能を停止する方針を明らかにした。具体的な時期は未定という。アンケートも実施する。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2209/14/news064.html",
-          "publishedOn": "2022-09-13T22:00:00.000Z",
-          "wordCount": 3112,
-          "title": "新型コロナウイルス接触確認アプリ「COCOA」停止へ　河野太郎デジタル大臣が発表",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2209/14/l_rk1640414_COCOA-01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2209/13/news206.html",
-          "author": null,
-          "description": "iOS 16では、Face IDを搭載しているiPhoneで、ステータスバーにバッテリー残量の％表示が可能になる。これまで、バッテリー残量を確認するにはコントールセンターを呼び出す必要があった。iOS 16では設定からバッテリーアイコン内に残量（％）表示が可能になる。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2209/13/news206.html",
-          "publishedOn": "2022-09-13T12:02:00.000Z",
-          "wordCount": 3147,
-          "title": "iOS 16ではバッテリー残量の％表示が復活　スワイプせずに確認できる",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2209/13/l_st52693_ios16battery-01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2209/13/news186.html",
-          "author": null,
-          "description": "Appleが9月13日（日本時間）に配信を始めたiPhone向けの新OS「iOS 16」。最大の特徴がロック画面だ。複数のロック画面を作成し、切り替えられる他、写真の被写体を時刻の手前に配置できるようになった。実際にチェックしてみた。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2209/13/news186.html",
-          "publishedOn": "2022-09-13T09:21:00.000Z",
-          "wordCount": 3172,
-          "title": "iOS 16の新「ロック画面」を試す　何がどう便利になった？",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2209/13/cover_news186.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2209/13/news185.html",
-          "author": null,
-          "description": "ヤフーの提供する「Yahoo! JAPAN」「Yahoo!天気」「Yahoo!ニュース」など11種類のアプリがiOS 16の「ロック画面ウィジェット機能」に対応。天気やニュース、クーポンなどの情報をロック画面から確認できる。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2209/13/news185.html",
-          "publishedOn": "2022-09-13T09:17:00.000Z",
-          "wordCount": 3147,
-          "title": "ヤフー、11種類のアプリがiOS 16の「ロック画面ウィジェット」に対応",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2209/13/l_asa_YahooiOS16_01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2209/13/news168.html",
-          "author": null,
-          "description": "NTTドコモの電力サービス「ドコモでんき」は、エコノミーMVNO契約ユーザーのdポイント還元率を最大10％に変更。第1弾は「OCN モバイル ONE」利用者が対象で、NTTドコモ回線契約者と同等の還元率になる。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2209/13/news168.html",
-          "publishedOn": "2022-09-13T09:05:00.000Z",
-          "wordCount": 3126,
-          "title": "OCN モバイル ONE、ドコモでんきのdポイント還元率が最大10％に",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2209/13/l_asa_ddenkihenkou_01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2209/13/news142.html",
-          "author": null,
-          "description": "グローバルライフスタイルブランドのCASETiFYは、iPhone 14シリーズ対応ケース3種を発売。衝撃を95％吸収する独自開発の新素材「EcoShock」を搭載したバウンスケースなどを提供する。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2209/13/news142.html",
-          "publishedOn": "2022-09-13T08:29:00.000Z",
-          "wordCount": 3150,
-          "title": "CASETiFY、衝撃を95％吸収するiPhone 14／14 Pro向けケースを発売",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2209/13/l_asa_CASETiFYiPhone14_01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2209/13/news128.html",
-          "author": null,
-          "description": "Amazonは、対象端末とY!mobileの対象プラン契約でAmazonポイントを最大2万円分還元するキャンペーンに「Nothing Phone(1)」を追加。Y!mobileの専用サイトでプラン申込時に入力すると、開通後に還元を受けられる。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2209/13/news128.html",
-          "publishedOn": "2022-09-13T07:02:00.000Z",
-          "wordCount": 3139,
-          "title": "Amazonで「Nothing Phone (1)」の購入＋Y!mobile契約で2万ポイント還元",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2209/13/l_asa_AmazonYNothingphone_01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2209/13/news108.html",
-          "author": null,
-          "description": "Amazonは、9月からLINEMOミニプランの申込特典を変更。MNPまたは新規契約で2000円相当のPayPayポイント還元を実施していたが、公式サイトで実施している半年間実質無料キャンペーンが適用となる。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2209/13/news108.html",
-          "publishedOn": "2022-09-13T05:36:00.000Z",
-          "wordCount": 3105,
-          "title": "Amazon、LINEMOミニプランにMNPで半年間実質0円のキャンペーン",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2209/13/l_asa_AmazonLINEMOmini_01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2209/13/news126.html",
-          "author": null,
-          "description": "9月13日に「iOS 16」の配信が始まった。ロック画面にウィジェットを設置したり、より細かなカスタマイズをしたりできることがトピック。Safari、メール、写真などでもアップデートがある。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2209/13/news126.html",
-          "publishedOn": "2022-09-13T03:55:00.000Z",
-          "wordCount": 3301,
-          "title": "iOS 16では何が変わる？　新機能や改善点のまとめ",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2209/13/cover_news126.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2209/13/news102.html",
-          "author": null,
-          "description": "9月13日、KDDIのオンライン専用プラン「povo2.0」が「eSIMクイック転送」に対応した。同日配信開始のiOS 16を搭載したiPhone（iPhone 8以降）のSIMカード／eSIMを、新しいiPhoneのeSIMへ転送できる。利用中のSIMカードをeSIMに変更することも可能だ。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2209/13/news102.html",
-          "publishedOn": "2022-09-13T01:35:00.000Z",
-          "wordCount": 3132,
-          "title": "povo2.0が「eSIMクイック転送」に対応　eKYC不要で再発行可能に",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2209/13/l_rk1640414_povoios16-01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2209/13/news100.html",
-          "author": null,
-          "description": "Pixel 7／7 Proの発売に先駆けて、Googleがオリジナルのポテト“チップス”をプレゼントするキャンペーンを開催する。今回はボディーカラーにちなんだ4フレーバーを用意しており、抽選で当選した2000人にどれか1フレーバーがプレゼントされる。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2209/13/news100.html",
-          "publishedOn": "2022-09-13T01:30:00.000Z",
-          "wordCount": 3176,
-          "title": "GoogleがPixel 7にちなんだ「オリジナル“チップス”」のプレゼントキャンペーンを開催　完全抽選制で4フレーバーを用意",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2209/13/cover_news100.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2209/13/news032.html",
-          "author": null,
-          "description": "スマホの画面は年々大型化が進行している。その一方で「iPhone 13 mini」やASUSの「Zenfone 9」のようなコンパクトな機種も少数ながら販売、発表されている。日本ではなぜ小さいスマホを求めるユーザーが多いのか。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2209/13/news032.html",
-          "publishedOn": "2022-09-13T01:00:00.000Z",
-          "wordCount": 3183,
-          "title": "iPhone 14で「mini」廃止　それでも日本で“小型スマホ”が支持される理由",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2209/13/cover_news032.jpg"
         }
       ]
     },
@@ -988,24 +948,183 @@
       "title": "＠IT Test & Toolsフォーラム 最新記事一覧",
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/ait_testtools.xml",
       "siteUrl": "https://atmarkit.itmedia.co.jp/ait/subtop/testtools/",
-      "articles": [
-        {
-          "id": "https://atmarkit.itmedia.co.jp/ait/articles/2209/13/news069.html",
-          "author": null,
-          "description": "GitHubは開発者がよく使用するセキュリティツールのうち、SCAツールとSASTツールを取り上げ、それぞれの機能を説明するとともに、GitHubが提供する独自のSCAツールとSASTツールを紹介した。",
-          "link": "https://atmarkit.itmedia.co.jp/ait/articles/2209/13/news069.html",
-          "publishedOn": "2022-09-13T04:00:00.000Z",
-          "wordCount": 4901,
-          "title": "GitHubが比較した2つのセキュリティテストツール、それぞれいつ誰が使う？",
-          "imageUrl": "https://image.itmedia.co.jp/ait/articles/2209/13/cover_news069.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "ケータイ Watch",
       "feedUrl": "https://k-tai.watch.impress.co.jp/data/rss/1.0/ktw/feed.rdf",
       "siteUrl": "https://k-tai.watch.impress.co.jp",
       "articles": [
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1441346.html",
+          "author": null,
+          "description": "LINEは、コミュニケーションアプリ「LINE」において、旧端末がなくとも直近14日間のトークを引き継げる機能の提供を開始した。バージョン「12.13.0」以上で利用できる。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1441346.html",
+          "publishedOn": "2022-09-20T11:23:41.000Z",
+          "wordCount": 4340,
+          "title": "LINE、旧端末が使えなくても直近のトークを引き継げる機能",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1441/346/sub.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1441349.html",
+          "author": null,
+          "description": "ソフトバンクのオンライン専用料金ブランド「LINEMO」の公式Twitterアカウントは、「iPhone 14」シリーズでアクティベーションに失敗するユーザーに対し、「iOS 16.0.1」にアップデートするよう呼びかけている。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1441349.html",
+          "publishedOn": "2022-09-20T10:08:20.000Z",
+          "wordCount": 4356,
+          "title": "「LINEMO」、iPhone 14でアクティベーションできない場合はOSのアップデートを",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1441/349/01.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1441333.html",
+          "author": null,
+          "description": "NTTドコモは、メッセージングサービス「＋メッセージ（プラスメッセージ）」について、9月20日15時33分ごろから利用しづらい事象が発生していることを明らかにした。原因や復旧見込みは確認中。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1441333.html",
+          "publishedOn": "2022-09-20T09:13:25.000Z",
+          "wordCount": 4335,
+          "title": "ドコモで「＋メッセージ」が利用しづらい状態に、20日15時33分ごろ～",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1441/333/100.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1441268.html",
+          "author": null,
+          "description": "アップルストアで、ソフトバンクユーザーが機種変更などの手続きを進められないといった事象が解消に向かっていることが明らかになった。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1441268.html",
+          "publishedOn": "2022-09-20T07:51:09.000Z",
+          "wordCount": 4340,
+          "title": "アップルストアでソフトバンクの手続きができない事象が復旧へ",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1441/268/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1440845.html",
+          "author": null,
+          "description": "NTTレゾナントは、「OCN モバイル オンラインショップ」でスマートフォンのセール販売を開始した。10月12日11時まで。OCN モバイル ONEの音声通話SIMとのセットである「スマホセット商品」で販売される。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1440845.html",
+          "publishedOn": "2022-09-20T05:30:00.000Z",
+          "wordCount": 4385,
+          "title": "「Reno7 A」が2.4万円、「Xperia 10 IV」が4.5万円――OCN モバイル ONEとセット特価",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1440/845/7a.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1441180.html",
+          "author": null,
+          "description": "総務省は、通信障害などの際に他社回線で携帯電話を利用できるようにする「事業者間ローミング」の実現に向けた検討会の第1回を9月28日に実施する。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1441180.html",
+          "publishedOn": "2022-09-20T04:51:49.000Z",
+          "wordCount": 4343,
+          "title": "総務省、「事業者間ローミング」実現に向け28日に第1回検討会",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1441/180/sub.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1441192.html",
+          "author": null,
+          "description": "日本コカ･コーラは、公式スマートフォンアプリ「Coke ON（コークオン）」について、9月15日にダウンロード数が4000万を突破したことを発表した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1441192.html",
+          "publishedOn": "2022-09-20T04:36:32.000Z",
+          "wordCount": 4373,
+          "title": "コカ･コーラ公式アプリ「Coke ON」が4000万ダウンロード達成、4つのキャンペーンも",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1441/192/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1441173.html",
+          "author": null,
+          "description": "CIOは、楽天市場で開催中の「お買い物マラソン」で、モバイルバッテリーや急速充電器を割引価格で販売している。最大66％割引で提供されるほか、クーポンも用意されている。提供期間は9月26日8時59分まで（「お買い物マラソン」は24日1時59分まで）。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1441173.html",
+          "publishedOn": "2022-09-20T04:05:11.000Z",
+          "wordCount": 4343,
+          "title": "楽天市場お買い物マラソン「CIO」の充電器やモバイルバッテリーなどがセール、複数購入で最大1000円割引も",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1441/173/top.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1441139.html",
+          "author": null,
+          "description": "米アップル（Apple）は、10月5日から、日本や欧州などにおいて、アプリストア「App Store」におけるアプリやアプリ内課金の価格を改定する。日本では、3割程度の値上げとなる。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1441139.html",
+          "publishedOn": "2022-09-20T03:28:26.000Z",
+          "wordCount": 4340,
+          "title": "iPhone向けアプリ、最低課金額を値上げへ",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1441/139/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1441138.html",
+          "author": null,
+          "description": "楽天モバイルと楽天エナジー、PHOTON CAPITALは、楽天モバイルの携帯電話基地局に再生可能エネルギー由来の電力（再エネ電力）を2023年から供給することについて合意したと発表した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1441138.html",
+          "publishedOn": "2022-09-20T03:25:28.000Z",
+          "wordCount": 4344,
+          "title": "楽天モバイル、基地局電源を「再生可能エネルギー由来」へ――再エネ電力供給についてPHOTON CAPITALなどと合意",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1441/138/rtn_mno.png.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1441115.html",
+          "author": null,
+          "description": "Amazon.co.jpにおいて、固定インターネット回線のビッグローブ光を申し込むと3万円分のAmazonポイント付与など、合計最大7万4550円分の還元が受けられるキャンペーンが実施されている。終了時期は未定。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1441115.html",
+          "publishedOn": "2022-09-20T03:07:09.000Z",
+          "wordCount": 4336,
+          "title": "「ビッグローブ光」契約で3万円分のポイント還元、Amazon.co.jp",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1441/115/sub2.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1441121.html",
+          "author": null,
+          "description": "総務省は、「マイナポイント」第2弾について、マイナンバーカードの申請期限を2022年12月末まで延長すると発表した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1441121.html",
+          "publishedOn": "2022-09-20T02:49:17.000Z",
+          "wordCount": 4339,
+          "title": "マイナポイント第2弾、マイナカード申請期限が12月末まで延長",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1441/121/maina.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1441117.html",
+          "author": null,
+          "description": "NTTドコモは、サムスン製のAndroidスマートフォン「Galaxy Z Fold4」「Galaxy Z Flip4」について、オンラインショップでの価格を発表した。価格は、「Galaxy Z Fold4」が24万9700円、「Galaxy Z Flip4」が15万9500円。9月29日に発売される。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1441117.html",
+          "publishedOn": "2022-09-20T02:46:41.000Z",
+          "wordCount": 4415,
+          "title": "ドコモ、「Galaxy Z Fold4」「Galaxy Z Flip4」の価格が決定",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1441/117/00.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/1440901.html",
+          "author": null,
+          "description": "今週のコミックランキングトップは『魔法使いの嫁 18巻』、力を合わせフィロメラを救えるか！　2位は黄金郷のマハトに遭遇『葬送のフリーレン（9）』！　3位には『黄泉のツガイ 2巻』、両親の行方を尋ねるユル……。 書籍の3位は「霊媒探偵城塚翡翠」新刊『invert II 覗き窓の死角』です。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/1440901.html",
+          "publishedOn": "2022-09-19T21:00:00.000Z",
+          "wordCount": 4371,
+          "title": "[電子書籍人気ランキング] 電子書籍人気ランキング（9月9日～9月15日）",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/include/common/p01/images/logo/ktw.l.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1440639.html",
+          "author": null,
+          "description": "主に視覚障害者向けに発売されている腕時計には、音声発話で現在時刻を教えてくれる製品と現在時刻を表示するための時針・分針が時計の外部に露出していてそれを指先で触れて時刻を知ることのできるモノの2種類が存在する。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1440639.html",
+          "publishedOn": "2022-09-19T21:00:00.000Z",
+          "wordCount": 4346,
+          "title": "[本日の一品]何年かぶりに数台目の「音声デジタルウォッチ」を買ってしまった",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1440/639/9.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/review/iphonetips/1440302.html",
+          "author": null,
+          "description": "iOS 16では音声認識による文字入力機能が強化されている。音声入力自体は以前からある機能だが、ユーザーインターフェイスなどが変更されている。具体的に言うと、iOS 15以前の旧バージョンでは、音声入力中はキーボード表示が消えていたが、iOS 16の新バージョンでは、音声入力中もキーボードが表示される。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/review/iphonetips/1440302.html",
+          "publishedOn": "2022-09-19T21:00:00.000Z",
+          "wordCount": 4353,
+          "title": "[iPhone駆け込み寺]「iOS 16」でiPhoneで音声入力がより便利に、より実用的になったことを知ってほしい",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1440/302/ios3-1.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/minna/1439567.html",
+          "author": null,
+          "description": "2022年9月2日から6日までドイツ・ベルリンで開催されたIFA2022を取材してきました。展示会場を使った開催は3年ぶりであり、スマートフォン関連でも気になる展示がいくつか見られました。その中でも注目はTecnoのとあるスマートフォン。Tecnoは中国Transsionが展開する複数のスマートフォンブランドのうちの1つで、アフリカなど新興国で人気のメーカーです。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/1439567.html",
+          "publishedOn": "2022-09-19T15:00:00.000Z",
+          "wordCount": 4366,
+          "title": "[みんなのケータイ]3年ぶりのIFA2022でTecnoの「光で本体色の変わるスマホ」を見てきた",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1439/567/04.jpg"
+        },
         {
           "id": "https://k-tai.watch.impress.co.jp/docs/news/1440889.html",
           "author": null,
@@ -1765,256 +1884,6 @@
           "wordCount": 4346,
           "title": "LINEMOが「秋のPayPayポイント還元祭」を開始、最大1万4000円相当",
           "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1439/813/autumn_paypay_mv_pc_.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/review/1439677.html",
-          "author": null,
-          "description": "グーグル（Google）が10月6日に発表するAndroidスマートフォン「Google Pixel 7／7 Pro」には、グーグル独自チップ「Tensor」の次世代版が搭載されるほか、カメラ性能の向上が期待されている。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/review/1439677.html",
-          "publishedOn": "2022-09-13T21:00:00.000Z",
-          "wordCount": 4388,
-          "title": "最新版「Google純正チップスセット」を実食――先代のDNAを引き継いだ4つのフレーバーをラインアップ",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1439/677/cont004.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1432599.html",
-          "author": null,
-          "description": "弊家の子どもたちが中学校に進学し、英語の学習が本格化してきました。英語の勉強に欠かせないものといえば辞書です。最初のうちは筆者が20年くらい前に購入した電子辞書を使っていたのですが、あまり学習向きではなかったので、最新の電子辞書を購入してみることにしました。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1432599.html",
-          "publishedOn": "2022-09-13T21:00:00.000Z",
-          "wordCount": 4349,
-          "title": "[本日の一品]最新の小・中学生向け電子辞書の充実した機能に驚く",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1432/599/ippin_ex00.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1439661.html",
-          "author": null,
-          "description": "楽天が出資するAST SpaceMobileが試験衛星「BlueWalker 3」を打ち上げたことを発表した。衛星打ち上げに関して楽天モバイルはTwitterで、「スペースモバイル実現に向けて着実に準備を進める」とコメントしている。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1439661.html",
-          "publishedOn": "2022-09-13T15:00:00.000Z",
-          "wordCount": 4353,
-          "title": "楽天出資のAST SpaceMobileが試験衛星「BlueWalker 3」を打ち上げ",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1439/661/ast.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/review/iphonetips/1439625.html",
-          "author": null,
-          "description": "日本時間9月8日にiPhone 14シリーズの4モデルが発表された。9月16日から順次発売される。発売直前で、まだ筆者も実機は触れていないが、実機レビューの前に、iPhone 14はどこが新しくなったのか、スタンダードモデルとProモデルはどう違うのか、といったポイントを、スペック表や発表会プレゼンテーションの情報を元に解説する。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/review/iphonetips/1439625.html",
-          "publishedOn": "2022-09-13T15:00:00.000Z",
-          "wordCount": 4547,
-          "title": "[iPhone駆け込み寺]「iPhone 14」シリーズ、発売前に基本情報を徹底解説――iPhone 13シリーズとの違いは？",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1439/625/screenshot_646.png"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/1439524.html",
-          "author": null,
-          "description": "2022年秋のApple Event。Apple Watch、AirPods Pro、そしてiPhoneの新製品が発表された。新型iPhoneは買うと思うが、AirPods Pro（従来機種）は2個あるし、Apple Watchもそーんなに多用していないし……低めのテンションでApple Eventを見始めた俺であった。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/1439524.html",
-          "publishedOn": "2022-09-13T15:00:00.000Z",
-          "wordCount": 4532,
-          "title": "[スタパ齋藤のApple野郎]「iPhone 14 Pro Max」や「Apple Watch Ultra」に大注目!!　Apple Event 2022年9月、それをどう見たか？",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1439/524/stpapl2022-09-14thumbnail.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/review/iphonetips/1439467.html",
-          "author": null,
-          "description": "アップルが提供を開始した「iOS 16」ではBluetoothで、eSIMを新しいiPhoneへ転送できるようになった。iPhone上で手続きが完結する、「eSIM クイック転送」機能がそれだ。一体どのように使うのだろうか。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/review/iphonetips/1439467.html",
-          "publishedOn": "2022-09-13T15:00:00.000Z",
-          "wordCount": 4355,
-          "title": "[iPhone駆け込み寺]「iOS 16」でiPhone→iPhoneへeSIMをBluetoothで転送、新機能「eSIM クイック転送」その手順は",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1439/467/ios.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/column/minna/1439330.html",
-          "author": null,
-          "description": "夏から秋にかけての新製品ラインナップで、特に気になっていたのが「Galaxy Z Fold4」だ。見た目は前モデルとほとんど違いのないマイナーアップデートだが、Googleが大画面や折りたたみスマホ用に開発したという「Android L」を搭載した初めてのデバイスというのが大注目なのであった。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/1439330.html",
-          "publishedOn": "2022-09-13T15:00:00.000Z",
-          "wordCount": 4372,
-          "title": "[みんなのケータイ]米国で「Galaxy Z Fold4」を500ドル引きで入手した",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1439/330/01.jpeg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/topic/special/1436355.html",
-          "author": null,
-          "description": "高スペック化に伴い、年々価格が上昇傾向だったところに、キャリアの販売方法の変化や半導体不足、さらには急速に進む円安が追い打ちをかけ、ハイエンドスマートフォンの価格高騰に拍車がかかっている。為替を反映して7月に「iPhone 13」シリーズなどが大幅に値上げされたことから、懸念されていた「iPhone 14」シリーズの価格も、緊急時の衛星通信やメインカメラの画素数向上といった新要素があるとはいえ、やはり例年に比べると高い水準。「iPhone 14」が11万9800円～、「iPhone 14 Plus」が13万4800円～、「iPhone 14 Pro」が14万9800円～、「iPhone 14 Pro Max」が16万4800円～となっている。そろそろ新機種にと買い換えを考えていたiPhoneユーザーも、思わず尻込みしてしまう状況ではないだろうか。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/topic/special/1436355.html",
-          "publishedOn": "2022-09-13T15:00:00.000Z",
-          "wordCount": 4378,
-          "title": "在庫が潤沢になる秋が狙い目、お値打ちな「リユースiPhone」をさらにおトクに買う方法[Sponsored]",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1436/355/IMG_1247.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1439543.html",
-          "author": null,
-          "description": "アマゾンジャパンは、電子書籍リーダー「Kindle」の最新モデル、新世代「Kindle」と「Kindleキッズモデル」の予約受付を開始した。出荷開始日は10月12日。価格は、新世代Kindle広告ありモデルが1万980円、広告なしモデルが1万2980円、新世代Kindleキッズモデルが1万2980円。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1439543.html",
-          "publishedOn": "2022-09-13T13:00:00.000Z",
-          "wordCount": 4364,
-          "title": "Amazon、新世代「Kindle」と「Kindleキッズモデル」発表",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1439/543/Kindle03.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1439652.html",
-          "author": null,
-          "description": "寺田稔総務大臣は13日、閣議後記者会見で9月11日に発生したKDDIの通信障害について、7月から障害が頻発していることを踏まえて「大変重く受け止めている」として、体制の検証の必要性について言及した。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1439652.html",
-          "publishedOn": "2022-09-13T10:31:14.000Z",
-          "wordCount": 4335,
-          "title": "頻発する通信障害に寺田総務相「構造的な問題の検証必要」",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1439/652/sub.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1439638.html",
-          "author": null,
-          "description": "ガーミンジャパンは、タッチスクリーン型GPSスマートウォッチ「Venu（ヴェニュー）」シリーズより、エントリーモデル「Venu Sq」の最新モデル「Venu Sq 2」「Venu Sq 2 Music」を16日に発売する。価格はそれぞれ3万9800円と4万5800円。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1439638.html",
-          "publishedOn": "2022-09-13T10:23:41.000Z",
-          "wordCount": 4411,
-          "title": "ガーミンからSuica対応スマートウォッチの最新モデル「Venu Sq 2」「Venu Sq 2 Music」、16日発売",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1439/638/top.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1439643.html",
-          "author": null,
-          "description": "13日に登場した「iOS 16」で、「eSIM クイック転送」が利用できるようになった。これは、iPhoneからiPhoneへSIMを転送するというもの。その名の通りeSIMを移すだけでなく、物理SIMをeSIMに変換することもできる。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1439643.html",
-          "publishedOn": "2022-09-13T09:27:40.000Z",
-          "wordCount": 4368,
-          "title": "iPhone→iPhoneへeSIMを移す「eSIM クイック転送」、携帯各社の対応状況は",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1439/643/01.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1439601.html",
-          "author": null,
-          "description": "NTTドコモは提供する電力サービス「ドコモでんき」において「エコノミーMVNO」契約者に対するdポイント還元率を変更する。第一弾としてNTTレゾナントが、提供する「OCN モバイル ONE」契約者の還元率を9月14日より変更する。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1439601.html",
-          "publishedOn": "2022-09-13T08:27:54.000Z",
-          "wordCount": 4344,
-          "title": "ドコモでんき、「エコノミーMVNO」契約者へのdポイント還元率をアップ",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1439/601/01.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/review/iphonetips/1439621.html",
-          "author": null,
-          "description": "13日に登場した「iOS 16」で、iPhoneのバッテリー残量をパーセンテージで表示できるようになった。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/review/iphonetips/1439621.html",
-          "publishedOn": "2022-09-13T08:27:08.000Z",
-          "wordCount": 4378,
-          "title": "[iPhone駆け込み寺]iOS 16で「iPhone」のバッテリー残量表示はどうなる？",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1439/621/05.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1439584.html",
-          "author": null,
-          "description": "KDDIは、渋谷モディ（東京都渋谷区）1階にアームロボットで商品をピックアップし、商品を提供する「auミニッツストア 渋谷店」をオープンした。営業時間は11時～19時で、当面は平日のみ営業する。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1439584.html",
-          "publishedOn": "2022-09-13T07:33:38.000Z",
-          "wordCount": 4355,
-          "title": "アームロボが渋谷の街で袋詰め、menuで注文できる「auミニッツストア」渋谷モディに開設",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1439/584/top.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1439588.html",
-          "author": null,
-          "description": "ソニーネットワークコミュニケーションズは、MVNOサービス「NUROモバイル」で提供中の「NEOデータフリー」において、本来、データ容量が消費されない通信であったのに、消費されていた期間があったことを明らかにした。これに伴い、影響を受けたユーザーに対し、消費されたデータ容量相当分のデータを付与するほか、追加でチャージしていた場合の料金を返金する。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1439588.html",
-          "publishedOn": "2022-09-13T07:28:20.000Z",
-          "wordCount": 4333,
-          "title": "NUROモバイルがデータ付与と返金へ――「NEOデータフリー」でデータ消費のトラブル",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1439/588/sub_l.png"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1439544.html",
-          "author": null,
-          "description": "YouTubeは、クリエイターがゲームを通してコラボレーションするイベント「YouTube Crosszone 2022 秋」を開催する。期間は9月15日～25日。題材は、「Minecraft」「PUBG: BATTLEGROUNDS」「Apex Legends」「スプラトゥーン3」。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1439544.html",
-          "publishedOn": "2022-09-13T06:29:56.000Z",
-          "wordCount": 4372,
-          "title": "YouTubeでゲームの祭典「Crosszone」、15日から",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1439/544/KeyVisual_16-9.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1438876.html",
-          "author": null,
-          "description": "Amazon.co.jpでは、「Kindle本 ポイントキャンペーン」として、対象の電子書籍を購入で最大50％のAmazonポイントが還元されるキャンペーンを実施している。期間は9月22日まで。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1438876.html",
-          "publishedOn": "2022-09-13T06:15:55.000Z",
-          "wordCount": 4338,
-          "title": "Kindle本が最大50％ポイント還元、成田悠輔氏の著作など",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1438/876/main.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1439542.html",
-          "author": null,
-          "description": "河野太郎デジタル大臣は13日の閣議後会見で、接触確認アプリ「COCOA」の機能を停止する予定であることを明らかにした。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1439542.html",
-          "publishedOn": "2022-09-13T05:49:02.000Z",
-          "wordCount": 4339,
-          "title": "河野デジタル大臣「COCOAアプリは機能停止へ」、コロナ全数把握のルール変更で",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1439/542/01.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1439486.html",
-          "author": null,
-          "description": "アップル（Apple）は、Apple Watch向けの最新ソフトウェア「watchOS 9」の提供を開始した。iOS 16を搭載したiPhone 8以降およびiPhone SE（第2世代）以降とペアリングされたApple Watch Series 4以降に対し、無料のソフトウェアアップデートとして提供される。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1439486.html",
-          "publishedOn": "2022-09-13T03:57:48.000Z",
-          "wordCount": 4396,
-          "title": "「watchOS 9」が登場、健康管理や運動をより強力にサポート",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1439/486/Apple-watchOS-9-Muiltisport-workout-220912r.png"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1439469.html",
-          "author": null,
-          "description": "ソフトバンクが提供するオンライン専用ブランド「LINEMO（ラインモ）」は、Amazon.co.jpからの契約で、半年間通信料と同額のPayPayポイントを還元するキャンペーンを開始した。終了予定日は未定。同キャンペーンは、LINEMO公式サイトで実施されている半年間実質無料キャンペーンと同じもの。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1439469.html",
-          "publishedOn": "2022-09-13T03:33:39.000Z",
-          "wordCount": 4336,
-          "title": "LINEMO、Amazonでも半年間実質0円をスタート",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1439/469/sub.png"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1439466.html",
-          "author": null,
-          "description": "NTTドコモは、ドコモオンラインショップにおける、「Apple Watch Series 8」「Apple Watch SE（第2世代）」「Apple Watch Ultra」の価格を発表した。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1439466.html",
-          "publishedOn": "2022-09-13T03:32:29.000Z",
-          "wordCount": 4389,
-          "title": "ドコモが最新「Apple Watch」価格発表、Ultraは12.5万円",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1439/466/main_l.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1439442.html",
-          "author": null,
-          "description": "Amazon.co.jpで、Nothingのスマートフォン「Nothing Phone (1)」とワイモバイルのSIMセットを購入し、回線契約すると2万ポイントを進呈するキャンペーンが実施されている。終了日は未定。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1439442.html",
-          "publishedOn": "2022-09-13T02:43:44.000Z",
-          "wordCount": 4360,
-          "title": "「Nothing Phone (1)」ワイモバイルSIM同時契約で2万ポイント進呈、Amazon.co.jpで",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1439/442/cont1.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1439433.html",
-          "author": null,
-          "description": "KDDIと沖縄セルラーは、オンライン専用料金ブランドの「povo2.0」において、iOS 16から「eSIMクイック転送」に対応したことを発表した。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1439433.html",
-          "publishedOn": "2022-09-13T02:43:08.000Z",
-          "wordCount": 4356,
-          "title": "povo2.0、iOS 16の「eSIMクイック転送」に対応",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1439/433/01_l.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1437742.html",
-          "author": null,
-          "description": "NTTレゾナントは、「おかげさまで10年目！Twitterキャンペーン」を開始した。期間は20日11時まで。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1437742.html",
-          "publishedOn": "2022-09-13T02:10:00.000Z",
-          "wordCount": 4347,
-          "title": "OCN モバイル、Amazonギフト券があたるTwitterキャンペーン",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1437/742/ocn96.png"
         }
       ]
     },
@@ -2023,6 +1892,336 @@
       "feedUrl": "https://www.gizmodo.jp/index.xml",
       "siteUrl": "https://www.gizmodo.jp",
       "articles": [
+        {
+          "id": "https://www.gizmodo.jp/2022/09/ios16-photo-clipping.html",
+          "author": "中川真知子",
+          "description": "そんなiOS 16の目玉機能のひとつが、写真の被写体の切り抜き。「幽体離脱」させて楽しんだ人も多いことでしょう。\n\nでも、この機能、もっと使いこなせないのかな？ と思っていたら、さっそく使いこなしまくる猛者が現れました。これ、クリップ機能の正解のひとつじゃん！",
+          "link": "https://www.gizmodo.jp/2022/09/ios16-photo-clipping.html",
+          "publishedOn": "2022-09-20T12:35:00.000Z",
+          "wordCount": 357,
+          "title": "幽体離脱している場合じゃない！ iOS16の写真切り抜きはこう使おう",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/20/20220920_fitcheck.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/20/20220920_fitcheck.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/09/fitbit-2022-sep.html",
+          "author": "中川真知子",
+          "description": "Photo:中川真知子秋といえば、Fitbitの新作発表の季節！すでに発表されていた『FitbitSense2』に触れる日を心待ちにしていた、Fitbit愛用歴5年の私。いよいよ新作発表会が開かれるとのことで、参加してきましたよ〜。付け心地も機能もフラッグシップなFitbitSense2Photo:中川真知子祝・物理ボタン復活なんと言っても一番の目玉は『FitbitSense2』。Fitbitのフ",
+          "link": "https://www.gizmodo.jp/2022/09/fitbit-2022-sep.html",
+          "publishedOn": "2022-09-20T12:00:00.000Z",
+          "wordCount": 358,
+          "title": "Fitbitの新作発表会が楽しかったので、製品いろいろ＆会場の様子をレポートします",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/16/5B132728-1ED8-4722-92C1-35A44D7E2C71.jpeg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/16/5B132728-1ED8-4722-92C1-35A44D7E2C71.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/09/gpd-win-4.html",
+          "author": "湯木進悟",
+          "description": "コンパクトなPCを追求する流れから、多彩なハンドヘルドPCが生みだされてきました。しかし結局は設計に無理があったり非力だったりして、残念ながらメインストリームにはなりきれなかったように思えます。しかしWindows 11の全盛期を迎えるいまでも、あの「GPD WIN 3」を手がけたGPDが再び新作に挑んでくることが報じられました。",
+          "link": "https://www.gizmodo.jp/2022/09/gpd-win-4.html",
+          "publishedOn": "2022-09-20T11:00:00.000Z",
+          "wordCount": 351,
+          "title": "手のひらにゲーミングPC！ 年内に「GPD WIN 4」が新発売",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/20/220929gpd1.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/20/220929gpd1.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/09/mono-tape.html",
+          "author": "岡本玄介",
+          "description": "修正テープの多くは涙型のケースに入ったデザインがほとんどかと思います。そんな修正テープ界に一石を投じるのがトンボ鉛筆の「モノポケット/MONO pocket」。定番「モノ消しゴム」にソックリな修正テープです。",
+          "link": "https://www.gizmodo.jp/2022/09/mono-tape.html",
+          "publishedOn": "2022-09-20T10:35:00.000Z",
+          "wordCount": 335,
+          "title": "紛らわしい！ モノ消しゴムに擬態した修正テープ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/20/220921_mono.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/20/220921_mono.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/09/dynamic-island-iphone-15.html",
+          "author": "そうこ",
+          "description": "Photo:ギズモード・ジャパン話はやすぎ。今年のiPhone14は4モデル、iPhone14、iPhone14Plus、iPhone14Pro、iPhone14ProMaxですね。すでに手元に届いて堪能している人も少なくないと思います。セルフィーカメラのパンチホールエリアをいち機能として活用する新機能DynamicIslandは、ひとひねりあるデザインがお見事です。ただ、これを使えるのはProと",
+          "link": "https://www.gizmodo.jp/2022/09/dynamic-island-iphone-15.html",
+          "publishedOn": "2022-09-20T10:00:00.000Z",
+          "wordCount": 355,
+          "title": "Dynamic Island、iPhone 15では全モデルに搭載？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/20/2022-09-15rakd00.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/20/2022-09-15rakd00.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/09/amazon-timesale-2022-0920-1.html",
+          "author": "メディアジーンメディアコマース",
+          "description": "Amazon（アマゾン）で毎日開催されているタイムセール。本日2022年9月20日は、折りたたみ傘が20%オフ、Anker人気モデルSoundcoreシリーズのワイヤレスイヤホンが4000円以下など、今すぐ欲しい人気のアイテムがお得に多数登場しています。",
+          "link": "https://www.gizmodo.jp/2022/09/amazon-timesale-2022-0920-1.html",
+          "publishedOn": "2022-09-20T09:45:00.000Z",
+          "wordCount": 541,
+          "title": "【Amazonタイムセール中！】折りたたみ傘が20%オフ、Anker人気モデルSoundcoreシリーズのワイヤレスイヤホンが4000円以下など",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/20/GIZ.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/20/GIZ.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/09/mars-hoodie.html",
+          "author": "岡本玄介",
+          "description": "Image:VOLLEBAK火星でも宇宙ステーションでも地球でも快適。人類が火星に植民地を作るのはしばらく先のようですが、火星で着るよりまず先に、地球の秋冬で活躍するであろうパーカー「MarsHoodie」で宇宙気分を盛り上げるのも良いかもしれません。地球外で着ることを意識火星の地表と、建築家ビャルケ・インゲルスが考えた宇宙服の液体冷却システムを意識したという網目模様が目を引きますが、2層構造で暖",
+          "link": "https://www.gizmodo.jp/2022/09/mars-hoodie.html",
+          "publishedOn": "2022-09-20T09:00:00.000Z",
+          "wordCount": 327,
+          "title": "火星に行くならこれ着よう。巨大メカが「3D編み」で作る未来のパーカー",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/16/220919_mars.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/16/220919_mars.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/09/rakuten-sale-2022-0920-1.html",
+          "author": "メディアジーンメディアコマース",
+          "description": "楽天市場では、複数ショップでの買い回りでポイントがアップする｢お買いものマラソン｣を9月24日（土）1:59まで開催中。\n\n現在、夏は扇風機・冬はヒーターとしても使えるダイソンの空気清浄機、ロジクールのワイヤレスマウスなど、お得な商品が多数登場しています。",
+          "link": "https://www.gizmodo.jp/2022/09/rakuten-sale-2022-0920-1.html",
+          "publishedOn": "2022-09-20T08:45:00.000Z",
+          "wordCount": 563,
+          "title": "【楽天お買い物マラソン】夏は扇風機・冬はヒーターとしても使えるダイソンの空気清浄機、ロジクールのワイヤレスマウスなど",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/20/dyson.JPG"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/20/dyson.JPG"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/09/kokuyo-energy-pole.html",
+          "author": "岡本玄介",
+          "description": "Image:KOKUYO電源が必要なものはデスクの高さにあるから。デスクやオフィスで使う電源タップは便利ですが、床に転がってホコリまみれで蹴っ飛ばされたり、デスクの横や裏に磁石でっくっつけたりと、サっと手が届く場所にないんですよね。そのままの姿勢で抜き差しそこでKOKUYO（コクヨ）が考えたのが、スタンドを付けて立たせられる「エナジーポール」。コンセント4口型と、コンセント2口＋USB2口型の2種",
+          "link": "https://www.gizmodo.jp/2022/09/kokuyo-energy-pole.html",
+          "publishedOn": "2022-09-20T08:00:00.000Z",
+          "wordCount": 320,
+          "title": "電源タップが立った！ スタンド付けたらもう置き場所に悩まない",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/17/220919_kokuyo.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/17/220919_kokuyo.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/09/ios-16-keyboard-1.html",
+          "author": "小暮ひさのり",
+          "description": "Photo:小暮ひさのり2022年9月13日の記事を編集して再掲載しています。入力感、さらにマシマシ。iOS16ではキーボードをタップした時に「触覚フィードバック」を得られるようになっています。かんたんに言えば、キー入力でブルッと震える機能。これまでもタップ音でのフィードバックはありましたが、この触覚フィードバックをオンにすることで、さらに入力感マシマシ。また、音を出せないマナーモード中でもフィー",
+          "link": "https://www.gizmodo.jp/2022/09/ios-16-keyboard-1.html",
+          "publishedOn": "2022-09-20T07:35:00.000Z",
+          "wordCount": 324,
+          "title": "キー入力でブルッ。iOS 16のキーボードで「触覚フィードバック」を有効にする方法",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/16/1-9.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/16/1-9.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/09/logicool-crayon-ipad-pro.html",
+          "author": "はらいさん",
+          "description": "iPad向けアクセサリの販売で知られるロジクールのサイト上にて、まだ発表されていない新型モデルのiPad Proの表記を確認。",
+          "link": "https://www.gizmodo.jp/2022/09/logicool-crayon-ipad-pro.html",
+          "publishedOn": "2022-09-20T07:00:00.000Z",
+          "wordCount": 326,
+          "title": "ロジクールの公式サイトにて、新型iPad Proの存在が確認される",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/20/1.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/20/1.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/09/259416-machi-ya-kokoni3d-start.html",
+          "author": "山田洋路",
+          "description": "3Dプリンター「KOKONI3D」は初心者にもやさしい仕様。設定と組み立てが不要で3DモデルはAIが写真から生成してくれます。操作はスマホで完結。A4サイズのスペースにも収まるほどコンパクトな造りなのでご家庭に設置して子どもと3Dプリントが楽しめます。",
+          "link": "https://www.gizmodo.jp/2022/09/259416-machi-ya-kokoni3d-start.html",
+          "publishedOn": "2022-09-20T06:45:00.000Z",
+          "wordCount": 335,
+          "title": "撮影した写真をそのまま3Dモデルに変換できる超コンパクト3Dプリンター「KOKONI3D」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/16/KOKONI3D00.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/16/KOKONI3D00.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/09/259408-machi-ya-atenax-review.html",
+          "author": "山田洋路",
+          "description": "特殊パターンで郵便物の個人情報を隠す「アテナックス 小芯タイプ」。SDGsに配慮した紙製テープカッターもセットで登場。強力のりのおかげで剥がしづらい設計。両面印刷なので透かしてもテープ下の情報が読み取れません。シュレッダーやスタンプよりも手軽な個人情報保護手段です。",
+          "link": "https://www.gizmodo.jp/2022/09/259408-machi-ya-atenax-review.html",
+          "publishedOn": "2022-09-20T05:45:00.000Z",
+          "wordCount": 341,
+          "title": "特殊パターンで郵便物の個人情報を隠す「アテナックス 小芯タイプ」を使ってみた",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/15/%E3%82%A2%E3%83%86%E3%83%8A%E3%83%83%E3%82%AF%E3%82%B9review00.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/15/%E3%82%A2%E3%83%86%E3%83%8A%E3%83%83%E3%82%AF%E3%82%B9review00.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/09/iphone-14-hands-on-takuta-murakami-1.html",
+          "author": "編集部",
+          "description": "GIF:村上タクタ2022年9月9日の記事を編集して再掲載しています。写真越しでも美しいディスプレイ。昨日発表されたiPhone14シリーズ。サイズのラインナップが変わったほか、iPhone14Proではパンチホールをうまく使ったアニメーションにシビれましたね。現地で取材していた「ThunderVolt」の編集長、村上タクタさんから実機の写真とコメントを寄せていただきました。写真左：iPhone1",
+          "link": "https://www.gizmodo.jp/2022/09/iphone-14-hands-on-takuta-murakami-1.html",
+          "publishedOn": "2022-09-20T05:35:00.000Z",
+          "wordCount": 366,
+          "title": "iPhone 14の実機はこんな感じ！ 触ってみてのファーストインプレッション",
+          "enclosure": {
+            "length": "0",
+            "type": "image/gif",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/16/1-1.gif"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/16/1-1.gif"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/09/259406-machi-ya-dokodemoclip-review.html",
+          "author": "組橋信太朗",
+          "description": "スマホの出し入れがスムーズになるアイデアグッズ「どこでもクリップ」がmachi-yaでプロジェクトを展開。鉄製のクリップとシリコンカバー、磁石というシンプルなつくり。サイズ感も手のひらサイズでコンパクトです。",
+          "link": "https://www.gizmodo.jp/2022/09/259406-machi-ya-dokodemoclip-review.html",
+          "publishedOn": "2022-09-20T04:45:00.000Z",
+          "wordCount": 330,
+          "title": "スマホの出し入れがスムーズになるアイデアグッズ「どこでもクリップ」を使ってみた",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/15/%E3%81%A9%E3%81%93%E3%81%A7%E3%82%82%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97review00.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/15/%E3%81%A9%E3%81%93%E3%81%A7%E3%82%82%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97review00.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/09/more-countries-can-use-the-sos-function-of-the-iphone.html",
+          "author": "岩田リョウコ",
+          "description": "北米で11月からスタートするiPhone 14のSOS発信機能。今年中に追加国を発表する予定で、意外に早く他の国でも使えるようになりそう。",
+          "link": "https://www.gizmodo.jp/2022/09/more-countries-can-use-the-sos-function-of-the-iphone.html",
+          "publishedOn": "2022-09-20T03:30:00.000Z",
+          "wordCount": 328,
+          "title": "iPhoneの緊急SOS機能、衛星通信の利用可能国がこれから追加",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/20/ios15-iphone12-pro-power-off-sos-screen.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/20/ios15-iphone12-pro-power-off-sos-screen.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/09/thanko-makasetei.html",
+          "author": "岩田リョウコ",
+          "description": "サンコーから「まかせ亭」発売。カップ麺に自動的にお湯を注いでくれるマシン。",
+          "link": "https://www.gizmodo.jp/2022/09/thanko-makasetei.html",
+          "publishedOn": "2022-09-20T03:00:00.000Z",
+          "wordCount": 325,
+          "title": "なにげにありがたい。お湯を沸かして勝手にカップ麺を作ってくれるマシン",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/20/2_000000003439.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/20/2_000000003439.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/09/amazon-timesale-2022-0924.html",
+          "author": "メディアジーンメディアコマース",
+          "description": "2022年9月24日（土）9:00 ～ 27日（火）23:59に開催される ｢Amazonタイムセール祭り｣。家電やガジェット、日用品などを中心に、人気アイテムがセール価格となる大チャンス！購入前に知っておきたい、よりお得に買い物ができる方法を紹介します。",
+          "link": "https://www.gizmodo.jp/2022/09/amazon-timesale-2022-0924.html",
+          "publishedOn": "2022-09-20T02:45:00.000Z",
+          "wordCount": 331,
+          "title": "今回は約4日間！ 9月24日からの【Amazonタイムセール祭り】でお得に買い物できる方法",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/15/3ac448ede175f9092c5e8bbf084aab83.jpeg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/15/3ac448ede175f9092c5e8bbf084aab83.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/09/pattern-of-always-on-display-off-on-iphone-14-pro.html",
+          "author": "はらいさん",
+          "description": "iPhone 14の常時点灯表示が自動でオフになる条件。バッテリー消費量が気になる人は確認を。",
+          "link": "https://www.gizmodo.jp/2022/09/pattern-of-always-on-display-off-on-iphone-14-pro.html",
+          "publishedOn": "2022-09-20T02:00:00.000Z",
+          "wordCount": 339,
+          "title": "iPhone 14 Proの常時点灯表示がオフになる8つのパターン",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/20/Apple-iPhone-14-Pro-iPhone-14-Pro-Max-Always-on-display-220907.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/20/Apple-iPhone-14-Pro-iPhone-14-Pro-Max-Always-on-display-220907.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/09/husqvarna-mc6.html",
+          "author": "岡本玄介",
+          "description": "スウェーデンのHusqvarna（ハスクバーナ）から電動自転車MC6発売。カーボンフレームの空洞を生かした排熱システムを採用。",
+          "link": "https://www.gizmodo.jp/2022/09/husqvarna-mc6.html",
+          "publishedOn": "2022-09-20T01:00:00.000Z",
+          "wordCount": 326,
+          "title": "ハスクバーナのeマウンテンバイク「MC6」。バイクに手が出なくとも満足するカッコ良さ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/16/220919_husqvarna.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/16/220919_husqvarna.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/09/yohana-membership.html",
+          "author": "山田ちとら",
+          "description": "「困ってるんだけど、だれにも頼めないんだよな〜」的な課題を解決するために生まれたのが「Yohanaメンバーシップ」。\n\n2021年9月にアメリカで始まった”次世代ファミリーコンシェルジュサービス”で、2022年9月15日より日本での提供が開始しました（現時点では神奈川県限定で、今後拡大予定）。",
+          "link": "https://www.gizmodo.jp/2022/09/yohana-membership.html",
+          "publishedOn": "2022-09-20T01:00:00.000Z",
+          "wordCount": 327,
+          "title": "猫の手も借りたい人へ。専門チームが家事と育児をサポートしてくれる「Yohanaメンバーシップ」始まりました",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/16/220916_yohana_top.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/16/220916_yohana_top.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/09/hp-construction-site-blueprints-robot-siteprint-roomba.html",
+          "author": "そうこ",
+          "description": "Image:HPすごいヤツきたな。ロボットと言ってもいろいろあります。SFにでてくるほぼ人間のアンドロイドや、耳を食べられちゃったネコ型ロボットや、ワンアームなど工場で利用されるタスクに特化したタイプ。形も多用なら、そのお仕事も多岐に渡ります。ご家庭でお馴染みといえば、お掃除ロボですが、HPが新たに開発したのはその真逆。床にお絵描きするロボットです。HPのロボット「SitePrint」が書くのはア",
+          "link": "https://www.gizmodo.jp/2022/09/hp-construction-site-blueprints-robot-siteprint-roomba.html",
+          "publishedOn": "2022-09-19T23:00:00.000Z",
+          "wordCount": 325,
+          "title": "工事現場に「設計図を直書き」するロボ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/gif",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/16/220916_hp.gif"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/16/220916_hp.gif"
+        },
         {
           "id": "https://www.gizmodo.jp/2022/09/h-moser-streamliner-tourbillon.html",
           "author": "巽英俊",
@@ -3897,396 +4096,6 @@
             "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/220914_onechat.jpg"
           },
           "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/220914_onechat.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/09/apple-watch-cpu-not-changed.html",
-          "author": "satomi",
-          "description": "Apple（アップル）最新スマートウォッチの「Apple Watch Series 8」と「Apple Watch Ultra」はどちらもS8プロセッサなんですが、そのSiP（System in a Package）の識別コードを確かめてみたら、昨年モデルのS7、一昨年モデルのS6と同じ「t8301」のままだったというわけ。",
-          "link": "https://www.gizmodo.jp/2022/09/apple-watch-cpu-not-changed.html",
-          "publishedOn": "2022-09-13T23:00:00.000Z",
-          "wordCount": 386,
-          "title": "Apple Watchシリーズ8/UltraのCPUはシリーズ6、7やSEと変わらない",
-          "enclosure": {
-            "length": "0",
-            "type": "image/gif",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/watchsoc.gif"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/watchsoc.gif"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/09/contact-glove.html",
-          "author": "武者良太",
-          "description": "手の動きをトラッキングするだけでなく、触覚まで感じることができるVRグローブ。",
-          "link": "https://www.gizmodo.jp/2022/09/contact-glove.html",
-          "publishedOn": "2022-09-13T12:00:00.000Z",
-          "wordCount": 322,
-          "title": "指先に伝わる“触れた”感覚。触覚フィードバック搭載グローブ型VRコントローラ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/003.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/003.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/09/meta-quest-pro.html",
-          "author": "そうこ",
-          "description": "来月12日に開催されるMetaカンファレンス「Meta Connect」での発表が期待される、新型VRヘッドセットMeta Quest Pro。ザッカーバーグ氏もFBポストでそれらしい端末を装着しており、噂ではハイエンド端末になると言われています。公式も開発途中をチラ見せしていますし、発表目前で噂やリークが盛り上がっていますが、まさかそれらしきものが、ホテルの部屋に置き忘れられてしまうなんて…！",
-          "link": "https://www.gizmodo.jp/2022/09/meta-quest-pro.html",
-          "publishedOn": "2022-09-13T11:00:00.000Z",
-          "wordCount": 347,
-          "title": "Metaの新型VRヘッドセット「Meta Quest Pro」と思われる端末、誰かがホテルに置き忘れる",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/220913metaquestproatthehotel.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/220913metaquestproatthehotel.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/09/259218.html",
-          "author": "的野裕子",
-          "description": "Image:Shutterstockライフハッカー［日本版］2021年9月22日掲載の記事より転載。記事中の情報は掲載時点でのものです。iPhoneで写真を撮る度に、撮影場所が写真と一緒に保存されています。ジオタグと呼ばれるこの機能は、写真を撮影地で検索できるので便利です。ただ、撮影地の情報を教えずに写真を共有したい時は不便です。うれしいことに、ほとんどのSNSは、アップロードする前に写真の撮影地",
-          "link": "https://www.gizmodo.jp/2022/09/259218.html",
-          "publishedOn": "2022-09-13T10:35:00.000Z",
-          "wordCount": 337,
-          "title": "iPhoneで撮影した写真から位置情報を削除する方法",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/12/shutterstock_1518087992.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/12/shutterstock_1518087992.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/09/keurig-bs300.html",
-          "author": "山口真央",
-          "description": "カフェってそれぞれ味や香りが違いますよね。お気に入りのチェーン店があるという方も少なくはないはず。じゃあそんな「いろんなカフェの味」を、カフェ以外で楽しめるとしたら…？\n\nギズ編集部に、それをかなえるコーヒーメーカーに来てもらいました！",
-          "link": "https://www.gizmodo.jp/2022/09/keurig-bs300.html",
-          "publishedOn": "2022-09-13T10:00:00.000Z",
-          "wordCount": 344,
-          "title": "みんなでカフェタイムするなら、「キューリグのコーヒーメーカー」が楽しいかも！",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/IMG_9646_.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/IMG_9646_.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/09/amazon-timesale-2022-0913-1.html",
-          "author": "メディアジーンメディアコマース",
-          "description": "Amazon（アマゾン）で毎日開催されているタイムセール。本日2022年9月13日は、「ありがとう」付きステンレスタンブラーが10%オフ、一本釣りかつおのたたきが900円オフなど、今すぐ欲しい人気のアイテムがお得に多数登場しています。",
-          "link": "https://www.gizmodo.jp/2022/09/amazon-timesale-2022-0913-1.html",
-          "publishedOn": "2022-09-13T09:45:00.000Z",
-          "wordCount": 568,
-          "title": "【Amazonタイムセール祭り】もうすぐ敬老の日！「ありがとう」付きステンレスタンブラーが10%オフなどなど",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/GIZ-1.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/GIZ-1.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/09/ios-16-keyboard.html",
-          "author": "小暮ひさのり",
-          "description": "Photo:小暮ひさのり入力感、さらにマシマシ。iOS16ではキーボードをタップした時に「触覚フィードバック」を得られるようになっています。かんたんに言えば、キー入力でブルッと震える機能。これまでもタップ音でのフィードバックはありましたが、この触覚フィードバックをオンにすることで、さらに入力感マシマシ。また、音を出せないマナーモード中でもフィードバックを返してくれます。Image:小暮ひさのり設定",
-          "link": "https://www.gizmodo.jp/2022/09/ios-16-keyboard.html",
-          "publishedOn": "2022-09-13T09:30:00.000Z",
-          "wordCount": 328,
-          "title": "キー入力でブルッ。iOS 16のキーボードで「触覚フィードバック」を有効にする方法",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/2022-09-13kik00.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/2022-09-13kik00.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/09/watcchos-9-apple-watch-low-power-mode.html",
-          "author": "小暮ひさのり",
-          "description": "Apple Watchの新OS、watchOS 9ではさまざまな機能が追加されましたが、個人的注目度MAXなのが節電機能「低電力モード」。その低電力モードの設定方法をご紹介します。",
-          "link": "https://www.gizmodo.jp/2022/09/watcchos-9-apple-watch-low-power-mode.html",
-          "publishedOn": "2022-09-13T09:00:00.000Z",
-          "wordCount": 350,
-          "title": "watchOS 9の目玉機能。Apple Watchの「低電力モード」の設定方法",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/2022-09-13Apk00.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/2022-09-13Apk00.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/09/rakuten-sale-2022-0913-1.html",
-          "author": "メディアジーンメディアコマース",
-          "description": "楽天市場では、最大50%と高ポイント還元イベント｢楽天スーパーDEAL｣を開催中。\n本日2022年9月13日（火）は、SIMフリーWi-Fiルーターが20%還元、天然木時計が1,000ポイント還元など、お得な商品が多数登場しています。",
-          "link": "https://www.gizmodo.jp/2022/09/rakuten-sale-2022-0913-1.html",
-          "publishedOn": "2022-09-13T08:45:00.000Z",
-          "wordCount": 730,
-          "title": "【楽天タイムセール】敬老の日に！SIMフリーWi-Fiルーターが20%還元、天然木時計が1,000ポイント還元など",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/GIZ.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/GIZ.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/09/ios-16-battery-graphic.html",
-          "author": "小暮ひさのり",
-          "description": "本日リリースされたiOS 16では、Face ID対応iPhoneでもバッテリー残量を％で確認できるようになりました。",
-          "link": "https://www.gizmodo.jp/2022/09/ios-16-battery-graphic.html",
-          "publishedOn": "2022-09-13T08:00:00.000Z",
-          "wordCount": 333,
-          "title": "iOS 16にすると、バッテリーの「％」表示が復活します。方法はこちら！",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/2022-09-13bak00.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/2022-09-13bak00.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/09/259216.html",
-          "author": "掘込泰三",
-          "description": "Image:KhamoshPathakライフハッカー［日本版］2021年9月14日掲載の記事より転載。記事中の情報は掲載時点でのものです。先日、Safariで広告トラッカーから閲覧履歴を隠す方法を紹介しました。それ自体はすばらしいことですが、多くの人がSafariを使わない理由は別にあります。その理由の1つは、「他のブラウザに比べて退屈そうだから」ではないでしょうか。Appleは次期iOS15にお",
-          "link": "https://www.gizmodo.jp/2022/09/259216.html",
-          "publishedOn": "2022-09-13T07:35:00.000Z",
-          "wordCount": 336,
-          "title": "iPhoneでSafariのスタートページをカスタマイズする方法",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/12/1-2.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/12/1-2.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/09/insulin-in-a-tab.html",
-          "author": "湯木進悟",
-          "description": "1型糖尿病患者にとって、インスリン注射による治療は、これまで100年ほど変わらぬ治療法として確立されてきました。いろんな使用機器の進化はあれど、基本的な治療スタイルは変わっていません。ところが、いまその常識を大きく変化させる研究が進んでいますよ。",
-          "link": "https://www.gizmodo.jp/2022/09/insulin-in-a-tab.html",
-          "publishedOn": "2022-09-13T07:00:00.000Z",
-          "wordCount": 327,
-          "title": "インスリン注射を過去のものに。1型糖尿病患者向けの経口薬が実現するかも",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/12/002.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/12/002.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/09/nike-forward.html",
-          "author": "岡本玄介",
-          "description": "スポーツウェアのNIKE（ナイキ）では、フリースの生地作りで新たな境地が開拓されました。それが従来の手法よりいくつかの工程を減らすことで、生産時に平均75％のカーボン・フットプリントを減らせる「Nike Forward（ナイキ・フォワード）」というもの。",
-          "link": "https://www.gizmodo.jp/2022/09/nike-forward.html",
-          "publishedOn": "2022-09-13T07:00:00.000Z",
-          "wordCount": 340,
-          "title": "繊維を直接布地にする技術でCO2を75％削減｡アパレルに革命を起こす「ナイキ フォワード」",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/220913_nike.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/220913_nike.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/09/259106-machi-ya-thegeniuswallet-review.html",
-          "author": "山田洋路",
-          "description": "コンパクト財布「THE GENIUS WALLET」は本革なのに超撥水仕様。急な雨から中身を守ります。AirTagやSDカード向けのポケットを搭載していてさながらガジェットポーチ。利き手に応じた設計でカードやお金が取り出しやすいです。コンパクトで厚み1.5cmと極薄なので邪魔になりません。",
-          "link": "https://www.gizmodo.jp/2022/09/259106-machi-ya-thegeniuswallet-review.html",
-          "publishedOn": "2022-09-13T06:45:00.000Z",
-          "wordCount": 345,
-          "title": "利き手に応じた設計で中身が取り出しやすい超撥水レザーのミニ財布「THE GENIUS WALLET」の魅力をチェック",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/08/GENIUSWALLETreview00.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/08/GENIUSWALLETreview00.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/09/259105-machi-ya-horseridingchair-review.html",
-          "author": "飯田あゆみ",
-          "description": "韓国生まれのワークチェア「ホースライディングチェア」はその名の通り、乗馬をイメージして作られたイスです。前後左右、どこからでも8°傾くと中央に戻るよう設計された「セルフバランスメカニズム」により、ゆらゆらと馬上にいるように気持ちよく揺れながらインナーマッスルを鍛えることが可能です。",
-          "link": "https://www.gizmodo.jp/2022/09/259105-machi-ya-horseridingchair-review.html",
-          "publishedOn": "2022-09-13T05:45:00.000Z",
-          "wordCount": 325,
-          "title": "自然に良い姿勢をキープできる韓国生まれの「ホースライディングチェア」を試してみた",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/08/%E3%83%9B%E3%83%BC%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%81%E3%82%A7%E3%82%A2review00.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/08/%E3%83%9B%E3%83%BC%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%81%E3%82%A7%E3%82%A2review00.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/09/the-best-ipad-drawing-apps-that-arent-adobe-fresco.html",
-          "author": "春野ユリ",
-          "description": "Image:shutterstockライフハッカー［日本版］2021年7月21日掲載の記事より転載[リンク貼る]。記事中の情報は掲載時点でのものです。Adobeは最近、PhotoshopSketchとIllustratorDrawが7月19日にAppleAppStore（およびGooglePlay）から削除されることを発表しました。どちらもiPadで利用できる無料の優れた描画アプリです。この2つの",
-          "link": "https://www.gizmodo.jp/2022/09/the-best-ipad-drawing-apps-that-arent-adobe-fresco.html",
-          "publishedOn": "2022-09-13T05:35:00.000Z",
-          "wordCount": 402,
-          "title": "iPadで使えるおすすめの描画アプリ5選（Adobe以外）",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/12/1-1.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/12/1-1.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/09/pieni-ii.html",
-          "author": "岡本玄介",
-          "description": "パっと見はおままごとの小道具みたいなのに、実はホントに撮影ができるトイカメラ「PieniⅡ」が、カメラ関連機器のケンコー・トキナーから発売されます。",
-          "link": "https://www.gizmodo.jp/2022/09/pieni-ii.html",
-          "publishedOn": "2022-09-13T05:00:00.000Z",
-          "wordCount": 340,
-          "title": "フィルムカメラっぽい体験ができるトイカメラの新型「PieniⅡ」が登場",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/20220913_pieni2.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/20220913_pieni2.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/09/amazon-sanwadirect-usbhub.html",
-          "author": "田中宏和",
-          "description": "サンワダイレクトの｢USB3.0ハブ4ポート クランプ固定 400-HUB065BK｣を要チェック。これは、モニターの下枠やデスクの端などにクランプで固定できる、4ポートの高速転送USBハブです。",
-          "link": "https://www.gizmodo.jp/2022/09/amazon-sanwadirect-usbhub.html",
-          "publishedOn": "2022-09-13T04:45:00.000Z",
-          "wordCount": 352,
-          "title": "目立たずUSBポートを増設！ サンワダイレクトのクランプ固定式USBハブ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/07/211007_sanwausbhub_top.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/07/211007_sanwausbhub_top.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/09/amazon-gigabyte-m27q-x.html",
-          "author": "武者良太",
-          "description": "ネトフリやYouTubeを見たり、SNSをやってるなら60Hzもあればオケ。ゲームだって120Hzもあれば十分でしょう。と、考えていました。一度ね、240HzのゲーミングモニターでPUBGをやってみたんですけど、いつもよりも敵を発見しやすく、普段よりも生き残りやすかったんです。ああ、モニターのリフレッシュレートって大事だなあ。",
-          "link": "https://www.gizmodo.jp/2022/09/amazon-gigabyte-m27q-x.html",
-          "publishedOn": "2022-09-13T04:30:00.000Z",
-          "wordCount": 334,
-          "title": "QHDで240Hzで1ms遅延。ゲームするのに美味しい27インチが4万6200円は買いでしょう",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/71VYmPsSR_.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/71VYmPsSR_.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/09/apple-watch-nike-display.html",
-          "author": "はらいさん",
-          "description": "watchOS 9では5種類のNike文字盤が使えるようになった。",
-          "link": "https://www.gizmodo.jp/2022/09/apple-watch-nike-display.html",
-          "publishedOn": "2022-09-13T04:00:00.000Z",
-          "wordCount": 344,
-          "title": "watchOS 9にアップデートすると、すべてのApple WatchでNike文字盤が使えるようになるよ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/10/Apple-Watch-S8-Nike-7up-hero-220907.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/10/Apple-Watch-S8-Nike-7up-hero-220907.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/09/how-to-use-twitter-circle.html",
-          "author": "岩田リョウコ",
-          "description": "友達だけに向けてつぶやける新機能「Twitterサークル」解説。",
-          "link": "https://www.gizmodo.jp/2022/09/how-to-use-twitter-circle.html",
-          "publishedOn": "2022-09-13T03:30:00.000Z",
-          "wordCount": 327,
-          "title": "友達だけにつぶやける新機能「Twitterサークル」の使い方説明します",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/220906_twittercircle1.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/220906_twittercircle1.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/09/ios16-watchos9-officially-released.html",
-          "author": "小暮ひさのり",
-          "description": "iOS 16とwatchOS 9が9月13日より正式リリース。",
-          "link": "https://www.gizmodo.jp/2022/09/ios16-watchos9-officially-released.html",
-          "publishedOn": "2022-09-13T03:00:00.000Z",
-          "wordCount": 345,
-          "title": "最新機能をアップデートで！ iOS 16、watchOS 9正式リリース！",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/2022-09-13iok002.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/2022-09-13iok002.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/09/amazon-anker-cableholder-1.html",
-          "author": "田中宏和",
-          "description": "デスク周りのケーブルを整理整頓できるホルダーといえば、Ankerの｢マグネット式 ケーブルホルダー｣は、なかなかの良製品です。今回ピックアップした｢結束バンド式 ケーブルホルダー｣も同じくAnker製なんですけど、こちらはマグネットの代わりに面ファスナーを採用したバージョン。ケーブルが太くても問題なく使えるし、これもなかなかいい感じですよ。",
-          "link": "https://www.gizmodo.jp/2022/09/amazon-anker-cableholder-1.html",
-          "publishedOn": "2022-09-13T02:45:00.000Z",
-          "wordCount": 369,
-          "title": "デスク周りスッキリ！ Ankerの結束バンド式 ケーブルホルダーを使ったら気持ちが上がりました",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/07/211007_ankerch_top.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/07/211007_ankerch_top.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/09/iphone-memo-case.html",
-          "author": "岡本玄介",
-          "description": "iPhone背面へのメモを可能にするのが、｢wemo（ウェモ）｣のケース。以前にはiPhone 12/12 Pro用がありましたが、このたびiPhone 14/14 Pro用に「CK-PG(14)」と「CK-PG(14PRO)」が登場しました。",
-          "link": "https://www.gizmodo.jp/2022/09/iphone-memo-case.html",
-          "publishedOn": "2022-09-13T02:30:00.000Z",
-          "wordCount": 332,
-          "title": "ちょっとしたメモをiPhoneに直書きできちゃうケース。油性ボールペンで書ける！",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/220913_wemo1.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/13/220913_wemo1.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/09/samsung-galaxy-z-fold-4-review-price-positive-worth-it.html",
-          "author": "satomi",
-          "description": "米ギズモードが、Samsung（サムスン）の折りたたみスマホ＋タブレット「Galaxy Z Fold 4」をレビュー。使い勝手は悪くないものの、やはり問題はその価格のようです。",
-          "link": "https://www.gizmodo.jp/2022/09/samsung-galaxy-z-fold-4-review-price-positive-worth-it.html",
-          "publishedOn": "2022-09-13T02:00:00.000Z",
-          "wordCount": 520,
-          "title": "手が届く値段ならぜったい買う。折りたたみスマホ「Galaxy Z Fold 4」レビュー",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/06/20220906GalaxyZFold4.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/06/20220906GalaxyZFold4.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/09/259104-machi-ya-utilitybackpack-review3.html",
-          "author": "山田洋路",
-          "description": "19L容量の「ユーティリティバックパック」は仕事も街歩きも快適にこなせます。究極の普通を目指した末に辿り着いたオールマイティな使い勝手に着目。体格や性別、シーンを問わず持ち出せて生活をミニマルなものにしてくれます。",
-          "link": "https://www.gizmodo.jp/2022/09/259104-machi-ya-utilitybackpack-review3.html",
-          "publishedOn": "2022-09-13T01:45:00.000Z",
-          "wordCount": 325,
-          "title": "あえて“普通を極めた”「ユーティリティバックパック」の使用感をチェック",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/08/%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3%E3%83%90%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%82%AF00.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/09/08/%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3%E3%83%90%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%82%AF00.jpg"
         }
       ]
     }
