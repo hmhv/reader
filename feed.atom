@@ -2,10 +2,549 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hmhv.github.io/reader/index.html</id>
     <title>hmhv::news</title>
-    <updated>2022-09-22T12:38:54.824Z</updated>
+    <updated>2022-09-23T12:37:46.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hmhv.github.io/reader/index.html"/>
     <link rel="self" href="https://hmhv.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「Windows 11 2022 Update」配布スタート、全方位的に便利になった！]]></title>
+        <id>https://www.gizmodo.jp/2022/09/windows-11-2022-update.html</id>
+        <link href="https://www.gizmodo.jp/2022/09/windows-11-2022-update.html"/>
+        <updated>2022-09-23T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Windows 11 2022 Updateリリース。マルチタスク機能やPCゲーム最適化、セキュリティ向上など機能面が大幅強化。]]></summary>
+        <author>
+            <name>そうこ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型AirPods ProをAirPods Maxと比較するとAppleが考える「いい音」の傾向が見えてきた]]></title>
+        <id>https://www.gizmodo.jp/2022/09/airpods-pro-2-and-max.html</id>
+        <link href="https://www.gizmodo.jp/2022/09/airpods-pro-2-and-max.html"/>
+        <updated>2022-09-23T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[今回AirPods Pro（第2世代）とAirPods Maxを比べてみました。そしてらAppleの考える「いい音」がはっきりと見えてきました。]]></summary>
+        <author>
+            <name>尾田和実</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirPods Pro 初代 vs 第2世代。あなたなら買い換える？]]></title>
+        <id>https://www.gizmodo.jp/2022/09/airpods-1vs2-comp.html</id>
+        <link href="https://www.gizmodo.jp/2022/09/airpods-1vs2-comp.html"/>
+        <updated>2022-09-23T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本日発売となったAirPods Pro第2世代。希望で胸を膨らませつついろいろ検証しましたが、果たして初代から買い換えるほど魅力的なのか？について、各項目ごとに見ていきたいと思います。]]></summary>
+        <author>
+            <name>三浦一紀</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[署名が楽しくなるね！ プロがデザインしたオリジナルサインを使ってみた]]></title>
+        <id>https://www.gizmodo.jp/2022/09/machi-ya-signus-review.html</id>
+        <link href="https://www.gizmodo.jp/2022/09/machi-ya-signus-review.html"/>
+        <updated>2022-09-23T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ホテルのチェックインやクレジットカード支払いの署名、あるいは宅配便のサインなど自分の名前を書くシーンって多いですよね？ そんな時に一目置かれそうなサインを書きたければプロクオリティのオリジナルサインを作ってみてはいかがでしょうか？ クラウドファンディングサイトmachi-yaでキャンペーン中のサイン作成サービス「SIGNUA（サイナス）」で筆者のサインがまるで芸能人のようになったので、練習風景など]]></summary>
+        <author>
+            <name>kotoha ozawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 14 Proの常時表示ディスプレイ、明るすぎてビビりました…]]></title>
+        <id>https://www.gizmodo.jp/2022/09/iphone-14-pro-always-on-display-1.html</id>
+        <link href="https://www.gizmodo.jp/2022/09/iphone-14-pro-always-on-display-1.html"/>
+        <updated>2022-09-23T10:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:小暮ひさのり2022年9月16日の記事を編集して再掲載しています。点灯（つい）てるみたいだろ？常時表示画面なんだぜ、これで。ちょっと感動したので聞いてください。仕事が一区切り付いたので、軽く伸びをしたら、デスクの隅っこに置いていたiPhone14Proに目が行ったんですよ。画面には時刻が表示されていて、「ああ、もうこんな時間か」と、時間の流れの速さに絶望したんですが、ここで違和感。「あ]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[これは便利。AirPods Pro第2世代はApple Watchの“あの”充電器で充電できます]]></title>
+        <id>https://www.gizmodo.jp/2022/09/airpods-applewatch-charger.html</id>
+        <link href="https://www.gizmodo.jp/2022/09/airpods-applewatch-charger.html"/>
+        <updated>2022-09-23T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[AirPods Pro第2世代は、USB-CLightning端子での充電のほか、ワイヤレス充電に対応しています。ワイヤレス充電便利ですよね。
+
+しかもMagSafeに対応しています。マグネット最高！
+
+そしてそして、なんとApple Watchの充電器で充電できるようになったのです！ これ、便利じゃないですか！]]></summary>
+        <author>
+            <name>三浦一紀</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型AirPods Proを今回はスルーする理由。初代Proユーザーはいつ買い換えるのが良いのか悩ましい…]]></title>
+        <id>https://www.gizmodo.jp/2022/09/airpods-pro-2nd-generation.html</id>
+        <link href="https://www.gizmodo.jp/2022/09/airpods-pro-2nd-generation.html"/>
+        <updated>2022-09-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[初代AirPods Proを使っている僕が、今日新型AirPods Proを触りました。結果から言うと、僕は今回の発売タイミングでの買い替えをスルーします。]]></summary>
+        <author>
+            <name>山本勇磨</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Amazonタイムセール中！】Belkinの3 in 1 ワイヤレス充電器が6%オフ、HyperXのゲーミングイヤホンセール特価など]]></title>
+        <id>https://www.gizmodo.jp/2022/09/amazon-timesale-2022-0923-1.html</id>
+        <link href="https://www.gizmodo.jp/2022/09/amazon-timesale-2022-0923-1.html"/>
+        <updated>2022-09-23T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon（アマゾン）で毎日開催されているタイムセール。本日2022年9月23日は、Belkinの3 in 1 ワイヤレス充電器が6%オフ、HyperXのゲーミングイヤホンセール特価など、今すぐ欲しい人気のアイテムがお得に多数登場しています。]]></summary>
+        <author>
+            <name>メディアジーンメディアコマース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【悲報】新型AirPods Proのストラップホール、PeakDesignのアンカーは付けられません]]></title>
+        <id>https://www.gizmodo.jp/2022/09/airpods-pro-peakdesign-anker.html</id>
+        <link href="https://www.gizmodo.jp/2022/09/airpods-pro-peakdesign-anker.html"/>
+        <updated>2022-09-23T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[今日発売のAirPods Pro（第2世代）でずっと試したかったことがあるんです。それはPeakDesignの「アンカーリンクス」が付けられるかどうか。]]></summary>
+        <author>
+            <name>amito</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[細かすぎて伝わらない新型AirPods Proの「探す」楽しみ方]]></title>
+        <id>https://www.gizmodo.jp/2022/09/airpods-pro-sagasu.html</id>
+        <link href="https://www.gizmodo.jp/2022/09/airpods-pro-sagasu.html"/>
+        <updated>2022-09-23T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[新型AirPods Proの充電ケースはU1チップが搭載されたことで、誤差数センチ程度でデバイスの場所を把握できるようになりました。これで見つけやすさもアップするはず！]]></summary>
+        <author>
+            <name>はらいさん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「iOS 16.0.2」登場、iPhone 14 Pro/14 Pro Maxでサードパーティアプリ利用時のカメラ不具合を解消]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1442204.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1442204.html"/>
+        <updated>2022-09-23T09:25:41.000Z</updated>
+        <summary type="html"><![CDATA[アップルは、iPhone向けに「iOS 16.0.2」の提供を開始した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirPods Pro（第2世代）に搭載された新機能「適応型環境音除去」が何度試しても効果がわからない]]></title>
+        <id>https://www.gizmodo.jp/2022/09/airpods-pro-2-denopise.html</id>
+        <link href="https://www.gizmodo.jp/2022/09/airpods-pro-2-denopise.html"/>
+        <updated>2022-09-23T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AirPods Pro（第2世代）になって、新たに搭載された機能のひとつが「適応型環境音除去」を試してみました。]]></summary>
+        <author>
+            <name>三浦一紀</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【楽天お買い物マラソン】終了間際！札幌味噌ラーメン4食セットがクーポン利用で半額、特大ズワイガニが3箱購入で1箱無料クーポン付きなど]]></title>
+        <id>https://www.gizmodo.jp/2022/09/rakuten-sale-2022-0923-1.html</id>
+        <link href="https://www.gizmodo.jp/2022/09/rakuten-sale-2022-0923-1.html"/>
+        <updated>2022-09-23T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[楽天市場では、複数ショップでの買い回りで還元ポイントがアップする｢お買い物マラソン｣が9月24日（土）1:59まで開催中。
+現在、札幌味噌ラーメン4食セットがクーポン利用で半額、特大ズワイガニが3箱購入で1箱無料クーポン付きなど、お得な商品が多数登場しています。]]></summary>
+        <author>
+            <name>メディアジーンメディアコマース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新旧AirPods Proの音質はどのくらい違うのか？ 聞き比べてみたよ]]></title>
+        <id>https://www.gizmodo.jp/2022/09/airpods-pro-1-or-2.html</id>
+        <link href="https://www.gizmodo.jp/2022/09/airpods-pro-1-or-2.html"/>
+        <updated>2022-09-23T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AirPods Pro第2世代が発売されて、やっぱり気になるのが音質面。第1世代と比べてどのくらい音質が変わっているのかな？ ということで、iPhone 14 Proと接続して、Apple Digital Mastersの曲を聞いて比べてみました。]]></summary>
+        <author>
+            <name>三浦一紀</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[povo2.0を選ぶ理由がまた増えちゃった！ iPhoneの「eSIM クイック転送」対応で機種変もかんたんです]]></title>
+        <id>https://www.gizmodo.jp/2022/09/povo-2-iphone-esim-1.html</id>
+        <link href="https://www.gizmodo.jp/2022/09/povo-2-iphone-esim-1.html"/>
+        <updated>2022-09-23T07:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:povo/Twitter2022年9月14日の記事を編集して再掲載しています。やるじゃん！povo！スマホからの申込みですぐに使えるpovoのeSIMが、さらに便利になりましたよ！iPhoneの「eSIMクイック転送」に対応したことで、iPhone間（iOS16が必要です）での機種変なら、本人確認不要で、それまで使っていたSIMカード・eSIMの契約情報を、新しいiPhoneのeSIM]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型AirPodsにはなぜスピーカーがついているのか？]]></title>
+        <id>https://www.gizmodo.jp/2022/09/airpods-speaker.html</id>
+        <link href="https://www.gizmodo.jp/2022/09/airpods-speaker.html"/>
+        <updated>2022-09-23T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[新型AirPods Proの充電ケースはストラップが付けられるようになったり、Apple Watchの充電器が使えるようになりましたが、最大のポイントはスピーカーが内蔵されたことではないでしょうか。]]></summary>
+        <author>
+            <name>はらいさん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[長旅や出張に。ビッグサイズな耐水トラベルポーチ「GRAVEL MAX」]]></title>
+        <id>https://www.gizmodo.jp/2022/09/machi-ya-gravelmax-review.html</id>
+        <link href="https://www.gizmodo.jp/2022/09/machi-ya-gravelmax-review.html"/>
+        <updated>2022-09-23T06:45:00.000Z</updated>
+        <summary type="html"><![CDATA[今回ご紹介する「GRAVEL MAX」は、最大容量6Lとビッグサイズなトラベルポーチ。細かいアメニティの整理や旅行グッズをたくさん詰め込めるサイズで、長旅や複数人での利用にもぴったり。撥水性や耐久性にも優れているので、アウトドアなどの屋外利用にも使いやすそうですよ。]]></summary>
+        <author>
+            <name>Haruki Matsumoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[誤動作しらず。AirPods Pro（第2世代）の音量調節が快適すぎた]]></title>
+        <id>https://www.gizmodo.jp/2022/09/airpods-pro-2-volume-control.html</id>
+        <link href="https://www.gizmodo.jp/2022/09/airpods-pro-2-volume-control.html"/>
+        <updated>2022-09-23T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:はらいさんAirPodsPro（第2世代）はイヤホンだけで音量調節ができるようになりましたが、使ってみた結果これがめちゃくちゃ便利。AirPodsProはステム部分を押し込むことで、ノイズキャンセリングや音楽再生の操作ができますが、新型モデルはさらにこの部分をなぞることで音量調節ができるようになりました。Image:はらいさん一回のスワイプで音量が一つ変わります。スワイプするとポン・ポ]]></summary>
+        <author>
+            <name>はらいさん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[わかるかな？ どっちがAirPods Pro（第2世代）でしょーか!?]]></title>
+        <id>https://www.gizmodo.jp/2022/09/airpods-pro-dochi.html</id>
+        <link href="https://www.gizmodo.jp/2022/09/airpods-pro-dochi.html"/>
+        <updated>2022-09-23T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:三浦一紀一発でわかったらすごいと思うよ。本日（9月23日）発売になりました、AirPodsPro（第2世代）。編集部にやってまいりましたので、早速僕が持っている旧AirPodsProと外観を比べてみたいと思います。さて、どっちが新しいほうかわかるかな？充電ケースを見てみよう！まずは充電ケースから。正面だとどっちがどっちかわかりませんね。スペックを見てみると、どちらもサイズは同じです。充]]></summary>
+        <author>
+            <name>三浦一紀</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 14を頑丈なアウトドア仕様にする無骨なケースが揃い踏み]]></title>
+        <id>https://www.gizmodo.jp/2022/09/iphone-14-case-amazon-1.html</id>
+        <link href="https://www.gizmodo.jp/2022/09/iphone-14-case-amazon-1.html"/>
+        <updated>2022-09-23T05:35:00.000Z</updated>
+        <summary type="html"><![CDATA[casetify-type-c-iphone-case2022年9月15日の記事を編集して再掲載しています。iPhoneをG-SHOCKっぽくできちゃう。大事なスマホを護るべく、ほとんどの人はケースに入れているかと思います。でもやっぱり落っことしたり、上に座ってしまったり踏んづけたりというアクシデントは付き物。であれば頑丈で、デザインも良いものを選びたいですよね。質実剛健なデザインROOTCO.が]]></summary>
+        <author>
+            <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無人の自動運転車に「目」を付けたら事故が減る？東大の研究で可能性が見えた]]></title>
+        <id>https://www.gizmodo.jp/2022/09/gazing-car.html</id>
+        <link href="https://www.gizmodo.jp/2022/09/gazing-car.html"/>
+        <updated>2022-09-23T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[東京大学大学院の情報理工学系研究科にて、自動運転車にパッチリしたお目々を付ける実験を行なっています。]]></summary>
+        <author>
+            <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[セブン-イレブンでチケット発券できず、システム障害]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1442165.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1442165.html"/>
+        <updated>2022-09-23T03:40:28.000Z</updated>
+        <summary type="html"><![CDATA[セブン-イレブン・ジャパンは、23日1時ごろから、チケットサービスのシステム障害が発生していることを明らかにした。店舗でチケットを発券できないという。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メインカメラが大幅に強化された「iPhone 14 Pro」　4800万画素の実力はいかに？]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2209/23/news033.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2209/23/news033.html"/>
+        <updated>2022-09-23T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[毎年恒例、新型iPhoneのカメラレビューの季節がやってきた。今回レビューする「iPhone 14 Pro」のカメラは、今までよりセンサーサイズが大きくなっただけでなく「4800万画素で撮影」できるようになった。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ジェイムズ・ウェッブ宇宙望遠鏡の最新画像は、これまで最も鮮明な海王星]]></title>
+        <id>https://www.gizmodo.jp/2022/09/webb-image-of-neptune-rings.html</id>
+        <link href="https://www.gizmodo.jp/2022/09/webb-image-of-neptune-rings.html"/>
+        <updated>2022-09-23T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ジェイムズ・ウェッブ宇宙望遠鏡が、またもや太陽系の天体の美しく精細な姿を捉えました。今回撮影された海王星の最新画像には薄いものの印象的な環が写っており、1989年以来最も鮮明な画像であると欧州宇宙機関（ESA）は述べています。]]></summary>
+        <author>
+            <name>たもり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Amazonタイムセール祭り】GalaxyのハイエンドタブやApple Watch SEが登場！ セール対象アイテムを予習しよう]]></title>
+        <id>https://www.gizmodo.jp/2022/09/amazon-timesale-fes-2022-0923.html</id>
+        <link href="https://www.gizmodo.jp/2022/09/amazon-timesale-fes-2022-0923.html"/>
+        <updated>2022-09-23T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年9月24日（土）9:00 ～ 27日（火）23:59に開催される ｢Amazonタイムセール祭り｣。今回は約4日間の開催です。家電や日用品などを中心に、人気アイテムがセール価格となる大チャンス！セールが始まる前に、すでに公開されているラインナップの一部をチェックしておきましょう。]]></summary>
+        <author>
+            <name>メディアジーンメディアコマース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eSIMを再発行して新しいスマホに移す方法：Y!mobile、UQ mobile編]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2209/23/news052.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2209/23/news052.html"/>
+        <updated>2022-09-23T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[iPhone 14を購入するにあたり、eSIMを再発行するという人も多いだろう。そこで、サービスごとにeSIMのプロファイルを再発行する方法をまとめた。今回はY!mobileとUQ mobileのケースを取り上げる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[空気清浄機の音さえ気になる…｡そんな人の快適な眠りをサポートするノイキャン耳栓｢EARPEACE Sleep｣]]></title>
+        <id>https://www.gizmodo.jp/2022/09/giz-yatai-earpeace-sleep.html</id>
+        <link href="https://www.gizmodo.jp/2022/09/giz-yatai-earpeace-sleep.html"/>
+        <updated>2022-09-23T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筆者は場所を選ばずにすぐに寝られるのが自慢でしたが、Fitbitのデータを見たら意外とそうでもなかったらしく驚きました。
+
+振り返ってみれば、確かに入眠までに時間がかかっていたかも。原因は、色々と気になる音があって寝る姿勢にチャンネルを合わせられないこと。
+
+そこで、物理的に寝ることに集中するために、睡眠に特化した耳栓｢EARPEACE Sleep｣を使ってみました。]]></summary>
+        <author>
+            <name>中川真知子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【期間限定セール】51%OFF！大人気の強炭酸水24本セットが超お買い得]]></title>
+        <id>https://www.gizmodo.jp/2022/09/259541-costory-sparklingwater.html</id>
+        <link href="https://www.gizmodo.jp/2022/09/259541-costory-sparklingwater.html"/>
+        <updated>2022-09-23T01:45:00.000Z</updated>
+        <summary type="html"><![CDATA[こちらは（株）メディアジーンのメディアコマース・チームが編集・執筆した記事です。シュワっとした喉ごしさわやかな炭酸水は、どんな食事にも合わせやすく、健康増進効果が期待できる飲料です。ゼロカロリーの強炭酸水は、ダイエットの強い味方でもあるため、年々ファンは増すばかり。その人気の炭酸水を、共同購入でお安くゲットできるチャンスです。「LDC　強炭酸水500ml×24本」セットはいかがでしょうか。ミネラル]]></summary>
+        <author>
+            <name>飯田あゆみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[慣れ親しんだ「iPhone」の「i」　どういう意味でつけられた？]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2209/23/news036.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2209/23/news036.html"/>
+        <updated>2022-09-23T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[iPhoneやiPad、iMacのユーザーにとっては慣れ親しんだ「i○○」という名称。だが、どうして「i」が名付けられているのかは意外と気にしていないもの。いったいどういう意味でつけられた言葉なのか。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ラスタバナナ、「iPhone 14」シリーズ対応アクセサリーを発売]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1442010.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1442010.html"/>
+        <updated>2022-09-23T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[テレホンリースは、通販サイト「ラスタバナナダイレクト」において、iPhone 14シリーズに対応したアクセサリーを発売した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[d払いアプリ、チャージ方法からdスマホローンを選択可能に]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1441903.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1441903.html"/>
+        <updated>2022-09-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモは、スマートフォン決済アプリ「d払い」において、チャージ方法選択に新たに「dスマホローン」を追加した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirPods Pro（第2世代）のイヤーチップ、第1世代とわずかに異なる]]></title>
+        <id>https://gori.me/?p=144139</id>
+        <link href="https://gori.me/music-accessories/airpods/144139"/>
+        <updated>2022-09-22T23:43:48.000Z</updated>
+        <summary type="html"><![CDATA[Appleは9月22日、公式サポートドキュメント「ぴったりサイズの AirPods Pro イヤーチップを選び、イヤーチップ装着状態テストをする」の米国ページを更新。AirPods Pro（第1世代）用のイヤーチップは、第2世代モデルと比べて高密度のメッシュを使用していると明らかにした。 AirPo…
+The post AirPods Pro（第2世代）のイヤーチップ、第1世代とわずかに異なる first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LinksMateがeSIM新規発行手数料無料キャンペーン、12月31日まで]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1441959.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1441959.html"/>
+        <updated>2022-09-22T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[LogicLinksは、MVNOサービス「LinksMate」において、eSIM新規発行手数料が無料となるキャンペーンを開始した。期間は12月31日23時59分まで。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモショップ内で即日修理できる「Galaxy リペアコーナー」、新たに8店舗がオープン]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1441721.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1441721.html"/>
+        <updated>2022-09-22T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[サムスン電子は、ドコモショップ内でGalaxyスマートフォンを修理できる「Galaxy リペアコーナー」を新たに8店舗オープンした。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ProGrade、COBALTシリーズの15％オフセールを開催へ]]></title>
+        <id>https://gori.me/?p=144137</id>
+        <link href="https://gori.me/sale/peripheral-sale/144137"/>
+        <updated>2022-09-22T22:11:24.000Z</updated>
+        <summary type="html"><![CDATA[ProGrade Digitalが9月24日から開催予定の「Amazonタイムセール祭り」に参加する。CFexpress Type B COBALT 325GBおよび650GB、Type A COBALT 160GB、SDXC UHS-II V90 COBALT 64GB、128GB、256GBの合…
+The post ProGrade、COBALTシリーズの15％オフセールを開催へ first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[セール内容をちょい見せ。タイムセール祭りでAmazonデバイスが値下げへ]]></title>
+        <id>https://gori.me/?p=144104</id>
+        <link href="https://gori.me/amazon/amazon-sale/144104"/>
+        <updated>2022-09-22T21:56:56.000Z</updated>
+        <summary type="html"><![CDATA[Amaoznが9月24日より開催する87時間のビッグセール「タイムセール祭り」に先立ち、Amazonがセール情報を一部事前公開した。Fire TV StickやEcho Show 5などのAmazonデバイスが少なくとも2,000円〜4,000円オフで販売されるという。 【関連】Amazon、9月2…
+The post セール内容をちょい見せ。タイムセール祭りでAmazonデバイスが値下げへ first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Androidでも島体験！Dynamic Islandを模倣したアプリが登場]]></title>
+        <id>https://gori.me/?p=144128</id>
+        <link href="https://gori.me/apps/android-app-news/144128"/>
+        <updated>2022-09-22T21:40:47.000Z</updated>
+        <summary type="html"><![CDATA[iPhone 14 ProとiPhone 14 Pro MaxのDynamic Islandを体験できるAndroidアプリ「dynamicSpot」が、Google Play Storeに登場した。Appleの実装方法を正確に模倣しており、擬似的に作られたDynamic Islandエリアをホール…
+The post Androidでも島体験！Dynamic Islandを模倣したアプリが登場 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 14に減産報道。iPhone 14 Proのほうが人気か]]></title>
+        <id>https://gori.me/?p=144126</id>
+        <link href="https://gori.me/iphone/iphone14/144126"/>
+        <updated>2022-09-22T21:35:57.000Z</updated>
+        <summary type="html"><![CDATA[Appleは、早くもiPhone 14の通常モデルを減産した可能性がある。中国メディアによると、最大規模のiPhone 14シリーズ用製造工場を持つFoxconnは、少なくとも5本の製造ライン解体を命じられたという。製造ラインが6.1インチのiPhone 14限定か、6.7インチのiPhone 14…
+The post iPhone 14に減産報道。iPhone 14 Proのほうが人気か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple、2025年までに25％のiPhoneモデルをインドで製造か]]></title>
+        <id>https://gori.me/?p=144124</id>
+        <link href="https://gori.me/iphone/iphone-news/144124"/>
+        <updated>2022-09-22T21:30:11.000Z</updated>
+        <summary type="html"><![CDATA[Appleは今後、中国以外におけるiPhoneの製造比率を増やす計画がある。Reutersによると、2025年までに全体の25％がインドで製造されるという。 すでにiPhone 13など一部モデルはインドで製造されており、今後iPhone 14も追加される予定。2022年末までにはiPhone 14…
+The post Apple、2025年までに25％のiPhoneモデルをインドで製造か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirPods Pro（第2世代）向けに新しいファームウェアが配信開始]]></title>
+        <id>https://gori.me/?p=144134</id>
+        <link href="https://gori.me/music-accessories/airpods/144134"/>
+        <updated>2022-09-22T21:21:51.000Z</updated>
+        <summary type="html"><![CDATA[Appleが、AirPods Pro（第2世代）向けに最新ファームウェアをリリースした。MacRumorsによると、出荷時のファームウェアは「5A374」だが、最新バージョンは「5A377」だという。詳細は明らかになっていない。 AirPodsのアップデートを手動で適用する方法はない。ファームウェア…
+The post AirPods Pro（第2世代）向けに新しいファームウェアが配信開始 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Watch Ultra向けにwatchOS 9.0.1がリリース。セットアップしたらアップデートしよう]]></title>
+        <id>https://gori.me/?p=144132</id>
+        <link href="https://gori.me/watchos/watchos9/144132"/>
+        <updated>2022-09-22T21:10:07.000Z</updated>
+        <summary type="html"><![CDATA[Appleが、Apple Watch Ultra向けにwatchOS 9.0.1をリリースした。Apple Watch Ultraは本日9月23日に一般販売を開始する。リリースノートによると、Apple Watch Ultra用のスピーカーを使用した通話の歪みなどのバグ修正および改良が含まれていると…
+The post Apple Watch Ultra向けにwatchOS 9.0.1がリリース。セットアップしたらアップデートしよう first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirPods Pro（第2世代）の先行レビューまとめ]]></title>
+        <id>https://gori.me/?p=144107</id>
+        <link href="https://gori.me/music-accessories/airpods/144107"/>
+        <updated>2022-09-22T21:00:02.000Z</updated>
+        <summary type="html"><![CDATA[AirPods Pro（第2世代）の先行レビューが、国内外で解禁された。一般発売は9月23日（金）。 最新モデルの外観は旧モデルと変わっていないが、アクティブノイズキャンセリングと外部音取り込みモードの大幅なアップグレード、ユーザーごとに最適化した空間オーディオ機能などに対応。スワイプ操作に対応し、…
+The post AirPods Pro（第2世代）の先行レビューまとめ first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 14 Proの「常時表示ディスプレイ」、電池持ちへの影響は？　実機で検証してみた]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2209/22/news152.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2209/22/news152.html"/>
+        <updated>2022-09-22T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[iPhone 14 Pro／iPhone 14 Pro Maxは常時表示ディスプレイを搭載する。ロック画面の輝度を下げつつ時刻、事前に設定したウィジェット、壁紙を常に表示させておける。電池の持ちに影響するのか、実機で検証してみた。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[てっぱんアプリ！] 意外と知らない？ Webブラウザー「Google Chrome」のショートカット機能]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/teppan/1442080.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/teppan/1442080.html"/>
+        <updated>2022-09-22T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スマホを、もっと楽しく快適に使うには、アプリを活用しよう。本コーナーでは、続々登場する旬なアプリの中から編集部が厳選した、スマホユーザー必携の“てっぱん”アプリをご紹介します！]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 16.0.2、正式リリース。カメラの異常な振動、しつこいコピペ確認など各種バグを修正]]></title>
+        <id>https://gori.me/?p=144130</id>
+        <link href="https://gori.me/ios/ios16/144130"/>
+        <updated>2022-09-22T20:24:33.000Z</updated>
+        <summary type="html"><![CDATA[Appleは9月23日、iOS 16.0.2を正式リリースした。iPhone 14 Proシリーズの一部モデルで報告されていたカメラがガタガタ揺れる問題などやiOS 16で頻出するコピペの確認画面などの不具合が修正されている。データ転送後にフリーズする問題が解消されたかは不明だ。 対応内容を記載した…
+The post iOS 16.0.2、正式リリース。カメラの異常な振動、しつこいコピペ確認など各種バグを修正 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アイカサが10月から値上げ、月額プランは据え置きに]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1441955.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1441955.html"/>
+        <updated>2022-09-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nature Innovation Groupは、傘のシェアリングサービス「アイカサ」において、利用料金の改定を行うと発表した。改定後の値段が適用されるのは、2022年10月1日0時00分レンタル分から。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Chromecast with Google TV」に廉価モデル登場　フルHD／HDR対応で4980円]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2209/22/news143.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2209/22/news143.html"/>
+        <updated>2022-09-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Googleが2020年11月に発売した「Chromecast with Google TV」に廉価モデルが登場する。最大の出力解像度をフルHDに抑えて価格を下げた一方で、HDR映像の出力など主要な機能は維持している。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Googleから新製品「Chromecast with Google TV (HD) 」22日発売、4980円]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1442083.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1442083.html"/>
+        <updated>2022-09-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[グーグル（Google）は、ネット上のコンテンツをテレビで楽しめるようにするデバイス「Chromecast with Google TV (HD)」を発表した。22日よりGoogleストアや量販店、各通販サイトで購入できる。価格は4980円。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[石川温の「スマホ業界 Watch」]23日発売！　「AirPods Pro（第2世代）」を試して分かった、秀逸な機能とiPhoneとの親和性]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/ishikawa/1442066.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/ishikawa/1442066.html"/>
+        <updated>2022-09-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[9月23日に発売となるアップル「AirPods Pro（第2世代）」を入手。10日間ほど、試す機会を得た。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最新REGZAが最大3万円オフの超お得タイムなので、Amazonへ急いだほうが良い]]></title>
+        <id>https://www.gizmodo.jp/2022/09/regza-amazon-sale.html</id>
+        <link href="https://www.gizmodo.jp/2022/09/regza-amazon-sale.html"/>
+        <updated>2022-09-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年の最新REGZA「M550L series」が全サイズでセールになっています。]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソリッドでリアルな重さと振動をもたらす高級ハンコン「PRO Racing Wheel」]]></title>
         <id>https://www.gizmodo.jp/2022/09/logicool-g-pro-handle-controller.html</id>
@@ -2482,722 +3021,6 @@ The post Anker Store東京ミッドタウン八重洲店、オープン。関東
         <summary type="html"><![CDATA[Zepp Healthの独自ブランド「Amazfit」は、スマートバンドの新製品「Amazfit Band 7」を9月16日にオンラインで先行発売した。販売価格は7980円。実店舗での発売は10月末を予定している。]]></summary>
         <author>
             <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[eSIM普及の起爆剤に？　iOS 16の新機能「eSIM クイック転送」のインパクトと課題]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2209/17/news055.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2209/17/news055.html"/>
-        <updated>2022-09-17T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[iOS 16の新機能「eSIM クイック転送」を利用すると、新旧のiPhoneがiCloudかBluetoothでつながり、eSIMプロファイルが新しいiPhoneに移ってすぐ通信が可能になる。eSIM クイック転送はキャリアの対応が必要になり、現時点では利用できるキャリアはKDDIと楽天モバイルの2社にとどまっている。今後、この機能は広がっていくのか。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最大70％オフ。Kindleストア、「KADOKAWA 秋の電子書籍フェア」を開催中]]></title>
-        <id>https://gori.me/?p=144005</id>
-        <link href="https://gori.me/sale/kindle-sale/144005"/>
-        <updated>2022-09-17T00:10:42.000Z</updated>
-        <summary type="html"><![CDATA[Kindleストアが、対象作品7,000点以上が最大70％オフで購入できる「KADOKAWA 秋の電子書籍フェア」を開催している。セールは2022年9月29日まで。 対象作品には、『オートモードで月に18.5万円が入ってくる「高配当」株投資　ど素人サラリーマンが元手5万円スタートでできた！』、『知っ…
-The post 最大70％オフ。Kindleストア、「KADOKAWA 秋の電子書籍フェア」を開催中 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Fi、5Gエリア拡大や米国外でiPhoneのテザリング対応などサービス拡充]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1440636.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1440636.html"/>
-        <updated>2022-09-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Google（グーグル）は、同社のMVNOサービス「Google Fi」のサービスを拡充し、米国外で5Gに対応する国や地域を拡大したほか、iPhoneで利用できる機能を追加した。これらのエリア拡大や機能追加による追加料金は発生しない。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[長寿命＆大容量ポタ電があれば、停電も怖くないし秋キャンプが盛り上がるに違いない！]]></title>
-        <id>https://www.gizmodo.jp/2022/09/anker-555-portable-power-station.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/anker-555-portable-power-station.html"/>
-        <updated>2022-09-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[キャンプなどのアウトドアでの電源としてはもちろん、昨今の電力不足による蓄電やピークシフト用としても注目されているポータブル電源。モバイルバッテリーでおなじみのAnkerから長寿命＆大容量＆（がんばれば）持ち運べるという、「Anker 555 Portable Power Station (PowerHouse 1024Wh) 」が登場です。]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon、9月24日よりタイムセール祭り開催。対象商品を一部公開]]></title>
-        <id>https://gori.me/?p=144003</id>
-        <link href="https://gori.me/amazon/amazon-sale/144003"/>
-        <updated>2022-09-16T23:36:49.000Z</updated>
-        <summary type="html"><![CDATA[Amazonが、87時間のビッグセール「タイムセール祭り」を開催する。開催期間は、2022年9月24日（土）9時から9月27日（火）23時59分。 今回のセールでは、Echo Show 5（第2世代）、TCL製の50V型4K液晶テレビ、Apple Watch SE、Anker Soundcore L…
-The post Amazon、9月24日よりタイムセール祭り開催。対象商品を一部公開 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USB-C化、マダァ？iPhone 14 ProのLightningポートはUSB 2.0仕様]]></title>
-        <id>https://gori.me/?p=144001</id>
-        <link href="https://gori.me/iphone/iphone14pro/144001"/>
-        <updated>2022-09-16T23:07:59.000Z</updated>
-        <summary type="html"><![CDATA[iPhone 14 ProとiPhone 14 Pro Maxは、進化した4,800万画素のメインカメラでProRAW写真を撮影できる。1枚約75MBのファイルサイズだが、Lightning端子の転送速度はUSB 2.0仕様の最大480Mbpsであると明らかになった。 Appleは昨年、4K HDR…
-The post USB-C化、マダァ？iPhone 14 ProのLightningポートはUSB 2.0仕様 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TGS「Xperia」ブース、オープニングイベントには前田 佳織里が登場――「Xperia Stream」の開発中模型も初披露]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1440853.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1440853.html"/>
-        <updated>2022-09-16T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[幕張メッセ（千葉県千葉市）で開催されている東京ゲームショウ2022（TGS）では、ソニーのスマートフォン「Xperia」シリーズが出展されている。一般公開は、9月17日～18日まで。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ポラール、胸心拍センサー「POLAR H10 N」の新色4色]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1440325.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1440325.html"/>
-        <updated>2022-09-16T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ポラールはストラップのデザイン性を高めた胸心拍センサー「POLAR H10 N」を発売した。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LINEアプリ上の「LINE スターバックス カード」への入金に「PayPay」が利用可能に]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1439984.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1439984.html"/>
-        <updated>2022-09-16T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[LINEアプリ上の「LINE スターバックス カード」への入金に「PayPay」が利用可能となった。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソニー系のSNCSP社、法人向けに「ソフトバンク回線の3in1 SIM」「14桁の020番号」を提供開始]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1439913.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1439913.html"/>
-        <updated>2022-09-16T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ソニーネットワークコミュニケーションズスマートプラットフォーム（SNCSP）は、MVNO支援サービスと、IoT事業者および企業向けNoCode IoT/DX Platform「MEEQ（ミーク）」において、ソフトバンク回線の3in1 SIMの提供および、M2M等専用番号（020番号）の14桁での付番を9月13日に開始した。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[凸版印刷が古文書解読アプリを開発、2023年1月にベータ版公開へ]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1439906.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1439906.html"/>
-        <updated>2022-09-16T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[凸版印刷は、スマートフォンで撮影したくずし字資料を、その場で解読できるアプリを開発した。同社は、2021年に古文書解読支援システム「ふみのはゼミ」の提供を開始したが、パソコン・タブレット上での利用かつ法人向けに限られていた。今回開発されたアプリは、個人でも利用できるものになる。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KAPOK KNOT、MIYASHITA PARKに常設店舗をオープン。店頭で試着、購入可能に]]></title>
-        <id>https://gori.me/?p=143983</id>
-        <link href="https://gori.me/lifestyle/143983"/>
-        <updated>2022-09-16T21:30:59.000Z</updated>
-        <summary type="html"><![CDATA[植物カポックの実からできた繊維「カポック」を使用したファッションアイテムを展開するKAPOK KNOTが、渋谷の商業施設「MIYASHITA PARK」内に初となる常設店舗「KAPOK KNOT MIYASHITA PARK STORE」をオープンした。 常設店の特徴は、店頭に在庫があること。従来は…
-The post KAPOK KNOT、MIYASHITA PARKに常設店舗をオープン。店頭で試着、購入可能に first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 14 Proのカメラってすごいの？動画クリエイターが撮るとこうなる]]></title>
-        <id>https://gori.me/?p=143998</id>
-        <link href="https://gori.me/iphone/iphone14pro/143998"/>
-        <updated>2022-09-16T14:06:33.000Z</updated>
-        <summary type="html"><![CDATA[iPhone 14 Proのカメラは、映像制作を生業としている人から見てどれほど進化しているのか。デジタルライフクリエイター高澤けーすけ氏が、iPhone 14 Proのシネマティックモードで撮影した動画が話題になっている。 iPhone 14 Proのシネマティックモードは、4K＠24fpsまたは…
-The post iPhone 14 Proのカメラってすごいの？動画クリエイターが撮るとこうなる first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS16のロック画面は、僕に「スマホをいじる」楽しさを思い出させてくれた]]></title>
-        <id>https://www.gizmodo.jp/2022/09/ios-16-wallpaper.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/ios-16-wallpaper.html"/>
-        <updated>2022-09-16T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ロック画面のカスタマイズ機能がめちゃくちゃ楽しいんですよ。「壁紙にどの写真使おうかな〜！」って、写真を掘り起こすのも楽しいし、壁紙に合わせて時計のフォントやウィジェットを考えるのも楽しくて楽しくて…。]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Nothing Phone (1)」を触ると、まだ見ぬ「iPhone 14 Plus」をイメージできます]]></title>
-        <id>https://www.gizmodo.jp/2022/09/nothing-phone-1-iphone-14-plus.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/nothing-phone-1-iphone-14-plus.html"/>
-        <updated>2022-09-16T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:小暮ひさのりPlusと似たサイズ感！でも、軽い！編集部にはiPhone14、iPhone14Pro、iPhone14ProMaxとたくさんiPhoneが集まっているのですが、1モデル足りていません。そう、「iPhone14Plus」です。今年のiPhone、実は「iPhone14Plus」だけ発売日が遅くて、10月7日発売となっています。いろいろ他のiPhoneと比べられたらな〜って思]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[もう使ってる？iPhoneのWiFiを｢完全に｣オフにするボタンを作る方法]]></title>
-        <id>https://www.gizmodo.jp/2022/09/iphone-wifi-off-shortcut-1.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/iphone-wifi-off-shortcut-1.html"/>
-        <updated>2022-09-16T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:amito2019年2月14日の記事を編集して再掲載しています。純正でこのボタンがないのがふしぎ。街中でiPhoneが勝手につながってしまうWiFi、イライラしません？なんかネットがつながらない！と思ったら勝手に公衆WiFiにつながっててまたかああああ、ってなるアレです。僕、通勤のあいだに3回くらい起こります。画面端からシュッとだすコントロールセンターからWiFiをオフにすればいいので]]></summary>
-        <author>
-            <name>amito</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[柔らかいけど沈みすぎない。水の力で快適な睡眠をサポートする枕が登場]]></title>
-        <id>https://www.gizmodo.jp/2022/09/machi-ya-waterpillow-start.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/machi-ya-waterpillow-start.html"/>
-        <updated>2022-09-16T12:45:00.000Z</updated>
-        <summary type="html"><![CDATA[「水の枕」はその名の通り、カイロプラクティック専門家が開発した枕。枕の中に水を注入することでフィット感を向上させた製品となっています。寝返りもしやすく、さまざまな寝姿勢にも対応するなど機能性も十分。水の抜き入れで高さの調節も簡単なんだそうですよ。]]></summary>
-        <author>
-            <name>muu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9月のAmazonタイムセール祭り、24日9時から]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1440830.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1440830.html"/>
-        <updated>2022-09-16T12:43:15.000Z</updated>
-        <summary type="html"><![CDATA[Amazon.co.jpで、「タイムセール祭り」が9月24日9時～27日23時59分まで開催される。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 14には充電器付きませんからね。Ankerの充電器をセール中にポチっておくと勝利かも！]]></title>
-        <id>https://www.gizmodo.jp/2022/09/anker-511-charger-anker-525-charging-station.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/anker-511-charger-anker-525-charging-station.html"/>
-        <updated>2022-09-16T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:アンカー・ジャパン周辺機器も一緒にね！まもなく発売されるiPhone14シリーズ。みなさん予約しました？久しぶりにiPhoneを買い換える方は1点注意なのですが、最近のiPhoneは充電器付いてきません。なので、別途用意する必要があるんですよね。しかも高速充電するにはそれなりに出力があるモデルを選ばないと…。と、そんなタイミングで新製品をぶっ込んできたのがおなじみAnker。iPhon]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ついに始まった「Wi-Fi 6E」　既存の対応機器で有効化するのは難しい？　総務省に確認して分かったこと]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2209/16/news203.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2209/16/news203.html"/>
-        <updated>2022-09-16T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[日本でも解禁された「Wi-Fi 6E」だが、解禁日（9月2日）より前に登場した「Wi-Fi 6Eレディ」な機器においてWi-Fi 6Eを利用するには超えなければならない“ハードル”がある。総務省への確認を踏まえて、かいつまんで解説していく。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今ならまだ間に合う！これから値上がりするギズ屋台のプロダクトまとめ]]></title>
-        <id>https://www.gizmodo.jp/2022/09/giz-yatai-price-increase.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/giz-yatai-price-increase.html"/>
-        <updated>2022-09-16T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[すでに円安の影響はiPhoneの価格などさまざまな方面に出ていますが、われらがギズ屋台にも9月20日に価格改定される商品がいくつか出てきてしまいました。そこで､値上がりが決まっている（逆にいうといまが買い時）なプロダクトを、ここではご紹介したいと思います。]]></summary>
-        <author>
-            <name>塚本直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A社の「◯◯ペイ」からB社の「△△ペイ」へ送金できるように、全銀システムの参加資格が拡大へ]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1440806.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1440806.html"/>
-        <updated>2022-09-16T11:49:54.000Z</updated>
-        <summary type="html"><![CDATA[全国銀行資金決済ネットワーク（全銀ネット）は、15日、「全国銀行データ通信システム（全銀システム）」の参加資格を、資金移動業者へ拡大することを決定した。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[13インチまでのPCを収納できる次世代スリングバッグ「Modern Pack 16L」]]></title>
-        <id>https://www.gizmodo.jp/2022/09/259191-machi-ya-modernpack16l-start.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/259191-machi-ya-modernpack16l-start.html"/>
-        <updated>2022-09-16T11:45:00.000Z</updated>
-        <summary type="html"><![CDATA[「Modern Pack 16L」は、コンパクトながら13インチまでのPCを収納できる大容量スリングバッグ。超軽量かつ強度に優れたハイテク素材「X-PAC」を全面に採用し、防水性能にも優れます。メインコンパートメントには2通りのアクセス方法があり、PC専用の独立ポケットでリモートワークにも便利です。]]></summary>
-        <author>
-            <name>山科拓郎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fitbit新商品発表会、米グーグルのスティーブ氏「データ収集と分析力がFitbitの強み」]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1440804.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1440804.html"/>
-        <updated>2022-09-16T11:34:01.000Z</updated>
-        <summary type="html"><![CDATA[グーグル（Google）は、スマートウォッチブランド「fitbit」から、最新スマートバンド「Inspire 3」と、スマートウォッチ「Versa 4」「Sense 2」を9月16日以降に発売する。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 16のロック画面ウィジェットに対応したウェザーニュースアプリが優秀すぎて泣きそう]]></title>
-        <id>https://www.gizmodo.jp/2022/09/weather-news-app.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/weather-news-app.html"/>
-        <updated>2022-09-16T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:三浦一紀見てくださいよ、俺のウェザーニュース愛。iOS16から搭載された新機能「ロック画面ウィジェット」。本日iPhone14Proを入手したので、さっそくカスタマイズしてみました。時刻以外は全部ウェザーニュースのウィジェットに！僕、家で仕事をしているときはずーっとウェザーニュースLiVEというネット番組を見ています。24時間365日天気予報を配信しているのですが、キャスター陣が朝5時]]></summary>
-        <author>
-            <name>三浦一紀</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ナイス節電！ iPhone 14 Proの常時表示、Apple Watch付けて部屋から出ると完全に消える]]></title>
-        <id>https://www.gizmodo.jp/2022/09/apple-watch-iphone-always-on.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/apple-watch-iphone-always-on.html"/>
-        <updated>2022-09-16T11:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:ギズモード・ジャパン画面見てないよね？だったらオフね。という気遣い。本当に細かくて、ひょっとしたら装着者が気づかないレベルで細かな節電への配慮なのですが、iPhone14Proシリーズの画面って、常時表示にしていてもAppleWatchを装着して部屋から出ることで（離れると）、完全消灯するんです。別に画面を見る人がいないに、律儀に画面を点けている必要はない。ってことですね。めちゃくちゃ]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhoneにeSIMをサクッと移せる　iOS 16の「eSIM クイック転送」を試してみた]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2209/16/news201.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2209/16/news201.html"/>
-        <updated>2022-09-16T11:12:00.000Z</updated>
-        <summary type="html"><![CDATA[iOS 16では新たに「eSIM クイック転送」に対応した。この機能を活用することで、iPhoneの設定のみで旧端末から新端末にeSIMの情報を移すことができる。povoと楽天モバイルのeSIMを、iPhone 13 ProからiPhone 14 Proに移してみた。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 14／iPhone 14 Pro、お気づきかと思いますがLightningです。転送速度はUSB 2.0です]]></title>
-        <id>https://www.gizmodo.jp/2022/09/iphone14-lightning.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/iphone14-lightning.html"/>
-        <updated>2022-09-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:小暮ひさのり知ってたんだけど、念の為ね。iPhone14Proでは静止画をRAWで撮影できたり、動画もProResで撮影できたりと、保存されるデータ量も膨大になっています。それらをUSB2.0規格のLightningで転送させるのはちょっと辛いので、今回のLightningはUSB3.0に対応かも!?という奇跡をちょっとだけ期待したくなりました。まぁ、結果から言うと何も変わらずUSB2]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楽天モバイル、「Apple Watch Series 8」18日発売に]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1440724.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1440724.html"/>
-        <updated>2022-09-16T10:48:27.000Z</updated>
-        <summary type="html"><![CDATA[楽天モバイルは、「Apple Watch Series 8」を9月18日に発売する。価格は7万4800円～12万800円。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[汚れ知らずのレザースリッポン「Scooter Zero」を試してみた]]></title>
-        <id>https://www.gizmodo.jp/2022/09/machi-ya-scooterzero-review.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/machi-ya-scooterzero-review.html"/>
-        <updated>2022-09-16T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[「Scooter Zero」は、アップサイクルレザーから生まれた汚れ知らずのスリッポン。レザーに防汚特化のコーティングを施したため、水や汚れはもちろん傷にも強いのが特長。アウトソールやシューズ内にもそれぞれ快適性を保つための機能を備えています。今回はそんな機能性スリッポンでお散歩してみました。]]></summary>
-        <author>
-            <name>Yama3</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[いまさら聞けないiPhone文字入力テクニック9選]]></title>
-        <id>https://www.gizmodo.jp/2022/09/iphone-text-technic.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/iphone-text-technic.html"/>
-        <updated>2022-09-16T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:三浦一紀まだまだ世の中には知らないことがあるね…。長年iPhoneを使っていても、意外と気付いていないことはあるもの。そこで、文字入力に関するちょっとしたテクニックを9つご紹介します。これを読めば、文字入力速度がアップすること間違いなし！単語選択Webページやメモ帳などで、単語などの文字列を選択したい場合は、その部分をダブルタップします。うまくいかないなという方は、ダブルタップの2回目]]></summary>
-        <author>
-            <name>三浦一紀</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[もうやった？ iPhone 14を買ったら確認すべきカメラ設定]]></title>
-        <id>https://www.gizmodo.jp/2022/09/iphone-14-camera-setting.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/iphone-14-camera-setting.html"/>
-        <updated>2022-09-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:三浦一紀まずはここを確認してね。みなさーん、iPhone14買ってきました？僕はもちろん買ってきましたよ、iPhone14Pro。いやー、いいですねディープパープル！思わず「湖上の煙」って言いたくなりますね。で、iPhone14を買ってきたらまず確認していただきたいのが、カメラの設定です。特にiPhone14Pro/ProMaxを手に入れた方で、カメラ性能をフルに活用したいなら必ず行な]]></summary>
-        <author>
-            <name>三浦一紀</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Amazonタイムセール中！】競技用有線ゲーミングヘッドセットが49%オフ、Jackeryのポータブル電源が22%オフなど]]></title>
-        <id>https://www.gizmodo.jp/2022/09/amazon-timesale-2022-0916-1.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/amazon-timesale-2022-0916-1.html"/>
-        <updated>2022-09-16T09:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon（アマゾン）で毎日開催されているタイムセール。本日2022年9月16日は、競技用優先ゲーミングヘッドセットが49%オフやJackeryのポータブル電源が22%オフなど、今すぐ欲しい人気のアイテムがお得に多数登場しています。]]></summary>
-        <author>
-            <name>メディアジーンメディアコマース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone機種変での「LINE移行」がますます簡単になってるので、やり方をまとめました]]></title>
-        <id>https://www.gizmodo.jp/2022/09/iphone-change-line.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/iphone-change-line.html"/>
-        <updated>2022-09-16T09:15:00.000Z</updated>
-        <summary type="html"><![CDATA[iPhoneの機種変で失敗しないための、LINEの乗り換え方法をご紹介。
-基本はLINE公式の「LINEあんぜん引き継ぎガイド」に沿って進めていけばOKですが、せっかくなので画像付きで解説していきますね！]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone機種変での「写真・動画データ移行」はPCなしでも超簡単。バックアップの方法もまとめて教えます]]></title>
-        <id>https://www.gizmodo.jp/2022/09/iphone-change-photos.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/iphone-change-photos.html"/>
-        <updated>2022-09-16T09:15:00.000Z</updated>
-        <summary type="html"><![CDATA[iPhoneの中には写真や動画など、大切な思い出が詰まっています。それらを引き継げないと悲しいですよね…。でも、写真や動画って、思っている以上に簡単に新iPhoneへと引き継げるんです。簡単なところから説明していきますよ]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1分でできる！ iPhone機種変での「Suica」や「PASMO」の移行方法]]></title>
-        <id>https://www.gizmodo.jp/2022/09/iphone-change-suica-pasmo.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/iphone-change-suica-pasmo.html"/>
-        <updated>2022-09-16T09:15:00.000Z</updated>
-        <summary type="html"><![CDATA[SuicaやPASMOなどのおサイフケータイの移行って、面倒なイメージありませんか？この記事で、移行手順をマスターしておいてくださいね。]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhoneの画面をテレビに映すならやっぱりコレ！買って損なし純正アダプタ]]></title>
-        <id>https://www.gizmodo.jp/2022/09/243304lht-apple-lightning-digital-av-adapter-_2.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/243304lht-apple-lightning-digital-av-adapter-_2.html"/>
-        <updated>2022-09-16T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:ドサ健ライフハッカー［日本版］2021年10月11日掲載の記事より転載。記事中の情報は掲載時点でのものです。iPhoneで動画やゲームを楽しむ機会が多いかと思いますが、画面サイズが小さいので迫力がイマイチ。「大画面でiPhoneを楽しめたら」と思ったことがある方は多いのでは？iPhoneの画面サイズを大きくすることはできませんが、実は画面をテレビに映すことができるんです。テレビに映すの]]></summary>
-        <author>
-            <name>編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fitbit、「Inspire 3」「Versa 4」「Sense 2」を日本で発売――心電図は非対応も「承認に向けて取り組んでいる」]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1440742.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1440742.html"/>
-        <updated>2022-09-16T08:48:42.000Z</updated>
-        <summary type="html"><![CDATA[グーグル（Google）は、スマートウォッチブランド「fitbit」から、最新スマートバンド「Inspire 3」と、スマートウォッチ「Versa 4」「Sense 2」を9月16日以降に発売する。家電量販店などで取り扱われるほか、直販サイト「Fitbit.com」でも注文を受け付けている。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【楽天タイムセール】シャープの加湿空気清浄機が40%還元中！ 10,836ポイントかえってくるよ]]></title>
-        <id>https://www.gizmodo.jp/2022/09/rakuten-sale-2022-0916-1.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/rakuten-sale-2022-0916-1.html"/>
-        <updated>2022-09-16T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[楽天市場では、最大50%と高ポイント還元イベント｢楽天スーパーDEAL｣を開催中。本日2022年9月16日（金）は、シャープの加湿空気清浄機などお得な商品が多数登場しています。]]></summary>
-        <author>
-            <name>メディアジーンメディアコマース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 14 Proの「常時表示ディスプレイ」はオフにできる？]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2209/16/news183.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2209/16/news183.html"/>
-        <updated>2022-09-16T08:43:00.000Z</updated>
-        <summary type="html"><![CDATA[9月16日発売のiPhone 14 Pro／iPhone 14 Pro Maxはディスプレイの常時表示が可能になった。利用シーンによっては有効になる。デフォルトでは設定項目がオンになっているが、オフにする方法をお伝えする。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドコモ、「Apple Watch Series 8」17日発売]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1440727.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1440727.html"/>
-        <updated>2022-09-16T08:35:06.000Z</updated>
-        <summary type="html"><![CDATA[NTTドコモは、「Apple Watch Series 8」を9月17日に発売する。価格は8万500円～。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nrealが「Streaming Box」の国内販売を終了　関連部材を調達できず生産困難に]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2209/16/news093.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2209/16/news093.html"/>
-        <updated>2022-09-16T08:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Nrealは「Nreal Streaming Box」（NR-7101AGL）の販売を終了すると案内している。中国でのロックダウンの影響で関連部材の調達ができない状態にあり、今後も安定した生産計画の見通しを立てることが困難になったという。10月1日には「Nreal Adapter」を発売する。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楽天モバイルがシェア減少に転じる、国内の5G契約が5000万件越え――総務省が四半期報告]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1440703.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1440703.html"/>
-        <updated>2022-09-16T08:30:22.000Z</updated>
-        <summary type="html"><![CDATA[総務省は、「令和4年度第1四半期（6月末）の電気通信サービスの契約数及びシェア」を公表した。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ankerの｢使える｣以上のノイキャン搭載イヤホン。12,000円で手に入っちゃう【9％オフ】]]></title>
-        <id>https://www.gizmodo.jp/2022/09/costory-anker-soundcore-liberty-air-2-pro.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/costory-anker-soundcore-liberty-air-2-pro.html"/>
-        <updated>2022-09-16T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:ヤマダユウス型2021年6月15日の記事を編集して再掲載しています。もうノイキャンは手の届かないモノじゃない！モバイルバッテリーでおなじみAnker（アンカー）から、完全ワイヤレスイヤホン｢SoundcoreLibertyAir2Pro｣が発売されました。特徴は、Ankerイヤホンとしては初めてアクティブノイズキャンセリング（ANC）を搭載している点。1万円前後の完全ワイヤレスは比較的]]></summary>
-        <author>
-            <name>ヤマダユウス型</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メルカリShopsで「中古iPhone特集」　クリーニング／検品済みiPhoneを購入可能]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2209/16/news176.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2209/16/news176.html"/>
-        <updated>2022-09-16T08:14:00.000Z</updated>
-        <summary type="html"><![CDATA[小規模事業者向けEコマースプラットフォーム「メルカリShops」が、9月15日～19日に「中古iPhone特集」を実施。事業者がクリーニングや検品を行った中古iPhoneを購入できる。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超人気グループBE:FIRSTと行くAlienwareめぐり！ Dell Experience Loungeを一緒に見学＆ゲームをしてきたよ!!]]></title>
-        <id>https://www.gizmodo.jp/2022/09/befirst-alienware-kokuchi.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/befirst-alienware-kokuchi.html"/>
-        <updated>2022-09-16T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:ギズモード・ジャパン編集部普段は入れないところに潜入してきた！10月3日20時より、ギズモード・ジャパン編集部のゲーム部屋プロジェクトHYPERSPACEの配信イベント「BE:FIRSTさんと行くAlienwareめぐり！〜『FallGuys』が一番うまいのは誰だ⁉️SP〜」を開催します。BE:FIRSTさんと行くAlienwareめぐり！〜『FallGuys』が一番うまいのは誰だ⁉️]]></summary>
-        <author>
-            <name>三浦一紀</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10分間の楽ちん振動エクササイズ。「ブルブルボーテ」の購入がお得に]]></title>
-        <id>https://www.gizmodo.jp/2022/09/258942-costory-shuddering-machine.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/258942-costory-shuddering-machine.html"/>
-        <updated>2022-09-16T07:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:山田洋路この記事は、ギズモード・ジャパンが所属する(株)メディアジーンのCoSTORYチームが編集した別企画の記事です。ライフハッカー[日本版]から転載:自宅でのエクササイズもジム通いも続かない、そんなときには、自分の貧弱な継続力を嘆くより先に「ブルブルボーテ」を導入してみてはいかがでしょう。1分間に約800回の振動による刺激で、効率よくエクササイズできるお手軽運動器具が、共同購入サイ]]></summary>
-        <author>
-            <name>山田洋路</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本日発売のApple Watch Series 8／SE（第2世代）、Amazonなら待たずに届きます]]></title>
-        <id>https://www.gizmodo.jp/2022/09/amazon-apple-watch-series-8.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/amazon-apple-watch-series-8.html"/>
-        <updated>2022-09-16T07:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Screenshot:塚本直樹僕はココで買いました。本日発売が開始された「AppleWatchSeries8」「AppleWatchSE（第2世代）」、皆さんは買えましたか？僕は予約日に何故か買えなくて絶望していたのですが…あれ、日本のAmazonで普通に売ってるじゃないですか！いまApple（アップル）の公式ストアをのぞくと、AppleWatchSeries8が10月1日〜3日の配送、そしてAp]]></summary>
-        <author>
-            <name>塚本直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アラミド繊維製の「iPhone 14」用ケース、ディーフから]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1440683.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1440683.html"/>
-        <updated>2022-09-16T07:27:17.000Z</updated>
-        <summary type="html"><![CDATA[ディーフは、「iPhone 14」シリーズ用のアラミド繊維製ケース「Ultra Slim & Light Case DURO for iPhone 14」を発売した。直販サイトでの価格は6380円。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アップルストアでソフトバンク契約のユーザーが手続きできず、16日]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1440689.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1440689.html"/>
-        <updated>2022-09-16T07:17:25.000Z</updated>
-        <summary type="html"><![CDATA[「iPhone 14」シリーズが発売された16日、アップルストアにおいて、ソフトバンク回線のユーザーが手続きを進められないという障害が発生している。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マイナンバーカードとスマホやタブレットで電子納税証明書がDL可能に]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1440661.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1440661.html"/>
-        <updated>2022-09-16T07:11:51.000Z</updated>
-        <summary type="html"><![CDATA[国税庁は、電子納税証明書の郵送による書面交付の申請を、従来のe-Taxソフト（WEB版）に加えて、スマートフォンおよびタブレット端末からアクセスする「e-Taxソフト（SP版）」からの申請に対応した。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 14／iPhone 14 Pro／iPhone 14 Pro Maxのバッテリーを長持ちさせる画面設定]]></title>
-        <id>https://www.gizmodo.jp/2022/09/iphone-14-series-battery-1.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/iphone-14-series-battery-1.html"/>
-        <updated>2022-09-16T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:小暮ひさのり全部OFFろう。ってのはユーザビリティがダダ落ちなので、あまり好ましくはありません。でも、ユーザビリティを損なわない範囲で「まぁ、切っても大丈夫でしょ」的な表示機能をピックアップしておいたので、バッテリーをちょっぴり長持ちさせたい方はそちらを見直していきましょう。なお、「iPhone14」って言ってますけど、旧モデルたちでも利用できるので、iPhoneユーザーは見直しておく]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[キュートな見た目のモバイルラベルプリンター「LetSketch」]]></title>
-        <id>https://www.gizmodo.jp/2022/09/machi-ya-letsketch-start.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/machi-ya-letsketch-start.html"/>
-        <updated>2022-09-16T06:45:00.000Z</updated>
-        <summary type="html"><![CDATA[「LetSketch」は、レトロな外観が可愛らしい小型サーマルプリンター。写真やラベルなどの印刷に活用でき、印刷は感熱式のためインクが不要です。専用のロール紙には粘着性がありシールのように使えるラベル紙と、レシートタイプの2種類が用意されていますよ。]]></summary>
-        <author>
-            <name>kotoha ozawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソフトバンクから「iPhone 14」向けの新しいSIMが登場]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1440650.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1440650.html"/>
-        <updated>2022-09-16T06:33:31.000Z</updated>
-        <summary type="html"><![CDATA[ソフトバンクのWebサイトでは、本日16日に発売された「iPhone 14」シリーズ向けに、新しいSIMカードの種類が案内されている。SIMカードの種類は「iPhone 専用 nano USIMカードA（S）」となる。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 14を買ったらやっておくべき10の設定]]></title>
-        <id>https://www.gizmodo.jp/2022/09/iphone-14-first-step-guide.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/iphone-14-first-step-guide.html"/>
-        <updated>2022-09-16T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[iPhoneを買ったらチェックしておくべき設定をいくつか紹介します！ 全部はやらなくていいともうけど、やっとくと便利だよ！]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PayPayの「あなたのまちを応援プロジェクト」、11月以降のキャンペーンを発表]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2209/16/news149.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2209/16/news149.html"/>
-        <updated>2022-09-16T05:59:00.000Z</updated>
-        <summary type="html"><![CDATA[PayPayは、地方自治体と共同で実施している「あなたのまちを応援プロジェクト」で11月以降に実施する44のキャンペーンを発表。参加している自治体は全国46都道府県に広がっている。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[効果抜群！iPhoneの時短ウィジェット5選]]></title>
-        <id>https://www.gizmodo.jp/2022/09/iphone-widget-review-1.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/iphone-widget-review-1.html"/>
-        <updated>2022-09-16T05:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Shutterstockライフハッカー［日本版］2021年10月14日掲載の記事より転載。記事中の情報は掲載時点でのものです。対応するサードパーティーアプリも増えつつあり、かなり便利に使えるようになってきました。仕事効率化のために入れておきたい5つのウィジェットをご紹介します。1.Googleカレンダー定番だけど必ず入れたいのが、「Googleカレンダー」です。直近数件の予定と時刻が表]]></summary>
-        <author>
-            <name>酒井麻里子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モトローラ、ミドルレンジスマホ「moto g32」を9月30日に発売　2万8800円]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2209/16/news140.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2209/16/news140.html"/>
-        <updated>2022-09-16T05:08:00.000Z</updated>
-        <summary type="html"><![CDATA[モトローラ・モビリティ・ジャパンは、9月30日からAndroidスマートフォン「moto g32」を発売。価格は2万8800円（税込み）で、ステレオスピーカーとDolby Atmos、5000万画素のトリプルカメラなどを備える。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IIJmioからモバイルWi-Fiルーター、Aterm新モデルとクラウドSIM対応のAIR-2]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1440552.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1440552.html"/>
-        <updated>2022-09-16T04:07:51.000Z</updated>
-        <summary type="html"><![CDATA[インターネットイニシアティブ（IIJ）は、「IIJmioサプライサービス」で、NECプラットフォームズ製で4G LTEの「Aterm MP02LN SA」と、AIR-U製の5G対応「AIR-2」のモバイルWi-Fiルーター2機種を9月22日10時に発売する。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「iPhone 14」シリーズを買ったら、「LINE」のアカウントはどうやって移行する？]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1440580.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1440580.html"/>
-        <updated>2022-09-16T04:07:26.000Z</updated>
-        <summary type="html"><![CDATA[本日16日に発売されたアップル（Apple）の「iPhone 14」シリーズ。発売と同時に手に入れる方も多いかもしれない。その際、コミュニケーションアプリ「LINE」のアカウントはどうやって引き継げばいいのだろうか？]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 16.0.1が登場、「iPhone 14」シリーズ向けに]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1440573.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1440573.html"/>
-        <updated>2022-09-16T04:06:48.000Z</updated>
-        <summary type="html"><![CDATA[アップルは、iPhone向けの最新ソフトウェア「iOS 16.0.1」の提供を開始した。「iPhone 14」シリーズのみ利用できる。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Pixelシリーズに「mini」は来る？ 噂はあれど期待薄です]]></title>
-        <id>https://www.gizmodo.jp/2022/09/google-pixel-mini.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/google-pixel-mini.html"/>
-        <updated>2022-09-16T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ディスプレイ小さめのGoogle Pixel端末が開発中ではないかという中国からのリーク情報。来月開催のMadeByGoogleではまだリリースされなさそうだが…。]]></summary>
-        <author>
-            <name>そうこ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「iPhone 14」シリーズが発売、多くの人がアップルストアに並ぶ]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1440487.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1440487.html"/>
-        <updated>2022-09-16T03:02:05.000Z</updated>
-        <summary type="html"><![CDATA[アップルは16日、「iPhone 14」シリーズの販売を開始した。早朝のアップルストア表参道（東京都）には発売の瞬間を待つ人々が並んだ。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 14シリーズで最も購入意欲の高いモデルは？　MMDが調査]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2209/16/news122.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2209/16/news122.html"/>
-        <updated>2022-09-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[MMD研究所が「iPhone 14シリーズに関する購入意向調査」の結果を発表。iPhoneユーザーの23.8％が購入意向を示し、購入検討の上位機種は「iPhone 14（128GB）」「iPhone 14（256GB）」「iPhone 14（512GB）」となった。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 16では「集中モード」がロック画面と連携　どんなメリットがある？]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2209/16/news023.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2209/16/news023.html"/>
-        <updated>2022-09-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[9月13日に配信された「iOS 16」。さまざまな新機能が追加されたが、今回はまず「集中モード」の新機能について見ていこう。ロック画面やホーム画面を切り替えるだけで有効化できるようになっている。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モバイルルーター「Aterm MR05LN」が10台限定で1万9800円に、クレードルもついてくる[Sponsored]]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/topic/hikaritvshop/1438574.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/topic/hikaritvshop/1438574.html"/>
-        <updated>2022-09-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[家電・おもちゃ・家具やインテリアまで取りそろえる総合オンラインストア「ひかりTVショッピング」の注目商品や特売商品の情報をお伝えします。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS16.1ではすべてのFace ID対応iPhoneでバッテリー残量表示が可能に]]></title>
-        <id>https://www.gizmodo.jp/2022/09/all-face-id-enabled-iphones-can-display-battery-level.html</id>
-        <link href="https://www.gizmodo.jp/2022/09/all-face-id-enabled-iphones-can-display-battery-level.html"/>
-        <updated>2022-09-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[iOS 16.1ではiPhone XR、iPhone 11、iPhone 12 mini、iPhone 13 miniでもバッテリー残量の表示が可能に。]]></summary>
-        <author>
-            <name>はらいさん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GaN充電器やモバイルバッテリーがAmazonで最大40％オフ、17日限定の「CIOタイムセール」]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1440524.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1440524.html"/>
-        <updated>2022-09-16T02:45:42.000Z</updated>
-        <summary type="html"><![CDATA[CIOは、Amazon.co.jpにおいて、9月17日に「CIOタイムセール」を開催する。一日限定のタイムセールとなり、GaN充電器やモバイルバッテリーなどが最大40％オフで販売される。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソフトバンク、「Apple Watch Series 8」を9月17日に発売]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1440510.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1440510.html"/>
-        <updated>2022-09-16T02:25:52.000Z</updated>
-        <summary type="html"><![CDATA[ソフトバンクは、「Apple Watch Series 8」を、9月17日に発売する。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 16のカメラはポートレートモードの“前ボケ”が可能に]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2209/16/news072.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2209/16/news072.html"/>
-        <updated>2022-09-16T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[iOS 16では写真の切り出し機能が注目されているが、実はカメラ機能もアップデートされている。それは、ポートレートモードで前ボケをかましてくれるようになったことだ。撮影前のプレビューでもボケをリアルタイムで見せてくれるのがいい。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
         </author>
     </entry>
 </feed>
