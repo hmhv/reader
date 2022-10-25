@@ -2,10 +2,823 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hmhv.github.io/reader/index.html</id>
     <title>hmhv::news</title>
-    <updated>2022-10-24T12:44:23.933Z</updated>
+    <updated>2022-10-25T12:45:12.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hmhv.github.io/reader/index.html"/>
     <link rel="self" href="https://hmhv.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[設置も簡単！ 立ったまま操作できるお手軽ドアストッパー「スプリング」]]></title>
+        <id>https://www.gizmodo.jp/2022/10/machi-ya-door_stopper-end.html</id>
+        <link href="https://www.gizmodo.jp/2022/10/machi-ya-door_stopper-end.html"/>
+        <updated>2022-10-25T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA[「スプリング」はドアを開けるだけで自動でドアをホールドし、ドアを閉める時はスプリングの出っ張りを軽く踏んでドアを引くだけのお手軽仕様なドアストッパー。家具や間取りに合わせて、ベストなポジションでドアを固定できます。最初の取り付けも簡単で、取り外しも手軽なので賃貸でも安心して利用可能。]]></summary>
+        <author>
+            <name>muu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スマホをパソコンのウェブカメラに変える方法]]></title>
+        <id>https://www.gizmodo.jp/2022/10/how2-turn-your-smartphone-into-a-webcam-2.html</id>
+        <link href="https://www.gizmodo.jp/2022/10/how2-turn-your-smartphone-into-a-webcam-2.html"/>
+        <updated>2022-10-25T12:35:00.000Z</updated>
+        <summary type="html"><![CDATA[AlexCranz(Gizmodo)2020年4月17日の記事を編集して再掲載しています。コスト削減。新型コロナウイルスの影響により、ビデオチャットアプリを利用する人ははるかに多くなったことでしょう。しかし、もしあなたのラップトップにウェブカメラが内蔵されていなくても、スマートフォンをウェブカメラとして使うことができます。なお、昨今のスマートフォンはほとんどのウェブカメラよりもはるかに優れたカメラ]]></summary>
+        <author>
+            <name>塚本直樹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[この工具箱、顔がいい…！iFデザイン賞受賞の工具セット「HOTO SET」にうっとり]]></title>
+        <id>https://www.gizmodo.jp/2022/10/giz-yatai-hoto-set.html</id>
+        <link href="https://www.gizmodo.jp/2022/10/giz-yatai-hoto-set.html"/>
+        <updated>2022-10-25T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[工具箱、皆さんのお家にありますか？「DIYとかやらないしなー」という人も､急に家具が壊れてドライバーやペンチが必要になるケースがあるやもしれません。とりあえず常備しておきたい懐中電灯的なアイテム、それが工具セットです。
+
+でも、常備となると収納スペースや揃えるべき工具の内容も重要。ミニマルでおしゃれな工具セット「HOTO SET」は、そこのところがめちゃ秀逸なんです…！ギズ屋台で取り扱いが始まるの]]></summary>
+        <author>
+            <name>ヤマダユウス型</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NITEIZEの｢Gカラビナー｣なら、付け外しのときにキーが外れてしまう心配がなくなりそう！]]></title>
+        <id>https://www.gizmodo.jp/2022/10/amazon-niteize-gcarabiner-1.html</id>
+        <link href="https://www.gizmodo.jp/2022/10/amazon-niteize-gcarabiner-1.html"/>
+        <updated>2022-10-25T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[一般的なカラビナの場合、ベルトフックやバッグのストラップなどに付けたり外したりしているときに、キーが外れてしまうことも…。NITEIZE（ナイトアイズ）の「Gカラビナー」は、かなりのリスクであるこの問題を解決したカラビナです。]]></summary>
+        <author>
+            <name>田中宏和</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20Wって今こんなに小さいの？ 家中のスマホ充電機、全部アップデートしてもいいレベル]]></title>
+        <id>https://www.gizmodo.jp/2022/10/anker-powerport-iii-nano-costory.html</id>
+        <link href="https://www.gizmodo.jp/2022/10/anker-powerport-iii-nano-costory.html"/>
+        <updated>2022-10-25T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[20Wの出力で高速充電が可能な充電器Anker PowerPort III Nano 20W。実際に古い充電器と使い比べてみるとその差は歴然。なのに大きさはコンパクト。触ったら最後、家中の充電器をこれに変えたくなるはずです。CoSTORYという共同購入サービスを利用すれば安く購入できるのも見逃せない情報！]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[遅すぎるくらいだが嬉しい！iPadOS 16.1、JIS配列の外部キーボードに対応してます]]></title>
+        <id>https://www.gizmodo.jp/2022/10/ipados-161-jis-keyboard.html</id>
+        <link href="https://www.gizmodo.jp/2022/10/ipados-161-jis-keyboard.html"/>
+        <updated>2022-10-25T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[本日リリースされたiPadOS 16.1。メインディッシュは「ステージマネージャ」かと思っていたんですが、僕的には違いました。サードパーティのJIS配列キーボードがサポートされたんです。わー！ぱちぱち！]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[これをつければ魔法学校に入れる？『ハリー・ポッター』の世界観を凝縮したフォッシルの腕時計]]></title>
+        <id>https://www.gizmodo.jp/2022/10/fossil-harrypotter.html</id>
+        <link href="https://www.gizmodo.jp/2022/10/fossil-harrypotter.html"/>
+        <updated>2022-10-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[『ハリー・ポッター』シリーズの舞台となったホグワーツ魔法魔術学校。全寮制・7年制で、主人公ハリーを含め魔法使いを目指す生徒たちが魔術を学ぶ学校ですが、あの中世を思わせる学校にオマージュを捧げた時計が誕生しました。製造を手がけたのはアメリカンウォッチブランドのFOSSIL（フォッシル）。小説や映画で繰り広げられるファンタジーの世界観をうまく時計に落とし込んでいます。]]></summary>
+        <author>
+            <name>巽英俊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Amazonタイムセール中！】ゲーミングアイテムがお買い得！Switch版ペルソナ5 ザ・ロイヤルが1,396円オフ、Switch対応MicroSDカードが15%オフなど]]></title>
+        <id>https://www.gizmodo.jp/2022/10/amazon-timesale-2022-1025-1.html</id>
+        <link href="https://www.gizmodo.jp/2022/10/amazon-timesale-2022-1025-1.html"/>
+        <updated>2022-10-25T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon（アマゾン）で毎日開催されているタイムセール。
+本日2022年10月25日は、Switch版ペルソナ5 ザ・ロイヤルが1,396円オフ、Switch対応MicroSDカードが15%オフなど、今すぐ欲しい人気のアイテムがお得に多数登場しています。]]></summary>
+        <author>
+            <name>メディアジーンメディアコマース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGREENから65W出力の7口電源タップ「DigiNest Cube 65W」、30％オフになるクーポンコードも]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1450369.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1450369.html"/>
+        <updated>2022-10-25T09:42:54.000Z</updated>
+        <summary type="html"><![CDATA[UGREENは、「GaN III」採用のUSB電源タップ「DigiNest Cube 65W」を発売した。価格は7980円。Amazon.co.jpでは、クーポンコード「UGREEN65W」を利用すると、28日まで30％オフの5586円で購入できる。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楽天モバイル、iPhone 13／12のキャンペーン価格を値下げ]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2210/25/news184.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2210/25/news184.html"/>
+        <updated>2022-10-25T09:22:00.000Z</updated>
+        <summary type="html"><![CDATA[楽天モバイルは、10月25日に「iPhone対象機種特価」キャンペーンを適用した「iPhone 13」「iPhone 13 mini」「iPhone 12」の価格を値下げ。iPhone 13 mini（128GB）やiPhone 12（64GB）が9万3900円（税込み）から購入できる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今夜23時～、BS-TBSにシャープの「AQUOSケータイ」関係者が登場「Ｘ年後の関係者たち　あのムーブメントの舞台裏」]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1450434.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1450434.html"/>
+        <updated>2022-10-25T09:20:24.000Z</updated>
+        <summary type="html"><![CDATA[10月25日23時～23時54分にBS-TBSで放映される番組「Ｘ年後の関係者たち　あのムーブメントの舞台裏」にシャープが登場し、シャープの家電や「AQUOSケータイ」の開発秘話などを関係者が語られる。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Macにタイマーがきたよ！ショートカットが捗りそう]]></title>
+        <id>https://www.gizmodo.jp/2022/10/ventura-timer.html</id>
+        <link href="https://www.gizmodo.jp/2022/10/ventura-timer.html"/>
+        <updated>2022-10-25T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Screenshot:宮城圭介お待たせ！macOSの新しいメジャーアップデートVenturaが日本時間の25日から配布開始されました。メールの送信取り消しや、ステージマネジャに注目が集まりがちですが、地味〜に搭載されたのがタイマー。ダウンロード＆インストールすればMacの可能性がさらに広がること間違いありません。タイマーはiPhoneにはずっと入っていましたが、Macには今回初登場。タイマーの便利]]></summary>
+        <author>
+            <name>宮城圭介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【楽天セール】レッドブルの24本セットやリッツの大容量チョコサンドなど、食品特集で最大50%ポイント還元中！]]></title>
+        <id>https://www.gizmodo.jp/2022/10/rakuten-sale-2022-1025-1.html</id>
+        <link href="https://www.gizmodo.jp/2022/10/rakuten-sale-2022-1025-1.html"/>
+        <updated>2022-10-25T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[楽天市場では、最大50%と高ポイント還元イベント｢楽天スーパーDEAL｣を開催中。
+本日2022年10月25日（火）は、レッドブルの24本セットが実質1本あたり149円、リッツのファミリーパックチョコサンドが20%還元など、お得な商品が多数登場しています。]]></summary>
+        <author>
+            <name>メディアジーンメディアコマース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモ、新しい「iPad Pro」「iPad」の「AppleCare+」の販売開始日を案内]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1450385.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1450385.html"/>
+        <updated>2022-10-25T08:43:09.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモは、iPad（第10世代）、11インチiPad Pro（第4世代）向けの「AppleCare+」の販売を、26日に開始する。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモ、新型「iPad Pro」「iPad」向けの「smartあんしん補償」料金を案内]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1450386.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1450386.html"/>
+        <updated>2022-10-25T08:42:59.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモは、「smartあんしん補償」における、「12.9インチiPad Pro（第6世代）」「11インチiPad Pro（第4世代）」「iPad（第10世代）」の利用料を、同社Webサイトで案内している。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ベルキン、12mmドライバー搭載のノイキャン対応ワイヤレスイヤフォンを発売　6990円]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2210/25/news174.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2210/25/news174.html"/>
+        <updated>2022-10-25T08:33:00.000Z</updated>
+        <summary type="html"><![CDATA[ベルキンは、ワイヤレスイヤフォン「Belkin SOUNDFORM Flow」をAmazon限定で販売。アクティブノイズキャンセリング機能や大口径12mmダイナミックドライバーを搭載し、通常6990円（税込み）のところ11月1日まで10％オフになる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[軽量、お手頃、長寿命。3拍子揃ったポータブル電源「EcoFlow RIVER 2」]]></title>
+        <id>https://www.gizmodo.jp/2022/10/ecoflow-river2.html</id>
+        <link href="https://www.gizmodo.jp/2022/10/ecoflow-river2.html"/>
+        <updated>2022-10-25T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:ギズモード・ジャパンポータブル電源で電気を備蓄しよう。キャンプやレジャーをする方にはお馴染みの「ポータブル電源」。停電時などの防災用途で、一家に一台置くのもポピュラーになってきました。ただ、どうしても値が張るのでなかなか手が出づらい。ところが、先日発売された「EcoFlowRIVER2」は大きさ、機能、価格のバランスが絶妙。「ポータブル電源」のポイントは「電気をためておける」ことと、「]]></summary>
+        <author>
+            <name>ギズモード・ジャパン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「楽天モバイル契約で物価上昇に備える」、楽天Gの“家計応援術”発表会]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1450379.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1450379.html"/>
+        <updated>2022-10-25T07:53:56.000Z</updated>
+        <summary type="html"><![CDATA[楽天グループは25日、「『楽天グループ 家計応援術2022』発表会」を開催した。発表会では、物価の上昇に備えるための“節約術”として、キャンペーンの活用や固定費の見直しなど、4カ条が紹介された。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IIJが「マルチプロファイルSIM」を開発　SIM1枚で複数の携帯電話網へ接続可能に]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2210/25/news164.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2210/25/news164.html"/>
+        <updated>2022-10-25T07:37:00.000Z</updated>
+        <summary type="html"><![CDATA[IIJは、1枚のSIMカードを使って複数の携帯電話網へ接続できるマルチプロファイルSIMを開発。任意のタイミングで携帯電話網を切り替えられるため、障害発生時にもシステムの可用性向上が見込めるとしている。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[演奏者がいなくてもリアルな演奏が楽しめる「リアルサウンドビューイング」で民族楽器を体感しよう]]></title>
+        <id>https://www.gizmodo.jp/2022/10/yamaha-real-sound-viewing.html</id>
+        <link href="https://www.gizmodo.jp/2022/10/yamaha-real-sound-viewing.html"/>
+        <updated>2022-10-25T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:YAMAHAヤマハが浜松市楽器博物館で、同博物館との共同で「RealSoundViewing馬頭琴演奏再現」というユニークな展示を10月27日から行ないます。モンゴルの伝統楽器である馬頭琴を、演奏者ナシで奏でるというバーチャルライブです。演奏をデータ化して振動に変換ヤマハでは、以前から「RealSoundViewing（リアルサウンドビューイング）」という技術を研究し続けています。これ]]></summary>
+        <author>
+            <name>巽英俊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型MacBook Pro、”超広帯域メモリ”を搭載か]]></title>
+        <id>https://gori.me/?p=144717</id>
+        <link href="https://gori.me/macbookpro/144717"/>
+        <updated>2022-10-25T05:59:12.000Z</updated>
+        <summary type="html"><![CDATA[新型14インチ/16インチMacBook Proは、「広帯域かつ高速」のメモリ（RAM）を搭載する可能性がある。Mac StudioやStudio Displayの情報を正確に言い当てた実績を持つ、MacRumors Forumの投稿者Amethyst氏が明らかにした。 14インチ/16インチMac…
+The post 新型MacBook Pro、”超広帯域メモリ”を搭載か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソフトバンク、「テラヘルツ波」を活用した屋外の通信エリア構築に成功]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2210/25/news139.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2210/25/news139.html"/>
+        <updated>2022-10-25T05:53:00.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクが、テラヘルツ波を活用した屋外での通信エリア構築の検証に成功。見通しがいい環境下で最大900m超の距離で電波伝搬の測定と、通信エリア構築を確認できたという。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スケート気分でゲレンデを滑れる新しいウィンタースポーツギア「snowfert Mint Blue」]]></title>
+        <id>https://www.gizmodo.jp/2022/10/260865-machi-ya-snowfeetmint-start.html</id>
+        <link href="https://www.gizmodo.jp/2022/10/260865-machi-ya-snowfeetmint-start.html"/>
+        <updated>2022-10-25T05:45:00.000Z</updated>
+        <summary type="html"><![CDATA[2019年に日本初上陸のウィンタースポーツ「snowfeet」にNewカラー登場。「snowfert Mint Blue」が1足あれば仲間と共有して楽しむことができます。コンパクトでバッグで持ち運べて履いたままの移動も靴感覚。曲がったり止まったりも簡単です。子どもから大人までリーズナブルに楽しめます。]]></summary>
+        <author>
+            <name>山田洋路</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[とりあえずApple Watch SE買っとこ！]]></title>
+        <id>https://www.gizmodo.jp/2022/10/just-get-the-apple-watch-se-2.html</id>
+        <link href="https://www.gizmodo.jp/2022/10/just-get-the-apple-watch-se-2.html"/>
+        <updated>2022-10-25T05:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:VictoriaSong/GizmodoUS2020年10月3日の記事を編集して再掲載しています。スポーツの秋、それとも食欲の秋？いずれにせよ、スマートウォッチがあればより効果的にトレーニングしたり、食べ過ぎないようにカロリー消費量をモニターしたり、いろいろと役に立ってくれそう。ということでAppleWatchの新作が気になるところです。ところが現在Series6、SE、おまけにSer]]></summary>
+        <author>
+            <name>山田ちとら</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ハイエンド機種を安く買えるチャンス。Mac整備済商品の最新情報（2022年10月25日更新）]]></title>
+        <id>https://gori.me/?p=144716</id>
+        <link href="https://gori.me/sale/apple-refurbished/144716"/>
+        <updated>2022-10-25T05:28:49.000Z</updated>
+        <summary type="html"><![CDATA[通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日は、Macの現行モデルが多数復活してい…
+The post ハイエンド機種を安く買えるチャンス。Mac整備済商品の最新情報（2022年10月25日更新） first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国税庁がスマホアプリ納付の手続を案内]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1450312.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1450312.html"/>
+        <updated>2022-10-25T05:25:58.000Z</updated>
+        <summary type="html"><![CDATA[国税庁は、スマホアプリ納付の手続きを案内した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「TRIAL GO 曰佐店」が24時間顔認証決済を一般導入へ]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1450307.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1450307.html"/>
+        <updated>2022-10-25T05:23:58.000Z</updated>
+        <summary type="html"><![CDATA[トライアルカンパニーは、AIカメラを活用した「24時間顔認証決済」を「TRIAL GO 曰佐店」に導入し、導入拡大に向けた実証実験を開始する。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Y!mobile、「DIGNO ケータイ4」「AQUOS ケータイ4」を11月1日に発売]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2210/25/news119.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2210/25/news119.html"/>
+        <updated>2022-10-25T05:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Y!mobileは、11月1日に清潔さと高い耐久性を備えた「DIGNO ケータイ4」、着信音と通話が聞き取りやすい「AQUOS ケータイ4」を発売する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メイン利用のMVNOはOCN モバイル ONEとIIJmioが増加、満足度は？　MMDの調査より]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2210/25/news112.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2210/25/news112.html"/>
+        <updated>2022-10-25T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[MMD研究所が「2022年9月MVNOのシェア・満足度調査」の結果を発表。メイン利用の通信サービスは2022年2月調査と変化がない一方、割合は「OCN モバイル ONE」が増加した。総合満足度とNPSは「mineo」がトップとなっている。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[povo2.0のギガ活に「松屋銀座」が追加――丸亀とコナズは終了へ]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1450291.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1450291.html"/>
+        <updated>2022-10-25T04:28:52.000Z</updated>
+        <summary type="html"><![CDATA[KDDIと沖縄セルラーは、オンライン専用プラン「povo2.0」で「#ギガ活」の対象店舗として「松屋銀座」を11月1日に追加する。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPadOS 16.1の「ステージマネージャ」、すぐに試さなくてもいいと思う…]]></title>
+        <id>https://www.gizmodo.jp/2022/10/ipados16-stage-manager-air5.html</id>
+        <link href="https://www.gizmodo.jp/2022/10/ipados16-stage-manager-air5.html"/>
+        <updated>2022-10-25T04:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:小暮ひさのり画面、ぎっちり（iPadAir5では）。本日リリース「iPadOS16.1」の目玉機能、iPadでアプリをウインドウ表示できる「ステージマネージャ」。ついにiPadがMacみたいに！とみんな心待ちにしていたと思います。僕もそのひとりで、これがあればMacBookを持ち歩かずに、iPadAirだけで仕事できるかな？なんて、僕はワクワクしていたんです。しかし、現実は甘くはありま]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楽天モバイルの「iPhone対象機種特価キャンペーン」、iPhone 13／13 mini／12をさらに値下げ]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1450275.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1450275.html"/>
+        <updated>2022-10-25T04:05:43.000Z</updated>
+        <summary type="html"><![CDATA[楽天モバイルは、実施中の「iPhone対象機種特価キャンペーン」について、iPhone 13／13 mini／12の提供価格を改定した。回線契約なしでの購入（白ロム購入）でも対象となる。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アウトドアに履いていきたい！フィンランド発のスニーカー､カルフの新色シリーズは落ち着いたトーンのアースカラー]]></title>
+        <id>https://www.gizmodo.jp/2022/10/karhu-trees-of-finland.html</id>
+        <link href="https://www.gizmodo.jp/2022/10/karhu-trees-of-finland.html"/>
+        <updated>2022-10-25T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[カルフが、新コレクション「Trees of Finland」をリリースしました。フィンランドの森からインスピレーションを得たナチュラルなアースカラーが特徴になっています。]]></summary>
+        <author>
+            <name>巽英俊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[温泉ハッカソン「SPAJAM2022」、第6回予選の最優秀賞が決定]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1450266.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1450266.html"/>
+        <updated>2022-10-25T03:51:05.000Z</updated>
+        <summary type="html"><![CDATA[モバイル・コンテンツ・フォーラム（MCF）は、アプリ開発の競技会「スマートフォンアプリジャム（SPAJAM）2022」第6回予選の結果を発表した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中学～大学の部活チームとファンが交流できる新サービス「ANYTEAM」、KDDIと運動通信社]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1450220.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1450220.html"/>
+        <updated>2022-10-25T03:38:48.000Z</updated>
+        <summary type="html"><![CDATA[KDDIと運動通信社は、学生スポーツ応援コミュニティサービス「ANYTEAM」（エニーチーム）の提供を開始した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTubeで再生ページのデザイン変更や新機能、今後数週間で徐々に公開]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1450238.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1450238.html"/>
+        <updated>2022-10-25T03:29:37.000Z</updated>
+        <summary type="html"><![CDATA[YouTubeは25日、新しいデザインと新機能をリリースすると発表した。今後数週間かけて、すべてのユーザーに向けて徐々に公開される。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワイモバイル、「AQUOS ケータイ4」「DIGNO ケータイ4」11月1日発売]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1450227.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1450227.html"/>
+        <updated>2022-10-25T03:06:43.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクは、ワイモバイル（Y!mobile）ブランドの新機種として「AQUOS ケータイ4」「DIGNO ケータイ4」を11月1日に発売する。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[S22並みに進化した「Galaxy Z Fold4」のカメラ　閉じて開いて“全7通り”の撮影ができる]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2210/23/news013.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2210/23/news013.html"/>
+        <updated>2022-10-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[閉じればスマホ開けばタブレット、的な道をぐんぐん突き進むのが「Galaxy Z Fold」シリーズなのだが、それもとうとう4代目。よりコンパクトな縦折式の「Z Flip 4」もあるけれども、ここではよりカメラ性能が強化された「Z Fold4」を取り上げる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腕を振って踊るロボット無線スピーカー「roboBeats」。顔の表情も豊かで楽しい相棒]]></title>
+        <id>https://www.gizmodo.jp/2022/10/wireless-speaker-robobeats.html</id>
+        <link href="https://www.gizmodo.jp/2022/10/wireless-speaker-robobeats.html"/>
+        <updated>2022-10-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[リズムに合わせて踊ったりする楽しいロボット＆ワイヤレススピーカー「roboBeats」がクラウドファンディング中。]]></summary>
+        <author>
+            <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IIJ、1枚のSIMで複数キャリアに接続できる「マルチプロファイルSIM」を開発]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1450213.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1450213.html"/>
+        <updated>2022-10-25T02:53:42.000Z</updated>
+        <summary type="html"><![CDATA[インターネットイニシアティブ（IIJ）は25日、1枚のSIMで複数の携帯電話網に接続できる「マルチプロファイルSIM」を開発したと発表した。今後パートナー企業との概念実証（PoC）を実施する。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPadがちょっと便利になる、iPadOS 16.1の新機能7選]]></title>
+        <id>https://gori.me/?p=144703</id>
+        <link href="https://gori.me/ipados/ipados16/144703"/>
+        <updated>2022-10-25T02:21:05.000Z</updated>
+        <summary type="html"><![CDATA[iPadOSの2022年メジャーアップデートはiOS 16との同時リリースは見送られ、iPadOS 16.1として10月25日に一般公開された。iOS 16やiOS 16.1に搭載されている新機能をベースに、大画面や高性能チップを活かしたiPad独自の機能が実装されている。 本記事では、iPadOS…
+The post iPadがちょっと便利になる、iPadOS 16.1の新機能7選 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 16.1、バッテリーの表示が神がかってるから、さっさとアップデートしておきましょ]]></title>
+        <id>https://www.gizmodo.jp/2022/10/ios161-comes.html</id>
+        <link href="https://www.gizmodo.jp/2022/10/ios161-comes.html"/>
+        <updated>2022-10-25T02:05:00.000Z</updated>
+        <summary type="html"><![CDATA[見て見て！ バッテリー表示！
+
+本日リリースされた「iOS 16.1」では、バッテリーアイコンの見た目の残量と、パーセンテージの数字が同期するようになりました。やったね！]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[街のiPhone修理業者でバッテリーを交換する際の注意点]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2210/25/news063.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2210/25/news063.html"/>
+        <updated>2022-10-25T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[街のiPhone修理屋さん。修理に際して気をつけるべき点は何か。まとめた。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高島屋の初売り福袋、3D印刷で作るSFな小屋を330万円で発売]]></title>
+        <id>https://www.gizmodo.jp/2022/10/house-made-with-3d-printer-to-be-sold-on-new-year.html</id>
+        <link href="https://www.gizmodo.jp/2022/10/house-made-with-3d-printer-to-be-sold-on-new-year.html"/>
+        <updated>2022-10-25T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[高島屋が来年正月の福袋で3Dプリンティングで製作される小屋を販売。限定1棟で価格は330万円。]]></summary>
+        <author>
+            <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[発売前にiPad ProとiPad（第10世代）の開封動画を撮りました]]></title>
+        <id>https://www.gizmodo.jp/2022/10/ipad_kaifu.html</id>
+        <link href="https://www.gizmodo.jp/2022/10/ipad_kaifu.html"/>
+        <updated>2022-10-25T01:47:00.000Z</updated>
+        <summary type="html"><![CDATA[photo:GIZMODOJAPANYouTubeiPad（第10世代）とiPadProの開封動画になります。→iPad（第10世代）＆iPadPro開封動画はこちらPhoto:尾田和実10.9インチiPad（第10世代）のイエローと12.9インチiPadPro（M2チップ）。iPadはタテ248.6mm×ヨコ179.5mm、481g（Wi-Fi+Cellularモデル）。iPadProはタテ28]]></summary>
+        <author>
+            <name>尾田和実</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドライブレコーダーや監視カメラとしても役立つナイトビジョンカメラ「DUOVOX Mate Pro」の実力をチェック]]></title>
+        <id>https://www.gizmodo.jp/2022/10/260863-machi-ya-duovox-review2.html</id>
+        <link href="https://www.gizmodo.jp/2022/10/260863-machi-ya-duovox-review2.html"/>
+        <updated>2022-10-25T01:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ドライブレコーダーや監視カメラとしても役立つナイトビジョンカメラ「DUOVOX Mate Pro」が登場。F0.9の明るいレンズとSONY製のCMOSセンサー搭載で暗闇でもフルカラーの2K画像が得られます。暗所には近赤外光を照射して映像化。AIが明度をバランス調整してくれます。]]></summary>
+        <author>
+            <name>山田洋路</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プラススタイル74製品が最大58％オフ、楽天イーグルス感謝祭セールで]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1449929.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1449929.html"/>
+        <updated>2022-10-25T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[BBソフトサービスは、楽天市場で開催されるセール「楽天イーグルス感謝祭」にプラススタイル（＋Style）のスマートデバイスなど74製品を出品する。期間は10月26日10時～10月28日23時59分まで。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhoneにサブ回線を！　IIJmioの「音声eSIM」が登場したぞ!![Sponsored]]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/topic/special/1449319.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/topic/special/1449319.html"/>
+        <updated>2022-10-25T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[近頃は「eSIM」というワードをよく目にするようになった。従来のカード型の物理SIMと違って、eSIMは端末内部に埋め込まれたチップに、あとからデータを書き込むことでSIMとして機能させられるものだ。最近のAndroidスマートフォンやiPhoneではeSIM対応の動きが広がっており、多くの人が利用しやすい状況になってきている。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マウスパッドやデスクの摩擦を減らす。ダンロップのeスポーツ用アームサポーター]]></title>
+        <id>https://www.gizmodo.jp/2022/10/dunlop-arm-supporter.html</id>
+        <link href="https://www.gizmodo.jp/2022/10/dunlop-arm-supporter.html"/>
+        <updated>2022-10-25T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ダンロップからeスポーツ用のアームサポーター発売に。]]></summary>
+        <author>
+            <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[優れた防水性能の次世代スリングバッグ「Modern Pack 16L」がまもなく終了！]]></title>
+        <id>https://www.gizmodo.jp/2022/10/260861-machi-ya-modernpack16l-end.html</id>
+        <link href="https://www.gizmodo.jp/2022/10/260861-machi-ya-modernpack16l-end.html"/>
+        <updated>2022-10-25T00:45:00.000Z</updated>
+        <summary type="html"><![CDATA[「Modern Pack 16L」は、コンパクトながら13インチまでのPCを収納できる大容量スリングバッグ。超軽量かつ強度に優れたハイテク素材「X-PAC」を全面に採用し、防水性能にも優れます。メインコンパートメントには2通りのアクセス方法があり、PC専用の独立ポケットでリモートワークにも便利です。]]></summary>
+        <author>
+            <name>山科拓郎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[石川温の「スマホ業界 Watch」]新型「iPad」「iPad Pro」レビュー、触れてわかった嬉しい点と首を傾げてしまう点]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/ishikawa/1450143.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/ishikawa/1450143.html"/>
+        <updated>2022-10-25T00:14:03.000Z</updated>
+        <summary type="html"><![CDATA[10月26日発売のiPad（第10世代）ならびにiPad Pro（第6世代）を入手し、数日間、使用する機会を得た。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple、「iOS 16.1」配信　「Matter」対応やサードパーティ製アプリのDynamic Island対応など]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2210/25/news094.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2210/25/news094.html"/>
+        <updated>2022-10-25T00:04:00.000Z</updated>
+        <summary type="html"><![CDATA[AppleはiPhoneのOS「iOS 16.1」の配信を開始した。iPhone 14 ProモデルのDynamic Islandにサードパーティアプリのライブアクティビティも表示可能になる。「積極的に悪用された可能性がある」脆弱性にも対処する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[もうiPhoneに任せる。Safariのタブを整理してもらう方法]]></title>
+        <id>https://www.gizmodo.jp/2022/10/apple-safari-tab-delete-auto.html</id>
+        <link href="https://www.gizmodo.jp/2022/10/apple-safari-tab-delete-auto.html"/>
+        <updated>2022-10-24T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:マエノケンタかつてはSafariのタブの個数は上限が決められていました。たとえば昔、iOS8では上限が8枚でした。現在は通常モードで500個、プライベートモードで500個と、合計で1000個まで。タブグループ機能が追加されてからは、１グループ増やすと500個ずつ増えますし、実質無限になりました。そうなってくると、タブ検索の機能を使っても目当てのタブが出てこない状態になってしましまいます]]></summary>
+        <author>
+            <name>マエノケンタ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「iPadOS 16.1」配信開始　ステージマネージャの外部ディスプレイサポートはまだ]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2210/25/news087.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2210/25/news087.html"/>
+        <updated>2022-10-24T22:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Appleは「iPadOS 16.1」の配信を開始した。「ステージマネージャ」など多数の新機能が追加される。ただしステージマネージャの外部ディスプレイサポートは見送られた。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[auが黒部峡谷鉄道で“圏外”を解消　山岳地帯の狭小トンネルにどう挑んだ？　現地でチェック！]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2210/25/news059.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2210/25/news059.html"/>
+        <updated>2022-10-24T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[KDDIは9月末に、富山県の黒部峡谷鉄道の全区間でのau 4G LTEによるエリア化を完了した。黒部峡谷鉄道といえば、日本を代表する水力発電用ダム「黒部ダム」に欠かせない山岳鉄道で、道路すら通っていない場所も走る。どうやって携帯電話のエリアを整備したのだろうか……？]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple、アプリ内でNFTや関連サービスの販売を解禁]]></title>
+        <id>https://gori.me/?p=144702</id>
+        <link href="https://gori.me/apps/iphone-app-news/144702"/>
+        <updated>2022-10-24T21:15:53.000Z</updated>
+        <summary type="html"><![CDATA[Appleは10月25日、App Store Review Guidelineを最新版に更新。NFTおよびNFT関連サービスの販売を許可する説明を追加した。 Appleは、アプリ内課金に関する項目「3.1.1」として、「アプリはアプリ内課金を通じて、NFTやNFT関連サービスのミント、販売、送付など…
+The post Apple、アプリ内でNFTや関連サービスの販売を解禁 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 16.1、正式リリース。iCloud共有写真ライブラリやライブアクティビティが追加]]></title>
+        <id>https://gori.me/?p=144692</id>
+        <link href="https://gori.me/ios/ios16/144692"/>
+        <updated>2022-10-24T21:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Appleは10月25日、iOS 16.1を正式にリリースした。 最新アップデートでは、iCloud共有写真ライブラリやライブアクティビティなど、iOS 16の目玉機能として発表された内容が正式に実装。iOS 16のリリース時に追加されたバッテリー残量パーセント表示が全機種で利用可能になり、バッテリ…
+The post iOS 16.1、正式リリース。iCloud共有写真ライブラリやライブアクティビティが追加 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HomePodソフトウェアバージョン16.1、正式リリース。Matterに対応]]></title>
+        <id>https://gori.me/?p=144700</id>
+        <link href="https://gori.me/music-accessories/speakers/homepod/144700"/>
+        <updated>2022-10-24T21:00:45.000Z</updated>
+        <summary type="html"><![CDATA[Appleは10月25日、「HomePodソフトウェアバージョン16.1」を正式リリースした。最新バージョンでは新しいスマートホーム規格「Matter」をサポート。パフォーマンスと安定性の改善も含まれている。 HomePodのアップデートは、ホームアプリから行う。HomePodのタイルを長押しするこ…
+The post HomePodソフトウェアバージョン16.1、正式リリース。Matterに対応 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPadOS 16.1、待望の正式リリース。ステージマネージャや純正天気アプリが追加]]></title>
+        <id>https://gori.me/?p=144696</id>
+        <link href="https://gori.me/ipados/ipados16/144696"/>
+        <updated>2022-10-24T21:00:40.000Z</updated>
+        <summary type="html"><![CDATA[Appleは10月25日、iPadOS 16.1を正式リリースした。iOS 16は先行して9月に提供開始されていたが、iPadOSは「16」のリリースを見送り「16.1」として1カ月遅れで一般公開した。 対応機種は、以下のとおり。 12.9インチiPad Pro (第6世代、第5世代、第4世代、第3…
+The post iPadOS 16.1、待望の正式リリース。ステージマネージャや純正天気アプリが追加 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS Ventura、正式リリース。ステージマネージャや連係カメラなど新機能を多数追加]]></title>
+        <id>https://gori.me/?p=144698</id>
+        <link href="https://gori.me/macosx/macosventura/144698"/>
+        <updated>2022-10-24T21:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Appleは10月25日、macOS Venturaを正式リリースした。 最新アップデートでは、新しいマルチタスク機能ステージマネージャ、iPhoneをMac用のウェブカメラとして使用できる連係カメラなどの新機能が追加。iOS/iPadOS 16と連携する集中モードフィルタ、FaceTimeのHan…
+The post macOS Ventura、正式リリース。ステージマネージャや連係カメラなど新機能を多数追加 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[watchOS 9.1、正式リリース。2022年発売モデル向けに新しいバッテリー節約機能が追加]]></title>
+        <id>https://gori.me/?p=144694</id>
+        <link href="https://gori.me/watchos/watchos9/144694"/>
+        <updated>2022-10-24T21:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Appleは10月25日、watchOS 9.1を正式リリースした。 最新アップデートでは、心拍数とGPSの測定頻度を下げることでバッテリー駆動時間を節約できる機能が実装。屋外ウォーキング、ランニング、およびハイキングのワークアウト中のバッテリー消費を抑えられるようになった。 また充電されていない状…
+The post watchOS 9.1、正式リリース。2022年発売モデル向けに新しいバッテリー節約機能が追加 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5Gの人口カバー率は2022年3月末で93.2％、全都道府県で70％超え　総務省が公表]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2210/24/news157.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2210/24/news157.html"/>
+        <updated>2022-10-24T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[総務省は、10月21日に2022年3月末の5G整備状況について発表した。全国の5G人口カバー率は93.2％、都道府県別の5G人口カバー率はすべての都道府県で70％を超えたという。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[電子書籍人気ランキング] 電子書籍人気ランキング（10月14日～10月20日）]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/1450120.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/1450120.html"/>
+        <updated>2022-10-24T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今週のコミックランキングトップは『かぐや様は告らせたい～天才たちの恋愛頭脳戦～ 27』！　海外留学への出発が迫り……真のクライマックスへ！　2位の『あおざくら 防衛大学校物語（26）』は開校記念祭！　3位には女子会の恋話で変化が起こる……『古見さんは、コミュ症です。（27）』がランクインしました。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ユーザーごとに最適な回線品質を、Beyond 5G/6Gに向けたKDDI総研の取り組み]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1448212.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1448212.html"/>
+        <updated>2022-10-24T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[KDDI総合研究所は、Beyond 5G/6G時代に向けた新しい無線アクセスネットワークへの取り組みの一部をメディア向けに公開した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple TV+が大幅値上げ。月額600円→900円に]]></title>
+        <id>https://gori.me/?p=144690</id>
+        <link href="https://gori.me/appletv/144690"/>
+        <updated>2022-10-24T18:51:35.000Z</updated>
+        <summary type="html"><![CDATA[Apple公式サイトよりキャプチャ Appleの動画配信サービス「Apple TV+」が10月25日、価格改定を実施。月額600円から月額900円に大幅値上げされた。ファミリープランは用意されず、1つの契約で家族最大5人まで楽しめる。 Appleは、Apple Musicの個人/ファミリープラン、A…
+The post Apple TV+が大幅値上げ。月額600円→900円に first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple One、値上げ。月額1,100円→1,200円に]]></title>
+        <id>https://gori.me/?p=144688</id>
+        <link href="https://gori.me/apple/apple-news/144688"/>
+        <updated>2022-10-24T18:41:50.000Z</updated>
+        <summary type="html"><![CDATA[Apple公式サイトよりキャプチャ Appleは10月25日、Appleが提供する複数のサブスクリプションを一括で契約するサービス「Apple One」の価格を改定。個人プランが月額1,100円から月額1,200円に、ファミリープランが月額1,850円から月額1,980円に値上げされている。 App…
+The post Apple One、値上げ。月額1,100円→1,200円に first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Musicの個人プランが値上げ。月額980円→1,080円に]]></title>
+        <id>https://gori.me/?p=144686</id>
+        <link href="https://gori.me/apple/apple-music/144686"/>
+        <updated>2022-10-24T18:19:23.000Z</updated>
+        <summary type="html"><![CDATA[Apple公式サイト Appleは10月25日、Apple Musicの個人プランおよびファミリープランの価格改定を全世界で実施。個人プランは月額980円から月額1,080円に、ファミリープランは月額1,480円から月額1,680円に値上げされた。 Appleは今年2月に、個人プラン向けの無料トライ…
+The post Apple Musicの個人プランが値上げ。月額980円→1,080円に first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone向けに「iOS 16.1」が登場、iCloud共有写真ライブラリなどが利用可能に]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1450131.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1450131.html"/>
+        <updated>2022-10-24T17:26:46.000Z</updated>
+        <summary type="html"><![CDATA[アップル（Apple）は、iPhone向けに「iOS 16.1」の提供を開始した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「iPadOS 16.1」が配信開始、どんな機能が追加された？]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1449568.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1449568.html"/>
+        <updated>2022-10-24T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アップル（Apple）は、iPad向けの最新OS「iPadOS 16.1」の提供を開始した。対応機種は、iPad（第5世代以降）、iPad mini（第5世代以降）、iPad Air（第3世代以降）、iPad Proの全モデル。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IIJmioの「音声eSIM」、本日25日スタート]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1450116.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1450116.html"/>
+        <updated>2022-10-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[インターネットイニシアティブ（IIJ）は、MVNOサービス「IIJmioモバイルサービス」の「ギガプラン タイプA（au網）」で、音声通話に対応したeSIMを本日25日から提供する。月々の料金は850円～。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROG Phone 6クイックフォトレビュー]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/review/1450066.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/review/1450066.html"/>
+        <updated>2022-10-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ASUSは10月7日に最新ゲーミングスマートフォン「ROG Phone 6」を発売した。ゲームプレイに便利な機能を備えた端末で、「Qualcomm Snapdragon 8＋ Gen 1」の搭載や新しい冷却システムの導入で、長時間駆動でも高いパフォーマンス性能を維持できるように改善されている。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDDI総研、モバイル回線にも耐えられる3Dデータ圧縮用リアルタイムエンコーダーを開発]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1449996.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1449996.html"/>
+        <updated>2022-10-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[KDDI総合研究所は、三次元点群圧縮技術における最新の国際標準方式「V-PCC」に対応したリアルタイムエンコーダーを世界で初めて開発したことを発表した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[みんなのケータイ]Galaxy Z Flip4を使い始めて、気に入っているところ]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/minna/1449958.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/minna/1449958.html"/>
+        <updated>2022-10-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「Galaxy Z Flip4」を買いました。サムスンが若い女性をメインターゲットにしていることは重々承知しておりますが、それでもやっぱり欲しくなりました。結論を先に言うと、買って大正解。中年男性にも非常に扱いやすく、初めての折りたたみスマホでしたが、すぐに馴染めました。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[本日の一品]合宿用品に最適なモバイルプロジェクター「XGIMI HALO+」]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1448545.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1448545.html"/>
+        <updated>2022-10-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[XGIMI HALO+は、フルHDの高画質・Harman/Kardonの5Wスピーカーを搭載、最大200インチまで投影可能なAndaroidTV搭載のモバイルプロジェクターです。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU理事会がスマホなどの充電「USB-C」統一を最終承認]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1450121.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1450121.html"/>
+        <updated>2022-10-24T13:30:10.000Z</updated>
+        <summary type="html"><![CDATA[24日、EU理事会は、スマートフォンやタブレットなどのモバイル機器の充電端子をUSB Type-C（USB-C）に統一することを最終承認した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「必要十分」か「最高峰」か、新型iPadとiPad Proを試す　残念なのはただ1つ]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2210/24/news175.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2210/24/news175.html"/>
+        <updated>2022-10-24T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[第10世代のiPadと、M2チップを搭載したiPad Proが、10月26日に発売される。iPadは、これまで連綿と続いていたホームボタンをついに廃し、前面はディスプレイとベゼル（額縁）だけになった。iPad Proはデザイン的な変化はほぼないが、プロセッサが変わったことにより、単に処理能力が向上しただけでなく、新たにApple Pencilのホバー機能に対応した。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【先行レビュー】iPad、第10世代にして究極に使えるタブレットとなる。これは買いでしょう!!]]></title>
+        <id>https://www.gizmodo.jp/2022/10/ipad-10.html</id>
+        <link href="https://www.gizmodo.jp/2022/10/ipad-10.html"/>
+        <updated>2022-10-24T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[触ってみて初めてわかる使いやすさ。痒いところにすべて手が届いてしまった成熟感。正直に言って、僕は親兄弟も含めた家族全員にこれを薦めたい欲望にウズウズしています（母親はもうiPad3台持っているけどまだ薦めたい）。
+すでに予約して到着を待っている方、おめでとうございます。そしてまだ買ってないけど、気になっている方も検討の余地ありだと思いますよ。最初は買う気がなかった僕でも魅了されるぐらいなので、個人]]></summary>
+        <author>
+            <name>尾田和実</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フォトショじゃないよ。世界一黒い水性塗料｢黒色無双｣]]></title>
         <id>https://www.gizmodo.jp/2022/10/musoublack-2.html</id>
@@ -2982,835 +3795,6 @@ The post M2 iPad Proの独自機能「Apple Pencilによるポイント」とは
         <summary type="html"><![CDATA[「iPadOS 16」の配信が10月25日にスタート。iPadOS 16はmacOSに近い形態で使えるようになるiPad向けの最新OS。複数のアプリを重ねて表示できるようになる。]]></summary>
         <author>
             <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新iPad発表も、旧iPad（第9世代）は価格据え置き　値上げされたモデルは？]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2210/19/news082.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2210/19/news082.html"/>
-        <updated>2022-10-19T00:40:00.000Z</updated>
-        <summary type="html"><![CDATA[10月18日（米国時間）、iPad新型が発表された。iPad（第9世代）の価格は据え置き。値上げとなったiPadもある。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Belkin、iPhoneをウェブカメラとして使うためのMagSafeアクセサリを発売]]></title>
-        <id>https://gori.me/?p=144530</id>
-        <link href="https://gori.me/iphone-accessories/iphone-prepherial/144530"/>
-        <updated>2022-10-19T00:26:37.000Z</updated>
-        <summary type="html"><![CDATA[iPhoneをウェブカメラとして使うためのBelkin製MagSafeアクセサリ「Belkin iPhone Mount with MagSafe for Mac notebooks」がApple公式サイトで販売開始した。価格は4,400円。 Belkin iPhone Mount with Mag…
-The post Belkin、iPhoneをウェブカメラとして使うためのMagSafeアクセサリを発売 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magic Keyboard Folio、キーボード部分を分離して使用可能]]></title>
-        <id>https://gori.me/?p=144528</id>
-        <link href="https://gori.me/ipad-accessories/ipad-case/144528"/>
-        <updated>2022-10-19T00:09:55.000Z</updated>
-        <summary type="html"><![CDATA[Appleが、iPad（第10世代）向けに新しいケース一体型キーボード「Magic Keyboard Folio」を販売開始した。価格は38,800円。キーボードにはトラックパッドも搭載されており、マルチタッチ・ジェスチャーと、iPadOSに内蔵されたカーソルに対応。Macライクな操作が可能だ。 通…
-The post Magic Keyboard Folio、キーボード部分を分離して使用可能 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[進化する飲食店。神奈川ローカルのカフェに行ったら、アプリも決済もリワードもデジタル化が加速してて驚いた]]></title>
-        <id>https://www.gizmodo.jp/2022/10/uni-coffee.html</id>
-        <link href="https://www.gizmodo.jp/2022/10/uni-coffee.html"/>
-        <updated>2022-10-18T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先日、あるカフェに入りました。初めて利用するお店です。注文カウンターで、お店のアプリをダウンロードしてそれで支払いするとドリンクプレゼントですと言われました。オープン直後で店内は私だけだったので、その場ですぐダウンロード、会員登録、プリペイドチャージして、支払い。その日のコーヒーは無料になりました。
-
-最近、キャッシュレス決済やお店アプリは当たり前なので、とくに何も考えずコーヒーを飲んでいて、ふと]]></summary>
-        <author>
-            <name>そうこ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ついにiPadで”ガチ”な動画編集が可能に？DaVinci Resolve for iPadがシレッと登場]]></title>
-        <id>https://gori.me/?p=144526</id>
-        <link href="https://gori.me/apps/ipad-app-news/144526"/>
-        <updated>2022-10-18T22:05:53.000Z</updated>
-        <summary type="html"><![CDATA[M2チップを搭載したiPad Pro（2022）の紹介ページに、「DaVinci Resolve for iPad」が紹介されている。詳細は不明だが、MacやPCで提供されているプロ向け動画編集アプリケーションの各種機能がiPadで利用できる可能性がある。2022年内にリリースが予定されている。 D…
-The post ついにiPadで”ガチ”な動画編集が可能に？DaVinci Resolve for iPadがシレッと登場 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPadをドッキングするスマートディスプレイ、来年に向けて計画されているのかも]]></title>
-        <id>https://www.gizmodo.jp/2022/10/ipad-smart-display.html</id>
-        <link href="https://www.gizmodo.jp/2022/10/ipad-smart-display.html"/>
-        <updated>2022-10-18T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Appleの情報に精通したBloombergのMark Gurman記者によると、2023年にもiPadとスピーカーハブを組み合わせたデバイスを計画しているとのことです。]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[まさかの”追い値上げ”。iPad AirとiPad miniが再度価格改定]]></title>
-        <id>https://gori.me/?p=144520</id>
-        <link href="https://gori.me/ipad/ipadair/144520"/>
-        <updated>2022-10-18T21:15:27.000Z</updated>
-        <summary type="html"><![CDATA[Appleが、iPad Air（第5世代）およびiPad mini（第6世代）を値上げした。今年7月に実施された価格改定からさらに6,000円〜12,000円高くなっている。 iPad Airは今年6月以前に74,800円から販売されていたが、現在の最安モデルは92,800円から。iPad mini…
-The post まさかの”追い値上げ”。iPad AirとiPad miniが再度価格改定 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新型Apple TV 4K、正式発表。A15 Bionicチップ搭載、HDR10+対応]]></title>
-        <id>https://gori.me/?p=144524</id>
-        <link href="https://gori.me/appletv/144524"/>
-        <updated>2022-10-18T21:00:44.000Z</updated>
-        <summary type="html"><![CDATA[Appleは10月19日、プレスリリースを通じて新型Apple TV 4Kを正式に発表した。64GBのストレージを搭載した「Apple TV 4K（Wi-Fi）」と、128GBのストレージと高速ネットワークとストリーミングのためのギガビットイーサネットポートを搭載した「Apple TV 4K（Wi-…
-The post 新型Apple TV 4K、正式発表。A15 Bionicチップ搭載、HDR10+対応 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JTOWERと三井情報・シスコ・AirspanがオープンRAN環境での実証実験に成功]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1448557.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1448557.html"/>
-        <updated>2022-10-18T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[JTOWERは、三井情報・シスコシステムズ・エアースパン・ジャパンと、JTOWERの「ローカル5G共用装置」とシスコの「Cisco Private 5G」、Airspanの基地局で構成したオープンRAN環境で実証実験を行い、成功したと発表した。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アップルストアで「iPad（第9世代）」併売、iPad AirとiPad miniは値上げ]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1448627.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1448627.html"/>
-        <updated>2022-10-18T18:10:27.000Z</updated>
-        <summary type="html"><![CDATA[アップル（Apple）が発表した“無印iPad”の最新モデル「iPad（第10世代）」。本稿執筆時点で、アップルの公式サイトでは「iPad（第9世代）」の旧モデルも併売されている。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[でちゃった! M2のiPad Proがでちゃったよ!]]></title>
-        <id>https://www.gizmodo.jp/2022/10/m2-ipad-pro-2.html</id>
-        <link href="https://www.gizmodo.jp/2022/10/m2-ipad-pro-2.html"/>
-        <updated>2022-10-18T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Apple噂どおり!やったーー!今夜出るかも？とドキドキしていたM2のiPadPro。いや、まさかね。本当だったよ！M2チップを搭載したiPadPro（11インチ、12.9インチ）。発表でございます。Image:Apple目立ったアップデートはM2チップへの変更。そして、ペンを浮かせた状態でも操れる機能。M2へのマイナーアップだけでは？みたいな予測もあったので、新機能はワクワクしますね]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M2搭載の新iPad Pro、Wi-Fi 6Eと5Gミリ波は国内で利用できず]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1448626.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1448626.html"/>
-        <updated>2022-10-18T17:14:27.000Z</updated>
-        <summary type="html"><![CDATA[米Apple（アップル）は、iPad Proの新モデル「iPad Pro 11インチ（第4世代）」と、「iPad Pro 12.9インチ（第6世代）」を発表した。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPad（第10世代）はUSB-C、でもApple Pencilは第1世代にのみ対応→充電方法がかなりヤバい気がする…！]]></title>
-        <id>https://www.gizmodo.jp/2022/10/tell-me-how-to-charge-apple-pencil-with-new-ipad.html</id>
-        <link href="https://www.gizmodo.jp/2022/10/tell-me-how-to-charge-apple-pencil-with-new-ipad.html"/>
-        <updated>2022-10-18T17:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Apple/ギズモード・ジャパンLightningのApplePencil（第1世代）はUSB-CのiPad（第10世代）に挿せないですよねぇ…。2022年10月19日、AppleがiPad（第10世代）を発表しました。iPadProやiPadAir、iPadminiのようなオールスクリーンデザインとなり、端子もUSB-Cになりました。10.9インチでホームボタンなし！USB-C！可愛]]></summary>
-        <author>
-            <name>かみやまたくみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M2のiPad Proだけの新機能！ 浮かせたApple Pencilを認識するホバー機能はどんな時に便利？]]></title>
-        <id>https://www.gizmodo.jp/2022/10/apple-plencil-hover.html</id>
-        <link href="https://www.gizmodo.jp/2022/10/apple-plencil-hover.html"/>
-        <updated>2022-10-18T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Apple／YouTubeクリエイティブシーンにいいかも！本日発表されたM2版の新型iPadPro。見た目こそ変わっていませんが、ちゃあんと新機能が用意されています。それがApplePencilを画面から浮かせた状態でも認識するホバー機能。最大12mm。ペン先から発せられる電磁信号をスクリーンが検知してM2チップが即座に信号を解析。傾きなども含めてペンの状態を画面へと反映します。Ima]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「iPad（第10世代）」を10月26日発売　ホームボタン廃止でUSB Type-C搭載、約6.9万円から]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2210/19/news063.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2210/19/news063.html"/>
-        <updated>2022-10-18T16:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Appleが、第10世代の新型iPadを10月26日に発売する。従来のiPadで採用していたホームボタンとLightningを廃止した。カラーバリエーションはブルー、ピンク、シルバー、イエローの4色で展開する。価格は6万8800円から。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPadでガチの動画編集。DaVinci Resolve for iPadきた！]]></title>
-        <id>https://www.gizmodo.jp/2022/10/davinci-resolve-for-ipad.html</id>
-        <link href="https://www.gizmodo.jp/2022/10/davinci-resolve-for-ipad.html"/>
-        <updated>2022-10-18T16:35:00.000Z</updated>
-        <summary type="html"><![CDATA[動画編集アプリ「DaVinci Resolve」のiPad版が、iPad Proのサイトでお披露目されているんです！]]></summary>
-        <author>
-            <name>金本太郎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アップル、M2搭載の「iPad Pro」やA14搭載「iPad」、「Apple TV 4K」発表]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1448622.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1448622.html"/>
-        <updated>2022-10-18T16:34:51.000Z</updated>
-        <summary type="html"><![CDATA[アップルは、M2チップ搭載の新型「iPad Pro」や、A14チップ搭載の「iPad」、テレビにつなげる「Apple TV 4K」を発表した。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS Ventura、日本時間10月25日（火）に正式リリースへ]]></title>
-        <id>https://gori.me/?p=144515</id>
-        <link href="https://gori.me/macosx/macosventura/144515"/>
-        <updated>2022-10-18T16:25:23.000Z</updated>
-        <summary type="html"><![CDATA[Appleは、macOS Venturaを日本時間10月25日に正式リリースする。対応デバイスに深夜2時頃、順次配信されるだろう。 macOS Venturaの概要 macOS VenturaではiPadOS 16と同じマルチタスク機能「ステージマネージャ」を実装。開いているアプリケーションとウイン…
-The post macOS Ventura、日本時間10月25日（火）に正式リリースへ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M2チップ搭載の新型「iPad Pro」、10月26日発売　約12.5万円～37.3万円]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2210/19/news061.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2210/19/news061.html"/>
-        <updated>2022-10-18T16:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Appleが新型の「iPad Pro」を発表。11型と12.9型の2モデルで構成され、10月26日に発売される。Macでもおなじみの「M2チップ」を搭載しており、先代のM1と比べてCPUが最大15％高速化、GPUが最大25％高速化している。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPadOS 16、日本時間10月25日（火）に正式リリースへ]]></title>
-        <id>https://gori.me/?p=144514</id>
-        <link href="https://gori.me/ipados/ipados16/144514"/>
-        <updated>2022-10-18T16:10:29.000Z</updated>
-        <summary type="html"><![CDATA[Appleが、iPadOS 16を日本時間10月25日に正式リリースすると発表した。対応デバイスに深夜2時頃、順次配信されるだろう。 iPadOS 16の概要 iPadOS 16はiOS 16の新機能を踏襲しているが、独自機能も追加された。最大の特徴は、iPadOSのマルチタスク機能を大幅に強化する…
-The post iPadOS 16、日本時間10月25日（火）に正式リリースへ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPad（第10世代）、正式発表。新デザイン、USB-C搭載、そしてApple Pencil（第1世代）の衝撃]]></title>
-        <id>https://gori.me/?p=144501</id>
-        <link href="https://gori.me/ipad/theipad/144501"/>
-        <updated>2022-10-18T15:46:41.000Z</updated>
-        <summary type="html"><![CDATA[Appleは10月19日、プレスリリースを通じてiPad（第10世代）を正式に発表した。シルバー、ブルー、ピンク、イエローの4色展開となっており、価格は68,800円から。10月19日（水）より予約受付を開始し、10月26日（水）から販売を開始する。 第9世代モデルから外観を大幅に刷新し、iPad …
-The post iPad（第10世代）、正式発表。新デザイン、USB-C搭載、そしてApple Pencil（第1世代）の衝撃 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アップル、M2搭載の新型「iPad Pro」発表、11インチは12万4800円～、12.9インチは17万2800円～]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1448617.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1448617.html"/>
-        <updated>2022-10-18T15:33:16.000Z</updated>
-        <summary type="html"><![CDATA[米Apple（アップル）は、M2チップを搭載する「iPad Pro 11インチ（第4世代）」と、「iPad Pro 12.9インチ（第6世代）」を発表した。予約注文を受け付けしており、10月26日から販売する。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アップルから「iPad（第10世代）」、4色展開で10.9インチディスプレイ]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1448615.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1448615.html"/>
-        <updated>2022-10-18T15:27:18.000Z</updated>
-        <summary type="html"><![CDATA[アップル（Apple）は、「iPad（第10世代）」を発表した。10.9インチのLiquid Retinaディスプレイや「A14 Bionic」チップを搭載する。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPad Pro（2022）、正式発表。M2チップ以外…何が変わった？特徴や新機能まとめ]]></title>
-        <id>https://gori.me/?p=144499</id>
-        <link href="https://gori.me/ipad/ipadpro/144499"/>
-        <updated>2022-10-18T15:25:46.000Z</updated>
-        <summary type="html"><![CDATA[Appleは10月19日、プレスリリースを通じて11インチと12.9インチのiPad Pro（2022）を正式に発表した。価格は、11インチモデルが124,800円から、12.9インチモデルが172,800円から。10月19日（水）より予約受付を開始し、10月26日（水）から販売を開始する。 M2チ…
-The post iPad Pro（2022）、正式発表。M2チップ以外…何が変わった？特徴や新機能まとめ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「iPadOS 16」は10月25日に登場へ]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1448613.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1448613.html"/>
-        <updated>2022-10-18T15:09:37.000Z</updated>
-        <summary type="html"><![CDATA[アップルは、「iPadOS 16」を10月25日に配信する。新型iPadの発表文書内で触れるかたちで明らかにした。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[みんなのケータイ]オンライン手続きで「母のスマホ」をeSIM＆機種変更してみた]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/column/minna/1448462.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/column/minna/1448462.html"/>
-        <updated>2022-10-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナ感染拡大も落ち着きを見せ始めてきたので、先日、久々に実家に帰省してきた。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[スタパ齋藤のApple野郎]新型AirPods Pro保護カバー、旧型用と“いちおう互換性がある”けど……？]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/column/stapaapple/1448411.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/column/stapaapple/1448411.html"/>
-        <updated>2022-10-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[9月に発売されたAppleの新型イヤホンことAirPods Pro（第2世代）（以下、AirPods Pro 2）。その使用感などについては、下記リンクでレビューを書いたので、そちらをお読みいただきたい。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[本日の一品]お手軽価格なAnkerの体重・体組成計で健康管理]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1447733.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1447733.html"/>
-        <updated>2022-10-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[数年ぶりに筆者の住む地域でマラソン大会が再開される運びとなり、自身に活を取り戻すべく参加してみることにしました。しかしコロナ禍にあって身体はすっかりたるみ、体重もだいぶ増量しています。このままではハーフマラソン完走どころか10km走れるかも疑わしい。ということでトレーニングとともに本格的にダイエットを開始。毎朝、体重計に乗って記録を付け始めました。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Appleオンラインストアがメンテ中へ、ティム・クックCEOもツイート]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1448604.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1448604.html"/>
-        <updated>2022-10-18T13:15:12.000Z</updated>
-        <summary type="html"><![CDATA[18日夜、Apple（アップル）のオンラインストアでメンテナンスが始まった。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Adobe Creative Cloud」が2023年版に　コラボレーションを意識した機能強化も]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2210/18/news181.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2210/18/news181.html"/>
-        <updated>2022-10-18T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ハイブリッドイベント「Adobe MAX 2022」の開催に合わせて、Adobeがサブスクリプションサービス「Adobe Creative Cloud」のメジャーアップデートを実施する。テーマは「速さ」と「使いやすさ＆スーパーパワー」だという。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モバイル版「Lightroom」でコンテンツに応じた削除など新機能]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1448560.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1448560.html"/>
-        <updated>2022-10-18T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アドビは、同社のイベント「Adobe MAX 2022」においてモバイル版「Lightroom」とiPad版「Illustrator」において新機能の追加を発表した。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アドビの「Substance 3D Sampler」にスマホカメラなどの写真から3Dメッシュを作る新機能]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1447363.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1447363.html"/>
-        <updated>2022-10-18T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アドビは、同社のイベント「Adobe Max 2022」において「Substance 3D Sampler」にスマートフォンで3Dスキャンができる機能を発表した。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超カワイイ！ DIYで作る世界最小のひとり乗りマイクロEV｢P.50｣]]></title>
-        <id>https://www.gizmodo.jp/2022/10/p50-diy-ev-1.html</id>
-        <link href="https://www.gizmodo.jp/2022/10/p50-diy-ev-1.html"/>
-        <updated>2022-10-18T12:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:P.502022年6月15日の記事を編集して再掲載しています。歴史あるおひとり様用EVを組み立ててみよう。1962年から1974年までの間、イギリスのマン島にある町ピールにて、50台弱が作られた3輪のマイクロEV｢P.50｣が組み立てキットとして復刻されました。発売当時のオリジナルは現在超プレミア価格世界最小を謳う｢P.50｣は電話ボックスより小さく、イタリアのスクーター｢ヴェスパ｣よ]]></summary>
-        <author>
-            <name>岡本玄介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tim Cook、「可能性は無限大」とツイート。新型iPad登場を示唆か]]></title>
-        <id>https://gori.me/?p=144510</id>
-        <link href="https://gori.me/apple/apple-news/144510"/>
-        <updated>2022-10-18T12:21:47.000Z</updated>
-        <summary type="html"><![CDATA[Appleのティム・クックCEOは10月18日、Apple公式サイトのメンテンナンスモード切り替えと同時刻に「可能性は無限大」とツイート。ハッシュタグ「#TakeNote」を添えている。 The possibilities are endless. #TakeNote pic.twitter.com…
-The post Tim Cook、「可能性は無限大」とツイート。新型iPad登場を示唆か first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple公式サイトがメンテ画面に切り替え。新型iPad ProやiPadを発表か]]></title>
-        <id>https://gori.me/?p=144508</id>
-        <link href="https://gori.me/apple/apple-news/144508"/>
-        <updated>2022-10-18T12:15:45.000Z</updated>
-        <summary type="html"><![CDATA[Apple公式サイトがメンテナンス画面に切り替わった。Appleは新型iPad Proを日本時間18日夜に正式発表する可能性が高いと見られている。例年の傾向では、遅くとも19日1時頃までに何かしらの発表が期待できる。 速報：Apple公式ストアがメンテナンスモードに切り替え。新型iPadの発売に向け…
-The post Apple公式サイトがメンテ画面に切り替え。新型iPad ProやiPadを発表か first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ノイキャンと低音重視ならこれで決まり。Boseの次世代完全ワイヤレス「QuietComfort Earbuds II」]]></title>
-        <id>https://www.gizmodo.jp/2022/10/bose-quietcomfort-earbuds-ii-review-us.html</id>
-        <link href="https://www.gizmodo.jp/2022/10/bose-quietcomfort-earbuds-ii-review-us.html"/>
-        <updated>2022-10-18T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先月、Boseの完全ワイヤレスイヤフォンに最新型が登場しました。QuietComfort Earbudsの後継機、第2世代となる「QuietComfort Earbuds II」。発売時期が同じなので、AppleのAirPods Pro 2と迷っている人もいると思います。もちろんそれぞれに良さがあるのですが、QuietComfort Earbuds IIはやはりノイキャンが強い。公式が「世界最高の]]></summary>
-        <author>
-            <name>そうこ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[もっともっとホコリが見える！ レーザーを強化したダイソン新型掃除機「Dyson Gen5 Detect」]]></title>
-        <id>https://www.gizmodo.jp/2022/10/dyson-gen5-detect.html</id>
-        <link href="https://www.gizmodo.jp/2022/10/dyson-gen5-detect.html"/>
-        <updated>2022-10-18T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Dyson可視化でもっとキレイ。ダイソンがコードレス掃除機の最新モデル「DysonGen5Detect」を発表しました。昨年リリースされたレーザー搭載でホコリを可視化するDysonV15Detectの後継機という立ち位置で、レーザーの明るさがアップしています。新しい機種が出るたびにパワーアップしていくダイソン。DysonGen5Detectは、ダイソン第5世代となるHyperdymiu]]></summary>
-        <author>
-            <name>そうこ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[レトロデザインがキュートな感熱式モバイルプリンター「LetSketch」]]></title>
-        <id>https://www.gizmodo.jp/2022/10/machi-ya-letsketch-end.html</id>
-        <link href="https://www.gizmodo.jp/2022/10/machi-ya-letsketch-end.html"/>
-        <updated>2022-10-18T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[ノート作りや小物アイテム整理にラベルを活用していますか？「LetSketch」はレトロな外観が可愛らしい小型サーマルプリンターで、写真やアイコンなどを活用してスマホから手軽にラベルやメモ印刷が可能なアイテム。感熱紙を使うためインクも不要なのがお手軽なポイント。今回サンプルを使ってみたのでぜひ参考にしてみてください。]]></summary>
-        <author>
-            <name>junior</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドコモによる子会社化で何が変わった？　NTT Com丸岡社長との一問一答]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1448565.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1448565.html"/>
-        <updated>2022-10-18T10:27:08.000Z</updated>
-        <summary type="html"><![CDATA[リアル会場とオンライン会場でハイブリッド開催されている法人向けイベント「docomo business Forum'22」。期間は10月21日までで、法人事業ブランド「ドコモビジネス」のサービスやソリューションについて紹介される。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Appleとメルセデス・ベンツが提携、車内で空間オーディオを利用可能に]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1448537.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1448537.html"/>
-        <updated>2022-10-18T10:26:58.000Z</updated>
-        <summary type="html"><![CDATA[Appleとメルセデス・ベンツは提携を行い、Apple Musicの空間オーディオがメルセデス・ベンツの車載オーディオの中で体験できるようになった。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ディーフ、軽量のアラミド繊維を使用したXperia 5 IV用ケース「DURO」発売]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2210/18/news160.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2210/18/news160.html"/>
-        <updated>2022-10-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ディーフは、10月下旬にXperia 5 IV向けアラミド繊維製ケース「Ultra Slim & Light Case DURO Special Edition for Xperia 5 IV」を発売。カメラ部もフラットに保護し、ボタン部には周囲を囲むようにフルガード処理としている。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2007年発売の未開封初代iPhone、3万9000ドルで落札される]]></title>
-        <id>https://www.gizmodo.jp/2022/10/unopened-iphone-from-2007-sells-for-39-000-at-auction.html</id>
-        <link href="https://www.gizmodo.jp/2022/10/unopened-iphone-from-2007-sells-for-39-000-at-auction.html"/>
-        <updated>2022-10-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple（アップル）が初めて販売したスマートフォン、iPhoneがこの世に誕生したのは2007年。そんな初代iPhoneを未開封のまま持っている人がいました。オークションにかけたところ、落札価格は3万9339.60ドル、日本円で約580万円。当時は600ドル（約9万円）程度で販売されていました。]]></summary>
-        <author>
-            <name>岩田リョウコ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Amazonタイムセール中！】ポケモンの新作が14％オフで予約受付中、Nintendo Switch対応のSDカードが32%オフなど]]></title>
-        <id>https://www.gizmodo.jp/2022/10/amazon-timesale-2022-1018-1.html</id>
-        <link href="https://www.gizmodo.jp/2022/10/amazon-timesale-2022-1018-1.html"/>
-        <updated>2022-10-18T09:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon（アマゾン）で毎日開催されているタイムセール。本日2022年10月18日は、ポケモンの新作が14％オフで予約受付中やNintendo Switch対応のSDカードが32%オフなど、今すぐ欲しい人気のアイテムがお得に多数登場しています。]]></summary>
-        <author>
-            <name>メディアジーンメディアコマース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NTT Comとデンソー、コネクテッドカーのサイバーセキュリティで協業]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1448470.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1448470.html"/>
-        <updated>2022-10-18T09:05:06.000Z</updated>
-        <summary type="html"><![CDATA[NTTコミュニケーションズとデンソーは、コネクテッドカー向けにサイバー攻撃から車両を見守る「車両向けセキュリティ監視サービス」（車両SOCサービス）の提供に向け協業すると発表した。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マイクロソフトがチラ見せ？Windows 12のプロトタイプと見られるUIデザインが公開される]]></title>
-        <id>https://www.gizmodo.jp/2022/10/windows-12-ui.html</id>
-        <link href="https://www.gizmodo.jp/2022/10/windows-12-ui.html"/>
-        <updated>2022-10-18T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft（マイクロソフト）は今月、開発者カンファレンス「Microsoft Ignite 2022」を開催しました。このほどWindows Centralは、その基調講演においてチラ見せされた、「Windows 12」のUI（ユーザーインターフェース）の可能性もある新デザインについて報じています。]]></summary>
-        <author>
-            <name>湯木進悟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【楽天ご愛顧感謝デー】顔をすべて覆えるフード付きネックピロー、THE NORTH FACEのジャケットなどがタイムセール中！]]></title>
-        <id>https://www.gizmodo.jp/2022/10/rakuten-sale-2022-1018-1.html</id>
-        <link href="https://www.gizmodo.jp/2022/10/rakuten-sale-2022-1018-1.html"/>
-        <updated>2022-10-18T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[楽天市場では、最大50%と高ポイント還元イベント｢楽天スーパーDEAL｣を開催中。
-
-本日2022年10月18日（火）は、顔をすべて覆えるフード付きネックピロー、THE NORTH FACEのジャケットなどが登場しています。
-
- さらに毎月18日は｢ご愛顧感謝デー｣のため、本日10月18日（火）中にエントリーして買い物すると、楽天会員ランクに応じてポイント最大4倍となります。]]></summary>
-        <author>
-            <name>メディアジーンメディアコマース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楽天モバイル、先着で「Galaxy Z Flip4」購入者にBTSグッズ3点セットをプレゼント]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1448514.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1448514.html"/>
-        <updated>2022-10-18T08:23:06.000Z</updated>
-        <summary type="html"><![CDATA[楽天モバイルは、Webまたは店舗で「Galaxy Z Flip4」を購入すると、先着でBTSグッズ3点セットがプレゼントされるキャンペーンを開始した。期間は、Webは2023年1月6日23時59分まで、店舗は2023年1月6日の閉店時間まで。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AUKEY、液晶搭載のモバイルバッテリー「PB-Y33」を40％オフセール　10月25日まで]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2210/18/news151.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2210/18/news151.html"/>
-        <updated>2022-10-18T08:22:00.000Z</updated>
-        <summary type="html"><![CDATA[AUKEY公式オンラインショップは、液晶LCDディスプレイを搭載した容量1万mAhのモバイルバッテリー「PB-Y33」の40％オフセールを開催。10月25日まで1979円（税込み）で購入できる。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アイリスオーヤマの掃除機「daspo」、寝た子を起こさぬ静けさや]]></title>
-        <id>https://www.gizmodo.jp/2022/10/irisoyama-_daspo.html</id>
-        <link href="https://www.gizmodo.jp/2022/10/irisoyama-_daspo.html"/>
-        <updated>2022-10-18T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:アイリスオーヤマこういう進化の方向性もあるのか！なんて着眼点の上手さにモニタの前で思わず拍手。こちら、アイリスオーヤマの新型スティック掃除機で名前を「daspo」と言います。特徴は超静音特化のお掃除モードです。モードは自動・標準・ターボという吸引モードに加えて、「ちりとりモード」という独自のモードを搭載。で！このモードの静音性がちょっと信じられんレベルなので、まず公式サイトの動画でチェ]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIL規格の耐衝撃性能を備えたXperia 5 IV対応ケース　フォーカルポイントから]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2210/18/news119.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2210/18/news119.html"/>
-        <updated>2022-10-18T07:14:00.000Z</updated>
-        <summary type="html"><![CDATA[フォーカルポイントは、Xperia 5 IV対応ケース「EXTREME DEFENSE 耐衝撃ハイブリッドカバー」をau公式アクセサリ「au +1 collection SELECT」で販売。柔軟性とMILスペックに準拠した耐衝撃性能を備え、カメラも保護する。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[こんなに小さいけど実際に遊べます。レトロかわいいゲーム機「POCKET ARCADE」]]></title>
-        <id>https://www.gizmodo.jp/2022/10/giz-yatai-pocket-arcade.html</id>
-        <link href="https://www.gizmodo.jp/2022/10/giz-yatai-pocket-arcade.html"/>
-        <updated>2022-10-18T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[4Kだの大画面だのレイトレーシングだの、最近のゲームの進化は凄まじいですよね。ディスプレイに向き合ってガッツリ楽しむゲームも一興ですが、その反対でめちゃ手軽なゲーム機ってのもアリじゃないですか？
-それが、新しくギズ屋台に入荷してきた「POCKET ARCADE」。ストラップの大きさからも分かる通り、ポケットや手のひらにおさまってしまうほど小さな携帯ゲーム機です。]]></summary>
-        <author>
-            <name>ヤマダユウス型</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[気象庁、大雨や噴火を伝える緊急速報メールを廃止へ]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1448447.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1448447.html"/>
-        <updated>2022-10-18T06:39:36.000Z</updated>
-        <summary type="html"><![CDATA[気象庁は、大雨や噴火を伝える「気象等及び噴火に関する特別警報の緊急速報メール」（緊急速報メール）を12月末にも廃止する。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「au PAY」のクーポンがリニューアル　小規模店舗でも配信可能に]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2210/18/news115.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2210/18/news115.html"/>
-        <updated>2022-10-18T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[KDDIが「au PAYアプリ」のクーポン機能を10月19日にリニューアルする。それに合わせて、加盟店向けの新サービス「au PAY グロースパック クーポン」の提供も開始される。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「LINEでふるさと納税」、LINEで配送通知が受け取れる新機能]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1448443.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1448443.html"/>
-        <updated>2022-10-18T06:22:02.000Z</updated>
-        <summary type="html"><![CDATA[ふるさと納税ポータルサイト「さとふる」を運営するさとふるは、LINEを通じてふるさと納税ができる「LINEでふるさと納税 Powered by さとふる」において、LINEで配送通知などを受け取れる新機能の提供を開始した。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「au PAY プリぺイドカード」、他社決済へのチャージでPontaポイント加算が対象外に]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1448433.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1448433.html"/>
-        <updated>2022-10-18T06:05:16.000Z</updated>
-        <summary type="html"><![CDATA[KDDIは、事前にチャージしたau PAY残高を使えるプリペイドカード「au PAYプリペイドカード」で、他社決済サービスへチャージする際のPontaポイント加算（200円で1Pontaポイント）を、11月1日利用分から付与の対象外とする。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カニエ・ウェストが言論自由SNSの「Parler」を買収]]></title>
-        <id>https://www.gizmodo.jp/2022/10/kanye-west-parler.html</id>
-        <link href="https://www.gizmodo.jp/2022/10/kanye-west-parler.html"/>
-        <updated>2022-10-18T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[面白くなりそうな不安しかないような買収話。カニエ・ウェスト氏が、SNSのParlerを買収しました。日本ではあまり知名度の高くないParler、短文型SNSで最大の売りは言論の自由を掲げているところ。]]></summary>
-        <author>
-            <name>そうこ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yahoo!ニュース、11月中旬からコメント投稿において携帯電話番号の設定を必須に]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1448423.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1448423.html"/>
-        <updated>2022-10-18T05:37:34.000Z</updated>
-        <summary type="html"><![CDATA[ヤフーは、同社が運営するインターネットニュース配信サービス「Yahoo!ニュース」が提供する「Yahoo!ニュース コメント」に投稿するにあたり、11月中旬から携帯電話番号の設定を必須にする。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知っておくとちょっと便利な｢Googleマップ｣10の設定]]></title>
-        <id>https://www.gizmodo.jp/2022/10/10-important-google-maps-settings-2.html</id>
-        <link href="https://www.gizmodo.jp/2022/10/10-important-google-maps-settings-2.html"/>
-        <updated>2022-10-18T05:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Screenshot:GoogleMaps2022年4月21日の記事を編集して再掲載しています。知ってる人は使いこなしてる！Googleマップ使ってます、もちろん使ってます、しょっちゅう使ってます。お世話になってはいるものの、もしかしたら慣れてる定番使いだけで見逃している機能があるかも。Googleマップはちょいちょいアップデートが入っているので、知らない間に機能追加も。なので、毎日がちょっと便利]]></summary>
-        <author>
-            <name>そうこ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEが3.3万円から。Apple Watch整備済商品の最新情報（2022年10月18日更新）]]></title>
-        <id>https://gori.me/?p=144506</id>
-        <link href="https://gori.me/sale/apple-refurbished/144506"/>
-        <updated>2022-10-18T05:28:03.000Z</updated>
-        <summary type="html"><![CDATA[通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みApple Watch情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日はApple Wat…
-The post SEが3.3万円から。Apple Watch整備済商品の最新情報（2022年10月18日更新） first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステージマネージャ対応モデルが8.9万円から。iPad整備済商品の最新情報（2022年10月18日更新）]]></title>
-        <id>https://gori.me/?p=144505</id>
-        <link href="https://gori.me/sale/apple-refurbished/144505"/>
-        <updated>2022-10-18T05:23:40.000Z</updated>
-        <summary type="html"><![CDATA[通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みiPad情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 現在はiPad Pro（2018）、i…
-The post ステージマネージャ対応モデルが8.9万円から。iPad整備済商品の最新情報（2022年10月18日更新） first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M1 MacBook Airは10.6万円から。Mac整備済商品の最新情報（2022年10月18日更新）]]></title>
-        <id>https://gori.me/?p=144503</id>
-        <link href="https://gori.me/sale/apple-refurbished/144503"/>
-        <updated>2022-10-18T05:19:13.000Z</updated>
-        <summary type="html"><![CDATA[通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日はAppleシリコンMacの在庫が多数…
-The post M1 MacBook Airは10.6万円から。Mac整備済商品の最新情報（2022年10月18日更新） first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朗報】Pixel Watchでオートチャージ付きSuicaが使えました]]></title>
-        <id>https://www.gizmodo.jp/2022/10/google-pixel-watch-suica-auto-charge.html</id>
-        <link href="https://www.gizmodo.jp/2022/10/google-pixel-watch-suica-auto-charge.html"/>
-        <updated>2022-10-18T05:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Google（グーグル）初のスマートウォッチとして注目を浴びているPixel Watch。もしかしたら「おサイフ」なのでは？と期待して、違って落胆していたんですが・・・見つかっちゃいました！ Pixel Watchでオートチャージ機能付きのSuicaを使う方法。]]></summary>
-        <author>
-            <name>西谷茂リチャード</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[えっ!? M2のiPad Proって、ひょっとして今夜発表されちゃうの？]]></title>
-        <id>https://www.gizmodo.jp/2022/10/m2-ipad-pro.html</id>
-        <link href="https://www.gizmodo.jp/2022/10/m2-ipad-pro.html"/>
-        <updated>2022-10-18T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[まもなくM2のiPad Pro出るかも！ と以前よりお伝えしていましたが、ここで情報のアップデート。Bloombergの記者が、iPad Proの具体的な発表日を「登場は明日になるはずだ」と予想しています。]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ドコモビジネス」が目指す世界とは？　NTT Com丸岡社長の基調講演]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1448406.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1448406.html"/>
-        <updated>2022-10-18T04:57:30.000Z</updated>
-        <summary type="html"><![CDATA[10月21日まで、リアル会場とオンライン会場でハイブリッド開催中の法人向けイベント「docomo business Forum'22」。法人事業ブランド「ドコモビジネス」のさまざまなサービスやソリューションについて紹介される。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォッシルからWear OS 3搭載スマートウォッチ]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1448401.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1448401.html"/>
-        <updated>2022-10-18T04:57:19.000Z</updated>
-        <summary type="html"><![CDATA[フォッシルは、グーグルのWear OSの最新バージョンであるWear OS 3を搭載したスマートウォッチ「FOSSIL GEN 6 WELLNESS EDITION」を発売した。価格は3万8500円。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[au PAYカード、「au PAY 残高」へのチャージのポイント加算を改定]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1448376.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1448376.html"/>
-        <updated>2022-10-18T04:09:54.000Z</updated>
-        <summary type="html"><![CDATA[auフィナンシャルサービスは、クレジットカードの「au PAYカード」で、スマートフォン向け決済サービス「au PAY」の残高へチャージする際のポイント加算を2022年12月の利用分から改定する。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スマホも整理整頓しておこう！AndroidとiOSのファイルアプリの使い方]]></title>
-        <id>https://www.gizmodo.jp/2022/10/ios-android-file-apps-hidden-functions-how-to-share.html</id>
-        <link href="https://www.gizmodo.jp/2022/10/ios-android-file-apps-hidden-functions-how-to-share.html"/>
-        <updated>2022-10-18T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ファイルアプリはまだわりと新しいので、何ができるか完全に把握してない人も多いでしょうし、中には｢一回も開いたことない｣とか｢存在も知らない｣なんて人もいるかもしれません。そんなわけでこの記事では、AndroidでもiOSでも、ファイルアプリの便利な機能を紹介していきます。ついでにストレージの整理もできるかもしれません。]]></summary>
-        <author>
-            <name>福田ミホ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォッシル、Wear OS 3搭載のスマートウォッチ「FOSSIL GEN 6 WELLNESS EDITION」発売　3万8500円]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2210/18/news103.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2210/18/news103.html"/>
-        <updated>2022-10-18T03:37:00.000Z</updated>
-        <summary type="html"><![CDATA[フォッシルは、10月17日にスマートウォッチ「FOSSIL GEN 6 WELLNESS EDITION」を発売。Wear OS 3を搭載し、デザインを一新したFossil Smartwatchesコンパニオンアプリも利用できる。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アマゾンで「OPPO Pad Air」カバー付きが15％割引]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1448359.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1448359.html"/>
-        <updated>2022-10-18T03:35:12.000Z</updated>
-        <summary type="html"><![CDATA[Amazon.co.jpで、OPPOのAndroidタブレット「OPPO Pad Air」と純正カバーが15％割引の3万4364円で購入できる。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カリフォルニア州全土でeインクのナンバープレートが解禁。自動更新やダークモードも]]></title>
-        <id>https://www.gizmodo.jp/2022/10/eink-license-plate-rplate.html</id>
-        <link href="https://www.gizmodo.jp/2022/10/eink-license-plate-rplate.html"/>
-        <updated>2022-10-18T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[デジタルナンバープレート「RPlate」がカリフォルニア州で正式採用。プレートにさまざまな情報を表示できる。]]></summary>
-        <author>
-            <name>岡本玄介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歯科医院の椅子みたい。リラックスしたままテレワークできるワークステーション]]></title>
-        <id>https://www.gizmodo.jp/2022/10/levus-workstation-levus.html</id>
-        <link href="https://www.gizmodo.jp/2022/10/levus-workstation-levus.html"/>
-        <updated>2022-10-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[フレームタイプで寝たような姿勢で作業できるエルゴノミックデザインを採用。Levus Workstationのワーキングチェア「LEVUS」シリーズ。]]></summary>
-        <author>
-            <name>岡本玄介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【まもなくクラファン終了】身軽を超えて手ブラじゃん！ モノを“ぶら下げ収納”しておけるストラップが合理的すぎる件]]></title>
-        <id>https://www.gizmodo.jp/2022/10/extendedstrap-machi-ya.html</id>
-        <link href="https://www.gizmodo.jp/2022/10/extendedstrap-machi-ya.html"/>
-        <updated>2022-10-18T02:45:00.000Z</updated>
-        <summary type="html"><![CDATA[電子決済などの後押しもあり、最近では出かけるときの荷物がどんどんコンパクトになってきていますよね。サコッシュやミニショルダーを扱った記事は大人気。ですが、それももしかしたら過去の話になるのかも。それらを超越した身軽アイテムを発見しちゃったんです！]]></summary>
-        <author>
-            <name>ROOMIE編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Y!mobile公式オンラインストア、MNPで「Xperia Ace III」が1円に　iPhoneも割引]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2210/18/news094.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2210/18/news094.html"/>
-        <updated>2022-10-18T02:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Y!mobile公式オンラインストアは、MNP契約で「Xperia Ace III」が通常3万1680円（税込み）のところ1円になるセールを開催。「iPhone SE（第3世代）」「iPhone 12」「かんたんスマホ2」「Android One X5」なども値下げする。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDDI、加盟店向け新サービス「au PAY グロースパック」――即時クーポン発行や分析機能]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1448319.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1448319.html"/>
-        <updated>2022-10-18T02:39:27.000Z</updated>
-        <summary type="html"><![CDATA[KDDIは、スマホ決済の「au PAY」加盟店向けに独自クーポンをその場で発行できる「au PAY グロースパック」の提供を10月19日から開始する。利用料金は1加盟店につき500円。クーポン料金は1件につき20円。2023年3月まで無料キャンペーンが実施される。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ワイモバイルで「Xperia Ace III」がMNP1円]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1448330.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1448330.html"/>
-        <updated>2022-10-18T02:38:33.000Z</updated>
-        <summary type="html"><![CDATA[ワイモバイルオンラインショップで、ソニー製の5Gスマートフォン「Xperia Ace III」がMNP転入ユーザーを対象に1円～で提供されている。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧州の“らくらくスマホ”最新モデル「emporia SMART.5」はフリップカバー付きで面白い]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2210/18/news087.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2210/18/news087.html"/>
-        <updated>2022-10-18T02:16:00.000Z</updated>
-        <summary type="html"><![CDATA[欧州では年配者向けのスマートフォンの専業メーカーがいくつか存在します。その中でも老舗といえるEmproiaの最上位モデル「emporia SMART.5」をドイツの家電量販店で触ってみました。フリップ型のスマートカバーが付属しますが、カバーを閉じたままでも着信の受信と切断、カメラ、そして背面ライトをオンにすることができます。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[みんなはどの機能が楽しみ？ 「macOS Ventura」は来週リリースかも！]]></title>
-        <id>https://www.gizmodo.jp/2022/10/macos-ventura-coming-soon.html</id>
-        <link href="https://www.gizmodo.jp/2022/10/macos-ventura-coming-soon.html"/>
-        <updated>2022-10-18T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「macOS Ventura」と「iPadOS 16」は来週リリースされるのではないかというリーク情報。]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M2の新型iPad Proが発射準備完了!? 「数日中に」出るって噂なんだけど！]]></title>
-        <id>https://www.gizmodo.jp/2022/10/m2-ipad-pro-coming-soon.html</id>
-        <link href="https://www.gizmodo.jp/2022/10/m2-ipad-pro-coming-soon.html"/>
-        <updated>2022-10-18T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[M2プロセッサ搭載のiPad Proが数日中に発売されるのではないかというリーク情報。]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
         </author>
     </entry>
 </feed>
