@@ -2,10 +2,671 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hmhv.github.io/reader/index.html</id>
     <title>hmhv::news</title>
-    <updated>2022-11-28T12:31:08.113Z</updated>
+    <updated>2022-11-29T12:31:19.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hmhv.github.io/reader/index.html"/>
     <link rel="self" href="https://hmhv.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[iCloudの機能「プライベートリレー」が、オンライン広告費をだまし取るために悪用されている]]></title>
+        <id>https://www.gizmodo.jp/2022/11/apple-icloud-private-relay-ad-fraud-scam-research.html</id>
+        <link href="https://www.gizmodo.jp/2022/11/apple-icloud-private-relay-ad-fraud-scam-research.html"/>
+        <updated>2022-11-29T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[広告インプレッションを釣り上げるボットImage:cjmacer(Shutterstock)人間が見てると思いきや。いまこの瞬間にもAppleユーザーになりすましたボットがWebサーフィンして広告をクリック、広告主が負担する広告料を不当に釣り上げている――そんな実態が最新調査で明らかになりました。不正操作に使われているのは、iCloudに装備されている「プライベートリレー」というプライバシー保護機]]></summary>
+        <author>
+            <name>satomi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPad miniキラーになり得るのか？ アマゾンの小さいタブレット「Fire HD 8 Plus」レビュー]]></title>
+        <id>https://www.gizmodo.jp/2022/11/fire-hd-8-plus-review.html</id>
+        <link href="https://www.gizmodo.jp/2022/11/fire-hd-8-plus-review.html"/>
+        <updated>2022-11-29T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:三浦一紀個人的にはこれで充分感ある、けれど…。僕は、普段電子書籍リーダーとして、Amazonのタブレット「FireHD10Plus」を使っています。iPad（第6世代ですけど）も持っているんですが、重たいのでFireHD10Plusがメイン。FireHD10Plus、軽さ的には問題ないのですが、最近は電子書籍を読むには大きすぎるなと感じるようになり、もうちょっと小さいサイズのタブレット]]></summary>
+        <author>
+            <name>三浦一紀</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宇宙服素材を使用した「「エアジャケットWILD」がまもなく終了]]></title>
+        <id>https://www.gizmodo.jp/2022/11/262288-machi-ya-airjacket-end.html</id>
+        <link href="https://www.gizmodo.jp/2022/11/262288-machi-ya-airjacket-end.html"/>
+        <updated>2022-11-29T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[前作から大幅アップデートを遂げたエアロゲル搭載ジャケット「エアジャケットWILD」。今作では収納力が高まり、よりアウトドアでの利便性が追求されています。防寒性だけじゃなく、汚れや水にも強い超高機能アウターについて、気になる特徴を紐解いていきます。]]></summary>
+        <author>
+            <name>山田洋路</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirPods Proのケースは、MagSafe対応にできるやつ一択です。 #ブラックフライデー]]></title>
+        <id>https://www.gizmodo.jp/2022/11/amazon-black-friday-airpods-pro-case.html</id>
+        <link href="https://www.gizmodo.jp/2022/11/amazon-black-friday-airpods-pro-case.html"/>
+        <updated>2022-11-29T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazonによる大セール「ブラックフライデー」が今年も到来！AirPods Proケースがセール特価になっています。]]></summary>
+        <author>
+            <name>三浦一紀</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スマホ「白ロム割」にも規制、割引は中古価格を参考に――総務省で4キャリアが提案]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1459674.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1459674.html"/>
+        <updated>2022-11-29T11:26:31.000Z</updated>
+        <summary type="html"><![CDATA[総務省は11月29日に「競争ルールの検証に関するWG（第37回）」を開催し、NTTドコモとKDDI、ソフトバンク、楽天モバイルの4キャリアから、公平な競争環境整備に関する振り返りや、今後の政府施策の提案などが行われた。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[データを含めたローミングを目指す――総務省の「非常時ローミング」の第1次報告書案を作成　意見を募集中]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2211/29/news184.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2211/29/news184.html"/>
+        <updated>2022-11-29T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[総務省が「非常時における事業者間ローミング等に関する検討会 第1次報告書」の案に対する意見（パブリックコメント）を募集している。案では、災害時や通信障害時に異なる携帯電話事業者（MNO）のネットワークに乗り入れる「ローミング」の在り方について、基本的な方針が示されている。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【和田ラヂヲ】アップルウォッチ［ジャンピン ジャック ガジェット ep.24］]]></title>
+        <id>https://www.gizmodo.jp/2022/11/umping-jacks-gadget-24.html</id>
+        <link href="https://www.gizmodo.jp/2022/11/umping-jacks-gadget-24.html"/>
+        <updated>2022-11-29T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[和田ラヂヲの火の鳥(TCコミックス)1,045円Source:和田ラヂヲ]]></summary>
+        <author>
+            <name>和田ラヂヲ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ankerの売れ筋アイテムも続々登場！売り切れる前にゲットするべし！#Amazonブラックフライデー2022]]></title>
+        <id>https://www.gizmodo.jp/2022/11/amazon-blackfriday-2022.html</id>
+        <link href="https://www.gizmodo.jp/2022/11/amazon-blackfriday-2022.html"/>
+        <updated>2022-11-29T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[｢Amazonブラックフライデー｣では、毎日開催されているタイムセールもパワーアップ。現在、35％オフの「Anker PowerDrive PD 2」や25％オフの「Anker PowerCore Essential 20000」など、今すぐ使えるアイテムがお買い得に登場しています。]]></summary>
+        <author>
+            <name>田中宏和</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロボット掃除機の必需品教えます。このテープは絶対です #ブラックフライデー]]></title>
+        <id>https://www.gizmodo.jp/2022/11/amazon-black-friday.html</id>
+        <link href="https://www.gizmodo.jp/2022/11/amazon-black-friday.html"/>
+        <updated>2022-11-29T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazonによる大セール「ブラックフライデー」が今年も到来！カーペットテープがセール特価になっています。]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「MagSafeの充電速度、iPhoneごとにちょっと違うっぽい」という実験結果]]></title>
+        <id>https://www.gizmodo.jp/2022/11/iphone-14-pro-max-13-pro-max-magsafe-charging-speed-test.html</id>
+        <link href="https://www.gizmodo.jp/2022/11/iphone-14-pro-max-13-pro-max-magsafe-charging-speed-test.html"/>
+        <updated>2022-11-29T10:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:ヤマダユウス型最大出力は一緒なのに、効率が違う。この不思議な現象、実験で確認されました。YouTubeチャンネル「ChargerLAB」によると、iPhone14ProMaxとiPhone13ProMaxとで、MagSafe充電器での充電速度と効率に違いがあるみたい。まぁ、まずは安心してください、iPhone14ProMaxの方が優れています。高ワットを維持できる時間がiPhone14]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2台あれば裏番組も録画できる！ 3,000円OFFのうちに「おかわりnasne」 #ブラックフライデー]]></title>
+        <id>https://www.gizmodo.jp/2022/11/amazon-black-friday-nasne.html</id>
+        <link href="https://www.gizmodo.jp/2022/11/amazon-black-friday-nasne.html"/>
+        <updated>2022-11-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazonによる大セール「ブラックフライデー」が今年も到来！nasneがセール特価になっています。]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「PayPay商品券」が今日から提供開始、ふるさと納税の返礼品]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1459620.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1459620.html"/>
+        <updated>2022-11-29T09:35:16.000Z</updated>
+        <summary type="html"><![CDATA[PayPayは、加盟店で使える新たな支払い方法として「PayPay商品券」の提供を開始した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[たった1日の限定上映。奇跡が詰まったクリスマス短編映画を観に行ってみない？]]></title>
+        <id>https://www.gizmodo.jp/2022/11/orbital-christmas.html</id>
+        <link href="https://www.gizmodo.jp/2022/11/orbital-christmas.html"/>
+        <updated>2022-11-29T09:20:00.000Z</updated>
+        <summary type="html"><![CDATA[image:オービタル・クリスマスあっという間に12月。仕事に追われていたら、もう年末でした。素敵な予定も特にないのは残念すぎる。何かワクワクするような、それでいて来年も頑張ろうって思えるようなイベントはないのかな〜？そう思っていたら、素敵なイベントを発見しました。クリスマスをテーマにしたSF短編映画『オービタル・クリスマス〜星矢を祝う全ての人に〜』の12月11日（日曜日）1日限定上映会。場所は池]]></summary>
+        <author>
+            <name>中川真知子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[羊の大群がグルグルと…。10日以上も歩き続けるミステリーサークルの謎]]></title>
+        <id>https://www.gizmodo.jp/2022/11/guruguru-hitsuji.html</id>
+        <link href="https://www.gizmodo.jp/2022/11/guruguru-hitsuji.html"/>
+        <updated>2022-11-29T09:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:Twitter沈黙の羊たち。習性か病気かUFOのお迎えか？内モンゴル自治区包頭市にいる何百頭もの羊たちが、ただただ円を描くように歩き回る異常な集団行動が確認されました。病気ではないそうな羊たちは時計回りにひたすら旋回し、これが10日以上も続いているとのこと。でも彼らの健康状態は良好なのだとか。Thegreatsheepmystery!Hundredsofsheepwalkinacirc]]></summary>
+        <author>
+            <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「HELPO」の個人向けサービスを月額550円で提供　健康相談から診療、処方薬までスマホで完結]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2211/29/news165.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2211/29/news165.html"/>
+        <updated>2022-11-29T09:03:00.000Z</updated>
+        <summary type="html"><![CDATA[ヘルスケアテクノロジーズは、2022年12月1日から個人向けに「HELPO」のサービスを提供する。HELPOは、チャットによる健康相談からオンライン診療、処方薬の配送までを、スマートフォンのアプリを使ってワンストップでできるサービス。これまで、HELPOは法人や地方自治体向けに提供してきたが、個人向けにもサービスを拡大する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ズレにくいハンガーを探していたら､Amazonベーシックに落ち着きました #ブラックフライデー]]></title>
+        <id>https://www.gizmodo.jp/2022/11/amazon-black-friday-hanger.html</id>
+        <link href="https://www.gizmodo.jp/2022/11/amazon-black-friday-hanger.html"/>
+        <updated>2022-11-29T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazonによる大セール「ブラックフライデー」が今年も到来！ハンガーがセール特価になっています。]]></summary>
+        <author>
+            <name>ヤマダユウス型</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[値上げ商品集めました！今のうちに【Amazonブラックフライデー】で賢くお買い物しよう！ネスカフェゴールドブレンドが半額、いなばのライトツナが63%オフなど]]></title>
+        <id>https://www.gizmodo.jp/2022/11/amazon-blackfriday-2022-1129-2.html</id>
+        <link href="https://www.gizmodo.jp/2022/11/amazon-blackfriday-2022-1129-2.html"/>
+        <updated>2022-11-29T08:55:00.000Z</updated>
+        <summary type="html"><![CDATA[こちらは（株）メディアジーンのメディアコマース・チームが編集・執筆した記事です。
+
+年に一度のビッグセール、｢Amazonブラックフライデー｣が始まりました！ 期間は2022年11月25日0時から12月1日23時59分まで。ブラックフライデーでは、毎日開催されているタイムセールもパワーアップ。
+
+現在、ネスカフェゴールドブレンドが半額、いなばのライトツナが63%オフなど、今すぐ使えるアイテムがお買]]></summary>
+        <author>
+            <name>メディアジーンメディアコマース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソフトバンク子会社、ヘルスケアアプリ「HELPO」の個人向けサービスを開始へ]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1459582.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1459582.html"/>
+        <updated>2022-11-29T08:44:10.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンク子会社のヘルスケアテクノロジーズは、ヘルスケアアプリ「HELPO（ヘルポ）」について、12月1日から個人向けに提供する。健康医療相談や病院検索など、6つの機能を利用できる。利用料は月額550円。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楽天モバイル、iPhone 14／14 Plusを最大1万6900円値下げ　公式サイトと楽天市場店にて]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2211/29/news153.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2211/29/news153.html"/>
+        <updated>2022-11-29T08:01:00.000Z</updated>
+        <summary type="html"><![CDATA[楽天モバイルは、楽天モバイル公式サイトと楽天モバイル公式 楽天市場店の「iPhone 14」「iPhone 14 Plus」を価格改定。最大1万6900円（税込み）値下げする。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「コンパクトで長く使えるモバイルバッテリーを教えてください」➡︎答えます]]></title>
+        <id>https://www.gizmodo.jp/2022/11/compact-mobile-battery-amazon-blackfriday-2022.html</id>
+        <link href="https://www.gizmodo.jp/2022/11/compact-mobile-battery-amazon-blackfriday-2022.html"/>
+        <updated>2022-11-29T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:小暮ひさのり「コンパクト」といっても色々。TikTok視聴者の方から「今度修学旅行行くのですが、コンパクトで長く使えるおすすめのモバイルバッテリーはありますか？」と質問がきました。ありがとうございます。修学旅行良いですね、楽しんできてください！残念なことに今売っているモバイルバッテリーはサイズと容量が比例するので、長く使いたいなら大きくなっちゃうんです。ですが、その中でも容量の割にコン]]></summary>
+        <author>
+            <name>編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有人宇宙飛行の「新時代」へ…宇宙探索の新たな一歩を踏み出した]]></title>
+        <id>https://www.gizmodo.jp/2022/11/lunar-landing-mission-artemis-begins.html</id>
+        <link href="https://www.gizmodo.jp/2022/11/lunar-landing-mission-artemis-begins.html"/>
+        <updated>2022-11-29T07:15:00.000Z</updated>
+        <summary type="html"><![CDATA[11月16日未明無人宇宙船「オリオン」を搭載したNASAのSLSが打ち上げられた。月面着陸ミッション「アルテミス」開始。]]></summary>
+        <author>
+            <name>R.Mitsubori</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 15、暗所や逆光に強くなったら嬉しいね！ ソニーの最新センサー積むって噂があるんだ]]></title>
+        <id>https://www.gizmodo.jp/2022/11/iphone-15-may-feature-new-sony-image-sensor.html</id>
+        <link href="https://www.gizmodo.jp/2022/11/iphone-15-may-feature-new-sony-image-sensor.html"/>
+        <updated>2022-11-29T07:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:Apple明るく、強くなるってだけでも期待したい！年々進化しているiPhoneのカメラ。iPhone14Proではメインカメラが48MPに進化。精細さに加えて暗所での撮影能力が強化されましたけど、来年のiPhone15はもっと期待していいのかも。まだ未確定ですが、最新のソニー製センサーが搭載される。みたいな噂があるんです。それは既存のセンサーとくらべると2倍の飽和信号量を確保することで]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[届いてまだ2時間だけど､買ってよかった！ 私がPopin Aladdinをポチった3つの理由 #ブラックフライデー]]></title>
+        <id>https://www.gizmodo.jp/2022/11/amazon-black-friday-popin-aladdin.html</id>
+        <link href="https://www.gizmodo.jp/2022/11/amazon-black-friday-popin-aladdin.html"/>
+        <updated>2022-11-29T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazonによる大セール「ブラックフライデー」が今年も到来！popIn Aladdinがセール特価になっています。]]></summary>
+        <author>
+            <name>山口真央</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写真を無限に保存できるサービスまであるとは…。Amazonプライムの真のスゴさ、知ってました？]]></title>
+        <id>https://www.gizmodo.jp/2022/11/262354.html</id>
+        <link href="https://www.gizmodo.jp/2022/11/262354.html"/>
+        <updated>2022-11-29T06:45:00.000Z</updated>
+        <summary type="html"><![CDATA[「Amazon Photos」は、プライム会員なら写真の保存容量が無制限になるオススメのサービス。スマホアプリを導入すれば撮影後自動アップロードしてくれるので、安心できるバックアップ領域としても活用可能です。]]></summary>
+        <author>
+            <name>田中宏和</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サブのワイヤレスイヤホンとして最高の選択肢。ソニー｢LinkBuds｣]]></title>
+        <id>https://www.gizmodo.jp/2022/11/sony-reinvent-earbuds-1.html</id>
+        <link href="https://www.gizmodo.jp/2022/11/sony-reinvent-earbuds-1.html"/>
+        <updated>2022-11-29T06:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:AndrewLiszewski-GizmodoUS2022年2月16日の記事を編集して再掲載しています。現在開催中のAmazonブラックフライデーセール対象商品ではありません。つけっぱなしで周りの音を聞きたいとき専用、という考え方。Sonyが今までにないタイプのワイヤレスイヤホン「LinkBuds」を発表しました。ワイヤレスイヤホンはもう持ってるからいいよって思われるかもしれませんが、]]></summary>
+        <author>
+            <name>福田ミホ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楽天モバイル、「iPhone 14/14 Plus」値下げ]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1459570.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1459570.html"/>
+        <updated>2022-11-29T06:33:31.000Z</updated>
+        <summary type="html"><![CDATA[楽天モバイルは、同社オンラインストアで販売するスマートフォンの一部を値下げした。対象機種には、「iPhone 14」「iPhone 14 Plus」が含まれる。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JR東日本、マイナポイントをSuicaで申し込むと「どこかにビューーン！」を4000ポイントで]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1459514.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1459514.html"/>
+        <updated>2022-11-29T06:25:03.000Z</updated>
+        <summary type="html"><![CDATA[JR東日本は、マイナポイントをSuicaで申し込むと、「どこかにビューーン！」をJRE POINT 4000ポイントで利用できるキャンペーンを実施する。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LINE、ホームタブの「固定したサービス」に不具合]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1459533.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1459533.html"/>
+        <updated>2022-11-29T06:24:56.000Z</updated>
+        <summary type="html"><![CDATA[LINEは、LINEアプリのホームタブで任意に設定する「固定したサービス」において、サービスの一部が解除される、もしくは初期設定に変更される不具合が一部のユーザーで発生したことを明らかにした。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソニー、スマホでモーションキャプチャー可能な小型センサー「mocopi」発売　4万9500円]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2211/29/news127.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2211/29/news127.html"/>
+        <updated>2022-11-29T06:24:00.000Z</updated>
+        <summary type="html"><![CDATA[ソニーは、2023年1月下旬にモバイルモーションキャプチャー「mocopi」を発売。小型で軽量なセンサーと専用アプリで、モーションキャプチャーやVRへのモーション入力を可能とする。ソニーストアの販売価格は4万9500円（税込み）。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[きのうなに買った？ ギズモードの記事から購入されたものTOP10 #ブラックフライデー 5日目]]></title>
+        <id>https://www.gizmodo.jp/2022/11/gizmodmo-ranking-day-5-amazon-black-friday-2022.html</id>
+        <link href="https://www.gizmodo.jp/2022/11/gizmodmo-ranking-day-5-amazon-black-friday-2022.html"/>
+        <updated>2022-11-29T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:Amazon11/25（金）0:00にスタートした｢Amazonプライムデー｣。残すところ3日！ギズモードでも、みんなが欲しくなるお得な商品を紹介していますが、とりあえずざっとランキング教えてくれよ！というあなたのために、昨日ギズモードの記事から購入された商品TOP10をご紹介しちゃいます。1位　AnkerPowerLineIIIFlow　USB-C&USB-CケーブルAnkerPow]]></summary>
+        <author>
+            <name>編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[みんながAmazonブラックフライデー2022で買った日用品や食料品TOP20]]></title>
+        <id>https://gori.me/?p=145295</id>
+        <link href="https://gori.me/amazon/amazon-sale/145295"/>
+        <updated>2022-11-29T05:58:51.000Z</updated>
+        <summary type="html"><![CDATA[Amazonブラックフライデーといえばガジェットや家電などの電化製品などが目立つが、意外と日用品や食料品もお得になっている。毎日使うもの、食べるものはこの機会にチェックしたほうが良いだろう。 最終日にガッとまとめて購入したい、という人も多いだろうが、日用品や食料品も需要が在庫を上回ってしまう恐れがあ…
+The post みんながAmazonブラックフライデー2022で買った日用品や食料品TOP20 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バッグの収納、正解は「ハンガーで吊るす」だった！ かさばるバッグも省スペースでしまっておけるよ]]></title>
+        <id>https://www.gizmodo.jp/2022/11/fuuhome-bag-hanger.html</id>
+        <link href="https://www.gizmodo.jp/2022/11/fuuhome-bag-hanger.html"/>
+        <updated>2022-11-29T05:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:hacoROOMIE2022年3月19日掲載の記事より転載帰宅後のバッグの片付けが面倒で、ついつい床に置いてしまいます。かける場所も作ってみたけど、中身を入れたままかけると重みで持ち手が変形してしまうのが悩みでした。そんなときに見つけたのがバッグ専用のハンガー。こういうの、意外と今までなかった気がします。不思議な形のハンガーがクローゼットで大活躍FuuHOME「バッグハンガー」1,34]]></summary>
+        <author>
+            <name>編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーロン・マスク「『TwitterをApp Storeで一時非公開にするぞ』ってAppleから脅されたー。なんでー？」]]></title>
+        <id>https://www.gizmodo.jp/2022/11/apple-has-also-threatened-to-withhold-twitter-from-its-app-store.html</id>
+        <link href="https://www.gizmodo.jp/2022/11/apple-has-also-threatened-to-withhold-twitter-from-its-app-store.html"/>
+        <updated>2022-11-29T05:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:kovop58/Shutterstock.comなんででしょ？ツイートせずにはいられないTwitterトップのイーロン・マスク氏。「『AppStoreでTwitterアプリを保留扱いにするぞ』とAppleから脅された」とツイートしています。理由は教えてもらえなかったとのこと。…どうしてなんでしょう?ApplehasalsothreatenedtowithholdTwitterfromi]]></summary>
+        <author>
+            <name>そうこ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[キャンプで宇宙と一体になりたいなら「コット」を手に入れろ！ 戻ってくるコトできなくなる #ブラックフライデー]]></title>
+        <id>https://www.gizmodo.jp/2022/11/outdoor-camp-cot-amazon-black-friday.html</id>
+        <link href="https://www.gizmodo.jp/2022/11/outdoor-camp-cot-amazon-black-friday.html"/>
+        <updated>2022-11-29T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazonによる大セール「ブラックフライデー」が今年も到来！アウトドアメーカーWAQのコットが1万2640円でセール中です。]]></summary>
+        <author>
+            <name>K.Yoshioka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楽天モバイル「Rakuten Link」に料金の新規約、“将来的な新サービス”を想定]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1459538.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1459538.html"/>
+        <updated>2022-11-29T04:57:03.000Z</updated>
+        <summary type="html"><![CDATA[楽天モバイルは、コミュニケーションアプリ「Rakuten Link」において、12月5日から利用規約の内容を変更する。サービス内容に変更はないが、“将来的に提供されるサービス”を想定し、料金の支払いが発生する場合の記載が加わる。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[車のフロントガラス内側を、簡単に隅々までピカピカにできるカーメイトの専用ツール2点]]></title>
+        <id>https://www.gizmodo.jp/2022/11/262019.html</id>
+        <link href="https://www.gizmodo.jp/2022/11/262019.html"/>
+        <updated>2022-11-29T04:45:00.000Z</updated>
+        <summary type="html"><![CDATA[車のフロントガラス内側って、ホントに拭きづらいですよね…。フロントガラスは、空気抵抗を減らす目的で相当に傾斜しているために、精一杯手を伸ばしても、ダッシュボードがジャマをして奥まで届かなかったりするんです。そこで役立つのが専用ツール。カーメイトの「車の内窓専用ワイパー」と「ガラス内側専用クリーナー」があれば、今までの苦労がウソみたいに楽に、ピカピカにできますよ。]]></summary>
+        <author>
+            <name>田中宏和</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「au Netflix応援割」12月1日に提供開始　Netflixパックを3カ月間、月額1100円割引に]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2211/29/news121.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2211/29/news121.html"/>
+        <updated>2022-11-29T04:40:00.000Z</updated>
+        <summary type="html"><![CDATA[KDDIは、12月1日から「au Netflix応援割」を開始。料金プラン「使い放題MAX 5G/4G Netflixパック（P）」を3カ月間1100円割引し、「使い放題MAX 5G／4G」と同額でNetflixやTELASAなどを利用できる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーロン・マスク氏、Appleに「秘密の言論弾圧ではないか」と徹底抗戦の構え――iPhoneでTwitterアプリが使えなくなる？]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1459513.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1459513.html"/>
+        <updated>2022-11-29T04:07:40.000Z</updated>
+        <summary type="html"><![CDATA[Twitterを買収したイーロン・マスク氏は、米アップル（Apple）がTwitterへの広告出稿をほぼ停止したとし、「彼ら（アップル）はアメリカの言論の自由を嫌っているのか？」とツイートした。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[auの料金プラン「使い放題MAX 5G/4G Netflixパック（P）」が3カ月間1100円引きになる「au Netflix応援割」]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1459494.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1459494.html"/>
+        <updated>2022-11-29T04:04:36.000Z</updated>
+        <summary type="html"><![CDATA[KDDIと沖縄セルラーは、auの料金プラン「使い放題MAX 5G/4G Netflixパック（P）」を3カ月間、月々1100円割り引く「au Netflix応援割」を12月1日から提供する。終了日は未定。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宮城球場の愛称が「楽天モバイルパーク宮城」に、2023年1月から3年間]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1459480.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1459480.html"/>
+        <updated>2022-11-29T03:55:53.000Z</updated>
+        <summary type="html"><![CDATA[楽天グループは、2014年から保有する宮城球場（宮城県仙台市）について、新たな愛称を「楽天モバイルパーク宮城」へ変更する。同球場のネーミングライツ（施設命名権）の更新とあわせて変更され、2023年1月1日～2025年12月31日の期間、新たな愛称が用いられる。現在の愛称は「楽天生命パーク宮城」。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spigenの65W AC充電器が25％オフなどのセール【Amazonブラックフライデー】]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1459469.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1459469.html"/>
+        <updated>2022-11-29T03:50:19.000Z</updated>
+        <summary type="html"><![CDATA[12月1日まで実施されるAmazon.co.jpのセール「Amazonブラックフライデー」で、SpigenとCaseologyの製品が最大70％オフのセール価格で販売されている。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22歳以下ならスマホ47機種を最大1万120円割引　「auスマホ応援割（U22）」開始]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2211/29/news110.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2211/29/news110.html"/>
+        <updated>2022-11-29T03:43:00.000Z</updated>
+        <summary type="html"><![CDATA[KDDIは、12月1日から22歳以下が対象の「auスマホ応援割（U22）」を開始。iPhoneやGalaxy、XperiaなどAndroidスマートフォン47機種の機種代金を最大1万120円割引する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サーマルプリンタ内蔵　モバイル決済端末「SUNMI V2 SE」は個人でもイケる？]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2211/29/news105.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2211/29/news105.html"/>
+        <updated>2022-11-29T03:16:00.000Z</updated>
+        <summary type="html"><![CDATA[レストランなどでテーブルで会計するときや実は最近のモデルはAndroid OSで動くスマートフォンです。レジでよく使われる、業務用の小型サーマルプリンタ搭載のモバイル決済端末。Xiaomi系列のSUNMI（商米）は、日本にも製品を出しています。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソニー「Linkbuds S」のBluetooth「LE Audio」対応を来春に延期]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1459463.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1459463.html"/>
+        <updated>2022-11-29T03:11:12.000Z</updated>
+        <summary type="html"><![CDATA[ソニーは、フルワイヤレスイヤホン「Linkbuds S」のBluetooth「LE Audio」対応を2023年春に延期すると発表した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[機種代金が1万120円引きの「auスマホ応援割（U22）」、22歳以下なら回線契約なしでも対象]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1459451.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1459451.html"/>
+        <updated>2022-11-29T03:04:04.000Z</updated>
+        <summary type="html"><![CDATA[KDDIと沖縄セルラーは、auにおいて「auスマホ応援割（U22）」を12月1日から提供する。終了日は未定。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oceanic+アプリ、Apple Watch Ultra向けに配信開始]]></title>
+        <id>https://gori.me/?p=145292</id>
+        <link href="https://gori.me/apps/watch-app-news/145292"/>
+        <updated>2022-11-29T03:03:20.000Z</updated>
+        <summary type="html"><![CDATA[Appleは11月29日、Apple Watch Ultra向けにダイブコンピューターアプリ「Oceanic+ Dive Computer App」を配信開始した。レクリエーショナルスキューバダイバー向けに、先進的なダイブコンピュータのすべての主要機能、堅牢なダイブプラン、および包括的なダイビング後…
+The post Oceanic+アプリ、Apple Watch Ultra向けに配信開始 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソニー、モバイルモーションキャプチャー「mocopi」を発表――6つで計48gのセンサーでVRデビュー]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1459346.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1459346.html"/>
+        <updated>2022-11-29T03:03:08.000Z</updated>
+        <summary type="html"><![CDATA[ソニーは11月29日、小型のモーションキャプチャー「mocopi」（モコピ、QM-SS1）を発表した。2023年1月下旬に発売される。当面はソニーのECサイト「ソニーストア」で4万9500円で提供される。予約は12月中旬に受付開始される。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 15、白飛びや黒つぶれに強くなる？新開発のソニー製センサーを搭載か]]></title>
+        <id>https://gori.me/?p=145290</id>
+        <link href="https://gori.me/iphone/iphone-news/145290"/>
+        <updated>2022-11-29T02:43:21.000Z</updated>
+        <summary type="html"><![CDATA[2023年の新型iPhone（iPhone 15シリーズ）は、ソニーが新開発したセンサーを搭載する可能性がある。日本経済新聞によると、1画素あたりに蓄積できる電気量が従来の2倍となり、白飛びや黒つぶれを抑えられるという。 従来は同じ層に配置されていた、光を電気信号に変える「受光素子」と信号を制御する…
+The post iPhone 15、白飛びや黒つぶれに強くなる？新開発のソニー製センサーを搭載か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDDIが23年2月に「迷惑SMSブロック」を提供開始、不審なSMSを防止]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1459435.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1459435.html"/>
+        <updated>2022-11-29T02:38:58.000Z</updated>
+        <summary type="html"><![CDATA[KDDI、沖縄セルラーは2023年2月から、「迷惑SMSブロック」の提供を開始する。「au」「UQ mobile」「povo1.0／2.0」のユーザーに無料で提供される。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDDI、不審なSMSを受信前に防ぐ「迷惑SMSブロック」2023年2月に提供予定]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2211/29/news097.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2211/29/news097.html"/>
+        <updated>2022-11-29T02:36:00.000Z</updated>
+        <summary type="html"><![CDATA[KDDIは、不審なSMSを自動で検知してユーザーの受信前に自動ブロックする「迷惑SMSブロック」を2023年2月に提供予定。au、UQ mobile、povoのユーザーが対象で、自動で本機能が適用される。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[あえて「Leitz Phone 2」を選ぶ理由と惜しいポイント　独自の撮影機能「Leitz Looks」はどう？]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2211/28/news028.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2211/28/news028.html"/>
+        <updated>2022-11-29T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[「AQUOS R7」の発売から数カ月遅れ、待ち望んだ「Leitz Phone 2」がやってきた。やはり期待されているのは画質だろう。だが魅力的なのは画質だけでなく、AQUOS R7との画作りの違いや「Leitz Looks」といった独自機能も挙げられる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ザバスのプロテインが半額以下。1kgが3,000円以下とか安すぎだろ…【Amazonブラックフライデー2022】]]></title>
+        <id>https://gori.me/?p=145287</id>
+        <link href="https://gori.me/sale/145287"/>
+        <updated>2022-11-29T00:15:17.000Z</updated>
+        <summary type="html"><![CDATA[ザバスのホエイプロテイン（リッチショコラ味）がAmazonブラックフライデーに登場。通常価格5,994円の51％オフとなる2,925円のセール価格で販売されている。半額以下は熱い……！ 明治 ザバス(SAVAS) ホエイプロテイン100 リッチショコラ味 980g 明治 価格：5,994円→2,92…
+The post ザバスのプロテインが半額以下。1kgが3,000円以下とか安すぎだろ…【Amazonブラックフライデー2022】 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4Kテレビが10万円以下って、もう普通なの……？【Amazonブラックフライデー2022】]]></title>
+        <id>https://gori.me/?p=145289</id>
+        <link href="https://gori.me/sale/peripheral-sale/145289"/>
+        <updated>2022-11-28T23:55:15.000Z</updated>
+        <summary type="html"><![CDATA[ハイセンスの4KテレビがAmazonブラックフライデーに登場。通常価格の20〜35％オフとなるセール価格で販売されている。 【関連】過去最安値のテレビ、まとめました【Amazonブラックフライデー2022】 中でも50V型は、倍速パネルを搭載した2022年モデルもセール対象。4Kチューナーモデルはレ…
+The post 4Kテレビが10万円以下って、もう普通なの……？【Amazonブラックフライデー2022】 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[あと3日で終了。最大1%還元されるAmazonのギフト券チャージを全力活用するべき理由]]></title>
+        <id>https://gori.me/?p=145280</id>
+        <link href="https://gori.me/amazon/amazon-sale/145280"/>
+        <updated>2022-11-28T22:03:33.000Z</updated>
+        <summary type="html"><![CDATA[Amazonブラックフライデーと同時に開催されている最大1％分のポイントが還元されるAmazonギフト券のチャージキャンペーンを積極的に活用してもらいたい理由がある。来年以降、同様の還元率で開催される可能性が低いからだ。 キャンペーンの内容は至ってシンプル。事前にエントリーボタンを押した上で1回5,…
+The post あと3日で終了。最大1%還元されるAmazonのギフト券チャージを全力活用するべき理由 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【4日目の戦利品】みんながAmazonブラックフライデー2022で買ったものTOP10]]></title>
+        <id>https://gori.me/?p=145285</id>
+        <link href="https://gori.me/amazon/amazon-sale/145285"/>
+        <updated>2022-11-28T21:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Amazonブラックフライデー2022はついに折り返し地点。このランキングも4日目になるが……代わり映えしない。多少の順位入れ替えはあるものの、ランキング全体のラインアップはそれほど変化がない。 売れている商品は、値下げが確定していた商品が中心。目玉商品や年内最安値商品はAmazonブラックフライデ…
+The post 【4日目の戦利品】みんながAmazonブラックフライデー2022で買ったものTOP10 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple、TwitterをApp Storeから差し押さえると”脅迫”か]]></title>
+        <id>https://gori.me/?p=145284</id>
+        <link href="https://gori.me/twitter/twitter-news/145284"/>
+        <updated>2022-11-28T20:37:28.000Z</updated>
+        <summary type="html"><![CDATA[イーロン・マスク氏は、Appleに「App StoreからTwitterを差し押さえると脅迫されている」と発言している。「理由は説明してくれない」としているが、真偽は不明だ。AppleはTwitterにおける広告配信を停止したとされている。 Apple has also threatened to …
+The post Apple、TwitterをApp Storeから差し押さえると”脅迫”か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple、Twitterにおける広告配信を停止か]]></title>
+        <id>https://gori.me/?p=145282</id>
+        <link href="https://gori.me/twitter/twitter-news/145282"/>
+        <updated>2022-11-28T20:02:26.000Z</updated>
+        <summary type="html"><![CDATA[Appleは、Twitterにおける広告配信を停止した可能性がある。イーロン・マスク氏はAppleのティム・クックCEOに対して「どういうことだ？」と呼びかけているが、記事執筆時点で反応は見られない。 What’s going on here @tim_cook? — Elon Musk…
+The post Apple、Twitterにおける広告配信を停止か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Watch Ultraがダイブコンピューターになる、「Oceanic+」を試す]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/review/1459347.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/review/1459347.html"/>
+        <updated>2022-11-28T15:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple Watch Ultraをダイブコンピューターとして使えるアプリ「Oceanic+」が、11月28日にリリースされた。リリース前のベータ版を試す機会を得たので、実際にダイビングで使用した様子をレポートする。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Amazonブラックフライデー」は12月1日まで、本誌記事まとめ]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1459361.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1459361.html"/>
+        <updated>2022-11-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アマゾンジャパン（Amazon）は、Amazon.co.jpにおいて、セール「Amazonブラックフライデー」を実施している。期間は12月1日まで。本稿では、「Amazonブラックフライデー」に関する本誌の記事をまとめた。なお、本稿で紹介している価格や割引率は、すべて執筆時点でのものとなる。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[みんなのケータイ]皆さんQRコード読み取りって、どうやってますか？ カメラアプリ？]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/minna/1458709.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/minna/1458709.html"/>
+        <updated>2022-11-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ここ最近になって、QRコードをスマホで読み取る機会がグッと増えたように感じます。例えばレストランです。テーブルに用意されたQRコードを読み取って、注文はウェブサイトから行うタイプの店をかなり見かけます。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[家電や腕時計、スマホ決済の不正利用までカバーする理由、ドコモの「smartあんしん補償」誕生の背景を訊く]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/interview/1455989.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/interview/1455989.html"/>
+        <updated>2022-11-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモは9月、新たな機器補償サービス「smartあんしん補償」を発表した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[本日の一品]複数本の指が通せるiPhone用のスマホバンド「M-Mini Grip for MagSafe」]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1454489.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1454489.html"/>
+        <updated>2022-11-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[iPhoneの背面、MagSafeで吸着して取り付けるスマホベルトやスマホリングは多数存在しているが、そのほとんどは、MagSafeの直径の範囲に収まるものばかりだ。そのため指を通そうとすると、窮屈に感じることもしばしばだ。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アップル「Apple Watch Ultra」向けにダイビングアプリ「Oceanic+」提供開始]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1459372.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1459372.html"/>
+        <updated>2022-11-28T14:14:29.000Z</updated>
+        <summary type="html"><![CDATA[米アップル（Apple）は、「Apple Watch Ultra」向けにダイビングアプリ「Oceanic+」の提供を開始した。Huish Outdoorsと共同開発されたもので、「Apple Watch Ultra」をダイブコンピューター代わりにするアプリになる。基本的な機能は無料で理療できるが、減圧追跡などは有料サービスとなり、月額プラン、年額プランが提供される。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[地球は6ロナグラム。 国際単位系に4つの新接頭語が追加]]></title>
         <id>https://www.gizmodo.jp/2022/11/new-metric-prefixes-quecto-ronto-ronna-quetta.html</id>
@@ -3035,592 +3696,6 @@ The post EcoFlow、48時間限定タイムセールを開催中。”赤字覚�
         <link href="https://www.gizmodo.jp/2022/11/sunsun-sponge.html"/>
         <updated>2022-11-23T00:35:00.000Z</updated>
         <summary type="html"><![CDATA[Photo:三間有紗ROOMIE2022年1月31日掲載の記事より転載食後の後片付けって面倒ですよね。わが家の場合、お皿やコップなどの後片付けは食洗機にお任せしているものの、お鍋やフライパンは手でゴシゴシと洗っています。そんな台所仕事を、”相棒のスポンジ”が約2年にわたって支えてきてくれました。2年以上リピート！お気に入りの「キッチン用スポンジ」ダイニチ・コーポレーション　「サンサンスポンジ」4個]]></summary>
-        <author>
-            <name>編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kindle Unlimitedもブラックフライデー！今だけ3カ月99円で読み放題]]></title>
-        <id>https://gori.me/?p=145183</id>
-        <link href="https://gori.me/sale/kindle-sale/145183"/>
-        <updated>2022-11-22T23:05:17.000Z</updated>
-        <summary type="html"><![CDATA[11月25日より開催されるに先立ち、Kindle本の読み放題サービス「Kindle Unlimited」が3カ月99円で利用できる太っ腹なキャンペーンが開催中だ。 過去6か月以内にKindle Unlimitedの無料体験、またはキャンペーンを利用していないプライム会員が対象。2022年12月1日（…
-The post Kindle Unlimitedもブラックフライデー！今だけ3カ月99円で読み放題 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quest Pro、ネコ耳付けたら世界一かわいいVRヘッドセットになった]]></title>
-        <id>https://www.gizmodo.jp/2022/11/quest-pro-modified-to-be-as-cute-as-a-cat.html</id>
-        <link href="https://www.gizmodo.jp/2022/11/quest-pro-modified-to-be-as-cute-as-a-cat.html"/>
-        <updated>2022-11-22T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アメリカのクリエイティブテクノロジストAlex FielさんがQuest Proにネコ耳を付けてかわいく改造。]]></summary>
-        <author>
-            <name>武者良太</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[目からウロコ！ 180度ガバーっと開いてホットプレートになるスマートトースター]]></title>
-        <id>https://www.gizmodo.jp/2022/11/ainx-smart-toaster-grill.html</id>
-        <link href="https://www.gizmodo.jp/2022/11/ainx-smart-toaster-grill.html"/>
-        <updated>2022-11-22T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AINX（アイネクス）からスマートトースターグリル発売。トースター、ホットプレート、鍋、たこ焼きなど幅広い調理で使える。]]></summary>
-        <author>
-            <name>そうこ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fire TV Stick、Amazonブラックフライデーで50％オフセールを予告]]></title>
-        <id>https://gori.me/?p=145190</id>
-        <link href="https://gori.me/sale/peripheral-sale/145190"/>
-        <updated>2022-11-22T21:50:32.000Z</updated>
-        <summary type="html"><![CDATA[Amazonは、Fire TV Stickが「Amazonブラックフライデー」（11月25日〜12月1日）で50％オフになると予告。通常4,980円が2,480円のセール価格で販売される。 Fire TV Stick 4K Maxも半額になる予定。プライムデー2022と同等の価格帯になる。Fire …
-The post Fire TV Stick、Amazonブラックフライデーで50％オフセールを予告 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーロン・マスク、日本のTwitterを称賛。「Twitterの理想」「目指すべき姿」として呼びかけ]]></title>
-        <id>https://gori.me/?p=145196</id>
-        <link href="https://gori.me/twitter/twitter-news/145196"/>
-        <updated>2022-11-22T21:45:39.000Z</updated>
-        <summary type="html"><![CDATA[イーロン・マスク氏は11月21日、日本のTwitter利用率の高さを「例外なく、すべての国の理想」と絶賛した。The Vergeが入手した社内の全体会議の録音データによると、マスク氏は「Twitterは米国中心に思われがちだが、実際は日本中心だ」「日本の人口は米国の3分の1だが、デイリーアクティブユ…
-The post イーロン・マスク、日本のTwitterを称賛。「Twitterの理想」「目指すべき姿」として呼びかけ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なぬ！AirPods Pro（第1世代）が2万円台で買えるんだが！]]></title>
-        <id>https://gori.me/?p=145192</id>
-        <link href="https://gori.me/sale/peripheral-sale/145192"/>
-        <updated>2022-11-22T21:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazonで、AirPods Pro（第1世代）が24％オフで販売されている。AirPods ProはApple製品の値上げに伴い30,580円から38,800円に値上げ。プライムデー2022で31,000円に値下げされていたが、さらに1,444円安く販売されている。 【関連】AirTag、ブラッ…
-The post なぬ！AirPods Pro（第1世代）が2万円台で買えるんだが！ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter Blueの再開時期を延期。なりすまし対策が確立できるまで]]></title>
-        <id>https://gori.me/?p=145194</id>
-        <link href="https://gori.me/twitter/twitter-news/145194"/>
-        <updated>2022-11-22T19:54:42.000Z</updated>
-        <summary type="html"><![CDATA[イーロン・マスク氏は11月22日、Twitter Blueの新規受付の再開時期を延期する方針を明らかにした。当初は11月29日頃を目処に再開を計画していた。 延期の理由は、「なりすまし対策が確立できるまで」と説明。具体的な対策内容は不明だ。 Twitter Blueは月額7.99ドルに値上げされ、登…
-The post Twitter Blueの再開時期を延期。なりすまし対策が確立できるまで first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[25日にいよいよブラックフライデー！　Amazonのセールをチェック]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1457989.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1457989.html"/>
-        <updated>2022-11-22T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アマゾンジャパン（Amazon）は、Amazon.co.jpにおいて、セール「Amazonブラックフライデー」を開催する。期間は11月25日～12月1日まで。本稿では、「Amazonブラックフライデー」に関する本誌の記事をまとめた。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ワールドカップ日本戦、「ABEMA」配信をスマホ・テレビで観る方法まとめ]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1457973.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1457973.html"/>
-        <updated>2022-11-22T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[サッカーの「FIFA ワールドカップ カタール 2022」が開幕した。動画配信サービス「ABEMA（アベマ）」では、全試合が無料で配信され、登録不要で観戦できる。そこで本稿では、「ABEMA」で試合を視聴できるデバイスを紹介する。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPad miniを持ち運ぶのにぴったり！ ケースつけない派も安心できる｢レイヤーポーチ｣]]></title>
-        <id>https://www.gizmodo.jp/2022/11/giz-yatai-layer-pouch.html</id>
-        <link href="https://www.gizmodo.jp/2022/11/giz-yatai-layer-pouch.html"/>
-        <updated>2022-11-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[iPad mini 6、大人気ですよね。ローンチしてすぐに筆者も速攻でポチって、今まで肌身離さず使ってきました。
-でも、常に持ち運ぶiPad mini 6を綺麗に使おうと思うとカバーは必要だし、仕事にも使いたいならキーボードもセットで持っていたい。Apple Pencilは必需品だし、イヤホンも欠かせない……。快適さを求めると、重くなるしかさばりませんか。
-
-だから、iPadと周辺機器とひとまとめ]]></summary>
-        <author>
-            <name>中川真知子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[いい加減にしなさい！ 何度もやめろと言ってもやっぱり使われている最悪パスワード2022]]></title>
-        <id>https://www.gizmodo.jp/2022/11/passwords-hacker-best-passwords-cybersecurity.html</id>
-        <link href="https://www.gizmodo.jp/2022/11/passwords-hacker-best-passwords-cybersecurity.html"/>
-        <updated>2022-11-22T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Shutterstockハッカーもひくレベル。顔認証とか指紋認証とか二段階認証とか、どれだけテクノロジが頑張っても、使う人の意識が変わらないと世の中は変わらんのです。もう、本当にみなさんやめましょうや、簡単すぎるパスワード使うのを！毎年上位にあがってくる簡単すぎるパスワード、毎年やめろと言われているのに未だに使っている人がいるんです。「逆に新しい」とか「あえてシンプルに」とかは、パスワ]]></summary>
-        <author>
-            <name>そうこ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゴツくてワイルド！ 存在感抜群の電動アシスト自転車「AWB01」]]></title>
-        <id>https://www.gizmodo.jp/2022/11/machi-ya-awb01-start.html</id>
-        <link href="https://www.gizmodo.jp/2022/11/machi-ya-awb01-start.html"/>
-        <updated>2022-11-22T11:45:00.000Z</updated>
-        <summary type="html"><![CDATA[「AWB01」は一見するとバイクにも見えてしまう、圧倒的な存在感が特長の電動アシスト自転車です。走破性の高い極太タイヤに加え、前後サスペンションやディスクブレーキ、バイク用のヘッドライト、液晶ディスプレイなど見た目にも機能にもこだわり1台となっています。]]></summary>
-        <author>
-            <name>kotoha ozawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PSVR2の先行予約がスタート！ 予約の条件は「PS5かPS4で20時間以上ゲームをプレイしてること」]]></title>
-        <id>https://www.gizmodo.jp/2022/11/playstation-vr2-1.html</id>
-        <link href="https://www.gizmodo.jp/2022/11/playstation-vr2-1.html"/>
-        <updated>2022-11-22T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2023年2月22日、にゃんにゃんにゃんの日に発売を予定しているPSVR2（PlayStation VR2）。その先行予約受付が始まったのですが、日本のソニーアカウントを保有している以外にも変わった応募条件があるみたいですよ。]]></summary>
-        <author>
-            <name>ヤマダユウス型</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ABEMAでワールドカップ「ドイツ対日本」、23日22時から無料で生配信]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1457943.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1457943.html"/>
-        <updated>2022-11-22T10:19:25.000Z</updated>
-        <summary type="html"><![CDATA[AbemaTVの動画配信サービス「ABEMA」で「FIFA ワールドカップ カタール 2022」のドイツ対日本の試合が11月23日22時から生配信される。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アナログポリのリッチなサウンド。シーケンシャルの新作シンセ、TRIGON-6のサウンドが素晴らしすぎる]]></title>
-        <id>https://www.gizmodo.jp/2022/11/sequential-trigon-6.html</id>
-        <link href="https://www.gizmodo.jp/2022/11/sequential-trigon-6.html"/>
-        <updated>2022-11-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[シーケンシャルが新モデル「TRIGON-6」を発表しました。今年5月に亡くなったデイヴ・スミスにとって、最後に開発に関わったシンセとなります。]]></summary>
-        <author>
-            <name>巽英俊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Amazonタイムセール中！】Bose最新の完全ワイヤレスイヤホンが17%オフ、ウルトラ怪獣モンスターファームが1,228円オフなど]]></title>
-        <id>https://www.gizmodo.jp/2022/11/amazon-timesale-2022-1122-1.html</id>
-        <link href="https://www.gizmodo.jp/2022/11/amazon-timesale-2022-1122-1.html"/>
-        <updated>2022-11-22T09:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon（アマゾン）で毎日開催されているタイムセール。本日2022年11月22日は、Bose最新の完全ワイヤレスイヤホンが17%オフ、ウルトラ怪獣モンスターファームが1,228円オフなど、今すぐ欲しい人気のアイテムがお得に多数登場しています。]]></summary>
-        <author>
-            <name>メディアジーンメディアコマース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マグネットで着脱できるMagSafe対応のiPhone用三脚　エレコムから]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2211/22/news157.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2211/22/news157.html"/>
-        <updated>2022-11-22T09:24:00.000Z</updated>
-        <summary type="html"><![CDATA[エレコムは、MagSafe対応のiPhoneをマグネットで着脱できるコンパクトな三脚を発売。4段階の高さで285mmまで伸ばせる。横に360度、縦に180度調整できる。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[それ詐欺です！ 拡散中のFTXサム・バンクグリードマン氏の映像はディープフェイク動画]]></title>
-        <id>https://www.gizmodo.jp/2022/11/ftx-scam-video.html</id>
-        <link href="https://www.gizmodo.jp/2022/11/ftx-scam-video.html"/>
-        <updated>2022-11-22T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[FTXのサム・バンクグリードマン氏が、今回の破産の損失補償をすると語る詐欺動画に注意を。]]></summary>
-        <author>
-            <name>そうこ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【楽天タイムセール】デロンギの人気アイテムがお買い得！全自動コーヒーメーカーが29,454ポイント還元、ステンレスケトルが50%還元など]]></title>
-        <id>https://www.gizmodo.jp/2022/11/rakuten-sale-2022-1122-1.html</id>
-        <link href="https://www.gizmodo.jp/2022/11/rakuten-sale-2022-1122-1.html"/>
-        <updated>2022-11-22T08:55:00.000Z</updated>
-        <summary type="html"><![CDATA[楽天市場では、最大50%と高ポイント還元イベント｢楽天スーパーDEAL｣を開催中。本日2022年11月22日（火）は、全自動コーヒーメーカーが29,454ポイント還元、ステンレスケトルが50%還元などお得な商品が登場中です。]]></summary>
-        <author>
-            <name>メディアジーンメディアコマース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OPPOがスマホでの撮影学べるファンミーティング、東京都内で開催]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1457896.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1457896.html"/>
-        <updated>2022-11-22T08:36:36.000Z</updated>
-        <summary type="html"><![CDATA[オウガ・ジャパンは、「第2回OPPOファンミーティング」を東京都内で12月17日に開催する。イベント開催に先立ち、同社Webサイトにおいて参加者を募集している。参加料金は無料。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドコモ出身の小林史明議員ら、“スタートアップ育成計画”に関する提言を岸田総理に申し入れへ]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1457907.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1457907.html"/>
-        <updated>2022-11-22T08:34:50.000Z</updated>
-        <summary type="html"><![CDATA[自由民主党 新しい資本主義実行本部 スタートアップ政策に関する小委員会は、「スタートアップ育成5か年計画に向けた提言」を取りまとめた。同提言は、岸田文雄内閣総理大臣に申し入れられる。22日に開催された報道陣向けの説明会には、NTTドコモでの勤務経験を持つ小林史明衆議院議員らが登壇した。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【最大約38%OFFのチャンス！】エコバックスのロボット掃除機、ぶっちゃけどれがいいの？ 人気の4機種を比較]]></title>
-        <id>https://www.gizmodo.jp/2022/11/ecovacs-sale.html</id>
-        <link href="https://www.gizmodo.jp/2022/11/ecovacs-sale.html"/>
-        <updated>2022-11-22T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:エコバックス「いつか欲しいな〜」と思ってるその物欲、今がかなえる絶好のチャンス！世の中はどんどん便利になっていくのに、僕らはいつも時間に追われがち。不思議です、この世の七不思議です。どげんかせんといかんです。スキマ時間をつくるライフハックはいくつもありますが、なかでも効果的なのは家事を自動化してくれるガジェットを導入すること。で、ギズモード的に、特に推しなのがロボット掃除機の導入です。]]></summary>
-        <author>
-            <name>ヤマダユウス型</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スマートトラッカー（忘れ物防止タグ）の「Tile」が“最大半額”に　Amazon ブラックフライデーで]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2211/22/news151.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2211/22/news151.html"/>
-        <updated>2022-11-22T07:56:00.000Z</updated>
-        <summary type="html"><![CDATA[11月25日から12月1日まで開催予定の大型セール「Amazon ブラックフライデー」。スマートトラッカー（忘れ物防止タグ）の「Tile（タイル）」が最大半額に。メーカーが告知している。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone「iOS 13」でマイナポータルアプリ利用不可に]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1457864.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1457864.html"/>
-        <updated>2022-11-22T07:19:20.000Z</updated>
-        <summary type="html"><![CDATA[iPhone向けの「マイナポータルアプリ」の動作環境が、iOS 14以降に変更された。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『インディ・ジョーンズ』が来年の新作でラストに？]]></title>
-        <id>https://www.gizmodo.jp/2022/11/indiana-jones-5-will-be-the-final-film-in-the-series.html</id>
-        <link href="https://www.gizmodo.jp/2022/11/indiana-jones-5-will-be-the-final-film-in-the-series.html"/>
-        <updated>2022-11-22T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[来年6月30日公開の『インディ・ジョーンズ5』はシリーズ最終作になる模様。]]></summary>
-        <author>
-            <name>湯木進悟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Watchでできることってなに？ほんとうによく使う機能はこれでした]]></title>
-        <id>https://www.gizmodo.jp/2022/11/what-are-you-doing-on-apple-watch-1.html</id>
-        <link href="https://www.gizmodo.jp/2022/11/what-are-you-doing-on-apple-watch-1.html"/>
-        <updated>2022-11-22T06:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:amito2019年10月2日の記事を編集して再掲載しています。ヘルスケアだけじゃない。AppleWatch、つけてる人も増えてきましたよね！でもAppleWatchの何がいいの？何に使うの？と聞かれると｢うーん｣と黙ってしまうこの感じ。AppleWatchって｢小さな便利が集まった時計｣なので、一言で魅力を伝えられないんですよね。今回はSeries1、3、4と使ってきた僕が、個人的に]]></summary>
-        <author>
-            <name>amito</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自宅の通信、光回線契約が6割以上　ホームルーターで人気のサービスは？]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2211/22/news138.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2211/22/news138.html"/>
-        <updated>2022-11-22T06:04:00.000Z</updated>
-        <summary type="html"><![CDATA[MMD研究所が「光回線に関する利用実態調査」の結果を発表。67.2％が自宅のメイン利用で契約し、契約サービス上位は「ドコモ光」「SoftBank 光」「フレッツ光」となった。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OPPOの「楽天Black Friday」、全商品の最大1200円オフクーポン配布＆楽天ポイント最大15倍]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2211/22/news130.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2211/22/news130.html"/>
-        <updated>2022-11-22T05:57:00.000Z</updated>
-        <summary type="html"><![CDATA[OPPOは、11月22日から「楽天Black Friday」に参加。全商品が対象の最大1200円オフクーポンやスマートウォッチ「OPPO Watch Free」の4980円オフクーポンを配布し、最大15倍の楽天ポイントを付与する。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日20時から｢楽天ブラックフライデー｣開催！ 攻略法をチェックしよう]]></title>
-        <id>https://www.gizmodo.jp/2022/11/rakuten_blackfriday_2022.html</id>
-        <link href="https://www.gizmodo.jp/2022/11/rakuten_blackfriday_2022.html"/>
-        <updated>2022-11-22T05:45:00.000Z</updated>
-        <summary type="html"><![CDATA[11月22日(火)20:00から11月27日(日)01:59まで、楽天市場で｢楽天ブラックフライデー｣が開催されます！
-
-複数ショップで購入する｢買いまわり｣システムでポイントが最大10倍 （通常ポイント1倍を含む） に。まずはじめに知っておきたい、セールの攻略法を3つのポイントとしてまとめました。]]></summary>
-        <author>
-            <name>メディアジーンメディアコマース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[銃弾をも砕くガラス｢ルパートの滴｣。ようやく仕組みを解明]]></title>
-        <id>https://www.gizmodo.jp/2022/11/ruperts-drops-why-so-strong-1-1.html</id>
-        <link href="https://www.gizmodo.jp/2022/11/ruperts-drops-why-so-strong-1-1.html"/>
-        <updated>2022-11-22T05:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:SmarterEveryDay/YouTube※この記事は2017年05月25日に公開された記事の再掲載です。名前からして強そう。溶けたガラスを水に垂らしたとき、いったい何が起こると思いますか？ガラスが水に触れて冷やされることで、オタマジャクシのような透明の物体ができるのです。そして、一端は防弾ガラスのように強靭なのですが、もう一端はとてももろいのです。このガラス自体は400年前から作]]></summary>
-        <author>
-            <name>tmyk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サムスンが「Galaxy Tab S8+/S8 Ultra」を値上げへ、1月6日以降]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1457772.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1457772.html"/>
-        <updated>2022-11-22T05:31:56.000Z</updated>
-        <summary type="html"><![CDATA[サムスン電子ジャパンは、Androidタブレット「Galaxy Tab S8+」「Galaxy Tab S8 Ultra」のメーカー推奨価格を2023年1月6日以降に改定する。「Galaxy Tab S8+」は約8％、「Galaxy Tab S8 Ultra」は約33％の値上げとなる。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IIJmioで「Zenfone 9」「AQUOS sense7」「Desire 22 pro」など25日発売]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1457800.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1457800.html"/>
-        <updated>2022-11-22T05:31:41.000Z</updated>
-        <summary type="html"><![CDATA[インターネットイニシアティブ（IIJ）は、IIJmioサプライサービスにおいて「Zenfone 9」「AQUOS sense7」「Desire 22 pro」などを11月25日に発売する。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[au PAY、ローソンでポイント最大1.5％還元　Pontaカード提示不要に]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2211/22/news117.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2211/22/news117.html"/>
-        <updated>2022-11-22T04:50:00.000Z</updated>
-        <summary type="html"><![CDATA[au PAYでの決済時、ローソン店舗でPontaカードを提示しなくてもPontaポイントが自動にたまり最大1.5％還元に。Ponta会員IDとau IDの連携が必要で、Pontaカードを提示した場合もポイント加算は合計最大1.5％となる。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オールラウンダーなバックパック「AT26 PACK」の実力をチェック]]></title>
-        <id>https://www.gizmodo.jp/2022/11/262057-machi-ya-at26-review.html</id>
-        <link href="https://www.gizmodo.jp/2022/11/262057-machi-ya-at26-review.html"/>
-        <updated>2022-11-22T04:45:00.000Z</updated>
-        <summary type="html"><![CDATA[ノートPCや貴重品、小物までしっかり収納できる豊富なポケットにUSBポート、ロック機能、切り裂きに強く耐水性にも優れた生地まで。機能満載で日常から旅行まで対応するオールラウンダーなバックパック「AT26 PACK」の実力をチェックしてみました！]]></summary>
-        <author>
-            <name>山科拓郎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火星探査車オポチュニティとそれに関わった人の絆を描くドキュメンタリ『Good Night Oppy』、Amazonプライムビデオで配信へ]]></title>
-        <id>https://www.gizmodo.jp/2022/11/good-night-oppy.html</id>
-        <link href="https://www.gizmodo.jp/2022/11/good-night-oppy.html"/>
-        <updated>2022-11-22T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:CourtesyofPrimeVideo長く一緒にいたら愛着がわいて当然。人間は、ロボットに対しても感情を持つのです。NASAが改発した火星探査車オポチュニティ。2003年7月に打ち上げられ、火星に到着したのは2004年1月。当初予定されていたミッションは90日間のはずが、幾度も延長を繰り返し、オポチュニティは15年もの長い間火星の地を走り回ることに…。AmazonPrimeVideo]]></summary>
-        <author>
-            <name>そうこ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[切実な内容。最古のアルファベット「カナン文字」で書かれた文章が発見される]]></title>
-        <id>https://www.gizmodo.jp/2022/11/ancient-canaanite-sentence-lice-comb-israel.html</id>
-        <link href="https://www.gizmodo.jp/2022/11/ancient-canaanite-sentence-lice-comb-israel.html"/>
-        <updated>2022-11-22T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:DafnaGazit,IsraelAntiquitiesAuthorityイスラエルの文化人類学者が、カナン文字でかかれた最古の文章を発見。17文字、7単語で象牙のクシに彫られた文章に書かれていたのは、…シラミについて。象牙のクシが発掘されたのは、エルサレムから40キロほど離れた青銅器時代のテルラキシュ遺跡。クシは約3.5センチx2.5センチほどの大きさで、歯の部分は折れてしまった状態]]></summary>
-        <author>
-            <name>そうこ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[auかんたん決済、「DMMポイント」5万円以上購入で1万Pontaポイント還元の抽選]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1457743.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1457743.html"/>
-        <updated>2022-11-22T03:25:10.000Z</updated>
-        <summary type="html"><![CDATA[KDDIは、auかんたん決済を使って、DMM.comで「DMMポイント」を5万円以上購入すると、抽選で100人に1万Pontaポイントが当たるキャンペーンを開始した。期間は12月22日まで。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楽天モバイルから「Galaxy A23 5G」、3万2800円]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1457749.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1457749.html"/>
-        <updated>2022-11-22T03:15:45.000Z</updated>
-        <summary type="html"><![CDATA[楽天モバイルは、サムスン製の5G対応スマートフォン「Galaxy A23 5G」を発売した。価格は3万2800円。楽天モバイルの公式サイトや実店舗、「楽天モバイル公式 楽天市場店」で販売される。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サムスン電子ジャパン、Galaxy Tab S8+／Ultraのメーカー推奨価格を改定へ　最大約33%値上げ]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2211/22/news109.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2211/22/news109.html"/>
-        <updated>2022-11-22T03:14:00.000Z</updated>
-        <summary type="html"><![CDATA[サムスン電子ジャパンは2023年1月6日以降、「Galaxy Tab S8+」「Galaxy Tab S8 Ultra」のメーカー推奨価格を順次改定する。円安などの影響を受けた。改定後はGalaxy Tab S8+が約8%、Galaxy Tab S8 Ultraが約33%値上げされる予定だ。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100年近く人の目から逃れていた「プリンシペコノハズク」、発見につながったのは奇妙な鳴き声]]></title>
-        <id>https://www.gizmodo.jp/2022/11/principe-scops-owl-new-species.html</id>
-        <link href="https://www.gizmodo.jp/2022/11/principe-scops-owl-new-species.html"/>
-        <updated>2022-11-22T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:MartimMeloviaGizmodoUS愛くるしいことこの上ないけど、れっきとした猛禽類です謎に包まれていた生物の正体が、やっと解明されつつあります。「プリンシペコノハズク（学名：Otusbikegila）」と命名されたこの新種のフクロウは、アフリカ西岸に位置するサントメ・プリンシペ民主共和国のプリンシペ島で発見されました。夜行性にして白昼は苦手？ちょっと眠たげなプリンシペコノハズ]]></summary>
-        <author>
-            <name>山田ちとら</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OPPO、楽天市場でブラックフライデーセールを開催――ポイント最大15倍やフルワイヤレスイヤホン進呈など]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1457729.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1457729.html"/>
-        <updated>2022-11-22T02:49:33.000Z</updated>
-        <summary type="html"><![CDATA[オウガ・ジャパンは、ECサイト「楽天市場」で、OPPO製品をお得に購入できるブラックフライデーセールを11月22日20時～27日1時59分まで開催する。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ローソンで「au PAY」なら最大1.5%還元、Pontaカード分が提示なしでも付与に]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1457707.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1457707.html"/>
-        <updated>2022-11-22T02:47:54.000Z</updated>
-        <summary type="html"><![CDATA[ローソン各店舗においてau PAYで支払うと、自動的にPontaカード提示分と合わせて最大1.5％分のポイントが還元されるようになった。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビギナーでもすぐに焚き火が楽しめそう！ 火起こしがしやすく、設営＆撤収ラクラクなコールマンの焚き火台]]></title>
-        <id>https://www.gizmodo.jp/2022/11/amazon-coleman-firedesk.html</id>
-        <link href="https://www.gizmodo.jp/2022/11/amazon-coleman-firedesk.html"/>
-        <updated>2022-11-22T02:45:00.000Z</updated>
-        <summary type="html"><![CDATA[これまで焚き火台を持っていなかった筆者が、コールマンの「ファイアーディスク」を購入。シンプルな構造の「ファイアーディスク」は、3本の脚を開閉するだけなので、設営や撤収が簡単。火起こしがしやすく、ビギナーでもすぐに焚き火を楽しめ、バーベキューやダッチオーブン調理もできるので、キャンプ料理の幅も広がる便利なアイテムでした。]]></summary>
-        <author>
-            <name>片岡清</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楽天モバイル、「iPhone 12 mini/Pro/Pro Max」値下げ]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1457709.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1457709.html"/>
-        <updated>2022-11-22T02:34:16.000Z</updated>
-        <summary type="html"><![CDATA[楽天モバイルは、同社の楽天市場店で、「iPhone 12 mini」「iPhone 12 Pro」「iPhone 12 Pro Max」を値下げした。値下げ幅は最大3万4800円。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楽天モバイル、楽天市場店でiPhone 12シリーズの価格改定　最大3万4800円値下げ]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2211/22/news096.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2211/22/news096.html"/>
-        <updated>2022-11-22T02:33:00.000Z</updated>
-        <summary type="html"><![CDATA[楽天モバイルは、楽天モバイル公式 楽天市場店の「iPhone 12 mini」「iPhone 12 Pro」「iPhone 12 Pro Max」を価格改定。最大3万4800円（税込み）値下げとなる。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「povo2.0」の期間限定トッピング「3GB（90日間）1280円」、1月10日まで延長]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1457706.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1457706.html"/>
-        <updated>2022-11-22T02:28:24.000Z</updated>
-        <summary type="html"><![CDATA[KDDIと沖縄セルラーは、オンライン専用ブランド「povo2.0」で提供している期間限定トッピング「3GB（90日間）1280円」について、提供期間を2023年1月10日まで延長する。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PayPayでキャリア乗り換え時にやってはいけないこと]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2211/21/news149.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2211/21/news149.html"/>
-        <updated>2022-11-22T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[PayPayユーザーの中にはキャリアを乗り換えても、そのまま残高を引き継いで使い続けたい人がいるだろう。でもどうやって？　そんな困りごとをこの記事で解決へと導きたい。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[これぞ究極のシンセサイザー。伝説の名機Minimoogが機能を増強して復刻]]></title>
-        <id>https://www.gizmodo.jp/2022/11/synthesizer-minimoog.html</id>
-        <link href="https://www.gizmodo.jp/2022/11/synthesizer-minimoog.html"/>
-        <updated>2022-11-22T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[シンセサイザーの名器Minimoogが、「2022 Minimoog Model D」として復刻されます。このModel Dは2016年に限定で復刻されたのですが、今回の2022年バージョンはさらに進化しています。]]></summary>
-        <author>
-            <name>巽英俊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コンパクトに折り畳めるランタン「エアーチューブライト」をキャンプで使ってみた]]></title>
-        <id>https://www.gizmodo.jp/2022/11/261903-machi-ya-airtubelight-review.html</id>
-        <link href="https://www.gizmodo.jp/2022/11/261903-machi-ya-airtubelight-review.html"/>
-        <updated>2022-11-22T01:45:00.000Z</updated>
-        <summary type="html"><![CDATA[コンパクトに折り畳める「エアーチューブライト」はキャンプでお役立ち。空気で膨らませば広い範囲を明るく照らしてくれます。丸めたり折り曲げたりして幅広いシーンで活用可能。5段階で明るさ調整できてマックスでは1500ルクスで使えます。]]></summary>
-        <author>
-            <name>山田洋路</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楽天モバイルが「Galaxy A23 5G」を3万2800円で11月22日発売]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2211/22/news090.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2211/22/news090.html"/>
-        <updated>2022-11-22T01:25:00.000Z</updated>
-        <summary type="html"><![CDATA[楽天モバイルが「Galaxy A23 5G」を11月22日に発売する。販路は楽天モバイル公式サイト、楽天モバイルショップ、楽天モバイル公式 楽天市場店。価格は3万2800円（税込み）となる。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10段階の可変絞りカメラ搭載　5G非対応でも「HUAWEI Mate 50 Pro」の完成度は高い]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2211/22/news087.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2211/22/news087.html"/>
-        <updated>2022-11-22T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Huaweiのフラグシップモデル「Mate」シリーズの最新機種「Mate 50シリーズ」が2022年9月にようやく発売されました。カメラについてはライカとの協業が終了したものの、Huaweiの技術の集大成として「XMAGE」ブランドを立ち上げました。6枚羽根による多段階絞りに対応し、絞りを手動で多段階に調節できます。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoogleマップのAR表示がまた進化。お店がポップアップで表示されるように]]></title>
-        <id>https://www.gizmodo.jp/2022/11/google-map-ar.html</id>
-        <link href="https://www.gizmodo.jp/2022/11/google-map-ar.html"/>
-        <updated>2022-11-22T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[数ヶ月前にGoogleマップの新機能として発表されたSearch with Live View。これは、検索バー横のカメラアイコンをタップすることで、ARを通して現在地周辺のレストランやカフェ、銀行などを確認できる機能なんです]]></summary>
-        <author>
-            <name>はらいさん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ダイソンが最大36％オフ。ブラックフライデーセールでお買い得に]]></title>
-        <id>https://gori.me/?p=145187</id>
-        <link href="https://gori.me/sale/peripheral-sale/145187"/>
-        <updated>2022-11-22T00:52:59.000Z</updated>
-        <summary type="html"><![CDATA[ダイソンが、ブラックフライデーキャンペーンを開催している。期間中、数量限定でコードレスクリーナーのBLACKモデル、空気清浄機、ドライヤーなど、ダイソンの人気商品が最大36％オフで購入できる。 我が家では、ダイソンの掃除機と空気清浄機を愛用中。いずれも取材時にエンジニアや専門家などを聞いた上で購入を…
-The post ダイソンが最大36％オフ。ブラックフライデーセールでお買い得に first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[－196℃の冷気もシャットアウトする薄手ジャケット「エアジャケットWILD」の実力をチェック]]></title>
-        <id>https://www.gizmodo.jp/2022/11/261963-machi-ya-airjacketwild-review.html</id>
-        <link href="https://www.gizmodo.jp/2022/11/261963-machi-ya-airjacketwild-review.html"/>
-        <updated>2022-11-22T00:45:00.000Z</updated>
-        <summary type="html"><![CDATA[宇宙服にも使われるエアロゲル素材を一般向けアパレルに転用したのが「エアジャケットWILD」。断熱性が高く着用すれば暖かく過ごせます。裏地のシルバーハニカム・リフレクティブ素材も内側の熱の再利用に貢献。水や汚れに強いのでキャンプでの防寒対策はこれに決まりです。]]></summary>
-        <author>
-            <name>山田洋路</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国Apple Storeに車突っ込む。1人死亡、16人が重軽傷]]></title>
-        <id>https://gori.me/?p=145185</id>
-        <link href="https://gori.me/apple/apple-news/145185"/>
-        <updated>2022-11-22T00:39:02.000Z</updated>
-        <summary type="html"><![CDATA[米国マサチューセッツ州にあるApple直営店「Apple Derby Street」に車両が1台突っ込む事件が発生した。The Partiot Ledgerによると、トヨタの北米向けSUV「4RUNNER」が現地時間10時45分頃、窓ガラスで作られた壁に突進。店舗の工事を担当していた65歳の男性が1…
-The post 米国Apple Storeに車突っ込む。1人死亡、16人が重軽傷 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[炊飯器やめました！火加減いらず＆洗い物最小限な土釜で最高のお米ライフが手に入ったんだ]]></title>
-        <id>https://www.gizmodo.jp/2022/11/tsukamoto.html</id>
-        <link href="https://www.gizmodo.jp/2022/11/tsukamoto.html"/>
-        <updated>2022-11-22T00:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:シラクマROOMIE2022年2月14日掲載の記事より転載土釜で炊いたごはんってほんのりと甘くてとっても美味しいですよね。お家でもあの味が食べられたらなとは思うものの、炊飯器と比べるとどうしても手間がかかりそうで手を出せずにいたんですよね。初心者でも簡単に使える土釜があったらな〜。手のひらサイズの土釜つかもと「kamacco_白1合」4,180円（税込）そんな願いを叶えてくれるアイテム]]></summary>
         <author>
             <name>編集部</name>
         </author>
