@@ -2,10 +2,705 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hmhv.github.io/reader/index.html</id>
     <title>hmhv::news</title>
-    <updated>2022-12-13T12:29:12.428Z</updated>
+    <updated>2022-12-14T12:29:28.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hmhv.github.io/reader/index.html"/>
     <link rel="self" href="https://hmhv.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ロサンゼルスが石油ガスの新規掘削を禁止。既存の石油ガス井も今後20年で段階的廃止]]></title>
+        <id>https://www.gizmodo.jp/2022/12/los-angeles-oil-gas-drilling-ban-city-limits.html</id>
+        <link href="https://www.gizmodo.jp/2022/12/los-angeles-oil-gas-drilling-ban-city-limits.html"/>
+        <updated>2022-12-14T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ロサンゼルス市議会は12月2日、市内全域における石油・ガスの新規掘削禁止と、既存の石油・ガス井を段階的廃止する条例を12対0の全会一致で採択しました。これによって、今後20年以内にロサンゼルス市内で石油・ガスの掘削が一切行なわれなくなります。]]></summary>
+        <author>
+            <name>Kenji P. Miyajima</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上下2部屋構造のリュック「seowU」の実力をレポート]]></title>
+        <id>https://www.gizmodo.jp/2022/12/263099-machi-ya-seowu-review.html</id>
+        <link href="https://www.gizmodo.jp/2022/12/263099-machi-ya-seowu-review.html"/>
+        <updated>2022-12-14T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ワンアクションで取り出したいものにアクセスできる上下2部屋構造のリュックが「seowU（セオウー）」。ノートパソコン専用のポケットやA4書類が入るポケットも備えています。フラットデザインを採用しビジネスバッグに最適なルックス。生地にはアウトドアでも通用するコーデュラバリスティックナイロンを採用です。]]></summary>
+        <author>
+            <name>山田洋路</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初公開！ Alphabet傘下の配達ドローン企業の「管制室」の様子]]></title>
+        <id>https://www.gizmodo.jp/2022/12/inside-wing-google-delivery-drone-command-center.html</id>
+        <link href="https://www.gizmodo.jp/2022/12/inside-wing-google-delivery-drone-command-center.html"/>
+        <updated>2022-12-14T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:WingGoogleを有するAlphabet傘下のドローン配達企業Wing。日本にはまだ来ておらず、現在、アメリカなど一部の地域で配達中。そのWingが、初めて管制室の様子を動画で公開しました。管制室の中で行なわれていること動画では、管制室の様子含め、ドローンがどのように配達を完了するのか一連の流れを解説。ドローンは自動運転なので、管制室から管制官（PIC=PilotsinComman]]></summary>
+        <author>
+            <name>そうこ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPPO「INNO DAY 2022」、“より良い未来”に向けた最新技術が発表]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1463786.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1463786.html"/>
+        <updated>2022-12-14T10:58:48.000Z</updated>
+        <summary type="html"><![CDATA[OPPOは14日、技術イベント「INNO DAY 2022」をオンラインで開催した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手動・自動が切り替えられる「2-IN-1ポータブルコーヒーグラインダー」でコーヒー豆を挽き比べてみた]]></title>
+        <id>https://www.gizmodo.jp/2022/12/263097-machi-ya-soulhand-review.html</id>
+        <link href="https://www.gizmodo.jp/2022/12/263097-machi-ya-soulhand-review.html"/>
+        <updated>2022-12-14T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[手動・自動が切り替えられる「2-IN-1ポータブルコーヒーグラインダー」。時間がないときは電動、手挽きからじっくり楽しみたいときは電動と、コーヒーとの向き合い方に応じて使い分けられます。刃は、精度の高いコニカル式を採用。豆の粒度は25段階で調節可能です。]]></summary>
+        <author>
+            <name>山科拓郎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「LINE NEWS」、UIデザインを「タイムライン型」にリニューアル　個人に合った情報をより詳しく取得できるように]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1463768.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1463768.html"/>
+        <updated>2022-12-14T10:35:40.000Z</updated>
+        <summary type="html"><![CDATA[LINEは、同社が運営するニュースサービス「LINE NEWS」で、ユーザーインターフェイス（UI）を順次大幅にリニューアルすると発表した。ユーザーの20%にあたる約1500万人に提供を開始しており、来春以降にすべてのユーザーで新しいデザインを利用できるようになる。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「半年以内に人間の頭にチップを埋め込む」とイーロン・マスクが張り切るNeuralink。開発で実験体1500頭が死亡か]]></title>
+        <id>https://www.gizmodo.jp/2022/12/neuralink-animal-use-is-too-much.html</id>
+        <link href="https://www.gizmodo.jp/2022/12/neuralink-animal-use-is-too-much.html"/>
+        <updated>2022-12-14T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[CNET自分の頭にも埋めるって張り切ってますけど、だ、大丈夫なんかいな…。イーロン・マスクCEOが2020年に人体で臨床試験をスタートする！と宣言したきり延期になってるNeuralink社の脳埋め込みチップ「N1」ですが、2018年からはじまった動物実験でブタ、猿など1500頭が犠牲になっていることが内部告発で明らかになりました。Reutersが入手した内部資料と現社員・元社員20人以上の内部証言]]></summary>
+        <author>
+            <name>satomi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冬に風邪を引きやすいのはなぜ？]]></title>
+        <id>https://www.gizmodo.jp/2022/12/why-we-get-sick-cold-winter-nose-immune-response.html</id>
+        <link href="https://www.gizmodo.jp/2022/12/why-we-get-sick-cold-winter-nose-immune-response.html"/>
+        <updated>2022-12-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[なぜ冬になると季節性の呼吸器系ウイルスが蔓延するのか。その理由は複数あると考えられていますが、最新の研究によると、気温が下がると鼻の自然免疫反応が弱まることが明らかになりました。]]></summary>
+        <author>
+            <name>Rina Fukazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ankerの防水スピーカーが30%オフの大特価、ソニーの完全ワイヤレスイヤホンが14％オフ【Amazonタイムセール中！】]]></title>
+        <id>https://www.gizmodo.jp/2022/12/amazon-timesale-2022-1214-1.html</id>
+        <link href="https://www.gizmodo.jp/2022/12/amazon-timesale-2022-1214-1.html"/>
+        <updated>2022-12-14T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon（アマゾン）で毎日開催されているタイムセール。本日2022年12月14日は、Ankerの防水スピーカーが30%オフの大特価、ソニーの完全ワイヤレスイヤホンが14％オフなど、今すぐ欲しい人気のアイテムがお得に多数登場しています。]]></summary>
+        <author>
+            <name>メディアジーンメディアコマース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国内のMVNOは1284万回線、来春は微増――ＭＭ総研が予測]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1463588.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1463588.html"/>
+        <updated>2022-12-14T09:18:23.000Z</updated>
+        <summary type="html"><![CDATA[ＭＭ総研は、独自サービス型SIM市場の実績の調査結果を発表した。結果は2022年9月時点のもの。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone・Apple Watch・AirPodsを充電できるワイヤレス充電器など2タイプ、エレコムから]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1463740.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1463740.html"/>
+        <updated>2022-12-14T09:13:46.000Z</updated>
+        <summary type="html"><![CDATA[エレコムは、iPhoneシリーズ・Apple Watchを同時に充電できる2in1タイプのワイヤレス充電器「W-MS05シリーズ（ブラック・ホワイト）」と、iPhoneシリーズ・AirPodsシリーズ・Apple Watchを同時に充電できる3in1タイプのワイヤレス充電器「W-MS06（ブラック・ホワイト）」を発売した。どちらもMagSafeに対応している。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ラインアップ、充実しまくり。Mac整備済商品の最新情報（2022年12月14日更新）]]></title>
+        <id>https://gori.me/?p=145471</id>
+        <link href="https://gori.me/sale/apple-refurbished/145471"/>
+        <updated>2022-12-14T09:12:09.000Z</updated>
+        <summary type="html"><![CDATA[通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 現在のMac整備済み品は、ラインアップが驚…
+The post ラインアップ、充実しまくり。Mac整備済商品の最新情報（2022年12月14日更新） first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhoneやApple Watchを同時充電できる、MagSafe対応ワイヤレス充電器　エレコムから]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2212/14/news155.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2212/14/news155.html"/>
+        <updated>2022-12-14T09:09:00.000Z</updated>
+        <summary type="html"><![CDATA[エレコムは、デスクやテーブルへ設置できるMagSafe対応のワイヤレス充電器を発売。iPhone＋Apple Watchと、さらにAirPodsも同時に充電できる2モデルを展開する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appleのティム・クックCEO、綱島の研究所やコナミを訪問。VERDYのスタジオも視察]]></title>
+        <id>https://gori.me/?p=145469</id>
+        <link href="https://gori.me/apple/apple-news/145469"/>
+        <updated>2022-12-14T09:04:56.000Z</updated>
+        <summary type="html"><![CDATA[@tim_cookより Appleのティム・クックCEOは13日、ワールドワイドマーケティング担当SVPのグレッグ・ジョズウィアック氏とともにコナミの研究拠点を訪問。クック氏はツイートで、「素晴らしいビデオゲームは、イノベーション、テクノロジー、クリエイティビティの可能性を広げる。Frogger（F…
+The post Appleのティム・クックCEO、綱島の研究所やコナミを訪問。VERDYのスタジオも視察 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スマートホーム初心者が挑戦。26年モノのクリスマスツリーを最新ガジェットでアップデートしてみた]]></title>
+        <id>https://www.gizmodo.jp/2022/12/smarthome-for-christmas-tree.html</id>
+        <link href="https://www.gizmodo.jp/2022/12/smarthome-for-christmas-tree.html"/>
+        <updated>2022-12-14T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[私が産まれた年に購入した26年モノのクリスマスツリー。そんなトラディショナルなツリーを最新ガジェット「スマートテープライト」なるもので2022年版にアプデしてみました。ちなみに当方、スマートホーム超初心者。設定のなかで苦戦したことや、率直に感じたことをお伝えしていきます。]]></summary>
+        <author>
+            <name>chisato kuroda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPPO、心電図機能や睡眠計測ができるヘルスケアデバイス「OHealth H1」発表]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1463435.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1463435.html"/>
+        <updated>2022-12-14T08:49:03.000Z</updated>
+        <summary type="html"><![CDATA[OPPOは、ヘルスケアのサブブランドとして「OHealth」を発表した。第1弾の製品として、ヘルスモニター「OHealth H1」が展開される。日本での展開予定は明らかになっていない。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【楽天タイムセール】シャープの空気清浄機が40%還元、1台3役のイオンファンが15,818ポイント還元など、家電をお得に購入するチャンス！]]></title>
+        <id>https://www.gizmodo.jp/2022/12/rakuten-sale-2022-1214-1.html</id>
+        <link href="https://www.gizmodo.jp/2022/12/rakuten-sale-2022-1214-1.html"/>
+        <updated>2022-12-14T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[楽天市場では、最大50%と高ポイント還元イベント｢楽天スーパーDEAL｣を開催中。
+本日2022年12月14日（水）は、シャープの空気清浄機が40%還元、1台3役のイオンファンが15,818ポイント還元など、お得な商品が多数登場しています。]]></summary>
+        <author>
+            <name>メディアジーンメディアコマース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楽天モバイル、0円廃止後も利用していますか？]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2212/14/news148.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2212/14/news148.html"/>
+        <updated>2022-12-14T08:43:00.000Z</updated>
+        <summary type="html"><![CDATA[ITmedia Mobile読者の皆さんに、モバイルの最新動向や端末・サービスの選び方などについてうかがうアンケート企画。今回のテーマは「楽天モバイル」。Rakuten UN-LIMIT VIIで0円が廃止された後も、楽天モバイルを使っていますか？]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPPO、Bluetoothオーディオの新チップセット「MariSilicon Y」]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1463434.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1463434.html"/>
+        <updated>2022-12-14T08:35:42.000Z</updated>
+        <summary type="html"><![CDATA[OPPOは、Bluetoothオーディオ向けのチップセットとして「MariSilicon Y」を発表した。2023年のリリースが予定されている。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JR東日本が「JRE BANK」を2024年春に開始　スマホで口座開設、JRE POINT付与も]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2212/14/news143.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2212/14/news143.html"/>
+        <updated>2022-12-14T08:10:00.000Z</updated>
+        <summary type="html"><![CDATA[JR東日本とビューカードは、デジタル金融サービス「JRE BANK」を2024年春に開始。サービス利用に応じてJRE POINT付与や新幹線などの優待が受けられ、駅のATM「VIEW ALTTE」の現金引き出しが無制限に手数料無料となる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[おかえり「オリオン」こんな形してたんだね。アルテミス1の功績を写真と動画で振り返ろう]]></title>
+        <id>https://www.gizmodo.jp/2022/12/photos-orion-splashdown-artemis-1-nasa.html</id>
+        <link href="https://www.gizmodo.jp/2022/12/photos-orion-splashdown-artemis-1-nasa.html"/>
+        <updated>2022-12-14T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ザッブーンと太平洋沖に着水したオリオン宇宙船（現地時間2022年12月11日撮影）NASA無傷の熱々ボディでタッチダウン。NASA有人月面探査再開に向けた無人探査アルテミス1号のオリオン宇宙船が月周回25日半の旅を終え、米東部標準時間の12月11日（日本時間12日未明）、無事帰還しましたね！ミッションのハイライトの映像も先ほど公開になりました。打ち上げから帰還まで快挙の連続で、想像以上の安定感。5]]></summary>
+        <author>
+            <name>satomi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPPO「INNO DAY 2022」は本日14日17時～、最先端技術などを発表]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1463673.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1463673.html"/>
+        <updated>2022-12-14T07:05:22.000Z</updated>
+        <summary type="html"><![CDATA[OPPOは、バーチャル形式で開催されるイベント「INNO DAY 2022」において、最先端技術と「より良い未来の実現」に向けたコミットメントを発表する。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JR東の「インドア ライブビュー」対応駅が拡充、商業施設も]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1463670.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1463670.html"/>
+        <updated>2022-12-14T07:01:12.000Z</updated>
+        <summary type="html"><![CDATA[「Google マップ」の「インドア ライブビュー」で、新たにJR東日本の48駅と6つの商業施設が対応する。12月以降順次、利用できるようになる。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MVNO市場は2半期連続プラス、楽天モバイル「0円廃止」が好影響　シェア1位はIIJ]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2212/14/news111.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2212/14/news111.html"/>
+        <updated>2022-12-14T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MM総研は、12月14日に「国内MVNO市場調査（2022年9月末時点）」の結果を発表。独自サービス型SIMの回線契約数は前年同期比3.7％増の1284.8万回線で、事業者シェア1位はインターネットイニシアティブとなった。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ひみつ道具」がテーマ！ パトリックの楽しい『ドラえもん』スニーカー]]></title>
+        <id>https://www.gizmodo.jp/2022/12/patrick-doraemon-sneakers.html</id>
+        <link href="https://www.gizmodo.jp/2022/12/patrick-doraemon-sneakers.html"/>
+        <updated>2022-12-14T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[フランス発で日本製の靴ブランド「PATRICK」が作ったのは、コラボ第3弾となるスニーカー「アイムドラえもん・マラソン」です。ベースになったモデルは「MARATHON」で、全部で7つのひみつ道具が隠されているんですって。]]></summary>
+        <author>
+            <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アップル、ホワイトボードのように使える新アプリ「フリーボード」]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1463661.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1463661.html"/>
+        <updated>2022-12-14T06:43:00.000Z</updated>
+        <summary type="html"><![CDATA[アップル（Apple）は、iOS、iPadOS、macOS向けに、アプリケーション「フリーボード」の配信を開始した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple、ホワイトボード上のような共同作業が行える「フリーボード」を提供]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2212/14/news131.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2212/14/news131.html"/>
+        <updated>2022-12-14T06:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Appleは、12月13日に新機能「フリーボード」を発表した。キャンバス上にコンテンツ視覚的に配置し、最大100人で共同作業が行える。Apple Pencilや各種ファイルに対応し、FaceTimeでの通話も可能だ。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「iOS 16.2」「iPadOS 16.2」が登場、新しい「フリーボード」アプリや「Apple Music Sing」対応など]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1463664.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1463664.html"/>
+        <updated>2022-12-14T06:28:43.000Z</updated>
+        <summary type="html"><![CDATA[アップル（Apple）は、iPhone向けに「iOS 16.2」、iPad向けに「iPadOS 16.2」の提供を開始した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[povo、Twitterで「Amazonギフト券3000円分」プレゼント]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1463646.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1463646.html"/>
+        <updated>2022-12-14T06:18:24.000Z</updated>
+        <summary type="html"><![CDATA[KDDIは、オンライン専用ブランド「povo」の公式ツイッターアカウントにおいて、抽選で1000人にAmazonギフト券をプレゼントするキャンペーンを開始した。期間は12月25日まで。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[これからの企業向けTwitter認証バッジは、青じゃなくてゴールドになります]]></title>
+        <id>https://www.gizmodo.jp/2022/12/twitter-badge-gold.html</id>
+        <link href="https://www.gizmodo.jp/2022/12/twitter-badge-gold.html"/>
+        <updated>2022-12-14T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[イーロン・マスクがTwitterのCEOに就任してから、TwitterのサブスクプランであるTwitter Bueは二転三転してきました。一時は新規加入をストップしていたTwitter Blue、12月12日にサービス受付を再開しましたが、企業アカウントのバッジの色が金色に置き換わっていっているようです。]]></summary>
+        <author>
+            <name>ヤマダユウス型</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JR東がネットバンキング「JRE BANK」、24年春開始]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1463615.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1463615.html"/>
+        <updated>2022-12-14T05:34:44.000Z</updated>
+        <summary type="html"><![CDATA[JR東日本とビューカードは、2024年春にもデジタル金融サービス「JRE BANK」（ジェーアールイーバンク）の提供を開始する。JR東日本グループブランドの個人向け銀行口座が提供される。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「au PAY ふるさと納税」で寄附できる自治体数が1000を突破、記念キャンペーンで最大12％還元]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1463631.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1463631.html"/>
+        <updated>2022-12-14T05:34:40.000Z</updated>
+        <summary type="html"><![CDATA[KDDI、auコマース＆ライフ、トラストバンクは、ふるさと納税サイト「au PAY ふるさと納税」で寄附できる自治体数が1000を突破したことを8日に発表した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cheero、オープンイヤー型ワイヤレスイヤフォンを約1万円で発売　連続7時間再生]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2212/14/news117.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2212/14/news117.html"/>
+        <updated>2022-12-14T05:13:00.000Z</updated>
+        <summary type="html"><![CDATA[cheeroは12月13日、オープンイヤー型ワイヤレスイヤフォン「Wireless Open Earphones」を発売した。価格は9880円（税込み）。各色200台かつ期間限定で割引セールも行っている。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nothing Phone (1)はAirPodsをサポート。設定方法はこちら]]></title>
+        <id>https://www.gizmodo.jp/2022/12/how-to-pair-airpods-nothing-phone-1.html</id>
+        <link href="https://www.gizmodo.jp/2022/12/how-to-pair-airpods-nothing-phone-1.html"/>
+        <updated>2022-12-14T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:はらいさんぜひお試しを！NothingPhone(1)をNothingOS1.1.7にアップデートすると、AirPodsのバッテリー残量を確認できるようになりました。ただし、使うにはいくつかの手順を踏む必要あり。以下、ご紹介します。1.システムアップデートImage:はらいさんPhone(1)でAirPodsのバッテリー残量を確認するには、まず最初に「設定」アプリ＞システム＞システムア]]></summary>
+        <author>
+            <name>はらいさん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クアルコム、ホームネットワーク向けの「Wi-Fi 7 Immersive Home Platform」を発表]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1463605.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1463605.html"/>
+        <updated>2022-12-14T04:49:23.000Z</updated>
+        <summary type="html"><![CDATA[クアルコム子会社のクアルコムテクノロジーズ（Qualcomm Technologies）は、ホームネットワーク向けの新たなプラットフォームとして「Wi-Fi 7 Immersive Home Platform」を発表した。現在はサンプルが出荷されており、2023年後半に製品化される予定となっている。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「PayPay商品券」、年内にも89自治体で導入へ]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1463587.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1463587.html"/>
+        <updated>2022-12-14T04:38:37.000Z</updated>
+        <summary type="html"><![CDATA[PayPayとさとふるは、ふるさと納税ポータルサイト「さとふる」において提供する「PayPay商品券」の導入決定自治体が12月9日時点で合計で327自治体になったと発表した。年内にも89自治体で導入される。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アマゾン「Prime Gaming」で年末年始の特典が発表、「Metal Slug」無料配信など]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1463577.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1463577.html"/>
+        <updated>2022-12-14T04:26:12.000Z</updated>
+        <summary type="html"><![CDATA[アマゾンはPrime Gamingの年末年始の特別特典を発表した。年末年始の12月27日から1月3日まで「Metal Slug」「The King of Fighters 2003」「SNK 40th Anniversary Collection」を含む9タイトルのSNKゲームや「Dishonored 2」などが無料配布される。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楽天ラクマ、市中の「スマリボックス」から「宅急便」の非対面発送に対応]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1463583.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1463583.html"/>
+        <updated>2022-12-14T04:22:04.000Z</updated>
+        <summary type="html"><![CDATA[楽天グループは、フリマサービス「楽天ラクマ」について、三菱商事が展開する「スマリボックス」で、「かんたんラクマパック（ヤマト運輸）」の発送手続きを非対面でできるサービスを12日から提供している。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォルクスワーゲンではビートルよりソーセージの方が売れているって]]></title>
+        <id>https://www.gizmodo.jp/2022/12/sausage-made-by-volkswagen.html</id>
+        <link href="https://www.gizmodo.jp/2022/12/sausage-made-by-volkswagen.html"/>
+        <updated>2022-12-14T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[フォルクスワーゲンの製品で最も多く売られているのはクルマではなくカレー味のソーセージ「カリーブルスト」。1日1万8000本～2万本も製造。]]></summary>
+        <author>
+            <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[セブン-イレブンの「セブンスマホレジ」導入店舗拡大　スマホ1台で決済]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2212/14/news102.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2212/14/news102.html"/>
+        <updated>2022-12-14T03:47:00.000Z</updated>
+        <summary type="html"><![CDATA[セブン-イレブン・ジャパンは12月15日から、スマホアプリだけで決済が完了する「セブンスマホレジ」の対応店舗を従来の12店舗から51店舗へ拡大する。スマホで購入する商品のバーコードを読み取り、クレジットカードやバーコード決済で支払いが可能だ。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヤマハ発動機が木材チップから生まれた素材を水上オートバイ部品に採用。将来は二輪車などにも]]></title>
+        <id>https://www.gizmodo.jp/2022/12/wood-derived-engine-materials.html</id>
+        <link href="https://www.gizmodo.jp/2022/12/wood-derived-engine-materials.html"/>
+        <updated>2022-12-14T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ヤマハ発動機が木材チップから作った強化樹脂「セレンピアプラス」を水上バイクなどのエンジン素材に採用すると発表。]]></summary>
+        <author>
+            <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDDI、5機目の船舶型基地局に弓削商船高専の「弓削丸」]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1463532.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1463532.html"/>
+        <updated>2022-12-14T03:22:34.000Z</updated>
+        <summary type="html"><![CDATA[KDDIは、災害時に迅速な携帯電話サービスの復旧を目的とした「船舶型基地局」として弓削商船高等専門学校（愛媛県）の練習船「弓削丸」にau基地局を設置する。2023年度末にも運用を開始する予定。KDDIの船舶型基地局はこれで5機目となる。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソフトバンク、 Google Pixel購入で「Nest Hub（第2世代）」が4000人に当たるキャンペーン]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2212/14/news084.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2212/14/news084.html"/>
+        <updated>2022-12-14T03:14:00.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクは、Google Pixelを購入するとGoogleアシスタント搭載スマートディスプレイ「Google Nest Hub（第2世代）」が4000人に当たるキャンペーンを開催する。期間は2023年3月31日まで。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バッファロー、Wi-Fi 6E対応ルーターのフラッグシップモデルを2023年春に発売]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1463529.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1463529.html"/>
+        <updated>2022-12-14T03:10:26.000Z</updated>
+        <summary type="html"><![CDATA[バッファローは、「Wi-Fi 6E」対応ルーターのフラッグシップモデルを、2023年春に発売する。製品のシルエットのみが公開され、詳細なスペックは明らかになっていない。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「OPPO Reno7 A」にワイヤレスイヤホン「Enco Buds」がついてくる、さらにdポイントが10倍に[Sponsored]]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/topic/hikaritvshop/1461213.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/topic/hikaritvshop/1461213.html"/>
+        <updated>2022-12-14T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[家電・おもちゃ・家具やインテリアまで取りそろえる総合オンラインストア「ひかりTVショッピング」の注目商品や特売商品の情報をお伝えします。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一部iPadが外部ディスプレイに対応。こんな風に使います]]></title>
+        <id>https://www.gizmodo.jp/2022/12/ipados-162-stage-manager-display-output.html</id>
+        <link href="https://www.gizmodo.jp/2022/12/ipados-162-stage-manager-display-output.html"/>
+        <updated>2022-12-14T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:小暮ひさのり心待ちにしていた人も多いはず。はいはい！僕もそのひとり！iPadOS16のマルチタスク機能「ステージマネージャ」の外部ディスプレイサポートがやっと実装されました。対応モデルはiPadAir（第5世代）、12.9インチiPadPro（第5世代以降）、11インチiPadPro（第3世代以降）。個人的には、iPadOS16の目玉機能だと思っているので、早速iPadAir5で試して]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「気象・噴火の特別警報」緊急速報メール、12月26日に終了へ]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1463540.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1463540.html"/>
+        <updated>2022-12-14T02:57:58.000Z</updated>
+        <summary type="html"><![CDATA[気象庁は、気象や噴火に関する特別警報の緊急速報メールの配信を、12月26日14時に終了すると発表した。緊急地震速報と津波警報、大津波警報の緊急速報メールは、引き続き配信される。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソフトバンク、「Pixel 6a/7/7 Pro」の購入で「Nest Hub（第2世代）」が4000人に当たる]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1463528.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1463528.html"/>
+        <updated>2022-12-14T02:45:38.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクは、グーグルのAndroidスマートフォン「Pixel 6a」「Pixel 7」「Pixel 7 Pro」の購入者向けのキャンペーンを開始した。抽選で4000人に、グーグルのスマートディスプレイ「Nest Hub（第2世代）」が進呈される。応募期間は2023年4月1日まで。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[約12時間使ってもコストは23円。コスパ良好なZIPPOのプラチナ触媒カイロ]]></title>
+        <id>https://www.gizmodo.jp/2022/12/amazon-zippo-handwarmer-2.html</id>
+        <link href="https://www.gizmodo.jp/2022/12/amazon-zippo-handwarmer-2.html"/>
+        <updated>2022-12-14T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[今年も本格的な冬が近づいてきましたね。そこでぜひチェックしてもらいたいのが、Zippoオイルを燃料にするプラチナ触媒カイロ「ZIPPO ハンディウォーマー」。このカイロ、ただちょっとカッコいいだけの雰囲気アイテムじゃありません！]]></summary>
+        <author>
+            <name>田中宏和</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中古で2万円台、5年前の「iPhone X」は今でも使える？　iPhone 14 Proと比べて分かったこと]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2212/14/news023.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2212/14/news023.html"/>
+        <updated>2022-12-14T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[5年前に発売されたiPhone Xを改めて検証。今はどれだけ使えるのか、どのような部分が新しい機種に比べて苦しい立ち位置になっているのかをまとめてみた。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[素材はキノコの菌糸体で作った合皮、だけど高級感ある完全無線イヤホン＋ケース]]></title>
+        <id>https://www.gizmodo.jp/2022/12/t10-bespoke.html</id>
+        <link href="https://www.gizmodo.jp/2022/12/t10-bespoke.html"/>
+        <updated>2022-12-14T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[キノコの菌糸体を素材として使用したイヤホンをEAR MICROとKlipschが発売。]]></summary>
+        <author>
+            <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[近未来デザインで50Lの荷物入れが実用的なEVバイク「FUELL FLLOW」]]></title>
+        <id>https://www.gizmodo.jp/2022/12/fuel-fllow-ev-bike.html</id>
+        <link href="https://www.gizmodo.jp/2022/12/fuel-fllow-ev-bike.html"/>
+        <updated>2022-12-14T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:FUELL電動バイクなのに名前がフューエル。近年は世界的に、いろんなメーカーが排気ガスを出さない電動バイク開発を進めていますよね。元ハーレーダビッドソンの技師で、Buell（ビューエル）の設立者エリック・ビューエルもまた、新たなEVバイクのブランド「FUELL」を立ち上げました。新ブランドらしい挑戦的な1台MIT出身の米国人技師やフランス人CEO、ベラルーシ出身のデザイナーが手を組んで]]></summary>
+        <author>
+            <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appleのティム・クックCEO、Apple表参道を訪問。Cocomiが生演奏を披露]]></title>
+        <id>https://gori.me/?p=145466</id>
+        <link href="https://gori.me/apple/apple-news/145466"/>
+        <updated>2022-12-14T00:33:02.000Z</updated>
+        <summary type="html"><![CDATA[@tim_cookより Appleのティム・クックCEOは、ワールドワイドマーケティング担当SVPのグレッグ・ジョズウィアック氏とともにApple表参道を訪問。木村拓哉さんと工藤静香さんの長女であるフルート奏者のCocomiさんによる生演奏を、他大勢の一般客とともに堪能する様子が投稿されている。 C…
+The post Appleのティム・クックCEO、Apple表参道を訪問。Cocomiが生演奏を披露 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitterが社内にベッドを設置→違法建築の疑い]]></title>
+        <id>https://www.gizmodo.jp/2022/12/twitter-elon-musk-san-francisco.html</id>
+        <link href="https://www.gizmodo.jp/2022/12/twitter-elon-musk-san-francisco.html"/>
+        <updated>2022-12-13T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:MichaelVi/Shutterstock.com泊まり込みでも働けるTwitterを目指したら。Twitterが、イーロン・マスク氏による買収後の大改革で大混乱中です。バッサバッサと人員整理でクビを切られ、残った社員には、もっともっと働けの大号令。しかしながら、このほどSanFranciscoChronicleは、とある苦情がサンフランシスコ市の違法建築を摘発する部署に寄せられたと]]></summary>
+        <author>
+            <name>湯木進悟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple、「iOS 16.2」「iPadOS 16.2」配信　カラオケアプリやステージマネージャの外部ディスプレイサポート]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2212/14/news070.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2212/14/news070.html"/>
+        <updated>2022-12-13T22:10:00.000Z</updated>
+        <summary type="html"><![CDATA[AppleはiPhoneやiPad、Macなどの今年最後とみられるアップデートを配信した。iPhoneとiPadではカラオケ機能「Apple Music Sing」が利用可能になる。共有ホワイトボード「フリーボード」も追加された。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple、EUでアプリのサイドローディングを許可する方針か]]></title>
+        <id>https://gori.me/?p=145463</id>
+        <link href="https://gori.me/apple/apple-news/145463"/>
+        <updated>2022-12-13T21:20:10.000Z</updated>
+        <summary type="html"><![CDATA[Appleは、EUでApp Store以外のアプリストアを使ってアプリをダウンロードできる、俗に言う「アプリのサイドローディング」を許可する可能性がある。Bloombergによると、まずはEUのみ施行。米国も続く可能性がある。 EUは11月1日、新しい法律「デジタル市場法 (DMA)」（リンク先はP…
+The post Apple、EUでアプリのサイドローディングを許可する方針か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HomePodソフトウェアバージョン16.2、正式リリース。パフォーマンスと安定性の改善]]></title>
+        <id>https://gori.me/?p=145461</id>
+        <link href="https://gori.me/music-accessories/speakers/homepod/145461"/>
+        <updated>2022-12-13T19:21:10.000Z</updated>
+        <summary type="html"><![CDATA[Appleは12月14日、HomePodソフトウェアバージョン16.2を正式リリースした。最新バージョンでは全体的なパフォーマンスと安定性の改善が含まれている。 HomePodのアップデートは、ホームアプリから行う。HomePodのタイルを長押しすることで表示される設定画面をスクロールすると、ソフト…
+The post HomePodソフトウェアバージョン16.2、正式リリース。パフォーマンスと安定性の改善 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[watchOS 9.2、正式リリース。ワークアウトの改良、衝突事故検出の精度向上など]]></title>
+        <id>https://gori.me/?p=145459</id>
+        <link href="https://gori.me/watchos/watchos9/145459"/>
+        <updated>2022-12-13T19:12:10.000Z</updated>
+        <summary type="html"><![CDATA[Appleは12月14日、watchOS 9.2を正式リリースした。 最新バージョンでは、レースコースを使って、屋外ランニング、サイクリング、アウトドア車椅子のワークアウトの以前のパフォーマンスと競争可能な機能が実装。Apple Watch Ultraなど2022年のApple Watchモデルにお…
+The post watchOS 9.2、正式リリース。ワークアウトの改良、衝突事故検出の精度向上など first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS Ventura 13.1、正式リリース。Macの探すアプリから紛失したAirPodsで音を流せるように]]></title>
+        <id>https://gori.me/?p=145455</id>
+        <link href="https://gori.me/macosx/macosventura/145455"/>
+        <updated>2022-12-13T18:51:31.000Z</updated>
+        <summary type="html"><![CDATA[Appleは12月14日、macOS Ventura 13.1を正式リリースした。フリーボードアプリの追加に加えて、探すアプリを使って対応するAirPodsシリーズの音を鳴らして検索する機能などが追加されている。 アップデート後に一部のメモがiCloudと同期できなくなる問題、一部のアプリケーション…
+The post macOS Ventura 13.1、正式リリース。Macの探すアプリから紛失したAirPodsで音を流せるように first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS/iPadOS 16.2、正式発表。Apple Music Sing、iPhone 14 Proのロック画面改良など]]></title>
+        <id>https://gori.me/?p=145453</id>
+        <link href="https://gori.me/ios/ios16/145453"/>
+        <updated>2022-12-13T18:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Appleは12月14日、iOS 16.2およびiPadOS 16.2を正式リリースした。iOS 16.2では、ブレーンストーミングやアイデアの実現に最適な新アプリ「フリーボード」が追加。またカラオケ機能「Apple Music Sing」、iPhone 14 Proシリーズのロック画面改善が含まれ…
+The post iOS/iPadOS 16.2、正式発表。Apple Music Sing、iPhone 14 Proのロック画面改良など first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Nature Remo」、家族で位置情報による家電の自動操作に対応]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1463430.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1463430.html"/>
+        <updated>2022-12-13T15:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Natureは、スマートリモコン「Nature Remo」の専用アプリ「Nature Remoアプリ」のアップデートで、複数ユーザーによる位置情報を用いた家電の自動操作（マルチユーザージオフェンス）に対応した。アプリバージョン16.2.3から対応する。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[みんなのケータイ]Pixelのレコーダーアプリの「話し手のラベル付け（Speaker labels）」機能を検証してみた]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/minna/1463401.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/minna/1463401.html"/>
+        <updated>2022-12-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[12月8日の夜にPixel 6 Proの「Recorder」アプリをチェックしていたところ、「話し手のラベル付け（Speaker labels）」と書かれた新機能のトグルスイッチが追加されていることに気付いた。現在のところ、取材で音声録音に使っているのはこのPixel 6 Proの「Recorder」アプリであり、音声文字変換の機能を有効にして日々活用している。取材後はGoogleのクラウドに変換したテキストごとアップロードしてしまい、後の文字起こしや発言確認の場面でWebブラウザのインターフェイスを介してアクセスすればいい。これだけでも充分便利ではあるが、PixelのRecorderでは「入力された音声をすべて順番にテキストに変換してしまい、話者の区別ができない」という問題がある。今回の新機能はこれを解決するものだ。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[本日の一品]スマホの音楽を外部スピーカーで聞けたりする、高音質・低遅延なトランスミッター＆レシーバー]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1463374.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1463374.html"/>
+        <updated>2022-12-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[普段仕事をしているときは、文章が全く書けなくなるので音楽を聞いたりはしないのだけれど、仕事が終わった後はなんとなくBGMを流して、グラスを傾けたりしながらリラックスタイムを満喫したくなったりする。大人の時間である。そういう年齢になってしまったのである。そんなわけで、より手軽にスマホの音楽を外部スピーカーで聞けるように、MEE audioのBluetoothトランスミッター＆レシーバー「Connect Hub」を手に入れた。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シャオミ「モノづくり研究所」第3回はリアル開催、「Xiaomi 12T Pro」の“神ジューデン”を先行体験]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1462688.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1462688.html"/>
+        <updated>2022-12-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[シャオミ（Xiaomi）は11月下旬、ユーザー参加型のイベント「Xiaomiモノづくり研究所」を都内で開催した。8月の第1回（オフライン開催）、10月の第2回（オンライン開催）に続き、第3回として開催された。計6人の一般ユーザーが参加した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[スタパ齋藤のApple野郎]iPhoneとマルチツールをMagSafeで合体させて持ち歩きたい]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/stapaapple/1461656.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/stapaapple/1461656.html"/>
+        <updated>2022-12-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[メインのスマートフォンはiPhone。現在はiPhone 14 Pro Maxを使っている。もちろん出かけるときは必ず携帯している。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美しすぎるオーロラの世界を捉えた25作品]]></title>
+        <id>https://www.gizmodo.jp/2022/12/northern-lights-photos-capture-the-atlas-2022.html</id>
+        <link href="https://www.gizmodo.jp/2022/12/northern-lights-photos-capture-the-atlas-2022.html"/>
+        <updated>2022-12-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:NicoRinaldi死ぬまでに見てみたい景色。オーロラは太陽からやってきた電気を持った粒子「プラズマ」が、地球の大気にぶつかって発生する現象です。オーロラは地球の上空100キロ〜500キロくらいの場所に発生します。空の上の衝突事故は、こんなに美しく幻想的な光景を生み出してくれるのです。そんなオーロラの世界を捉えた「NorthernLightsPhotographeroftheYear]]></summary>
+        <author>
+            <name>岩田リョウコ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[化石燃料利権者が水素推進の研究論文に1枚噛んでたことが判明。これってどーなの？]]></title>
+        <id>https://www.gizmodo.jp/2022/12/hydrogen-study.html</id>
+        <link href="https://www.gizmodo.jp/2022/12/hydrogen-study.html"/>
+        <updated>2022-12-13T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカの新聞社、Boston Globe（ボストン・グローブ）は11月中旬、水素をエネルギー源とするメリットについての査読付き論文の研究費を化石燃料産業の有力団体が負担したうえに、草稿段階で利権者が大きく関与したことに論文で触れていない問題について報じました。つまり、業界団体による恣意的な水素の推進が発覚したのです。]]></summary>
+        <author>
+            <name>Kenji P. Miyajima</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「Jabra Elite 5」は、軽やかさと装着感が素晴らしいミドルラインの隠れた名機です]]></title>
         <id>https://www.gizmodo.jp/2022/12/jabra-elite-5-mid.html</id>
@@ -64,6 +759,16 @@
         <summary type="html"><![CDATA[Image:HUMBLERICHこのHUMBLERICHもイタリアンテイストのポップなカラーリングが持ち味。素材使いの巧みさで高級感をうまく演出しています。対応しているのはAppleWatchSeries7/8。ステンレススチールケースとシリコンにレザーを貼り合わせたストラップが特徴の「クラシックシリーズ」、ブラックIP加工のマットなケースにポップな色味を合わせた「スポーツシリーズ」、リサイクルス]]></summary>
         <author>
             <name>巽英俊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シャープ、「CES 2023」でAR／VR向デバイスを披露予定]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2212/13/news163.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2212/13/news163.html"/>
+        <updated>2022-12-13T10:07:00.000Z</updated>
+        <summary type="html"><![CDATA[シャープは、2023年1月5日～8日に開催される米国のテクノロジー見本市「CES 2023」へ出展。VR用の超軽量HMDプロトタイプの他、超小型カメラモジュールや衝突を抑制する距離センサーを備えたAR／VR向けデバイスも初出展する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
         </author>
     </entry>
     <entry>
@@ -2992,656 +3697,6 @@ The post Anker、ケーブルが収納できる最大65W出力USB-C付き電源�
         <summary type="html"><![CDATA[Image:Shutterstockライフハッカー［日本版］2022年7月17日掲載の記事より転載家の中の雰囲気を変えたいなら、植物がおすすめです。しかし、自分でプランターや植木鉢に植物を植えれば、お金も節約できる上に、思ったよりも簡単です。1.ワイヤーバスケットを吊るすそこで、登場するのがハンギングバスケット。ワイヤーのハンギングバスケットは、プラスチック製の物よりも割れにくく、何年も使えます。]]></summary>
         <author>
             <name>的野裕子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AirDropの10分間タイムリミット、iOS 16.2で実装へ]]></title>
-        <id>https://gori.me/?p=145399</id>
-        <link href="https://gori.me/iphone/iphone-news/145399"/>
-        <updated>2022-12-07T22:02:51.000Z</updated>
-        <summary type="html"><![CDATA[iOS 16.2は、AirDropの受信設定「すべての人」を有効にできる時間を最大10分間に制限する。従来は時間制限が設けられていなかった。 中国では習近平主席の中国政府に反対するポスターを広めるためにAirDropが活用され、中国国内ではiOS16.1.1から実装されている。近日中に実装されるiO…
-The post AirDropの10分間タイムリミット、iOS 16.2で実装へ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU内の飛行機では「機内モード」がいらなくなる]]></title>
-        <id>https://www.gizmodo.jp/2022/12/airplane-mode-uk-airlines-air-travel.html</id>
-        <link href="https://www.gizmodo.jp/2022/12/airplane-mode-uk-airlines-air-travel.html"/>
-        <updated>2022-12-07T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Shutterstock来年からEU諸国では「機内モード」さようなら〜。EUでは来年から上空でスマホでネット使用可能になり、なんなら通話まで可能になりそうみたいです。これまで乗客は料金を払って遅いwifiを使っていましたが、これからは航空会社が5Gを提供することになります。欧州委員会の決定した今回の新しい法令により、乗客は5Gでストリーミング動画や音楽、アプリ、通話まで可能になるそうで]]></summary>
-        <author>
-            <name>岩田リョウコ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple、iCloud写真の児童性的虐待コンテンツを検出する機能を断念]]></title>
-        <id>https://gori.me/?p=145397</id>
-        <link href="https://gori.me/apple/apple-news/145397"/>
-        <updated>2022-12-07T21:46:11.000Z</updated>
-        <summary type="html"><![CDATA[Appleが児童性的虐待コンテンツ（Child Sexual Abuse Material ＝ CSAM）を防止する機能の実装を断念した。WIREDに寄せられた公式声明文によると、Appleは昨年12月に発表した、子どもを保護するコミュニケーションセーフティ機能にさらなる投資を行うと宣言。その上で、…
-The post Apple、iCloud写真の児童性的虐待コンテンツを検出する機能を断念 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS/iPadOS 16.2やmacOS 13.1などのRC版、開発者向けに配信開始]]></title>
-        <id>https://gori.me/?p=145395</id>
-        <link href="https://gori.me/ios/ios16/145395"/>
-        <updated>2022-12-07T21:14:32.000Z</updated>
-        <summary type="html"><![CDATA[Appleは12月8日、「iOS 16.2RC」「iPadOS 16.2RC」「macOS 13.1RC」「watchOS 9.2RC」「tvOS 16.2RC」「Xcode 14.2 RC」を開発者向けに配信開始した。いずれのOSも、今月中に正式リリースされる見通しだ。 iOS 16.2の最新のベ…
-The post iOS/iPadOS 16.2やmacOS 13.1などのRC版、開発者向けに配信開始 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Xperia 1 IV」と「Xperia 5 IV」どちらを選ぶ？　スペックから性能までを徹底比較]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2212/08/news028.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2212/08/news028.html"/>
-        <updated>2022-12-07T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ソニー製スマホのフラグシップは「Xperia 1」シリーズだが、その下として位置付けられている「Xperia 5」シリーズも機能面での差は少なく、コンパクトかつ片手持ちしやすいという利点がある。この兄弟といえる2モデルは、それぞれどんなユーザーに適しているのか。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IIJが30周年記念「トリプルキャンペーン」、ギガプランでモバイルルーター割引など]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1461798.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1461798.html"/>
-        <updated>2022-12-07T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[インターネットイニシアティブ（IIJ）は、創業30周年を記念して、「IIJ創業30周年記念トリプルキャンペーン」を実施している。期間は、いずれも2023年1月31日21時59分まで。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[みんなのケータイ]Pixel 7 Proの「メディアのバイブレーション」ってなんぞや]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/column/minna/1461721.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/column/minna/1461721.html"/>
-        <updated>2022-12-07T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Pixel 7 Proを操作していると、音量をオフにしていても、サイレントモードにしていても、音が鳴ることがある。たとえば画面下端からスワイプして、表示されるアプリのタスクを左右スワイプでスクロールすると「コッコッ……」と聞こえ、さらに上スワイプでタスクを消したりすると「ンポッ」みたいな音が聞こえる。これ、実のところ音量とは関係がなくて、「ハプティック」などと呼ばれる端末のバイブレーションによるものだ。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[石野純也の「スマホとお金」]一時は「Pixel 7」も”実質1円”――形を変える「1円スマホ」と、転売ヤー対策も見据えた携帯各社のスマホ割引はどうなる？]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/column/value/1461671.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/column/value/1461671.html"/>
-        <updated>2022-12-07T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[電気通信事業法の改正でスマホの割引が2万2000円に制限されて以降、ハイエンドモデルの売れ行きに急ブレーキがかかったと言われています。一方で、ここ1年ほどで、その様相がにわかに変わってきました。 “端末そのものへの直接値引き”という裏技のような割引手法 が編み出されたからです。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[本日の一品]お手頃価格でハイレゾ対応のBluetoothヘッドホン「1MORE SonoFlow」]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1459656.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1459656.html"/>
-        <updated>2022-12-07T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[イヤホンもいいんですけどね。ヘッドホンがほしかったんですよ。筆者。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Amazon Echo Show 15」にFire TV機能を追加するアップデート！　Primeビデオ、ネトフリやYouTubeをリモコン経由で快適に楽しめる！]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2212/07/news147.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2212/07/news147.html"/>
-        <updated>2022-12-07T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazonのスマートディスプレイ「Echo Show 15」にソフトウェア更新が行われ、新たにFire TVとして利用できる機能が追加される。別売の音声認識リモコンを用意すれば、通常のFire TVシリーズと同じように使える（タッチパネル上の仮想リモコンでも操作は可能）。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浄水場が止まっちゃったけど、まるで動じないヒューストン市民。その理由が闇だった]]></title>
-        <id>https://www.gizmodo.jp/2022/12/houston-tells-citizen-to-boil-water-before-use.html</id>
-        <link href="https://www.gizmodo.jp/2022/12/houston-tells-citizen-to-boil-water-before-use.html"/>
-        <updated>2022-12-07T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Shutterstockテキサス大寒波のときに水が止まった瞬間を思い出して遠くを見てしまう…。テキサス州ヒューストンで先月末、停電によって上水道の水圧が最低基準を下回り、水質を懸念した市が水道水を沸騰させてから使用するよう市民に通達を出す事態になりました。テキサス州が長らく抱えている水道インフラ老朽化の問題が表面化したともいわれています。変圧器の故障が原因ヒューストン市内のEastWa]]></summary>
-        <author>
-            <name>Kenji P. Miyajima</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazonで「iPhone 13 Pro/14 Pro」シリーズの抽選販売はじまる]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1461933.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1461933.html"/>
-        <updated>2022-12-07T13:04:13.000Z</updated>
-        <summary type="html"><![CDATA[アマゾンジャパン（Amazon.co.jp）は、品薄が続く「iPhone 13 Pro」シリーズと「iPhone 14 Pro」シリーズの抽選販売を実施する。まずはiPhone 13 Pro Maxの抽選受付が始まっている。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「2022年 Google 検索ランキング」、3位に「au通信障害」]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1461883.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1461883.html"/>
-        <updated>2022-12-07T12:06:52.000Z</updated>
-        <summary type="html"><![CDATA[グーグルは、「2022年 Google 検索ランキング」を発表した。今年は、日本国内の話題や流行を反映している急上昇ランキングに加え、人物、“○○とは”、スポーツ選手、方法、歌詞、メイク、映画、ドラマ、アニメの10個のカテゴリーと、都道府県別Google検索ランキング、さらに海外のランキングが発表された。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年版クリスマスにもらってうれしい「タブレット、電子リーダー、電子ノートパッド」]]></title>
-        <id>https://www.gizmodo.jp/2022/12/2022-christmas-presents.html</id>
-        <link href="https://www.gizmodo.jp/2022/12/2022-christmas-presents.html"/>
-        <updated>2022-12-07T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[クリスマスに欲しいガジェットといえば、まずスマホ。そして次に名前が挙がるのがタブレットやE Inkを使ったデバイスです。Netflixにハマっている方やオフィスのペーパーレス化をすすめている方など、「今年のクリスマスは使いやすいタブレットがほしい！」というあなたのために、最高のタブレット・電子書籍リーダー・電子ノートデバイスをご紹介していきましょう！]]></summary>
-        <author>
-            <name>R.Mitsubori</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[長時間の連続使用も快適！北欧生まれのワイヤレスイヤホンをチェック]]></title>
-        <id>https://www.gizmodo.jp/2022/12/260663-costory-vainmove-earphone.html</id>
-        <link href="https://www.gizmodo.jp/2022/12/260663-costory-vainmove-earphone.html"/>
-        <updated>2022-12-07T11:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:山田洋路こちらは（株）メディアジーンのメディアコマース・チームが編集・執筆した記事です。耳からの情報収集や気分のマネジメントに、ワイヤレスイヤホンが手放せません。まるで体の一部のように、いつもイヤホンが耳に入ったままの方も多いかと思います。しかし、聴きたいときに音楽やPodcastが流せるのが当たり前なになっているだけに、イヤホンがバッテリー切れだったときのショックは大きいです。こんな]]></summary>
-        <author>
-            <name>山田洋路</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPadやiPad miniにジャストなサイズ感。上質なヴィーガンレザー製のタブレットケース、ミニマル＆クールでテンション爆上がり]]></title>
-        <id>https://www.gizmodo.jp/2022/12/giz-yatai-layerpouch.html</id>
-        <link href="https://www.gizmodo.jp/2022/12/giz-yatai-layerpouch.html"/>
-        <updated>2022-12-07T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[レザーの魅力を秘めているのが、iPadケース「Layer Pouch（レイヤーポーチ）」。シンプルで持ち出しやすいiPadだからこそ、いい容れ物に入れてやると本来持っている美しさがさらに引き立つというものです。]]></summary>
-        <author>
-            <name>ヤマダユウス型</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[72通りのカスタマイズで夏も冬も年中使えるサングラス「FALCON」]]></title>
-        <id>https://www.gizmodo.jp/2022/12/machi-ya-falcon-start.html</id>
-        <link href="https://www.gizmodo.jp/2022/12/machi-ya-falcon-start.html"/>
-        <updated>2022-12-07T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[オーストリア発のスポーツサングラス「FALCON」は、オプションを活用することで、普段使いやスポーツ、フルゴーグルと切り替え、オールシーズン使えるのが魅力の製品。4つのフレームと6つのレンズの組み合わせで、ファッション性の高いカスタマイズを追求できます。]]></summary>
-        <author>
-            <name>kotoha ozawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nothingがアメリカに上陸するとき、新作スマホ「Phone (2)」がお披露目されちゃったり…しないかなぁ？]]></title>
-        <id>https://www.gizmodo.jp/2022/12/nothing-phone-us-north-america-android-vs-iphone-apple.html</id>
-        <link href="https://www.gizmodo.jp/2022/12/nothing-phone-us-north-america-android-vs-iphone-apple.html"/>
-        <updated>2022-12-07T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Nothingロンドンを拠点とするNothing。OnePlusの共同創設者のカール・ペイ氏の新たな挑戦として、創業当時から話題を集め、イヤフォンとスマホをリリース。ユニークなデザインにすでにハマっている人もいるかと思います。日本ではコラボ楽曲やコラボイベントもあり、けっこうNothingな国なので気づいていない人もいそうですが、Nothingのスマートフォンはアメリカ未上陸。そんな中]]></summary>
-        <author>
-            <name>そうこ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楽天モバイル、楽天スーパーセールで「AirPods Pro（第1世代）」が10%オフ]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1461899.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1461899.html"/>
-        <updated>2022-12-07T10:08:37.000Z</updated>
-        <summary type="html"><![CDATA[楽天モバイルの公式楽天市場店は、11日の1時59分まで開催している「楽天スーパーセール」で「AirPods Pro（第1世代）」を割引価格で販売している。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Appleの今年のベストアプリに「カルチャーインパクト賞」が追加。僕的ベストアプリも発表します]]></title>
-        <id>https://www.gizmodo.jp/2022/12/app-store-awards-2022.html</id>
-        <link href="https://www.gizmodo.jp/2022/12/app-store-awards-2022.html"/>
-        <updated>2022-12-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Apple今年もたくさんの素晴らしいアプリに出会えました。Apple（アップル）が、今年を代表するアプリを決める「AppStoreAwards」の2022年版を発表しました。例年のベストアプリケーションおよびベストゲーム賞に加え、今年は人々の生活や文化に影響を与えたアプリケーションとゲームアプリにカルチャーインパクト賞が贈られました。僕的ベストアプリは最後に紹介します。カルチャーインパ]]></summary>
-        <author>
-            <name>はらいさん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Amazonタイムセール中！】テレワーク中のランチに最適な食品がお買い得！大阪王将の中華セットが1,324円オフ、松屋の豪華福袋が59%オフなど]]></title>
-        <id>https://www.gizmodo.jp/2022/12/amazon-timesale-2022-1207-1.html</id>
-        <link href="https://www.gizmodo.jp/2022/12/amazon-timesale-2022-1207-1.html"/>
-        <updated>2022-12-07T09:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon（アマゾン）で毎日開催されているタイムセール。本日2022年12月7日は、大阪王将の中華セットが1,324円オフ、松屋の豪華福袋が59%オフなど、今すぐ欲しい人気のアイテムがお得に多数登場しています。]]></summary>
-        <author>
-            <name>メディアジーンメディアコマース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASUS、「ROG Phone 6」とDiablo Immortalとコラボモデルを数量限定販売　約17万]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2212/07/news165.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2212/07/news165.html"/>
-        <updated>2022-12-07T09:28:00.000Z</updated>
-        <summary type="html"><![CDATA[ASUS JAPANは、MMOアクションRPG「Diablo Immortal」とコラボレーションした「ROG Phone 6 Diablo Immortal Edition」を数量限定で販売。作品をテーマにした壁紙や着信アニメ、付属品などを提供し、価格は16万9800円（税込み）。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OPPO公式楽天市場店、「楽天スーパーSALE」で最大50％オフ]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1461868.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1461868.html"/>
-        <updated>2022-12-07T09:05:40.000Z</updated>
-        <summary type="html"><![CDATA[OPPOの公式楽天市場店は、「楽天スーパーSALE」と連動したセールを実施している。期間は11日1時59分まで。OPPO製のスマートフォンやタブレット、ワイヤレスイヤホンなどが、セール価格になっている。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[共有OFFも効き目なし。AppleはiPhone解析データと一緒に個人特定情報も収集している]]></title>
-        <id>https://www.gizmodo.jp/2022/12/apple-iphone-privacy-dsid-analytics-personal-data-test.html</id>
-        <link href="https://www.gizmodo.jp/2022/12/apple-iphone-privacy-dsid-analytics-personal-data-test.html"/>
-        <updated>2022-12-07T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:SukritaRungroj(Shutterstock)次々出てくるなあ…。AppleがどのようにiPhone利用データを収集しているのか、米ソフトウェア会社のMyskが調べてみたところ、収集したデータに個人を特定できる情報が含まれていることがわかりました。個人特定ができるDSIDが含まれていた「収集データには個人を特定できる情報は含まれていない」というAppleのプライバシーポリシー]]></summary>
-        <author>
-            <name>satomi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PayPayグルメ、最大5回＆総額4100円分のクーポンなど3つのキャンペーン開催]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2212/07/news155.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2212/07/news155.html"/>
-        <updated>2022-12-07T08:35:00.000Z</updated>
-        <summary type="html"><![CDATA[PayPayグルメは最大5回、総額4100円分のクーポンがもらえる期間限定キャンペーンを開催。有名チェーン店と連携した「クーポン還元祭」や、最大15％相当のPayPayポイント還元の「PayPayクーポン」も提供する。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楽天モバイル、「Galaxy Z Flip4」購入でポイント10倍や1万6000円オフクーポン]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1461836.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1461836.html"/>
-        <updated>2022-12-07T08:34:53.000Z</updated>
-        <summary type="html"><![CDATA[楽天モバイルは、「Galaxy Z Flip4」を購入すると、3つの特典を得られるキャンペーンを実施している。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-Link、Wi-Fi 6E対応のメッシュルーター「Deco XE75」を14日発売]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1461813.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1461813.html"/>
-        <updated>2022-12-07T08:15:40.000Z</updated>
-        <summary type="html"><![CDATA[ティーピーリンクジャパンは、Wi-Fi 6E対応メッシュルーター「Deco XE75」を12月14日に発売する。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google検索、めっちゃスクロールできるようになる]]></title>
-        <id>https://www.gizmodo.jp/2022/12/google-scroll.html</id>
-        <link href="https://www.gizmodo.jp/2022/12/google-scroll.html"/>
-        <updated>2022-12-07T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Google/Twitterページを切り替える手間が省けます。我々の生活に欠かせないGoogle検索ですが、検索結果ページの表示方法が少し変わります。最大6ページ分の検索結果をスクロールして一気見することができるようになりました（デスクトップ版のGoogle検索結果ページはある程度下まで移動したら、次のページのボタンを押すのが基本でした）。Startingtoday,we’rebrin]]></summary>
-        <author>
-            <name>はらいさん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nomad WorksがeSIMプラン提供開始　世界6カ国で1GB／700円から]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2212/07/news148.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2212/07/news148.html"/>
-        <updated>2022-12-07T07:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Nomad Worksは、国内と海外で利用できるeSIMプランを提供開始。日本、アメリカ、ハワイ、中国、香港、マカオ、台湾、韓国、オーストラリアの全6カ国に対応し、1日1GB／700円（非課税）から利用できる。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アダプターにも彩りを。かわいいパステルカラーの65W充電器です]]></title>
-        <id>https://www.gizmodo.jp/2022/12/pastel-color-charger.html</id>
-        <link href="https://www.gizmodo.jp/2022/12/pastel-color-charger.html"/>
-        <updated>2022-12-07T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[モバイルバッテリーやAC充電器のようなガジェットは、どうしてもブラックやグレーなんかのモノトーン系になりがち。質実な雰囲気はあるけど、華やかさには欠けますよね。パワフルさとカラフルさをお探しなら、株式会社MOTTERUのAC充電器「MOT-ACPD65WU1」が狙い目かも。]]></summary>
-        <author>
-            <name>ヤマダユウス型</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普通の壁を防音壁にしてくれる変わったネジ]]></title>
-        <id>https://www.gizmodo.jp/2022/12/revolutionary-sound-absorbing-screw-repost.html</id>
-        <link href="https://www.gizmodo.jp/2022/12/revolutionary-sound-absorbing-screw-repost.html"/>
-        <updated>2022-12-07T06:35:00.000Z</updated>
-        <summary type="html"><![CDATA[スウェーデンで開発された防音ネジ「Sound Screw」。壁と柱に若干の隙間を作ることで騒音の伝達を減らす画期的な技術。]]></summary>
-        <author>
-            <name>そうこ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenStreetとglafit、スクーター型の小型モビリティを共同開発へ――将来的にシェアモビリティへの導入も]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1461788.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1461788.html"/>
-        <updated>2022-12-07T06:24:51.000Z</updated>
-        <summary type="html"><![CDATA[OpenStreetとglafitは、次世代モビリティのシェアサービス展開に向けて、業務提携契約を締結した。4月に可決された道路交通法改正案で誕生した新車両区分「特定小型原動機付自転車（特定小型原付）」に適合した車両で、自転車の気軽さとバイクの走行距離を両立させた車両を共同開発する。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[グーグル、英語版検索で「検索トピック」をワンタップで追加できる機能]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1461718.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1461718.html"/>
-        <updated>2022-12-07T06:02:04.000Z</updated>
-        <summary type="html"><![CDATA[グーグルは、英語版のグーグル検索結果において検索トピックをよりかんたんに深く掘り下げられる「トピックのリスト」を追加した。米国の英語版ユーザーに対してAndroidとiOS、モバイル版のWebで数日間のうちに提供される。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[見えないようでバッチリ保護。MacBook Air用の透明ハードカバー]]></title>
-        <id>https://www.gizmodo.jp/2022/12/transparent-cover-for-mba.html</id>
-        <link href="https://www.gizmodo.jp/2022/12/transparent-cover-for-mba.html"/>
-        <updated>2022-12-07T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[サンワサプライがMacBook Air 13.6インチ（M2/2022）用の透明シェルカバー「IN-CMACA1307CL」発売。]]></summary>
-        <author>
-            <name>岡本玄介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Pixel 7/7 Pro」がアップデートでWi-Fi 6Eに対応]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1461766.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1461766.html"/>
-        <updated>2022-12-07T05:58:23.000Z</updated>
-        <summary type="html"><![CDATA[グーグルのAndroidスマートフォン「Pixel 7/7 Pro」で「Wi-Fi 6E」に対応するアップデートが開始された。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スマートリング「Oura Ring Gen3 Horizon」ソフトバンクから発売、アジア初のリテール展開]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1461700.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1461700.html"/>
-        <updated>2022-12-07T05:35:40.000Z</updated>
-        <summary type="html"><![CDATA[OuraとSB C&Sは、スマートリング「Oura Ring Gen3 Horizon（オーラリング第三世代ホライゾン）」を、ソフトバンク直営店とSoftBank SELECTIONオンラインショップで8日から販売する。価格は6万5952円～。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソフトバンク、見守りデバイス「どこかなGPS2」発売]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1461756.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1461756.html"/>
-        <updated>2022-12-07T05:35:24.000Z</updated>
-        <summary type="html"><![CDATA[ソフトバンクは、子どもや物の位置情報をスマートフォンで確認できる小型のデバイス「どこかなGPS2」を発売した。本体価格は7480円で、月額利用料金は528円。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[｢人間が経験しうる最悪の痛み｣を専門家に聞いてみた]]></title>
-        <id>https://www.gizmodo.jp/2022/12/whats-the-worst-pain-2.html</id>
-        <link href="https://www.gizmodo.jp/2022/12/whats-the-worst-pain-2.html"/>
-        <updated>2022-12-07T05:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:ChelseaBeck（GizmodoUS）2019年1月21日の記事を編集して再掲載しています人生痛いことだらけ…。歯痛、腰痛、失恋、親はだんだん白髪になって死んじゃうし、人生のバーはどんどん下がっていくし、腹痛、鼻の痛み、発生源もわからない痛み、それやこれやをやり過ごしていっても、けっきょく最後は死ぬほどの痛みで死んでしまうんだもん。たまんないですよね。なんの気休めにもならないけど]]></summary>
-        <author>
-            <name>satomi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Y!mobile、5Gスマホ「Libero 5G III」を12月15日に発売　ディスプレイ内蔵指紋センサーを搭載]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2212/07/news123.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2212/07/news123.html"/>
-        <updated>2022-12-07T05:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Y!mobileは、12月15日から5Gスマホ「Libero 5G III」を発売。指紋認証に対応した約6.67型の有機ELディスプレイを搭載し、多彩なモードで撮影できるトリプルカメラも備える。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドコモの「Xperia 1 III」「Xperia 5 III」でソフトウェア更新]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1461733.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1461733.html"/>
-        <updated>2022-12-07T05:07:41.000Z</updated>
-        <summary type="html"><![CDATA[NTTドコモはソニー製のAndroidスマートフォン「Xperia 1 III SO-51B」「Xperia 5 III SO-53B」でソフトウェア更新の提供を開始した。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ふ〜ん。エレコムのMacBookレザーケースかっこいいじゃん！]]></title>
-        <id>https://www.gizmodo.jp/2022/12/elecom-macbook-leather-case.html</id>
-        <link href="https://www.gizmodo.jp/2022/12/elecom-macbook-leather-case.html"/>
-        <updated>2022-12-07T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[デキるビジネスパーソン感を醸し出す、MacBookのかっこいいレザーケースがエレコムから出ていました！出し入れ簡単なファスナー無しのスリップイン構造、内側は起毛素材を利用していて、スリムでシンプルなデザインなっています。そして、13インチ、14インチ、16インチと3サイズ展開。全サイズ抑えてくるあたり、さすがのエレコムですね。]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イヤフォン内蔵のスマートウォッチ「Aipower Wearbuds W20 Lite」、クラウドファンディングで登場]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2212/07/news102.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2212/07/news102.html"/>
-        <updated>2022-12-07T04:14:00.000Z</updated>
-        <summary type="html"><![CDATA[LEAGUEは、イヤフォン内蔵型スマートウォッチ「Aipower Wearbuds W20 Lite」をクラウドファンディングで発売。ノイズキャンセリング機能も搭載し、11種のスポーツモニタリングにも対応する。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Androidの2022年12月セキュリティパッチ、Bluetooth経由でリモートコードが実行される脆弱性などを解消]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1461702.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1461702.html"/>
-        <updated>2022-12-07T04:07:40.000Z</updated>
-        <summary type="html"><![CDATA[グーグル（Google）は、Androidの2022年12月分セキュリティパッチで修正された、セキュリティに関する情報を公開した。脆弱性は、12月5日以降のセキュリティパッチレベルの適用で、すべて対処される。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AppleのAccessibility Videoを見て、最近のSNSの風潮に思うこと]]></title>
-        <id>https://www.gizmodo.jp/2022/12/apple-accessibility-video.html</id>
-        <link href="https://www.gizmodo.jp/2022/12/apple-accessibility-video.html"/>
-        <updated>2022-12-07T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:AppleJapan/YouTubeテクノロジーってこういうことのためにあるはずじゃないの？まじで。12月3日、国際障害者デーにAppleが公開したAccessibilityVideoを見て猛烈に感動したので、紹介をさせてください。障害を持つ人々の創造性とリーダーシップを讃え、彼らの物語を知り、そして伝えるというコンセプトで作られたストーリーです。心を打たれたのは、Appleのテクノロ]]></summary>
-        <author>
-            <name>尾田和実</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone向けアプリ、より柔軟な価格設定ができるように]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1461690.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1461690.html"/>
-        <updated>2022-12-07T03:43:59.000Z</updated>
-        <summary type="html"><![CDATA[米アップル（Apple）は、アプリストア「App Store」において、価格設定機能のアップグレードを発表した。「App Storeの最初の立ち上げ以来最も包括的」とされる今回のアップグレードにより、開発者は、アプリの価格をより柔軟に設定できるようになる。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カシオの「MY G-SHOCK」、アルファベットのバックライトなどの新パーツが追加]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1461634.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1461634.html"/>
-        <updated>2022-12-07T03:39:40.000Z</updated>
-        <summary type="html"><![CDATA[カシオ計算機は、自分好みのG-SHOCKが作れる「MY G-SHOCK」のパーツとして、アルファベットが表示されるバックライト（全26種）、ステンレス製のボタン（全2種）、遊環（全3種）、機能名などを記載した文字板（全2種）を追加した。スマートフォンからも利用できる。価格は1万5400円～。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App Storeの最低価格が50円へ変更　10円刻みから5万円刻み、最大160万円まで設定可能に]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2212/07/news110.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2212/07/news110.html"/>
-        <updated>2022-12-07T03:38:00.000Z</updated>
-        <summary type="html"><![CDATA[米Appleは、App Storeの価格テーブルを更新した。日本円では最低価格を160円から50円に引き下げ、10円刻みや5万円刻みで最大160万円まで設定できるようになった。高価格帯は開発者からのリクエストで対応する。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アップル、Apple Musicをカラオケのように楽しめる「Apple Music Sing」を発表]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1461648.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1461648.html"/>
-        <updated>2022-12-07T03:37:40.000Z</updated>
-        <summary type="html"><![CDATA[アップルは、新機能「Apple Music Sing」を発表した。提供開始は今月末を予定している。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「au Moves 高速バス　1周年感謝祭」で30倍のPontaポイント還元、スマパスプレミアム会員なら40倍還元に]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1461683.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1461683.html"/>
-        <updated>2022-12-07T03:35:54.000Z</updated>
-        <summary type="html"><![CDATA[KDDIは、「au Moves 高速バス」において、通常の還元率（200円ごとに1ポイント）の30倍をPontaポイントとして還元する「au Moves 高速バス　1周年感謝祭」を開始した。対象は、12月7日～2023年1月15日が出発日の全便。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[キングジムからシリコン製のポーチ登場。防水なのでガジェットやアウトドア用品に]]></title>
-        <id>https://www.gizmodo.jp/2022/12/king-jim-tex-pouch.html</id>
-        <link href="https://www.gizmodo.jp/2022/12/king-jim-tex-pouch.html"/>
-        <updated>2022-12-07T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[キングジムがシリコン製の防水ポーチ「TEX-POUCH（テクスポーチ）」発売。ガジェットの持ち運びに。]]></summary>
-        <author>
-            <name>岡本玄介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASUS「ROG Phone 6」に「ディアブロ イモータル」コラボモデルが登場]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1461663.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1461663.html"/>
-        <updated>2022-12-07T03:17:36.000Z</updated>
-        <summary type="html"><![CDATA[ASUSは、ゲーミングスマートフォン「ROG Phone 6」の「ディアブロ イモータル（Diablo Immortal）」コラボレーションモデル「ROG Phone 6 Diablo Immortal Edition」を発表した。発売日は12月9日、価格は16万9800円。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Pixel 7」「Pixel 7 Pro」がWi-Fi 6Eに対応　PCでの対応は進むのか？]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2212/07/news097.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2212/07/news097.html"/>
-        <updated>2022-12-07T03:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Googleのスマートフォン「Pixel 7」「Pixel 7 Pro」が12月の月例更新でWi-Fi 6Eに対応したようだ。メーカーのサポート情報では明記されていないが本当なのだろうか。Pixel 7で確認してみよう。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ワイモバイルから画面内指紋認証対応の5Gスマホ「Libero 5G III」、2万4480円]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1461650.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1461650.html"/>
-        <updated>2022-12-07T03:10:01.000Z</updated>
-        <summary type="html"><![CDATA[ソフトバンクは、ワイモバイルから5G対応のAndroidスマートフォン「Libero 5G III」を12月15日に発売する。予約は9日から受け付ける。価格は2万4480円。36回払いの場合の支払額は月々680円、24回払いの場合は月々1020円。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界中の都市のCO2排出量がわかるマップツール「Climate TRACE」]]></title>
-        <id>https://www.gizmodo.jp/2022/12/climate-trace.html</id>
-        <link href="https://www.gizmodo.jp/2022/12/climate-trace.html"/>
-        <updated>2022-12-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[環境監視団体Climate TRACEが各施設のCO2排出量を可視化するツールを発表。]]></summary>
-        <author>
-            <name>宮城圭介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3口の電源タップ兼USB充電器「Sonicharge 65W Combo」、MATECHから]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1461651.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1461651.html"/>
-        <updated>2022-12-07T02:56:40.000Z</updated>
-        <summary type="html"><![CDATA[MATECHは、3口の電源タップを備えたUSB充電器「Sonicharge 65W Combo」を発売した。Amazon.co.jpでの価格は6980円。12月16日までは、20％オフのクーポン（数量限定）を適用することで、4886円で購入できる。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【楽天スーパーセール】デスク周りのアイテムを買い換えるなら今がおすすめ！対象のロジクールアイテムをまとめ]]></title>
-        <id>https://www.gizmodo.jp/2022/12/rakuten-sale-2022-1207-1.html</id>
-        <link href="https://www.gizmodo.jp/2022/12/rakuten-sale-2022-1207-1.html"/>
-        <updated>2022-12-07T02:45:00.000Z</updated>
-        <summary type="html"><![CDATA[楽天市場では、 ｢楽天スーパーSALE｣ を2022年12月11日（日）1時59分まで開催中。200万点以上が半額以下、 さらに ｢ショップ買いまわり｣ にエントリーするとポイントが最大10倍になるお得な期間です。 
-現在、ロジクールのマウスやキーボードなどお得な商品が多数登場しています。]]></summary>
-        <author>
-            <name>メディアジーンメディアコマース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Apple Music」に「歌う」機能　ボーカルの音量調節や音節ごとの歌詞表示に対応]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2212/07/news091.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2212/07/news091.html"/>
-        <updated>2022-12-07T02:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Appleはサブスクリプションサービス「Apple Music」にて、ボーカルの音量調節や音節ごとに歌詞を表示して一緒に歌える機能「Apple Music Sing」を発表した。12月末ごろに利用可能となるという。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[耳が喜ぶサウンドをご堪能あれ。音にうるさいマスターおすすめのサウンドバー]]></title>
-        <id>https://www.gizmodo.jp/2022/12/dht-s217-denon.html</id>
-        <link href="https://www.gizmodo.jp/2022/12/dht-s217-denon.html"/>
-        <updated>2022-12-07T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:小原啓樹2022年5月30日の記事を編集して再掲載していますいらっしゃいませ。お一人様ですか？ここは都内某所にある｢BARSOUND｣。私がマスターです。実は私、ちょっとした有名人でして…。あ、いやいや、テレビに出ているとかそういうのではないのですが、こう見えても｢サウンドバー｣に詳しいんですよ。ええ、サウンドバー。Photo:Denonあれですよ、テレビなどに接続してド迫力のサウンド]]></summary>
-        <author>
-            <name>三浦一紀</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Androidで1000万回インストールされたマルウェアがこちら【一覧リストあり】]]></title>
-        <id>https://www.gizmodo.jp/2022/12/this-malware-was-installed-10-million-times-on-android.html</id>
-        <link href="https://www.gizmodo.jp/2022/12/this-malware-was-installed-10-million-times-on-android.html"/>
-        <updated>2022-12-07T01:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Shutterstockライフハッカー［日本版］2022年8月8日掲載の記事より転載GooglePlayStoreで売られているからといって、アプリを手当たり次第にダウンロードしてはいけません。確かに、そこにあるアプリのほとんどは安全です。しかしその一方で、あまりにも多くの悪意あるアプリが、監視の目をかいくぐってそこに忍び込んでいます。累計約1000万回ダウンロード!?要削除のマルウェ]]></summary>
-        <author>
-            <name>ガリレオ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モバイル版Google検索にフィルターボタン表示（まずはUS英語版で）]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2212/07/news084.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2212/07/news084.html"/>
-        <updated>2022-12-07T01:11:00.000Z</updated>
-        <summary type="html"><![CDATA[AndroidおよびiOS版Googleアプリでの検索にフィルターボタンが表示されるようになる。入力した検索でユーザーが求めることをAIが予想し、絞り込みに役立ちそうなボタンを複数表示する。まずは米国の英語版で提供を開始する。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドコモ、au、ソフトバンク、楽天モバイルの補償サービスを完全解説　どんな人が加入すべき？]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2211/25/news023.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2211/25/news023.html"/>
-        <updated>2022-12-07T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[高額なスマホが増え、買い替えが簡単にできなくなった今、長期利用で起きる端末の破損やバッテリーの消耗への対応は必要なケアといえる。今回はMNOキャリア4社の端末補償サービスについて紹介する。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[取れるもんなら取ってみろ！ アメリカ宇宙軍、ゲーム大会防衛戦に向け優勝トロフィーを宇宙に打ち上げる]]></title>
-        <id>https://www.gizmodo.jp/2022/12/trophy-flew-into-space.html</id>
-        <link href="https://www.gizmodo.jp/2022/12/trophy-flew-into-space.html"/>
-        <updated>2022-12-07T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Eスポーツトーナメント「C.O.D.E. Bowl」のプロモ映像。優勝トロフィーを宇宙に飛ばして「取れるものなら取ってみな」と相手を煽るギャグ仕立て。]]></summary>
-        <author>
-            <name>そうこ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高度な防犯性能を備えたミニマル財布「C-Secure」を使ってみた]]></title>
-        <id>https://www.gizmodo.jp/2022/12/262491-machi-ya-csecure-review.html</id>
-        <link href="https://www.gizmodo.jp/2022/12/262491-machi-ya-csecure-review.html"/>
-        <updated>2022-12-07T00:45:00.000Z</updated>
-        <summary type="html"><![CDATA[手のひらサイズのコンパクトさに、高度な防犯性能を備えたキャッシュレス時代のミニマル財布「C-Secure」は、伝統的なイタリアンレザーで作られたデザインも美しい逸品。カード専用アルミケースが、スキミングを防ぎ、安心をもたらします。]]></summary>
-        <author>
-            <name>飯田あゆみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[これはお得だ！ 果肉がつまったアボカドの見分け方]]></title>
-        <id>https://www.gizmodo.jp/2022/12/choose-your-avocado-based-on-its-shape.html</id>
-        <link href="https://www.gizmodo.jp/2022/12/choose-your-avocado-based-on-its-shape.html"/>
-        <updated>2022-12-07T00:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Shutterstockライフハッカー［日本版］2019年3月23日掲載の記事より転載アボカドで破産しそうです。私は、食べられるものなら何でも、その表面にアボカドを塗らずにはいられないのです。おまけにアボカドは、びっくりするほど高いのです！だからこそ、どうせ買うなら、できるだけたっぷり果肉が詰まったアボカドを手に入れたい。それを可能にするちょっとした秘訣には、胸躍らずにはいられません。]]></summary>
-        <author>
-            <name>ガリレオ</name>
         </author>
     </entry>
 </feed>
