@@ -143,6 +143,56 @@
       "siteUrl": "https://www.itmedia.co.jp/mobile/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2212/31/news065.html",
+          "author": null,
+          "description": "1年間でよく読まれた記事を月単位で振り返る「Mobile Monthly Top10」。2022年11月のアクセス数の1位と2位は、スマートフォンの充電にまつわる「やってはいけないこと」をまとめた記事でした。意外と知られていないのでしょうか……？",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2212/31/news065.html",
+          "publishedOn": "2022-12-31T05:30:00.000Z",
+          "wordCount": 3157,
+          "title": "2022年を振り返る（11月編）：意外と知られていない？　スマホの充電で「やってはいけないこと」",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2212/31/cover_news065.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2212/31/news025.html",
+          "author": null,
+          "description": "iPhoneをPCに接続し、iTunesやMacでバックアップを取っているユーザーは多いだろう。今回はさまざまな理由でPCがiPhoneを認識しなくなった場合に試すことを紹介する。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2212/31/news025.html",
+          "publishedOn": "2022-12-31T04:00:00.000Z",
+          "wordCount": 3152,
+          "title": "iTunesがiPhoneを認識しないときに試すべきこと",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2212/31/cover_news025.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2212/31/news027.html",
+          "author": null,
+          "description": "ソフトバンクのサブブランドY!mobileと、auのサブブランドUQ mobileでは、メインブランドに劣らないキャンペーンを実施している。大手MNOのブランドでもあるため、PayPayポイントやau PAY残高でのポイント還元特典が多い。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2212/31/news027.html",
+          "publishedOn": "2022-12-31T02:00:00.000Z",
+          "wordCount": 3250,
+          "title": "Y!mobileとUQ mobileのキャンペーンまとめ【12月31日最新版】　年末年始ならではのセール多数",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2212/31/cover_news027.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2212/31/news054.html",
+          "author": null,
+          "description": "2022年を代表するスマートフォンを決定する「スマートフォン・オブ・ザ・イヤー」の結果発表。2022年は「ハイエンド部門」と「ミッドレンジ部門」に分け、各部門で5機種ずつ、最終的に各部門で1機種を選定します。審査員の配点とコメントを紹介します。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2212/31/news054.html",
+          "publishedOn": "2022-12-31T01:00:00.000Z",
+          "wordCount": 3310,
+          "title": "ついに発表！　2022年を代表するスマートフォンは？",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2212/31/cover_news054.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2212/31/news030.html",
+          "author": null,
+          "description": "ドコモオンラインショップの「売れ筋ランキング」。12月19日～12月25日の期間はiPhone 14（128GBモデル）が1位を獲得。セール中のXperia 5 IIIとGalaxy S22も人気を維持した",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2212/31/news030.html",
+          "publishedOn": "2022-12-31T01:00:00.000Z",
+          "wordCount": 3226,
+          "title": "ドコモ販売ランキング：iPhone 14が首位、セール中のXperia 5 IIIも人気を維持 【12月19日～12月25日】",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2212/31/cover_news030.jpg"
+        },
+        {
           "id": "https://www.itmedia.co.jp/mobile/articles/2212/30/news062.html",
           "author": null,
           "description": "今回はスマートフォンをはじめとした端末やその売り方に関するトレンドをまとめていきたい。2022年は、スマートフォンに大きな革新がない1年だったといえる。ハイエンド側ではAIの活用や、フォルダブルといったトレンドを引き継ぎつつも、正統進化のモデルが多かった印象だ。",
@@ -541,76 +591,6 @@
           "wordCount": 3128,
           "title": "iPhoneで他のアプリを起動しながら動画を「ながら見」する方法",
           "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2212/25/cover_news024.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2212/24/news060.html",
-          "author": null,
-          "description": "1年間でよく読まれた記事を月単位で振り返る「Mobile Monthly Top10」。6月はいろいろな記事が多く読まれましたが、特にスマートフォン教室に通った高齢の母親へのインタビュー記事が人気を集めました。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2212/24/news060.html",
-          "publishedOn": "2022-12-24T06:00:00.000Z",
-          "wordCount": 3168,
-          "title": "2022年を振り返る（6月編）：高齢者の「スマホ教室」は盛況　その実態は？",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2212/24/cover_news060.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2212/24/news036.html",
-          "author": null,
-          "description": "各キャリアが公表するデータから、売れ筋モデルトップ10を紹介する。2022年11月はドコモとauでiPhone 14シリーズが上位を獲得。楽天モバイルではRakuten Hand 5GやiPhone 13など、比較的低価格なモデルに人気が集まった。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2212/24/news036.html",
-          "publishedOn": "2022-12-24T04:00:00.000Z",
-          "wordCount": 3251,
-          "title": "スマホ販売ランキング：ドコモとauはiPhone 14／14 Proが上位、楽天モバイルはiPhone 13が人気【2022年11月】",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2212/24/cover_news036.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2212/24/news024.html",
-          "author": null,
-          "description": "iPhoneで間違えて削除してしまったり、削除したが再ダウンロードしたいアプリは、「App Store」でダウンロードしなおせる。だが、その方法は少し分かりにくい。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2212/24/news024.html",
-          "publishedOn": "2022-12-24T03:00:00.000Z",
-          "wordCount": 3131,
-          "title": "iPhoneで削除したアプリを再ダウンロードする方法　プリインアプリは？",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2212/24/cover_news024.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2212/24/news054.html",
-          "author": null,
-          "description": "Face ID（顔認証）とノッチ付きディスプレイを初めて採用した「iPhone X」が登場してから5年経過しました。中古携帯電話ショップでは2万円台前半で買えるようになりましたが、あえてこれから買うというのは、アリなのでしょうか……？",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2212/24/news054.html",
-          "publishedOn": "2022-12-24T02:45:00.000Z",
-          "wordCount": 3195,
-          "title": "5年前の「iPhone X」は現役を続行できる？",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2212/24/cover_news054.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2212/24/news019.html",
-          "author": null,
-          "description": "12月が下旬に入り、なんと東京でも冬日がみられた。MVNO各ブランドも多数のキャンペーンを実施しているが、特に多いのがオプションの無料提供だ。今回はIIJmio、OCN モバイル ONE、mineo、BIGLOBEモバイルで実施しているキャンペーンをまとめた。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2212/24/news019.html",
-          "publishedOn": "2022-12-24T02:00:00.000Z",
-          "wordCount": 3406,
-          "title": "IIJmio、OCN モバイル ONE、mineo、BIGLOBEモバイルのキャンペーンまとめ【12月24日最新版】　端末セールやオプション無料など多数",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2212/24/cover_news019.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2212/24/news039.html",
-          "author": null,
-          "description": "iPhoneのストレージで多くを占めているデータの1つが写真や動画です。万が一に備えてバックアップを取っておきたいですが、どのサービスや機能を使うべき？　iCloudは50GB以上は有料なので、無料でバックアップするにはどうすれないいのでしょうか。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2212/24/news039.html",
-          "publishedOn": "2022-12-24T01:00:00.000Z",
-          "wordCount": 3160,
-          "title": "iPhoneの写真をバックアップする際にやってはいけないこと",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2212/24/cover_news039.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2212/24/news032.html",
-          "author": null,
-          "description": "ドコモオンラインショップの「売れ筋ランキング」。12月12日～12月18日の期間は「iPhone 14（128GBモデル）」が1位を奪還した。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2212/24/news032.html",
-          "publishedOn": "2022-12-24T01:00:00.000Z",
-          "wordCount": 3244,
-          "title": "ドコモ販売ランキング：iPhone 14が首位奪回、AQUOS sense6／7の好調続く【12月12日～12月18日】",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2212/24/cover_news032.jpg"
         }
       ]
     },
@@ -625,6 +605,56 @@
       "feedUrl": "https://k-tai.watch.impress.co.jp/data/rss/1.0/ktw/feed.rdf",
       "siteUrl": "https://k-tai.watch.impress.co.jp",
       "articles": [
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/special_year/enquete/1466913.html",
+          "author": null,
+          "description": "ケータイ Watchでは、2022年に国内で発売された携帯電話・スマートフォンの中から、読者の皆様のご投票でNo.1のモデルを決定する「読者が選ぶケータイ of the Year 2022」を開催いたしました。12月16日～21日にわたって行った投票では、合計765票の投票をいただきました。ご協力ありがとうございました。ここに人気投票の結果を発表いたします。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/special_year/enquete/1466913.html",
+          "publishedOn": "2022-12-31T02:00:00.000Z",
+          "wordCount": 4705,
+          "title": "[読者が選ぶケータイ of the Year] 読者が選ぶケータイof the Year 2022",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1466/913/sub.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/sim/1467496.html",
+          "author": null,
+          "description": "本コーナーは、MVNOの「中の人」みずから、サービスの特長とオススメのプランを紹介するコーナー。年末年始の帰省するタイミングなどで、家族の料金プランを見直すきっかけとなれば幸いだ。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/sim/1467496.html",
+          "publishedOn": "2022-12-31T01:00:00.000Z",
+          "wordCount": 4389,
+          "title": "[格安スマホ＆SIMトレンドチェック！] MVNOの中の人に聞く「ここがイチオシ！」～「IIJmio」編",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1467/496/cont17a.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1467131.html",
+          "author": null,
+          "description": "一般的に、その年買ってよかったものを紹介する企画では、その年登場した新製品が取り上げられることがほとんどだ。しかし筆者の場合、ネットショップをフラフラしていて偶然発見するパターンが多いせいか、必ずしも新製品にならないことが多く、今回編集部からのオーダーでチョイスした2022年ベストの3製品は、どれも発売から数年が経つものばかりだ。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1467131.html",
+          "publishedOn": "2022-12-30T21:00:00.000Z",
+          "wordCount": 4470,
+          "title": "[本日の一品]新製品じゃないけれど……今年買ってよかった「一品」ベスト3",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1467/131/sub.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/china/1467512.html",
+          "author": null,
+          "description": "世界最大のスマートフォン市場、かつ最大の5G加入者数を誇る中国で毎月発売された5Gスマートフォンを香港在住の携帯電話研究家、山根康宏が紹介する。2022年11月に発表・発売された5Gスマートフォンは18機種。内訳はvivo3機種、OPPO5機種、realme3機種、Honor6機種、その他メーカー1機種。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/china/1467512.html",
+          "publishedOn": "2022-12-30T15:00:00.000Z",
+          "wordCount": 4913,
+          "title": "[山根康宏の「言っチャイナよ」] Honorがペン入力折りたたみモデル、vivoは1インチセンサーカメラフォンを投入",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1467/512/wc221201.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1466557.html",
+          "author": null,
+          "description": "2022年、「ケータイ Watch」ではどんな記事が注目されたのでしょうか。本記事では、2022年10月～12月において、各月のトップ5に入った記事をご紹介します。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1466557.html",
+          "publishedOn": "2022-12-30T15:00:00.000Z",
+          "wordCount": 4481,
+          "title": "「Pixel 7」シリーズ発表やワールドカップなど――2022年10月～12月の注目記事トップ5",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1466/557/10.jpg"
+        },
         {
           "id": "https://k-tai.watch.impress.co.jp/docs/sim/1467333.html",
           "author": null,
@@ -1234,26 +1264,6 @@
           "wordCount": 4482,
           "title": "[本日の一品]寒い冬の東京でUSB電熱マット「すぐぬっくマットミニ」を使ってみた",
           "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1466/115/14.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1465288.html",
-          "author": null,
-          "description": "ベルキンは、カーチャージャー「BOOST↑CHARGE PRO Wireless Car Charger with MagSafe」を、Apple Storeなどで発売した。価格は1万5980円。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1465288.html",
-          "publishedOn": "2022-12-24T03:00:00.000Z",
-          "wordCount": 4461,
-          "title": "MagSafeでiPhoneを充電できる15Wカーチャージャー、ベルキンから",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1465/288/sub1.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1465768.html",
-          "author": null,
-          "description": "NTTグループ（NTT、NTT東日本、NTT西日本、NTTドコモ、NTTコミュニケーションズ、NTTコムウェア、NTTデータ、NTTアーバンソリューションズ、NTTファイナンス）は、ウクライナ国内で教育を受けられない子どもたちに対する支援として、総額100万米ドルの寄付を発表した。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1465768.html",
-          "publishedOn": "2022-12-24T01:00:00.000Z",
-          "wordCount": 4450,
-          "title": "NTTグループ、ウクライナ100万米ドルを寄付――オンライン教育環境整備などに",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1465/768/02.jpg"
         }
       ]
     },
@@ -1262,6 +1272,156 @@
       "feedUrl": "https://www.gizmodo.jp/index.xml",
       "siteUrl": "https://www.gizmodo.jp",
       "articles": [
+        {
+          "id": "https://www.gizmodo.jp/2022/12/what-elon-did-after-he-bought-twitter-1.html",
+          "author": "satomi",
+          "description": "Image:@elonmusk/Twitter洗面台もって水曜初出社のイーロン・マスク。10月27日木曜深夜には買収が成立してツイートに、粛清に、マスコミ対応にと大忙しです。1週間のまとめに、その後の主な動きを加筆してみました。10/27深夜　トップを解任買収成立後真っ先にやったのがトップの解任です。具体的にはパラグ・アグラヴァル最高経営責任者（CEO）、ネド・シーガル最高財務責任者（CFO）、シ",
+          "link": "https://www.gizmodo.jp/2022/12/what-elon-did-after-he-bought-twitter-1.html",
+          "publishedOn": "2022-12-31T10:00:00.000Z",
+          "wordCount": 532,
+          "title": "イーロン・マスクがTwitter買ってからやったことまとめ【2022年12月版】",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/20/20221026Elon_TwitterHQ.png"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/20/20221026Elon_TwitterHQ.png"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/12/pac-fabric-dye.html",
+          "author": "もぎひでみ",
+          "description": "ここ数年で個人的にも世の中的にも様々なことがありました｡様々なことに対する意識が変わり､特に消費への意識が変わりました｡以前買ったものも､すぐに捨てず使えるものはできるだけ修理して使うことを心がけていますし､デザインやカラーに飽きてきてしまったものは､リメイクや｢染め替え｣て使っています｡",
+          "link": "https://www.gizmodo.jp/2022/12/pac-fabric-dye.html",
+          "publishedOn": "2022-12-31T08:00:00.000Z",
+          "wordCount": 360,
+          "title": "買い替えるより長く使いたい｡飽きてきたトートバッグが染色で生き返った",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/27/%E3%82%82%E3%81%8D%E3%82%99.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/27/%E3%82%82%E3%81%8D%E3%82%99.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/12/263567-machi-ya-seowu-end.html",
+          "author": "山田洋路",
+          "description": "カバン製作のプロが取り出しやすさを追求したリュックが「seowU」です。上下2部屋構造でモノが整理して収納できます。薄型フラットな外観がおしゃれ。素材は強度の高いコーデュラバリスティックナイロンと撥水レザーの2タイプです。ユニセックスデザインでカジュアル/フォーマルなどシーンを問わず使えます。",
+          "link": "https://www.gizmodo.jp/2022/12/263567-machi-ya-seowu-end.html",
+          "publishedOn": "2022-12-31T07:45:00.000Z",
+          "wordCount": 300,
+          "title": "2段構造で荷物が取り出しやすい仕切り付きリュック「seowU」が間もなく終了！",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/21/seowUend00.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/21/seowUend00.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/12/yamazaki-jitugyou-no-garbage-box.html",
+          "author": "編集部",
+          "description": "Photo:KanroROOMIE2022年8月16日掲載の記事より転載この度、3年以上使って汚れてきたゴミ箱を新調することに。毎日何回も使う上に、あまり頻繁に買い替える機会のないものだからこそ、使いやすさにこだわって選びましたよ。箱にこだわらなくてもいいかも…山崎実業「分別ゴミ袋ホルダー」3,505円（税込）※Amazon購入価格譲れないポイントは、ゴミ箱本体の掃除・ゴミ袋の交換の2つのストレス",
+          "link": "https://www.gizmodo.jp/2022/12/yamazaki-jitugyou-no-garbage-box.html",
+          "publishedOn": "2022-12-31T06:00:00.000Z",
+          "wordCount": 303,
+          "title": "山崎実業のコレを導入してゴミ「箱」やめました。袋の交換も掃除もなしでラクすぎる",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/23/1-3.jpeg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/23/1-3.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/12/rakuten-furusatonozei-meats.html",
+          "author": "メディアジーンメディアコマース",
+          "description": "｢楽天ふるさと納税｣は、ふるさと納税の手続きが簡単にでき、さらに楽天ポイントが獲得できるサービス。今年分は12月31日が寄付申込締切です。\n今回は、厚切り牛タン、牛ハラミなど｢牛肉｣の返礼品をピックアップしました。",
+          "link": "https://www.gizmodo.jp/2022/12/rakuten-furusatonozei-meats.html",
+          "publishedOn": "2022-12-31T05:45:00.000Z",
+          "wordCount": 556,
+          "title": "パーティーや自分へのご褒美にも！厚切り牛タン、牛ハラミなど「牛肉」の返礼品おすすめ20選【楽天ふるさと納税】",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/29/shutterstock_1595353159.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/29/shutterstock_1595353159.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/12/ai-concept.html",
+          "author": "K.Yoshioka",
+          "description": "Image:ElmoMistiaenどう使うかは自分次第？今年、大きな話題となったAIによるイラスト生成。MidjourneyにStableDiffusion、DALL・E2など、さまざまなAIが登場しました。実際にTwitterやInstagramにはAIで生成したイラストが大量にシェアされ、その完成度の高さに驚いた人も多いはずです。ただその精度とは裏腹に、AIによってイラストレーター・絵描きと",
+          "link": "https://www.gizmodo.jp/2022/12/ai-concept.html",
+          "publishedOn": "2022-12-31T03:00:00.000Z",
+          "wordCount": 309,
+          "title": "AIでイラストを作って思った、みんながディレクターになる未来",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/31/ai.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/31/ai.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/12/263568-machi-ya-nist-puremium-end.html",
+          "author": "山田洋路",
+          "description": "デザインがミニマルな牛革トートバッグ「NIST PUREMIUM」が登場。重量は620gと一般的な牛革トートバッグの1/2程度です。必要最小限のポケットと設計の工夫で高い機能性を備えています。A4サイズの書類や13インチのノートパソコンも収まりビジネスやカジュアルで活躍します。",
+          "link": "https://www.gizmodo.jp/2022/12/263568-machi-ya-nist-puremium-end.html",
+          "publishedOn": "2022-12-31T02:45:00.000Z",
+          "wordCount": 309,
+          "title": "A4も入る重量620gのミニマル牛革トート「NIST PUREMIUM」がまもなく終了！",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/21/NISTPUREMIUMend00.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/21/NISTPUREMIUMend00.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/12/iphone-14-pro-review-us-1.html",
+          "author": "satomi",
+          "description": "Photo:FlorenceIon/Gizmodo2022年9月27日の記事を編集して再掲載していますずっとAndroidガールでiPhoneのレビューを担当するのはこれが初めてです。最後に使ったiPhoneは4Sなので、だいぶ昔のことだし、初めてのスマホがAndroidだったんで、それで慣れちゃったんですね。そんな私がApple（アップル）のiPhone14Proを手にしたときの気持ちは…ひと口",
+          "link": "https://www.gizmodo.jp/2022/12/iphone-14-pro-review-us-1.html",
+          "publishedOn": "2022-12-31T00:00:00.000Z",
+          "wordCount": 522,
+          "title": "Androidやめよっかな…iPhone 14 Proで初めて揺れた",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/23/20220917iPhone14Pro.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/23/20220917iPhone14Pro.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/12/263722.html",
+          "author": "山科拓郎",
+          "description": "2022年、引っ越し後に購入した、5,000円以下のPCスピーカーや電源タップ、ドライヤーをピックアップ。リーズナブルでも、機能面もデザイン性にも優れたものをチョイスしてみました。",
+          "link": "https://www.gizmodo.jp/2022/12/263722.html",
+          "publishedOn": "2022-12-30T23:45:00.000Z",
+          "wordCount": 339,
+          "title": "【2022年買ってよかったもの】スピーカーからドライヤーまで、本当に役立った家電まとめ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/23/1.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/23/1.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2022/12/olive-oil-relief-from-struggle.html",
+          "author": "マエノケンタ",
+          "description": "Photo:マエノケンタ僕が今年ハマったこと、それはパスタ作りです。パスタをできるだけ美味しく作りたい、と毎日のように作っては食べ、試行錯誤を繰り返していた時期もありました。毎日のことだったので快適な料理環境を追い求め、いろいろ調理道具を買ったんですが、その中で特にこれは便利！と思ったものをご紹介します。ガラスのオイルボトルこちらはイタリアのパルマに拠点を置く、ガラス製品を専門とするブランド、Lu",
+          "link": "https://www.gizmodo.jp/2022/12/olive-oil-relief-from-struggle.html",
+          "publishedOn": "2022-12-30T13:00:00.000Z",
+          "wordCount": 365,
+          "title": "洗練された機能とデザイン。オイルボトルの導入で、液ダレや分量調整のイライラから解放された",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/27/%E5%89%8D%E9%87%8E.jpg"
+          },
+          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/27/%E5%89%8D%E9%87%8E.jpg"
+        },
         {
           "id": "https://www.gizmodo.jp/2022/12/what-i-regret-in-2022-i-should-have-bouugt-m2-mbp-asap.html",
           "author": "はらいさん",
@@ -2881,306 +3041,6 @@
             "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/20/Stealth2800.jpg"
           },
           "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/20/Stealth2800.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/12/usb-timer-cable-sanwa.html",
-          "author": "三浦一紀",
-          "description": "Image:サンワサプライ小さなことからコツコツと。電気代の値上げで、節電意識も高まっていることと思います。我々にできることといえば、暖房の温度を下げたり、いろいろな電気製品の電源をこまめにオフにしたりすること。コンセントから給電する電気製品は、コンセントを抜いたりして節電しようと気付きますが、USBから給電するガジェットの場合、ついつい忘れがち。そこでサンワサプライの「USBタイマーケーブル」の",
-          "link": "https://www.gizmodo.jp/2022/12/usb-timer-cable-sanwa.html",
-          "publishedOn": "2022-12-25T00:00:00.000Z",
-          "wordCount": 300,
-          "title": "ムダに電気を使いすぎない方法【USBで充電するガジェット編】",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/22/221222usbcable-01.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/22/221222usbcable-01.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/12/board-games-tv-film-ranked-jaws-stranger-things-squid.html",
-          "author": "禿頭帽子屋/Word Connection JAPAN",
-          "description": "Image:FunkoGames　ボードゲーム「TheFastandFuriousHighwayHeist」より映画制作会社がだいぶ前から認識していることがあります。自分たちの知的財産である映画作品を、スクリーン以外でもっと楽しんでもらうには、その作品をボードゲームにするのが一番だということです。Ravensburger、GaleForceNine、Renegade、FantasyFlightなど",
-          "link": "https://www.gizmodo.jp/2022/12/board-games-tv-film-ranked-jaws-stranger-things-squid.html",
-          "publishedOn": "2022-12-24T13:00:00.000Z",
-          "wordCount": 384,
-          "title": "「映画やテレビが元ネタのボードゲーム」おもしろさランキング",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/06/ezgif-5-f8dfd77943.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/06/ezgif-5-f8dfd77943.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/12/263509-machi-ya-danishnavyrum-review2.html",
-          "author": "山科拓郎",
-          "description": "180年以上の歴史を持ち、かつてデンマークの植民地だったセント・トーマス島で生まれたスピリッツ製造会社・A.H. Riise Spirits。同社が手掛けた極上のラム酒「NON PLUS ULTRA」を試飲し、とあるおつまみと合わせてみました。",
-          "link": "https://www.gizmodo.jp/2022/12/263509-machi-ya-danishnavyrum-review2.html",
-          "publishedOn": "2022-12-24T12:45:00.000Z",
-          "wordCount": 342,
-          "title": "デンマーク極上ラム酒「NON PLUS ULTRA」を試飲してみた",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/20/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%A0review00.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/20/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%A0review00.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/12/space-waste-recycling-plant.html",
-          "author": "そうこ",
-          "description": "宇宙系スタートアップ企業ThinkOrbitalが、宇宙ごみを原料にしたリサイクル工場を地球の軌道上に建設しようとしている。",
-          "link": "https://www.gizmodo.jp/2022/12/space-waste-recycling-plant.html",
-          "publishedOn": "2022-12-24T12:00:00.000Z",
-          "wordCount": 315,
-          "title": "宇宙ごみのリサイクル工場、地球低軌道に作りませんか？",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/21/221221thinkorbital.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/21/221221thinkorbital.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/12/263387-costory-tomocola.html",
-          "author": "メディアジーンCoSTORY運営チーム",
-          "description": "こちらは（株）メディアジーンのCoSTORY運営チームが編集・執筆した記事です。季節や気分に合わせた特集テーマごとに、モノ選びを楽しむキュレーターを招き、モノやつくり手への愛情をもって、彼らが厳選するプロダクトにまつわる“GOODSHOPPING”体験を語っていただく「GOODSHOPPING特集」。記念すべき第一弾の案内人は、NEUTMagazine編集長の平山潤氏（以下、潤さん）。セックスや政",
-          "link": "https://www.gizmodo.jp/2022/12/263387-costory-tomocola.html",
-          "publishedOn": "2022-12-24T11:45:00.000Z",
-          "wordCount": 328,
-          "title": "口に含むと、気分だってスパイシー！完全無添加のクラフトコーラ「ともコーラ」",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/21/parent.jpeg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/21/parent.jpeg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/12/jumping-jacks-gadget-25.html",
-          "author": "和田ラヂヲ",
-          "description": "続きます。和田ラヂヲの火の鳥(TCコミックス)1,045円Source:和田ラヂヲ",
-          "link": "https://www.gizmodo.jp/2022/12/jumping-jacks-gadget-25.html",
-          "publishedOn": "2022-12-24T11:00:00.000Z",
-          "wordCount": 205,
-          "title": "【和田ラヂヲ】クリスマスプレゼント［ジャンピン ジャック ガジェット ep.25］",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/24/%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC2.png"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/24/%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC2.png"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/12/machi-ya-nums2022-review.html",
-          "author": "junior",
-          "description": "「Nums」は、ノートPCのトラックパッドに貼るだけでテンキー化やアプリランチャーとして使える仕事効率化ツール。従来対応していたMacBook機種のほか、対象機種を拡大しLenovo ThinkbookやMatebookなどにも対応しています。",
-          "link": "https://www.gizmodo.jp/2022/12/machi-ya-nums2022-review.html",
-          "publishedOn": "2022-12-24T10:45:00.000Z",
-          "wordCount": 315,
-          "title": "トラックパッドにテンキー機能などを追加できる「Nums」を使ってみた",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/20/DSC00277.png"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/20/DSC00277.png"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/12/funky-doodles-by-woman-named-eadburg-found-in-medieval.html",
-          "author": "松浦悦子/Word Connection JAPAN",
-          "description": "ページの上端に走り書きされた十字架と「Eadburg」Image:ボドリアン図書館英国オックスフォード大学のボドリアン図書館で新約聖書の写本を調査していた研究者が、余白に中世に描かれた落書きを発見しました。その落書きはEadburg（イードバーグ）という名の女性に関係するものとみられます。隠れていた落書きを表にひっぱり出したのが「照度差ステレオ」です。照度差ステレオはページ上の特に明るい部分と陰に",
-          "link": "https://www.gizmodo.jp/2022/12/funky-doodles-by-woman-named-eadburg-found-in-medieval.html",
-          "publishedOn": "2022-12-24T10:00:00.000Z",
-          "wordCount": 314,
-          "title": "古い聖書を最新技術で調べたら、いろんな落書きが浮かび上がってきた",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/17/photo1.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/17/photo1.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/12/amazon-timesale-2022-1224-1.html",
-          "author": "メディアジーンメディアコマース",
-          "description": "Amazon（アマゾン）で毎日開催されているタイムセール。本日2022年12月24日は、Apple Pencil（第2世代）が18%オフ、Apple AirPods（第3世代）が2,527円オフなど、今すぐ欲しい人気のアイテムがお得に多数登場しています。",
-          "link": "https://www.gizmodo.jp/2022/12/amazon-timesale-2022-1224-1.html",
-          "publishedOn": "2022-12-24T09:45:00.000Z",
-          "wordCount": 520,
-          "title": "Appleのアクセサリーが安くなってる！Apple Pencil（第2世代）が18%オフ、Apple AirPods（第3世代）が2,527円オフ【Amazonタイムセール】",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/24/GIZ-1.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/24/GIZ-1.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/12/giz-yatai-never-odd-or-even.html",
-          "author": "ヤマダユウス型",
-          "description": "ガジェットそのものではなく、ガジェットの周辺の質を上げるって考えはどう？ 一生モノのデスクアクセサリーをお探しなら、ギズ屋台で取り扱い中の「NEVER ODD OR EVEN」はかなりドンピシャです。北欧デザインの美しさが詰まったこのシリーズ、使ってみたので紹介しましょう。",
-          "link": "https://www.gizmodo.jp/2022/12/giz-yatai-never-odd-or-even.html",
-          "publishedOn": "2022-12-24T09:00:00.000Z",
-          "wordCount": 484,
-          "title": "質の良さが凝縮されてます。無垢材×アルミ「NEVER ODD OR EVEN」のデスクアクセサリーを試してみた",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/17/221217neveroddoreven_01.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/17/221217neveroddoreven_01.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/12/rakuten-sale-2022-1224-1.html",
-          "author": "メディアジーンメディアコマース",
-          "description": "楽天市場では、2022年12月26日01:59まで｢大感謝祭｣を開催中。 明日12月25日は、EcoFlowのポータブル電源が限定価格で多数お買い得になります！",
-          "link": "https://www.gizmodo.jp/2022/12/rakuten-sale-2022-1224-1.html",
-          "publishedOn": "2022-12-24T08:45:00.000Z",
-          "wordCount": 595,
-          "title": "【楽天大感謝祭】最大30％+5,000円オフも。EcoFlowのポータブル電源がクリスマスに限定価格で販売するって！",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/24/GIZ.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/24/GIZ.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/12/can-pro-tablets-replace-your-laptop.html",
-          "author": "Rina Fukazu",
-          "description": "スマホよりも大きなディスプレイで、ゲームや読書、動画の視聴も楽しめるタブレットやタブレットPC。ノートパソコンよりもコンパクトで持ち運びやすいので、キーボードやスタイラスとあわせて仕事用ツールとして使うのにも便利です。\n\nシンプルなタスク処理、クリエイティブな作業、ソフトウェアの使用など、どのような使い方をするのかによっておすすめできるタブレット製品は異なります。Wirecutterが性能から価格",
-          "link": "https://www.gizmodo.jp/2022/12/can-pro-tablets-replace-your-laptop.html",
-          "publishedOn": "2022-12-24T08:00:00.000Z",
-          "wordCount": 517,
-          "title": "iPadとSurfaceどちらがおすすめ？ 仕事でも使えるタブレット･タブレットPC3選",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/07/221207SurfacevsiPad.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/07/221207SurfacevsiPad.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/12/brazil-iphone-charger-part2-1.html",
-          "author": "山田ちとら,そうこ",
-          "description": "Photo:ヤマダユウス型2022年10月17日の記事を編集して再掲載しています9月、ブラジル法務省は、Appleに対しブラジル国内で充電器なしでのiPhone販売を停止するよう命令。1200万レアル（約3億300万円）の罰金をAppleに課していました。が、今度は、罰金約27億円。充電器なしiPhoneについてAppelを訴えたのは、ブラジルの消費者や市民などで結成した団体。ブラジル裁判所の判決",
-          "link": "https://www.gizmodo.jp/2022/12/brazil-iphone-charger-part2-1.html",
-          "publishedOn": "2022-12-24T07:35:00.000Z",
-          "wordCount": 301,
-          "title": "ブラジル裁判所｢充電器なしでiPhone売った罰金27億円。買っちゃった人には充電器配ってね｣",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/21/201019ihpone12box_02.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/21/201019ihpone12box_02.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/12/soil-erosion-in-the-us-midwest.html",
-          "author": "Kenji P. Miyajima",
-          "description": "近代農業が始まる前と比較すると、米中西部における土壌浸食が10～1,000倍の速さで進んでいるとのレポート。",
-          "link": "https://www.gizmodo.jp/2022/12/soil-erosion-in-the-us-midwest.html",
-          "publishedOn": "2022-12-24T07:00:00.000Z",
-          "wordCount": 328,
-          "title": "これまでの10倍～1,000倍のスピードで進むアメリカ中西部の土壌浸食。問われる農業のあり方",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/21/shutterstock_129868538.jpeg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/21/shutterstock_129868538.jpeg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/12/machi-ya-kabagclinic-review.html",
-          "author": "Yama3",
-          "description": "みなさんは自身や家族の病院診察券ってどれくらい持っていますか？ 0枚という超健康以外はかかりつけの診療所や歯科、眼科や皮膚科など3〜4枚ぐらいは持っていますよね？ それが家族分となると10枚以上に。 今回ご紹介する「KABAG Clinic」は、通院に必要な持ち物をわかりやすく、たくさん収納できる整理整頓バッグです。最初に整理してしまえば通院時の荷物が一元管理でき、あとはこのバッグを持ち出すだけで",
-          "link": "https://www.gizmodo.jp/2022/12/machi-ya-kabagclinic-review.html",
-          "publishedOn": "2022-12-24T06:45:00.000Z",
-          "wordCount": 322,
-          "title": "通院を便利にするショルダーバッグ「KABAG Clinic」を使ってみた",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/19/DSCF5461.png"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/19/DSCF5461.png"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/12/wood-hanger-denim.html",
-          "author": "編集部",
-          "description": "Photo:hacoROOMIE2022年5月14日掲載の記事より転載毎日は洗わないという人も多いデニム。脱いだ後はどのように収納していますか？洗った後の他の服と一緒にたたんでしまうのも抵抗があるし、ハンガーにかけるのも面倒だし……。デニムって意外と収納に困るなと思っていました。「ウッドリングハンガー2個セット」1,480円（税込）一見、木のオブジェのようなこちらは、天然木を使用した「ウッドリング",
-          "link": "https://www.gizmodo.jp/2022/12/wood-hanger-denim.html",
-          "publishedOn": "2022-12-24T05:35:00.000Z",
-          "wordCount": 319,
-          "title": "木のオブジェ？ 実はこれ、つい脱ぎっぱなしにしてしまう「アレ」がすっきり片付く万能アイテムなんです",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/21/1-1.jpeg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/21/1-1.jpeg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/12/rumor-2023-apple-mac.html",
-          "author": "ヤマダユウス型",
-          "description": "Photo:Shutterstockどのタイミングで最新チップを積んでくるのか、そこが問題。2022年も残すところわずか。今年最後の、あるいは来年最初の大きな買い物としてMacの買い替えを検討している人は、現在わかっている新型Macについての噂をチェックしてからでも遅くないでしょう。MacBookやiMac、Macminiなど、あらゆる機種の噂をまとめました。MacBookPro現行の最新機種であ",
-          "link": "https://www.gizmodo.jp/2022/12/rumor-2023-apple-mac.html",
-          "publishedOn": "2022-12-24T04:00:00.000Z",
-          "wordCount": 330,
-          "title": "新しいMacシリーズ発売についての噂まとめ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/23/shutterstock_1370501852.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/23/shutterstock_1370501852.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/12/wetac-vr.html",
-          "author": "岡本玄介",
-          "description": "Image:香港城市大学うすさ0.22mm～1mmで感じやすい。仮想現実世界にある物体に触ったり、また触覚フィードバックで手に触れた弾力を感じるなど、VRグローブは日進月歩で新たなものが登場しています。香港城市大学が作っているのは、「WeTac」と呼ばれる手袋型の「SkinVR」なのですが、見た目は透明でピッタリしたビニール手袋。確かに「スキン」と呼ぶに相応しく、もうこれが業界最薄なのでは？という",
-          "link": "https://www.gizmodo.jp/2022/12/wetac-vr.html",
-          "publishedOn": "2022-12-24T03:00:00.000Z",
-          "wordCount": 309,
-          "title": "ビニール手袋のように薄い透明VRグローブ。素手と同じ感覚で道具や工具が持てるんです",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/21/221222_vrskin.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/21/221222_vrskin.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/12/amazon-yamajitsu-tvrack-1.html",
-          "author": "田中宏和",
-          "description": "最初からこれで良いのでは？液晶テレビの後ろって、ほぼほぼムダなスペースですよね。せめてちょっとした小物だけでも置けたらいいのに、と思っている人のためのアイテムが、山崎実業の「薄型テレビラック 4271」。組立家具くらいの難易度なので、カンタンなDIYで設置できますよ。",
-          "link": "https://www.gizmodo.jp/2022/12/amazon-yamajitsu-tvrack-1.html",
-          "publishedOn": "2022-12-24T02:45:00.000Z",
-          "wordCount": 318,
-          "title": "この手があったか！ ｢薄型テレビラック｣で、液晶テレビ背面のデッドスペースを有効活用！",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/15/%E8%96%84%E5%9E%8B%E3%83%86%E3%83%AC%E3%83%92%E3%82%99%E3%83%A9%E3%83%83%E3%82%AF1.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/15/%E8%96%84%E5%9E%8B%E3%83%86%E3%83%AC%E3%83%92%E3%82%99%E3%83%A9%E3%83%83%E3%82%AF1.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2022/12/263417-machi-ya-firepot-review.html",
-          "author": "飯田あゆみ",
-          "description": "屋外、室内を問わず使える、コンパクトでスタイリッシュな焚火台「FIRE POT」。燃料はバイオエタノールで煙、すす、灰も出ず、片付けもらくちん。手のひらサイズで場所をとらず、使わない時にはインテリアにもなります。",
-          "link": "https://www.gizmodo.jp/2022/12/263417-machi-ya-firepot-review.html",
-          "publishedOn": "2022-12-24T00:45:00.000Z",
-          "wordCount": 311,
-          "title": "臭いもススも出ないコンパクトな焚火台「FIRE POT」を自宅で使ってみた",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/17/FIREPOTreview00.jpg"
-          },
-          "imageUrl": "https://assets.media-platform.com/gizmodo/dist/images/2022/12/17/FIREPOTreview00.jpg"
         }
       ]
     }
