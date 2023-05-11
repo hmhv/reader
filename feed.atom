@@ -2,10 +2,887 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hmhv.github.io/reader/index.html</id>
     <title>hmhv::news</title>
-    <updated>2023-05-10T12:26:20.192Z</updated>
+    <updated>2023-05-11T12:26:42.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hmhv.github.io/reader/index.html"/>
     <link rel="self" href="https://hmhv.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ChatGPTの闇、AIのために働く低賃金の人間]]></title>
+        <id>https://www.gizmodo.jp/2023/05/chatgpt-openai-ai-contractors-15-dollars-per-hour.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/chatgpt-openai-ai-contractors-15-dollars-per-hour.html"/>
+        <updated>2023-05-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPTは人間のサポートによって成り立っています。しかし、時給15ドル（約2,000円）の彼らの存在が見過ごされている現状を、米メディアが報じています。]]></summary>
+        <author>
+            <name>そうこ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楽天モバイルが“重大発表”を予告、12日11時30分からYouTubeでライブ配信]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1499881.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1499881.html"/>
+        <updated>2023-05-11T11:58:04.000Z</updated>
+        <summary type="html"><![CDATA[楽天モバイルの公式Twitterアカウントは、5月12日に“重大発表”をすることを予告した。12日11時30分からYouTubeでライブ配信が予定されている。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ライゾマティクス真鍋大度が共感するSonosのサウンドデザイン]]></title>
+        <id>https://www.gizmodo.jp/2023/05/sonos_interview.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/sonos_interview.html"/>
+        <updated>2023-05-11T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[新世代のワイヤレスオーディオを牽引するSonos。そのカリフォルニア・サンタバーバラ本社を取材した際、Sonos新製品発表のキーノートスピーチ（テーマは空間オーディオの未来）に参加する真鍋大度氏と同行し、現地インタビューを敢行することができました。]]></summary>
+        <author>
+            <name>尾田和実</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[キャンプでもふかふかな寝心地を。エアマット搭載コット「Gussuri」]]></title>
+        <id>https://www.gizmodo.jp/2023/05/machi-ya-gussuri-end-665638.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/machi-ya-gussuri-end-665638.html"/>
+        <updated>2023-05-11T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[「Gussuri」はキャンプでも快適な寝床を求めて実現したコットとエアマットが合体したアイテム。ワンプッシュで空気を自動注入してくれるので、設置も非常に簡単な設計。約10cmの肉厚なマットなので、しっかりした睡眠環境を手に入れられそうなキャンプギアとなっています。]]></summary>
+        <author>
+            <name>Haruki Matsumoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDDIが楽天モバイルを「新たなローミング協定」で救済？ 高橋社長の見解は]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2305/11/news218.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2305/11/news218.html"/>
+        <updated>2023-05-11T10:14:00.000Z</updated>
+        <summary type="html"><![CDATA[KDDIが11日に実施した決算会見では、楽天モバイルと締結した新たなローミング協定への質問が殺到した。今回の協定は当初のローミング協定の内容を改定し、ローミングを行う場所を拡大する内容となる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楽天モバイルから「Xperia 10 V」、7万2800円で7月上旬以降に発売]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1499814.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1499814.html"/>
+        <updated>2023-05-11T10:05:02.000Z</updated>
+        <summary type="html"><![CDATA[楽天モバイルは、ソニー製Androidスマートフォン「Xperia 10 V」を、7月上旬以降に発売する。価格は7万2800円。予約受付は「楽天モバイル」公式サイトで本日5月11日から開始している。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモ、au、ソフトバンク、楽天が「Xperia 10 V」7月上旬以降に発売　ポイント還元やキャッシュバックも]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2305/11/news212.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2305/11/news212.html"/>
+        <updated>2023-05-11T09:56:00.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモ、KDDI、ソフトバンク、楽天モバイルが7月上旬以降に「Xperia 10 V」を発売。NTTドコモはキャッシュバック、楽天モバイルは楽天ポイント還元キャンペーンを行う。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ついに明日発売！ゼルダの新作が14％オフで予約受付中だよ〜【Amazonタイムセール中！】]]></title>
+        <id>https://www.gizmodo.jp/2023/05/amazon-timesale-2023-0511-1.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/amazon-timesale-2023-0511-1.html"/>
+        <updated>2023-05-11T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon（アマゾン）で毎日開催されているタイムセール。本日2023年5月11日は、ゼルダの新作が14%オフで予約受付中やSpigenの車載ホルダーが40%オフなど、今すぐ欲しい人気のアイテムがお得に多数登場しています]]></summary>
+        <author>
+            <name>お買いものサポーター</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「AIのGoogle」復活に強い意志　Google I/O 2023で発表されたAIサービスまとめ]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2305/11/news207.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2305/11/news207.html"/>
+        <updated>2023-05-11T09:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Googleは日本時間の5月11日2時から、年次開発者会議「Google I/O 2023」を開催しました。今回はデバイスに加えて、AIを活用したサービスも発表しています。発表内容を見ると、「AIのGoogle」復活に向けた強い意志を感じるものでした。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【約6万円】ソニーに続きキヤノンも「Vlogカメラ」に参戦。スマホのように“縦持ち”で撮る斬新スタイル！]]></title>
+        <id>https://www.gizmodo.jp/2023/05/canon-powershot-v10-news.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/canon-powershot-v10-news.html"/>
+        <updated>2023-05-11T09:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:キヤノン一眼というより、GoProっぽいVlogカメラ。キヤノンがポケットサイズのVlogカメラ「PowerShotV10」を発表しました。Vlogカメラとは、Vlog（日常動画）を撮影するのに特化したビデオカメラで、自撮りしていても腕が疲れないように軽くて小さく、モニターがレンズ側にパタっと曲がるのが特徴。あとはマイクが普通の一眼カメラやスマホよりも高品質なものがついているものが多い]]></summary>
+        <author>
+            <name>山本勇磨</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソフトバンク、ゲーミングギアがセットの「Xperia 1 V Gaming Edition」限定発売]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2305/11/news201.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2305/11/news201.html"/>
+        <updated>2023-05-11T08:56:00.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクは、6月中旬以降にスマートフォン「Xperia 1 V」と専用ゲーミングギア「Xperia Stream」が付属する「Xperia 1 V Gaming Edition」を限定発売する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDDI髙橋社長、楽天モバイルへの新ローミングは「互いに効率高めたい、WIN-WINだ」]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1499810.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1499810.html"/>
+        <updated>2023-05-11T08:54:34.000Z</updated>
+        <summary type="html"><![CDATA[KDDIの髙橋誠代表取締役社長は11日、決算説明会の質疑応答において、同日午前に発表した楽天モバイルとの新たなローミング協定について語った。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモ版Pixel 7a、実質負担額は3.9万円]]></title>
+        <id>https://gori.me/?p=147690</id>
+        <link href="https://gori.me/google/pixel-news/147690"/>
+        <updated>2023-05-11T08:49:49.000Z</updated>
+        <summary type="html"><![CDATA[ドコモが、Pixel 7aの端末価格を発表。すでにドコモオンラインショップで販売が開始されている。 【関連】Pixel 7a レビュー：iPhone 14 Proユーザーが使って分かった7つのこと 機種代金は75,350円だが、「いつでもカエドキプログラム」を利用すれば、実質39,710円（1,72…
+The post ドコモ版Pixel 7a、実質負担額は3.9万円 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[もうホコリは飛ばさない！ 山善の洗えるサーキュレーターがお買い得だよ【楽天お買い物マラソン】]]></title>
+        <id>https://www.gizmodo.jp/2023/05/rakuten-sale-2023-0511-1.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/rakuten-sale-2023-0511-1.html"/>
+        <updated>2023-05-11T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[楽天市場では、複数ショップでの買い回りで還元ポイントがアップする｢お買い物マラソン｣が5月16日（火）1:59まで開催中。今回は、山善の洗えるサーキュレーターなど、暑さ対策アイテムをピックアップしました。]]></summary>
+        <author>
+            <name>お買いものサポーター</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソフトバンクから、「Xperia 1 V Gaming Edition」「Xperia 10 V」発売へ]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1499806.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1499806.html"/>
+        <updated>2023-05-11T08:43:24.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクは、ソニー製Androidスマートフォンの新製品として、「Xperia 1 V Gaming Edition」を6月中旬以降に、「Xperia 10 V」を7月上旬以降に発売する。価格は未定。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[au版Pixel 7a、新規・MNPの実質負担額は1万円を切ってる]]></title>
+        <id>https://gori.me/?p=147689</id>
+        <link href="https://gori.me/google/pixel-news/147689"/>
+        <updated>2023-05-11T08:34:34.000Z</updated>
+        <summary type="html"><![CDATA[auが、Pixel 7aの端末価格を発表。すでにauオンラインショップで販売が開始されている。 【関連】Pixel 7a レビュー：iPhone 14 Proユーザーが使って分かった7つのこと 機種代金は63,890円。48回払いで購入し25カ月目までに返却することで、最大24回分の端末代金の支払い…
+The post au版Pixel 7a、新規・MNPの実質負担額は1万円を切ってる first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーロン・マスクが休眠アカウント削除を発表。故人のアカウントは？]]></title>
+        <id>https://www.gizmodo.jp/2023/05/elon-musk-twitter-inactive-accounts-bots-jpn.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/elon-musk-twitter-inactive-accounts-bots-jpn.html"/>
+        <updated>2023-05-11T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterのお騒がせCEOイーロン・マスクが、今度は休眠アカウントを削除するとツイート。実はこれ、ユーザーを呼び戻すための試みなのでは？と噂されています。]]></summary>
+        <author>
+            <name>Kenji P. Miyajima</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UQ mobileで「Pixel 6a」発売　5万3270円（契約状況によって割引あり）]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2305/11/news194.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2305/11/news194.html"/>
+        <updated>2023-05-11T08:20:00.000Z</updated>
+        <summary type="html"><![CDATA[KDDIと沖縄セルラー電話が、UQ mobileブランドにおいてGoogleのスマホ「Pixel 6a」を販売することになった。価格はauブランドと同様だが、契約形態によっては端末代金の割引を受けることが可能だ。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモとauが「Xperia 1 V」を6月中旬以降に発売　キャッシュバックやポイント還元も]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2305/11/news191.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2305/11/news191.html"/>
+        <updated>2023-05-11T08:11:00.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモとKDDIは、6月中旬以降に「Xperia 1 V」を発売。発売を記念し、NTTドコモでは最大1万2000円をキャッシュバック、KDDIではPontaポイントやソニーポイントのプレゼントキャンペーンを行う。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソフトバンク版Pixel 7a、実質2.2万円から購入可能]]></title>
+        <id>https://gori.me/?p=147688</id>
+        <link href="https://gori.me/google/pixel-news/147688"/>
+        <updated>2023-05-11T08:00:39.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクが、Pixel 7aの端末価格を発表。すでにソフトバンクオンラインショップで販売が開始されている。 【関連】Pixel 7a レビュー：iPhone 14 Proユーザーが使って分かった7つのこと 機種代金は79,920円だが、「新トクするサポート」を利用すれば57,912円（25～48…
+The post ソフトバンク版Pixel 7a、実質2.2万円から購入可能 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[子供のパソコン学習用キーボードには、使いやすい工夫がいっぱい]]></title>
+        <id>https://www.gizmodo.jp/2023/05/key-paletto-elecom.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/key-paletto-elecom.html"/>
+        <updated>2023-05-11T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:ELECOMデザインもかわいいなー。2020年度より小学校でもプログラミング教育が始まり、1年生から学校でPCを扱うようになりました。とはいえ、子供にとってPCは未知のシロモノ。大人と同じように扱うのは難しいですよね。そこで、エレコムと大阪電気通信大学は、産学連携プロジェクトの一環として子供の学習に特化したキーボード「KEYPALETTO（キーパレット）」を開発しました。2023年5月]]></summary>
+        <author>
+            <name>ヤマダユウス型</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「マイナカードのAndroidスマホ搭載」レビュー、対応機種やはじめ方、使い方をチェック]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/review/1499787.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/review/1499787.html"/>
+        <updated>2023-05-11T07:56:43.000Z</updated>
+        <summary type="html"><![CDATA[5月11日より、マイナンバーカードと同等の機能を持つスマホアプリのダウンロードサービス「スマホ用電子証明書搭載サービス」が開始された。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[auから「Xperia 1 V/10 V」、UQは「Xperia 10 V」を発売へ]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1499757.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1499757.html"/>
+        <updated>2023-05-11T07:44:58.000Z</updated>
+        <summary type="html"><![CDATA[KDDIと沖縄セルラーは、ソニー製Androidスマートフォンの新製品として、auで「Xperia 1 V」を6月中旬以降に、auとUQ mobileで「Xperia 10 V」を7月上旬以降に発売する。予約受付は本日5月11日から開始している。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[簡単食パンアレンジ。生クリームいらずな濃厚ティラミストースト]]></title>
+        <id>https://www.gizmodo.jp/2023/05/make-tiramisu-without-whip-cream.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/make-tiramisu-without-whip-cream.html"/>
+        <updated>2023-05-11T07:35:00.000Z</updated>
+        <summary type="html"><![CDATA[無性に甘いものが食べたい週末には、驚くほど簡単なスイーツパンにトライしてみませんか？今回の「みんなのレシピ」は、生クリームなしでも作れちゃうティラミストーストを紹介します。]]></summary>
+        <author>
+            <name>寺田佳織</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 15 リーク情報まとめ【5月11日更新】]]></title>
+        <id>https://www.gizmodo.jp/2023/05/iphone-15-matome.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/iphone-15-matome.html"/>
+        <updated>2023-05-11T07:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:Apple今年のiPhone、いったいどうなるの!?毎年秋に発表・発売される新型iPhone「iPhone15」シリーズ。すでに色々な噂が聞こえてきているのですが、どうやら絶対にiPhone15まで待ったほうがいい！と言えるレベルで大きな変化がやってきそうな気がするんですよね。そこで、このページではこれまで聞こえてきたさまざまなiPhone15の噂をまとめていきます。毎年買い替えている]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゲオ、IPX7の防水ワイヤレスイヤフォン　ドライバー径8mmで4378円]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2305/11/news169.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2305/11/news169.html"/>
+        <updated>2023-05-11T07:07:00.000Z</updated>
+        <summary type="html"><![CDATA[ゲオは5月11日、RWC製ワイヤレスイヤフォン「完全ワイヤレスイヤホン　スポーツIPX7」を発売した。価格は4378円（税込み）。IPX7の防水性能を備え、最大7時間の連続再生が可能としている。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google、次期スマートウォッチOS「Wear OS 4」の新機能を紹介]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2305/11/news181.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2305/11/news181.html"/>
+        <updated>2023-05-11T07:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Googleは次期スマートウォッチOS「Wear OS 4」の初の開発者プレビューをリリースした。正式版は“今年後半”リリースの計画だ。バックアップと復元をサポートするようになる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[携帯値下げの衝撃から2年、収益回復への秘策は？　ソフトバンク決算で語られたこと]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2305/11/news091.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2305/11/news091.html"/>
+        <updated>2023-05-11T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクは5月10日、2022年度通期決算と新中期経営計画を発表した。決算説明会では宮川潤一社長が登壇し、展望を紹介した。質疑応答では「副回線のワンナンバー化」にも言及した。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バッグの中で行方不明にならないカラビナつきのモバイルバッテリー]]></title>
+        <id>https://www.gizmodo.jp/2023/05/elecom-de-c35l-5000.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/elecom-de-c35l-5000.html"/>
+        <updated>2023-05-11T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アウトドアスタイルのモバイルバッテリー「DE-C35L-5000」シリーズがエレコムから登場します。ご覧のように2箇所のフックがついたモデルで、容量は5,000mAh、ポートはUSB Type-Cx1となっています。]]></summary>
+        <author>
+            <name>武者良太</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グーグル、生成AIによるカードゲーム「I/O FLIP」を公開]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1499695.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1499695.html"/>
+        <updated>2023-05-11T06:52:38.000Z</updated>
+        <summary type="html"><![CDATA[Google（グーグル）は、自社公式ブログでAIがデザインしたカードゲーム「I/O FLIP」を紹介した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JVCケンウッド、片耳約4.2gのスティック型イヤフォン　ドライバー径6mmで5940円]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2305/11/news140.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2305/11/news140.html"/>
+        <updated>2023-05-11T06:51:00.000Z</updated>
+        <summary type="html"><![CDATA[JVCケンウッドは5月下旬、「ワイヤレスステレオヘッドセット」（HA-A20T）を発売する。価格は5940円（税込み）前後。ドライバー径は6mmで、充電ケースと合わせて最大24時間の音楽再生が可能という。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドイツ発！先の長いポインターで文字を追うことで速読スキルを高める「ブックフーバー」]]></title>
+        <id>https://www.gizmodo.jp/2023/05/machi-ya-bookhoover-review-665951.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/machi-ya-bookhoover-review-665951.html"/>
+        <updated>2023-05-11T06:45:00.000Z</updated>
+        <summary type="html"><![CDATA[「ブックフーバー」は、目と手の運動を結びつけることで読書スピードを上げ、理解を高めるツールです。本体先端の細長いガイドが、視線を誘導することで、黙読より速く正確な読書をサポートします。]]></summary>
+        <author>
+            <name>飯田あゆみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iFaceがPixel 7a専用ケースを発売　ブランド初のPixel向け製品]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2305/11/news157.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2305/11/news157.html"/>
+        <updated>2023-05-11T06:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Hameeは、iFaceブランド初のGoogle Pixel専用「iFace First Class Standardケース／KUSUMIケース」を発売。Google Pixel 7aに対応し、価格は3300円（税込み）。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[あえて有線のゲーミングヘッドセットで勝負してみない？]]></title>
+        <id>https://www.gizmodo.jp/2023/05/jbl-quantum-200.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/jbl-quantum-200.html"/>
+        <updated>2023-05-11T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:JBL高音質なヘッドセットとしても、コスパよさげ。JBLのゲーミングブランドQuantumから、入門向けのゲーミングヘッドセット「JBLQuantum200」が登場しました。価格は5,500円とお手頃ながら、JBLクオリティは抜かりなし。PCゲームだけでなく、スマホや据え置き機にも対応ワイヤレスイヤホンやワイヤレスヘッドホンが流行っている昨今において、「JBLQuantum200」はあ]]></summary>
+        <author>
+            <name>ヤマダユウス型</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android AutoやGoogle搭載車に新機能、車内でのビデオ会議参加など]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1499721.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1499721.html"/>
+        <updated>2023-05-11T06:19:22.000Z</updated>
+        <summary type="html"><![CDATA[グーグルは、同社公式ブログ「The Keyword」でAndroid AutoやGoogle搭載車（Google built-in）へ向けた新しい機能を公開した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spigen、Pixel 7a用アクセサリーをAmazonストアで販売開始]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2305/11/news166.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2305/11/news166.html"/>
+        <updated>2023-05-11T06:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Spigen Koreaは、Google Pixel 7a用のアクセサリーをAmazonストアで販売開始。ケース、ガラスフィルム、充電器などを取り扱う。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オメガとスウォッチが邂逅。テンションが上がる3つの理由]]></title>
+        <id>https://www.gizmodo.jp/2023/05/moonwatch.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/moonwatch.html"/>
+        <updated>2023-05-11T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:OMEGA時計ブランドのスウォッチとオメガがコラボした「ムーンスウォッチ」の人気が止まりません。このコラボ、2022年に発表されてから1年以上経ちますが、その勢いは衰え知らず。それどころか今年の3月にはスペシャルモデル「MOONSHINEGOLD」が追加されて、ブームがさらなる盛り上がりを見せています。Photo:OMEGA2023年３月に登場したMissiontotheMoonスペシ]]></summary>
+        <author>
+            <name>Yohei Arai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモ、au、ソフトバンクが「Pixel 7a」を発売　価格や買い方を比較しよう]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2305/11/news163.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2305/11/news163.html"/>
+        <updated>2023-05-11T05:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Googleのスマートフォン「Pixel 7a」が発売された。このモデルは同社による直販の他、NTTドコモ、au、ソフトバンクでも購入できる。販路による価格と、購入方法について簡単に比較してみよう。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモ、「Xperia 1 V」と「Xperia 10 V」を発売、購入キャンペーンも]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1499722.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1499722.html"/>
+        <updated>2023-05-11T05:41:05.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモは、ソニー製のAndroidスマートフォン「Xperia 1 V SO-51D」と「Xperia 10 V SO-52D」を発売すると発表した。発売日は、「Xperia 1 V」が6月中旬以降で「Xperia 10 V」が7月上旬以降。それぞれ事前予約を受け付けている。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「水切り自体の手入れがめんどくさい」を解決してくれる山崎実業の逸品]]></title>
+        <id>https://www.gizmodo.jp/2023/05/yamazaki_shokki.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/yamazaki_shokki.html"/>
+        <updated>2023-05-11T05:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:mioROOMIE2023年2月20日掲載の記事より転載新生活を始める方が多いこの時期。私も引越しの準備をしているところです。ノンストレスな使用感を最優先でキッチン雑貨を探していたら、楽天で取り扱いのあるショップが「山崎実業」に別注したと気になるアイテムを発見……！コンパクトなキッチンでも使いやすい「水切り」なのらぼ別注「山崎実業ドライングプレートベースプレートセット」5,720円（税]]></summary>
+        <author>
+            <name>mio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ニューヨークの自動車盗難対策、警察がAirTag500個を配る]]></title>
+        <id>https://www.gizmodo.jp/2023/05/nypd-distributes-airtag-to-combat-auto-theft.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/nypd-distributes-airtag-to-combat-auto-theft.html"/>
+        <updated>2023-05-11T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ニューヨーク市警が自動車盗難対策として、AirTagを500個配布すると発表。]]></summary>
+        <author>
+            <name>岩田リョウコ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AndroidにもAI新機能──「メッセージ」の「Magic Compose」やAI生成壁紙など]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2305/11/news152.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2305/11/news152.html"/>
+        <updated>2023-05-11T04:56:00.000Z</updated>
+        <summary type="html"><![CDATA[ジェネレーティブAIが主流だったGoogle I/O 2023では、Android向けのAI関連の新機能も紹介された。「メッセージ」で返信をAIが作成する「Magic Compose」や新しい壁紙機能だ。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソフトバンクから「Google Pixel 7a」と「Google Pixel Fold」発売]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1499676.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1499676.html"/>
+        <updated>2023-05-11T04:46:21.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクは、グーグル製のAndroidスマートフォン「Google Pixel 7a」を5月11日に発売した。価格は7万9920円。また「Google Pixel Fold」を7月中旬に発売する。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixel 7aの使用感がほぼPixel 7なんですけど！ これは買いだわ]]></title>
+        <id>https://www.gizmodo.jp/2023/05/pixel-7a-review.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/pixel-7a-review.html"/>
+        <updated>2023-05-11T04:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:FlorenceIon/Gizmodoaシリーズ待ちの人にはうれしい話。出るのは世界中が「知って」ましたけど、やっぱり出ましたね。GooglePixel7a。昨年のフラッグシップモデルPixel7をよりお手頃価格にしたミドルクラスの端末です。日本でもすでに販売されており、価格は6万2700円。限定カラーのコーラルはYouTubePremiumが12ヶ月分ついてお得です。もし、Pixel]]></summary>
+        <author>
+            <name>そうこ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[αを買うか「Xperia 1 V」を選ぶかで迷う日がやってきた]]></title>
+        <id>https://www.gizmodo.jp/2023/05/xperia-1-v.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/xperia-1-v.html"/>
+        <updated>2023-05-11T04:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:武者良太フルサイズ由来のボケ味を最優先するのでなければ、よい選択になると思うのですコヤツ。Xperiaシリーズのフラッグシップ「Xperia1V」が発表されました。1シリーズは毎回カメラ周りの進化がハッピーなのですが、第5世代目となる今季のモデルも身を乗り出したくなるほどアップデートしました。SIMフリーモデルの想定価格は19万5000円とのことで、買うにはかなりの覚悟がいります。α7]]></summary>
+        <author>
+            <name>武者良太</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写真で見る「Xperia 1 V」と「Xperia 10 V」]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1499533.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1499533.html"/>
+        <updated>2023-05-11T04:08:26.000Z</updated>
+        <summary type="html"><![CDATA[ソニーは、5月11日にAndroidスマートフォン「Xperia 1 V」と「Xperia 10 V」をグローバルで発表した。21：9のディスプレイや3眼カメラなど基本的な配置や構成はそのままに、スペックや性能の向上はもちろん、外観となる本体デザインも改良が加えられている。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソニー「Xperia 10 V」を発表――センサーサイズ拡大やフロントデュアルスピーカーで高い体験価値を実現]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1499469.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1499469.html"/>
+        <updated>2023-05-11T04:04:00.000Z</updated>
+        <summary type="html"><![CDATA[ソニーは11日、Androidスマートフォン「Xperia」シリーズの最新機種「Xperia 10 V」（エクスペリア テン マークファイブ）をグローバルで発表した。日本では、一部キャリアから発売される。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソニーが「Xperia 1 V」をグローバル発表、新カメラセンサーの採用やSIMフリー版も発表]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1497970.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1497970.html"/>
+        <updated>2023-05-11T04:02:40.000Z</updated>
+        <summary type="html"><![CDATA[ソニーは11日、Androidスマートフォン「Xperia 1 V」（エクスペリア ワン マークファイブ）をグローバル発表した。日本国内では一部キャリアから発売されるほか、7月下旬以降にSIMフリー版が発売される。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ミッドレンジ「Xperia 10 V」発表　159gの軽量ボディーに3眼カメラやステレオスピーカー搭載]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2305/11/news011.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2305/11/news011.html"/>
+        <updated>2023-05-11T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ソニーが5月11日、Xperiaミッドレンジスマートフォンの新モデル「Xperia 10 V（マーク5）」を発表。159gの軽量ボディーにピクセルビニング技術採用のアウトカメラや、ステレオスピーカーを内蔵したのが先代「Xperia 10 IV」からの進化点だ。SIMフリーモデルの登場可否は現時点アナウンスされていない。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソニーが「Xperia 1 V」発表　新イメージセンサー搭載で暗所撮影強化　19.5万円のSIMフリーモデルも]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2305/11/news005.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2305/11/news005.html"/>
+        <updated>2023-05-11T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ソニーが5月11日、Xperiaハイエンドスマートフォンの新モデル「Xperia 1 V（マーク5）」を発表。日本を含む世界各国で発売する。SIMフリーモデル「XQ-DQ44」は7月下旬以降に発売予定で、市場想定価格は19万5000円（税込み）前後。イメージセンサーを一新し、暗所性能を高め、Vlog撮影に特化した機能を搭載した。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[約束をツイートすると、10年後と20年後に買えるクラフトビール]]></title>
+        <id>https://www.gizmodo.jp/2023/05/yonayona.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/yonayona.html"/>
+        <updated>2023-05-11T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[友達との約束、親子の約束、兄弟の約束、夫婦の約束……私たちは大切な人と、いろんな約束をしながら生きています。でもそのほとんどは、来週だったり来月だったり、長くても１年後くらいの約束。10年度、20年後の約束なんてそうそうしませんよね。そもそも約束したことすら忘れてしまいそう。クラフトビールの先駆け的存在「よなよなエール」などで人気のヤッホーブルーイングでは、そんな10年後、20年後の約束が楽しみに]]></summary>
+        <author>
+            <name>Yohei Arai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[au ＋1 collectionで「Google Pixel Tablet」、6月発売]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1499647.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1499647.html"/>
+        <updated>2023-05-11T03:59:26.000Z</updated>
+        <summary type="html"><![CDATA[KDDIと沖縄セルラーは、au公式アクセサリー「au ＋1 collection」でグーグル製のWi-Fiタブレット「Google Pixel Tablet」を6月20日に発売する。auオンラインショップでの取扱い価格は7万9800円。予約はすでに受け付けている。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グーグルが「Wear OS 4」で実装予定の新機能を紹介]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1499632.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1499632.html"/>
+        <updated>2023-05-11T03:35:57.000Z</updated>
+        <summary type="html"><![CDATA[Google（グーグル）は、同社公式ブログで「Wear OS」に登場予定の新機能やアプリケーションを紹介した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ファミペイ」がApple Payに対応、JCBカードでチャージも可能に]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2305/11/news136.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2305/11/news136.html"/>
+        <updated>2023-05-11T03:31:00.000Z</updated>
+        <summary type="html"><![CDATA[ファミリーマートのアプリ「ファミペイ」で発行する「ファミペイ バーチャルカード（JCBプリペイドカード）」がApple Payに対応。JCBブランドのカードでチャージも可能となった。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無印良品の技ありスカーフは、熱中症対策と日焼け対策が同時にできる]]></title>
+        <id>https://www.gizmodo.jp/2023/05/muji_scarf.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/muji_scarf.html"/>
+        <updated>2023-05-11T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:kanroまだ春とはいえ、日差しや暑さが気になる今日この頃。暑さに慣れていないこの時期のお出かけこそ、さりげなく対策できるアイテムで備えていきましょう。初夏にちょうどいいサイズ感無印良品「天然由来の接触冷感ポケット付きスカーフ」　無印良品の「ポケット付きスカーフ」。ストールほど長くなく、バンダナよりはちょっと長めのサイズ感が使い勝手抜群です。首元はもちろん、バッグに結んだりヘアバンドに]]></summary>
+        <author>
+            <name>kanro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[往年のレトロカラーをまとった「MPC X Special Edition」最高っすね]]></title>
+        <id>https://www.gizmodo.jp/2023/05/akai-mpc-x-special-edition.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/akai-mpc-x-special-edition.html"/>
+        <updated>2023-05-11T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AKAI ProfesssionalからMPC X Special Edition発売。35周年記念の特別カラーで、メモリやストレージなども増強。]]></summary>
+        <author>
+            <name>ヤマダユウス型</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[auから「Google Pixel 7a」と「Google Pixel Fold」発売]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1499609.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1499609.html"/>
+        <updated>2023-05-11T02:54:35.000Z</updated>
+        <summary type="html"><![CDATA[KDDIと沖縄セルラーは、auでグーグル製のAndroidスマートフォン「Google Pixel 7a」と「Google Pixel Fold」を5月11日から順次発売する。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDDIと楽天モバイルが「新たなローミング協定」を締結　東京23区などの繁華街もローミング対象に　期間は2026年9月まで延長]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2305/11/news130.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2305/11/news130.html"/>
+        <updated>2023-05-11T02:50:00.000Z</updated>
+        <summary type="html"><![CDATA[KDDI、沖縄セルラー電話、楽天モバイルの3社が、新しいローミング協定を締結したことを発表した。新協定ではローミングサービスの提供対象外だった東京23区、名古屋市、大阪市を含む都市部の繁華街で新たにローミングサービスを提供する他、既存の提供エリアにおける提供期限も延長している。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楽天モバイルのau回線ローミングが新たに発表――3大都市圏の繁華街などでもスタート、財政健全化が目的か]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1499622.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1499622.html"/>
+        <updated>2023-05-11T02:44:07.000Z</updated>
+        <summary type="html"><![CDATA[KDDI、沖縄セルラーと楽天モバイルは11日、新たなローミング協定を2023年4月に締結していたことを発表した。楽天モバイルがこれまで掲げていた「ローミングエリアの縮小」とは異なり、繁華街など新たなローミングエリアが設定される。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google、「Android 14 Beta 2」をリリース　Pixel、OPPO、Xiaomi、Nothingなどで利用可能に]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2305/11/news123.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2305/11/news123.html"/>
+        <updated>2023-05-11T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Googleは開発者向けイベント「Google I/O」の開催に伴い、次期モバイルOS「Android 14」のβ 2（ベータ2）を公開した。Pixel、OPPO、Xiaomi、Nothingなどの端末で利用できる。カメラ、ヘルスケア、システムUIなどの改良が図られた。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google I/Oで発表されたセキュリティ関連機能まとめ #GoogleIO]]></title>
+        <id>https://www.gizmodo.jp/2023/05/google-io-2023-1.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/google-io-2023-1.html"/>
+        <updated>2023-05-11T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:Googleセキュリティ、プライバシーも抑えておこ。5月11日午前2時から開催された｢GoogleI/O2023｣では、AI関連の発表や、新しいガジェットの発表と盛りだくさんでした。一方で、セキュリティとプライバシーの機能強化もばっちり行なわれていますよ。AboutThisImageImage:Google今回発表された新機能の中でまず注目すべきは「AboutThisImage（この画]]></summary>
+        <author>
+            <name>mayumine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4台のデバイスを同時に充電できる折り畳み式ソーラーパネル「Bleaf」]]></title>
+        <id>https://www.gizmodo.jp/2023/05/machi-ya-bleaf-start-667943.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/machi-ya-bleaf-start-667943.html"/>
+        <updated>2023-05-11T01:45:00.000Z</updated>
+        <summary type="html"><![CDATA[折り畳み式ソーラーパネル「Bleaf（ブリーフ）」はコンパクトで軽量で持ち運びに便利。防水・耐衝撃性を兼ね備えたETFE素材採用でアウトドアにも最適です。折り畳んだ時のサイズは197×152mm、重量は611gで最大出力は46W。USB Type-C、USB Type-A、DCポート搭載で4台のデバイスを同時充電可能です。]]></summary>
+        <author>
+            <name>山田洋路</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoogleとSamsungが開発中の没入型XR、2023年後半に詳細発表へ]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2305/11/news112.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2305/11/news112.html"/>
+        <updated>2023-05-11T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Googleは開発者向けイベント「Google I/O」で、Samsung Electronics（韓国のサムスン電子）と協業して没入型XRを開発している。Googleはその詳細を2023年後半に発表する見通しだ。開発者向けイベント「Google I/0」で明らかにした。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「旅行に持っていく充電器」の正解、Ankerで見つけました]]></title>
+        <id>https://www.gizmodo.jp/2023/05/anker521powerbank.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/anker521powerbank.html"/>
+        <updated>2023-05-11T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo：門岡明弥旅行や出張のとき、たくさんの充電器を持っていかないといけないんですよね。スマホ、タブレット、PC、AppleWatchは必需品として毎回持っていくのですが、それぞれ充電に必要なアイテムが微妙に異なっていてストレスに感じてしまうことも。そんな充電周りのストレスを解決してくれるアイテム、Ankerで見つけちゃいました！Ankerのハイブリッド充電器Anker「Anker521Pow]]></summary>
+        <author>
+            <name>門岡 明弥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アウトドアで貴重品を水気から守る本体重量50gの「ULトレイルポーチ」を使ってみた]]></title>
+        <id>https://www.gizmodo.jp/2023/05/machi-ya-review-ultrail-667628.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/machi-ya-review-ultrail-667628.html"/>
+        <updated>2023-05-11T00:45:00.000Z</updated>
+        <summary type="html"><![CDATA[「ULトレイルポーチ」は、キャンプやハイキングで貴重品を水気から守るおしゃれなポーチです。軽量で耐久性のあるX-PAC素材を採用。コンパクトながら必要なものが収まるサイズ感が魅力です。付属のロック付きカラビナでバッグやベルトループにも取り付け可能。止水ファスナーが採用されていて急な雨にも対応できます。アウトドアシーンはもちろん日常生活でも活躍する実用的なデザインです。]]></summary>
+        <author>
+            <name>山田洋路</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixel 7a レビュー：iPhone 14 Proユーザーが使って分かった7つのこと]]></title>
+        <id>https://gori.me/?p=147613</id>
+        <link href="https://gori.me/google/pixel-news/147613"/>
+        <updated>2023-05-10T23:00:47.000Z</updated>
+        <summary type="html"><![CDATA[Google Pixel 7aは、コストパフォーマンスの高さが魅力のPixel aシリーズ最新機種。Pixel 6aの後継機種だ。 「Pixel 7シリーズの廉価モデル」という位置づけではあるが、見た目はPixel 7に近い。同じGoogle Tensor G2チップを搭載しており、6,400万画素…
+The post Pixel 7a レビュー：iPhone 14 Proユーザーが使って分かった7つのこと first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS、ソフトウェア開発サービス「Amazon CodeCatalyst」の一般提供を開始]]></title>
+        <id>https://atmarkit.itmedia.co.jp/ait/articles/2305/11/news049.html</id>
+        <link href="https://atmarkit.itmedia.co.jp/ait/articles/2305/11/news049.html"/>
+        <updated>2023-05-10T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Services（AWS）はソフトウェア開発サービス「Amazon CodeCatalyst」の一般提供を開始した。]]></summary>
+        <author>
+            <name>＠IT Test &amp; Toolsフォーラム 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 14 Beta 2公開、XiaomiやNothingのスマホで利用可能に]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1499552.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1499552.html"/>
+        <updated>2023-05-10T22:29:40.000Z</updated>
+        <summary type="html"><![CDATA[グーグル（Google）は、Google I/Oの開催にあわせて、Android OSの次期バージョンとなる「Android 14」のBeta 2を公開した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Androidで生成AIが返信案をつくる「Magic Compose」や壁紙の自動生成など]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1499550.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1499550.html"/>
+        <updated>2023-05-10T22:09:41.000Z</updated>
+        <summary type="html"><![CDATA[グーグル（Google）は、同社のメッセージアプリ向けの新機能「Magic Compose」を発表した。生成AIを活用して利用者のメッセージ作成をアシストするもので、今夏にベータ版がリリースされる予定。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoogleのジェネレーティブAI「Bard」、日本語に対応]]></title>
+        <id>https://gori.me/?p=147685</id>
+        <link href="https://gori.me/google/google-news/147685"/>
+        <updated>2023-05-10T22:02:30.000Z</updated>
+        <summary type="html"><![CDATA[GoogleのジェネレーティブAI「Bard」が日本語に対応した。Googleは、美味しい卵焼きを作るコツ、夏休みの自由研究のアイディア出しなど、「創造性と生産性を高めるパートナー」として試してほしいと案内している。 Googleはさらなる改善を加えて新機能を導入していくために、本日よりウェイティン…
+The post GoogleのジェネレーティブAI「Bard」、日本語に対応 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google、Pixel Tabletを発売。価格は79,800円から]]></title>
+        <id>https://gori.me/?p=147681</id>
+        <link href="https://gori.me/google/pixel-news/147681"/>
+        <updated>2023-05-10T21:50:42.000Z</updated>
+        <summary type="html"><![CDATA[Googleが5月11日、専用ドック付きタブレット「Pixel Tablet」を販売開始した。カラーはPorcelainとHazelの2色展開。Google Storeの販売価格は79,800円。すでに予約受付を開始しており、6月20日に発売を予定している。 充電スピーカーホルダーなしでの単体購入は…
+The post Google、Pixel Tabletを発売。価格は79,800円から first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube、アドブロッカーをブロックする機能をテスト中]]></title>
+        <id>https://gori.me/?p=147671</id>
+        <link href="https://gori.me/google/youtube/147671"/>
+        <updated>2023-05-10T21:30:07.000Z</updated>
+        <summary type="html"><![CDATA[r/youtubeより YouTubeは、広告を非表示にするアドブロッカー（広告ブロッカー）をブロックする機能をテストしている。YouTubeを無料で利用できる通常プランで動画を視聴する場合、基本的にすべての動画には広告が挿入される仕組み。広告なしで視聴するには、YouTube Premiumへの加…
+The post YouTube、アドブロッカーをブロックする機能をテスト中 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google スライドで画像生成AI、モバイルGmailで生成AIがメール返信文をつくる――WorkSpaceに生成AIの新機能続々]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1499549.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1499549.html"/>
+        <updated>2023-05-10T21:29:43.000Z</updated>
+        <summary type="html"><![CDATA[グーグル（Google）は、「Google Workspace」向けの機能として「Duet AI」を紹介している。Gmailや「Google スライド」などで生成AIを利用でき、利用者の作業を効率化する。まずは「Google Workspace Labs」のテスター向けに提供される。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Pixel Fold、正式発表。価格は253,000円、7月中旬に発売]]></title>
+        <id>https://gori.me/?p=147678</id>
+        <link href="https://gori.me/google/pixel-news/147678"/>
+        <updated>2023-05-10T21:27:58.000Z</updated>
+        <summary type="html"><![CDATA[Googleが5月11日、Google I/O 2023にて折畳デバイス「Pixel Fold」を正式発表した。Google Storeの販売価格は253,000円。6月20日より予約受付を開始し、7月中旬に発売予定。カラーはObsidianとPorcelainの2色が用意されている。日本では、ドコ…
+The post Google Pixel Fold、正式発表。価格は253,000円、7月中旬に発売 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グーグル、Samsungと開発中のAndroid向け没入型XRについて「今年後半に詳細を発表」とコメント]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1499547.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1499547.html"/>
+        <updated>2023-05-10T21:04:24.000Z</updated>
+        <summary type="html"><![CDATA[Google（グーグル）は、開発者向けイベント「Google I/O」で、Samsungとの協業中のAndroid向け没入型XRに関して、2023年後半に詳細を発表する予定を明かした。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Pixel 7a、正式発表。価格は62,700円、本日より発売]]></title>
+        <id>https://gori.me/?p=147673</id>
+        <link href="https://gori.me/google/pixel-news/147673"/>
+        <updated>2023-05-10T20:49:34.000Z</updated>
+        <summary type="html"><![CDATA[Googleが5月11日、Google I/O 2023にて最新スマートフォン「Pixel 7a」を正式発表した。 外観はPixel 7と似ているが、価格は62,700円とお手頃。同じGoogle Tensor G2チップを搭載しており、6,400万画素の広角カメラを含む最新のカメラシステムで撮影し…
+The post Google Pixel 7a、正式発表。価格は62,700円、本日より発売 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グーグルが“見知らぬ落とし物タグの警告機能”をAndroidで今夏提供へ、「デバイスを探す」の強化も]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1499548.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1499548.html"/>
+        <updated>2023-05-10T20:47:00.000Z</updated>
+        <summary type="html"><![CDATA[グーグル（Google）は、Androidデバイス向けの新機能として、「不明な追跡アラート」（Unknown tracker alerts）を今夏に提供する。また、同時期に「デバイスを探す」（Find My Device）の強化も図られる。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモ、「Google Pixel 7a」を5月11日、「Google Pixel Fold」を7月中旬以降に発売]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1499508.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1499508.html"/>
+        <updated>2023-05-10T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモは、グーグル（Google）のスマートフォン「Google Pixel 7a」を発売した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グーグル「Pixel 7a」「Pixel Fold」「Pixel Tablet」本誌記事まとめ]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1499545.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1499545.html"/>
+        <updated>2023-05-10T19:49:14.000Z</updated>
+        <summary type="html"><![CDATA[グーグル（Google）は11日（日本時間）、スマートフォン「Pixel 7a」、フォルダブルスマートフォン「Pixel Fold」、タブレット「Pixel Tablet」の3機種を発表した。本稿では、本誌で掲載した関連記事などを紹介する。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Pixel 7a」発売キャンペーン、純正ケースと1万円分のストアクレジット、下取りなど]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1499544.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1499544.html"/>
+        <updated>2023-05-10T19:28:38.000Z</updated>
+        <summary type="html"><![CDATA[グーグルは、Androidスマートフォン「Google Pixel 7a」の本体価格およびキャンペーンを発表した。公式オンラインストア「Google ストア」の本体価格は6万2700円。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グーグルの折りたたみスマホ「Google Pixel Fold」発表、25万3000円]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1498476.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1498476.html"/>
+        <updated>2023-05-10T19:05:39.000Z</updated>
+        <summary type="html"><![CDATA[グーグル（Google）は、Androidスマートフォン「Google Pixel Fold」を発表した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グーグル、生成型AIによるコンテンツを検索結果に表示、まずは米国から]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1499542.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1499542.html"/>
+        <updated>2023-05-10T19:02:54.000Z</updated>
+        <summary type="html"><![CDATA[Google（グーグル）は、開発者向けイベント「Google I/O」で、Google検索結果に、Webサイトを対象とした検索に加えて、生成型AIを利用した検索結果を表示する新たな検索サービスを披露した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Google Pixel 7a」クイックフォトレビュー]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/review/1497398.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/review/1497398.html"/>
+        <updated>2023-05-10T18:59:23.000Z</updated>
+        <summary type="html"><![CDATA[グーグル（Google）が発表したAndroidスマートフォン「Google Pixel 7a」。価格は6万2700円で、カラーはCharcoal、Sea、Snow、Coralがラインアップされる。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11インチ「Google Pixel Tablet」登場、スピーカー＆充電の2in1ホルダーも用意]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1497999.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1497999.html"/>
+        <updated>2023-05-10T18:55:42.000Z</updated>
+        <summary type="html"><![CDATA[グーグル（Google）は、Androidタブレット「Google Pixel Tablet」を発表した。6月20日にGoogle ストアなどで発売され、価格は充電スピーカーホルダーとのセットで7万9800円～。予約は5月11日から受け付ける。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Pixel 7a」実機レビュー！　かなりコスパ良し、スペックを隅々までチェック]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/review/1499313.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/review/1499313.html"/>
+        <updated>2023-05-10T18:52:49.000Z</updated>
+        <summary type="html"><![CDATA[Google（グーグル）のスマートフォン「Pixel 7a」が5月11日に発表され、同日よりGoogleストア直販価格では6万2700円で販売がスタートしている。今回は評価用機材を使って、「Pixel 7a」の気になるポイントをチェックしていく。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[テスラ弁護団、マスク氏の過去発言を「フェイク動画だ」と誤魔化す]]></title>
         <id>https://www.gizmodo.jp/2023/05/elon-musk-tesla-autopilot-self-driving-car-deepfake-jpn.html</id>
