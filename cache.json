@@ -6,6 +6,26 @@
       "siteUrl": "https://gori.me",
       "articles": [
         {
+          "id": "https://gori.me/?p=147713",
+          "author": "g.O.R.i",
+          "description": "スケルトンモデルが用意されると噂の新しい完全ワイヤレスイヤホン「Beats Studio Buds+」のパッケージ写真が流出した。Apple情報を正確にリークした実績を持つBen Geskin氏が5月13日、スケルトンモデルのパッケージ写真をTwitterに投稿。14日には残りのカラーバリエーション…\nThe post スケルトンのBeats Studio Buds+、米国の量販店に入荷。週明けに正式発表か first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/music-accessories/earphones/147713",
+          "publishedOn": "2023-05-14T01:27:30.000Z",
+          "wordCount": 1229,
+          "title": "スケルトンのBeats Studio Buds+、米国の量販店に入荷。週明けに正式発表か",
+          "imageUrl": "https://gori.me/uploads/2023/05/Beats-Studio-buds-plus-800x500.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=147711",
+          "author": "g.O.R.i",
+          "description": "AppleのMRヘッドセット（Reality Pro）は、日本時間6月6日より開催するWWDC23で正式発表する可能性が高い。WSJによると、披露はWWDCで行うものの、「一般発売は早くても秋以降」と指摘。量産は12月まで予定されていないという。 【関連】Bloombergの著名記者、「MRヘッドセ…\nThe post AppleのMRヘッドセットはWWDC発表確実？発売は早ければ秋頃か first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple/apple-news/147711",
+          "publishedOn": "2023-05-13T21:46:01.000Z",
+          "wordCount": 1177,
+          "title": "AppleのMRヘッドセットはWWDC発表確実？発売は早ければ秋頃か",
+          "imageUrl": "https://gori.me/uploads/2022/09/Apple-Reality-Pro-800x493.jpg"
+        },
+        {
           "id": "https://gori.me/?p=147710",
           "author": "g.O.R.i",
           "description": "Amazonが2つのセールを同時開催中だ。1つは、「Amazon Fashion x Outdoor タイムセール祭り」。5月14日（日）23時59分までの開催となっており、全商品が対象の最大14%ポイントアップキャンペーンが実施されている。 【関連】Amazon、最大14%ポイントアップキャンペー…\nThe post Amazon、「Fashion x Outdoor タイムセール祭り」と「ダブルポイントウィーク」を同時開催中 first appeared on ゴリミー.\n\n 【もっと読む】",
@@ -304,26 +324,6 @@
           "wordCount": 1899,
           "title": "iPadからiPad Proまで在庫が潤沢。iPad整備済商品の最新情報（2023年5月8日更新）",
           "imageUrl": "https://gori.me/uploads/2023/05/iPad-Refurbished-model-2023-05-08-800x313.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=147607",
-          "author": "g.O.R.i",
-          "description": "@evleaksより Googleの純正タブレットデバイス「Pixel Tablet」が、一時的にAmazon.co.jpで掲載されていた。商品ページはすでに削除されている。 Redditには、掲載時のスクリーンショットが投稿。掲載時点では、「Porcelain」と「Hazel」の2色展開、価格は7…\nThe post Pixel Tablet、日本発売は確実。Amazonで誤ってフライング掲載、価格は79,800円 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/google/pixel-news/147607",
-          "publishedOn": "2023-05-07T21:27:51.000Z",
-          "wordCount": 1225,
-          "title": "Pixel Tablet、日本発売は確実。Amazonで誤ってフライング掲載、価格は79,800円",
-          "imageUrl": "https://gori.me/uploads/2023/05/Pixel-Tablet-leaked-image-800x500.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=147605",
-          "author": "g.O.R.i",
-          "description": "Amazon.co.jpで、特選タイムセール「おすすめのスマートホーム製品がお買い得」が開催中。Matterに対応した新型ハブ「SwitchBot Hub 2」が8％オフで販売されている。 SwitchBot スマートリモコン 赤外線で家電管理 スマートホーム Alexa – スイッチボ…\nThe post SwitchBotのMatter対応ハブ「Hub 2」が8％オフ。スマートロックなど人気製品がセール中 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/sale/peripheral-sale/147605",
-          "publishedOn": "2023-05-07T08:42:53.000Z",
-          "wordCount": 1249,
-          "title": "SwitchBotのMatter対応ハブ「Hub 2」が8％オフ。スマートロックなど人気製品がセール中",
-          "imageUrl": "https://gori.me/uploads/2023/05/Switchbot-hub-2-is-on-sale-at-amazon-800x500.jpg"
         }
       ]
     },
@@ -332,6 +332,36 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/mobile.xml",
       "siteUrl": "https://www.itmedia.co.jp/mobile/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2305/14/news018.html",
+          "author": null,
+          "description": "外出中に事故などで動けなくなった場合、Android端末には画面ロックをかけたまま緊急通報ができる機能が備わっている。今回は緊急連絡先の登録方法を紹介する。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2305/14/news018.html",
+          "publishedOn": "2023-05-14T02:00:00.000Z",
+          "wordCount": 2943,
+          "title": "Androidに緊急連絡先を登録するには？　もしものための準備をしよう",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2305/14/cover_news018.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2305/13/news046.html",
+          "author": null,
+          "description": "5月も半ば、雨も降り初夏と梅雨の気配を感じる。MVNO各ブランドも多数のキャンペーンを実施しているが、特に多いのがオプションの無料提供だ。今回はIIJmio、OCN モバイル ONE、mineoで実施しているキャンペーンをまとめた。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2305/13/news046.html",
+          "publishedOn": "2023-05-14T01:00:00.000Z",
+          "wordCount": 3166,
+          "title": "IIJmio、OCN モバイル ONE、mineoのキャンペーンまとめ【5月14日最新版】　ミドルクラスの端末をお得に販売",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2305/13/cover_news046.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2305/12/news058.html",
+          "author": null,
+          "description": "ソフトバンクのサブブランドY!mobileと、auのサブブランドUQ mobileでは、メインブランドに劣らないキャンペーンを実施している。大手MNOのブランドでもあるため、PayPayポイントやau PAY残高でのポイント還元特典が多い。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2305/12/news058.html",
+          "publishedOn": "2023-05-13T11:00:00.000Z",
+          "wordCount": 3081,
+          "title": "Y!mobileとUQ mobileのキャンペーンまとめ【5月13日最新版】　iPhoneやAndroidスマホをお得に入手しよう",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2305/12/cover_news058.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/mobile/articles/2305/13/news080.html",
           "author": null,
@@ -2093,6 +2123,381 @@
       "feedUrl": "https://www.gizmodo.jp/index.xml",
       "siteUrl": "https://www.gizmodo.jp",
       "articles": [
+        {
+          "id": "https://www.gizmodo.jp/2023/05/sex-in-outer-space.html",
+          "author": "そうこ",
+          "description": "今後10年以内に人類は宇宙で性行為をするようになる。そのときに備えた対応が必要と科学者たちが提言。",
+          "link": "https://www.gizmodo.jp/2023/05/sex-in-outer-space.html",
+          "publishedOn": "2023-05-14T12:00:00.000Z",
+          "wordCount": 322,
+          "title": "人類は宇宙セックスに備えよ！ 無重力でする日も近い…？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/12/Shutterstock_93842101.jpeg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/12/Shutterstock_93842101.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/x-ai-dv.html",
+          "author": "satomi",
+          "description": "Image:DIATV/Shutterstock.com前途多難。ChatGPTの開発を半年止めて！と署名していたイーロン・マスクが、ChatGPTみたいなAIを自分もつくる！と張り切って新会社、X.AIをつくって失笑を買っていますが、この新会社にいち早く採用されたIgorBabuschkin研究員が3月6日午前、パロアルト市内の自宅で暴力沙汰となって通報され、ドメスティックバイオレンス容疑で逮捕",
+          "link": "https://www.gizmodo.jp/2023/05/x-ai-dv.html",
+          "publishedOn": "2023-05-14T11:00:00.000Z",
+          "wordCount": 315,
+          "title": "イーロン・マスクが設立した新AI会社のトップ、DVで逮捕されてた",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/13/xai.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/13/xai.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/amazon-timesale-fes-2023-0514-4.html",
+          "author": "お買いものサポーター",
+          "description": "Amazon（アマゾン）では、2023年5月12日9時から5月14日23時59分まで｢Fashion×Outdoorタイムセール祭り｣を開催中。\n\n現在、Samsungの外付けSSDが51％オフ、シリコンパワーのmicroSDカード 1TBが5%オフなど、ストレージ関連アイテムがお買い得に登場しています。",
+          "link": "https://www.gizmodo.jp/2023/05/amazon-timesale-fes-2023-0514-4.html",
+          "publishedOn": "2023-05-14T10:45:00.000Z",
+          "wordCount": 533,
+          "title": "Samsungの外付けSSDが51％オフ！直近1年間の最安価格を更新中【Amazonタイムセール祭り】",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/14/GIZ4.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/14/GIZ4.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/lovot-new-color-kuro.html",
+          "author": "小暮ひさのり",
+          "description": "Image:GROOVEXあっ、この破壊力はやばい。愛くるしい姿に、愛くるしい動き。人になついたり、体温を感じられるロボット「LOVOT」。これまで限定色が登場したりキティちゃんコラボしたりと、さまざまなスタイルを見せてくれていますが、全身黒に身を包んだ新カラー「くろ」が仲間に加わります。シックで大人びた美しい毛並み。でも、くりくりで愛らしいおめめ！なにこのギャップ萌え…卑怯ですやん…まさに黒猫さ",
+          "link": "https://www.gizmodo.jp/2023/05/lovot-new-color-kuro.html",
+          "publishedOn": "2023-05-14T10:30:00.000Z",
+          "wordCount": 314,
+          "title": "まるで黒猫さん。「くろ」のLOVOTにキュン！",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/12/2023-05-12rak00.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/12/2023-05-12rak00.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/frank-ocean-ai-music.html",
+          "author": "岩田リョウコ",
+          "description": "Image:FeatureflashPhotoAgency/Shutterstock.comAIのせいで、もはやリーク曲と言われても信じてしまうクオリティ。今年のコーチェラでヘッドライナーを務めたフランク・オーシャン。新曲らしいものがネットに出回っていたため、どうやら新曲がリークされている...と思った人も多いらしいんですが、それ、なんと誰かがAIで生成したフランク・オーシャンの曲でした。しかもそ",
+          "link": "https://www.gizmodo.jp/2023/05/frank-ocean-ai-music.html",
+          "publishedOn": "2023-05-14T09:00:00.000Z",
+          "wordCount": 319,
+          "title": "AI生成のフランク・オーシャンの楽曲、1曲最大4000ドルで販売される",
+          "enclosure": {
+            "length": "0",
+            "type": "image/",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/12/frankocean."
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/12/frankocean."
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/amazon-timesale-fes-2023-0514-3.html",
+          "author": "お買いものサポーター",
+          "description": "Amazon（アマゾン）では、2023年5月12日9時から5月14日23時59分まで｢Fashion×Outdoorタイムセール祭り｣を開催中。\n\n現在、SwitchBotのスマートリモコンが5000円以下やルンバi2が25％オフなど、今すぐ使えるすまーとホーム化にオススメのアイテムがお買い得に登場しています。",
+          "link": "https://www.gizmodo.jp/2023/05/amazon-timesale-fes-2023-0514-3.html",
+          "publishedOn": "2023-05-14T08:45:00.000Z",
+          "wordCount": 581,
+          "title": "スマホで家電の一括管理も楽々！賢い暮らしを実現するスマートホーム化ガジェット15選【Amazonタイムセール祭り】",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/14/GZ-1.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/14/GZ-1.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/gold-medal.html",
+          "author": "岩田リョウコ",
+          "description": "Image:VDBPhotos(Shutterstock)まさかの小麦粉から食中毒！アメリカでメジャーな小麦粉のブランド「GoldMedal」からなんとサルモネラ菌が発生。米国疾病管理予防センターがGoldMedalの小麦粉は使わないようにとのお達しを出しています。同時に、GoldMedalの製造元であるGeneralMillsもサルモネラの恐れのある商品をリコール対象として発表しています。現在の",
+          "link": "https://www.gizmodo.jp/2023/05/gold-medal.html",
+          "publishedOn": "2023-05-14T08:30:00.000Z",
+          "wordCount": 321,
+          "title": "生の小麦粉を食べるのはキケン。米国の有名な小麦粉からサルモネラ菌が発生",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/06/6f09fcbb7cb98a2a7d8c7a25e48d6d34.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/06/6f09fcbb7cb98a2a7d8c7a25e48d6d34.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/international-ai-development-regulations.html",
+          "author": "そうこ",
+          "description": "国際的なAI開発の一時停止を行なうのは、強力は規制がないと難しい。",
+          "link": "https://www.gizmodo.jp/2023/05/international-ai-development-regulations.html",
+          "publishedOn": "2023-05-14T08:00:00.000Z",
+          "wordCount": 313,
+          "title": "AI開発停止は国際的かつ超強力な規制ができないと無理",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/12/Shutterstock_1095858185.jpeg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/12/Shutterstock_1095858185.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/yamazaki-jitsugyo-dryer-hanger-review.html",
+          "author": "田中 青紗",
+          "description": "ドライヤー収納って長いコードのせいもあり、どうしてもゴチャついて見えがち。そんな悩みを解決してくれたのが山崎実業 towerシリーズの「ドライヤーハンガー」です。",
+          "link": "https://www.gizmodo.jp/2023/05/yamazaki-jitsugyo-dryer-hanger-review.html",
+          "publishedOn": "2023-05-14T07:35:00.000Z",
+          "wordCount": 327,
+          "title": "山崎実業のコレで「ドライヤーまわりがゴチャッと見える」問題が解決",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/11/202305_yamazakithum.png"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/11/202305_yamazakithum.png"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/esupply-eex-ct11.html",
+          "author": "岡本玄介",
+          "description": "花粉の時期は空気清浄機、乾燥する冬は加湿器、雨の日や梅雨の時期は除湿機と、各家庭には膝丈くらいの白物家電がいくつかあるのでは？ けっこうな重さなのに車輪が付いているわけでもなく、ヨッコイショと持ち上げて移動させるのは大変なんですよね。",
+          "link": "https://www.gizmodo.jp/2023/05/esupply-eex-ct11.html",
+          "publishedOn": "2023-05-14T07:00:00.000Z",
+          "wordCount": 328,
+          "title": "もう持ち上げなくていい｡重たい家電は平台車でラクに移動させよう",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/12/230501_esupply.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/12/230501_esupply.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/amazon-timesale-fes-2023-0514-2.html",
+          "author": "お買いものサポーター",
+          "description": "Amazon（アマゾン）では、2023年5月12日9時から5月14日23時59分まで｢Fashion×Outdoorタイムセール祭り｣を開催中。\n\n今回は、6％オフのM1のMacBook Airやセール特価のApple Pencil(第2世代)など、今お得なApple製品を15点ピックアップしました。",
+          "link": "https://www.gizmodo.jp/2023/05/amazon-timesale-fes-2023-0514-2.html",
+          "publishedOn": "2023-05-14T06:45:00.000Z",
+          "wordCount": 437,
+          "title": "M1MacBook、Apple Watch、Apple Pencilも！今お得のApple製品おすすめ15選【Amazonタイムセール祭り】",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/14/GIZ2.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/14/GIZ2.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/yamazaki_kitchen_newitems.html",
+          "author": "mio",
+          "description": "細々したモノが多く、散らかりがちなキッチン…。山崎実業が新発売した4つの収納なら、キッチンのモノを定位置管理できそうです。",
+          "link": "https://www.gizmodo.jp/2023/05/yamazaki_kitchen_newitems.html",
+          "publishedOn": "2023-05-14T06:00:00.000Z",
+          "wordCount": 364,
+          "title": "散らかりがちなキッチン、山崎実業の4つのアイテムで定位置管理しよう",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/04/30/230430_yamazaki_kitchen_newitems_01.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/04/30/230430_yamazaki_kitchen_newitems_01.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/267539-costory-cityruckone-2nd.html",
+          "author": "山田洋路",
+          "description": "Image:株式会社ティーエスオージージャパン※本記事は2023年3月15日の記事を再編集して掲載しています。こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。手が塞がらず荷物が軽く運べてたいへん実用的なリュックですが、ピンとくるデザインのものにはなかなか出会えないのが悩ましいところです。とりわけビジネスリュックとなると、見た目がシンプルなものですら背負うともっさりした印",
+          "link": "https://www.gizmodo.jp/2023/05/267539-costory-cityruckone-2nd.html",
+          "publishedOn": "2023-05-14T05:45:00.000Z",
+          "wordCount": 323,
+          "title": "無駄をとことん省いたデザイン！ スーツや洋服が引き立つシティリュック",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/03/28/original.png"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/03/28/original.png"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/269908.html",
+          "author": "ROOMIE編集部",
+          "description": "Photo:KanroROOMIE2023年3月18日掲載の記事より転載玄関って、どれだけ整理整頓をしてもごちゃついて見えてしまいますが、工夫しがいがある場所。今回はそんな限られた狭いスペースである玄関のデッドスペースを有効活用できる山崎実業のアイテムを3つご紹介。コレを導入するだけでかなりスッキリできると思いますよ～！玄関で置き場所に困る「長物」にはコレImage:山崎実業山崎実業「浮かせる長物",
+          "link": "https://www.gizmodo.jp/2023/05/269908.html",
+          "publishedOn": "2023-05-14T05:35:00.000Z",
+          "wordCount": 365,
+          "title": "狭い玄関のデッドスペースを有効活用する方法まとめ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/13/main_kanro2022060809.jpeg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/13/main_kanro2022060809.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/amazon-timesale-fes-2023-0514-1.html",
+          "author": "お買いものサポーター",
+          "description": "Amazon（アマゾン）では、2023年5月12日9時から5月14日23時59分まで｢Fashion×Outdoorタイムセール祭り｣を開催中。\n\n現在、ロジクールのトラックボールマウスファ14％オフやバッファローの外付けSSDが41％オフなど、デスク環境を整えるのにおすすめなアイテムがお買い得に登場しています。",
+          "link": "https://www.gizmodo.jp/2023/05/amazon-timesale-fes-2023-0514-1.html",
+          "publishedOn": "2023-05-14T04:45:00.000Z",
+          "wordCount": 496,
+          "title": "【Amazonタイムセール祭り】デスク環境を整えるアイテム15選。ロジクールのトラックボールマウスやバッファローの外付けSSDなど",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/14/GZ.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/14/GZ.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/nendo-foam-can.html",
+          "author": "岡本玄介",
+          "description": "Image:nendoフタの隙間がウマさの秘訣。ビールを美味しく飲む決め手は「泡」の比率だといわれています。見た目の美しさだけでなく、酸化防止や炭酸ガスが抜けないよう、7：3の黄金比率でフタをするのが良いというのが通説ですよね。サーバーで注ぐ場合は、レバーを手前に倒すとビール、奥に倒すと泡が出ます。ですが缶ビールだと調節が難しいところ。最初に高い位置からドバドバーっと泡立てながら入れ、後から静かに",
+          "link": "https://www.gizmodo.jp/2023/05/nendo-foam-can.html",
+          "publishedOn": "2023-05-14T04:00:00.000Z",
+          "wordCount": 318,
+          "title": "なんでプルタブふたつ？ 泡の比率をカンペキに注げるビール缶",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/08/230509_nendo.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/08/230509_nendo.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/giz-yatai-sonae-2.html",
+          "author": "ヤマダユウス型",
+          "description": "大容量でありつつも、アウトドアや災害時に便利な機能を備えたモバイルバッテリー。そんなニッチな要素を狙ってきたのが、アウトドアブランドFAL.COが手掛けている「SoNAe」です。日々のソナエ的なネーミングですな。",
+          "link": "https://www.gizmodo.jp/2023/05/giz-yatai-sonae-2.html",
+          "publishedOn": "2023-05-14T03:00:00.000Z",
+          "wordCount": 308,
+          "title": "アウトドアや災害時に｡ワイヤレス充電対応ソーラーモバイルバッテリー",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2022/11/01/221101sonae_01.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2022/11/01/221101sonae_01.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/only-10per-are-smokers.html",
+          "author": "湯木進悟",
+          "description": "Photo:fongbeerredhot（Shutterstock）タバコが見向きもされなくなってきた…。煙草をくゆらせる姿がカッコいいなんて、もうとっくに昔の話のようです。このほどアメリカ疾病管理予防センター（CDC）は、米国成人男女の喫煙者数が、ここ数十年の調査で最低レベルにまで落ち込んだとの速報値を発表しました。紙巻きタバコを買っては吸い続ける人が、とうとう9人に1人の割合まで減ってきたとい",
+          "link": "https://www.gizmodo.jp/2023/05/only-10per-are-smokers.html",
+          "publishedOn": "2023-05-14T02:30:00.000Z",
+          "wordCount": 316,
+          "title": "米国成人の喫煙率、過去最低レベルまで減ってます",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/02/230502cdc.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/02/230502cdc.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/doshisha-freezing-power-cooler.html",
+          "author": "岡本玄介",
+          "description": "Image:DOSHISHAトランスフォームするクーラーバッグ！大型連休から夏休み、秋でも続くアウトドア。キャンプやバーベキューやピクニックには、毎回のように冷やした食材やドリンクを持って行きますよね。そこはクーラーボックスの出番なのですが、空っぽのまま持ち帰るのは何だか空間のムダ使いのようですし、かといってゴミを詰め込むのもちょっと抵抗がありませんか？コンパクト収納で場所を取らないDOSHISH",
+          "link": "https://www.gizmodo.jp/2023/05/doshisha-freezing-power-cooler.html",
+          "publishedOn": "2023-05-14T02:00:00.000Z",
+          "wordCount": 327,
+          "title": "冷たさを3日間キープ｡折りたためて省スペースなクーラーバッグ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/04/28/230501_coolerbag.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/04/28/230501_coolerbag.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/machi-ya-instacam-review2-660860.html",
+          "author": "山田洋路",
+          "description": "スマホに接続するミニカメラ「インスタカム」は3種類のレンズ（標準、マクロ、広角）を使い分けることでクリエイティブな撮影が可能です。小回りが効く1.5mのケーブルと小さなレンズで普段見られない世界を簡単に開拓。付属のクリップで自転車やスケボーにも取り付けられアクションカメラとしても役立ちます。",
+          "link": "https://www.gizmodo.jp/2023/05/machi-ya-instacam-review2-660860.html",
+          "publishedOn": "2023-05-14T00:45:00.000Z",
+          "wordCount": 314,
+          "title": "スマホに接続して自由なアングルで撮影できるミニカメラ「インスタカム」がまもなく終了",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/10/%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%AB%E3%83%A0review200.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/10/%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%AB%E3%83%A0review200.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/scattering-sites-for-sea-turtles-disappear.html",
+          "author": "Kenji P. Miyajima",
+          "description": "地球温暖化の影響で、海亀の散乱場所が2050年までに浸水して消滅してしまう可能性がある。",
+          "link": "https://www.gizmodo.jp/2023/05/scattering-sites-for-sea-turtles-disappear.html",
+          "publishedOn": "2023-05-14T00:00:00.000Z",
+          "wordCount": 332,
+          "title": "海面上昇でウミガメが産卵場所を失うかも",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/11/Shutterstock_785564461.jpeg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/11/Shutterstock_785564461.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/machi-ya-penciltips-end-653877.html",
+          "author": "山田洋路",
+          "description": "専用ペン先「Pencil tip」はApple Pencilに取り付けるだけでシャープペンのような書き心地に。滑りにくく静音、ペン先との接点が見やすいので細かい画像や文字も書きやすいです。芯が交換できてコスパが高い。より静音性の高い汎用マイクロtipとも使い分けられます。",
+          "link": "https://www.gizmodo.jp/2023/05/machi-ya-penciltips-end-653877.html",
+          "publishedOn": "2023-05-13T23:45:00.000Z",
+          "wordCount": 326,
+          "title": "Apple Pencilに取り付けると書き味がアップグレードするペン先「Pencil tip」が本日終了",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/10/Penciltipsend00.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/10/Penciltipsend00.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/24b1d5600.html",
+          "author": "そうこ",
+          "description": "Image:Philipsこれは明らかにイロモノガジェットでは…。昨今、2in1といえばまっさきに思い浮かぶのがノートPCとタブレットの融合端末ですね。どっちとしても使えるよってやつです。が、フィリップスが発表した新型モニター「24B1D5600」はフルカラーの液晶画面と白黒の電子インク画面を組み合わせたまったく新しい2in1ディスプレイ。これ、パソコンで読み物作業が多い人には正解…なの、か、な？",
+          "link": "https://www.gizmodo.jp/2023/05/24b1d5600.html",
+          "publishedOn": "2023-05-13T23:00:00.000Z",
+          "wordCount": 317,
+          "title": "使いこなせる？液晶と電子インクディスプレイの合体モニター",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/09/230509philipseinklcd.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/09/230509philipseinklcd.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/why-virgin-orbit-went-bankrupt.html",
+          "author": "湯木進悟",
+          "description": "Photo:VirginOrbit理想だけでは勝てない…？地上の発射台で待機するロケットから、カウントダウンとともに華々しく打ち上げられるロケットの姿。これこそ宇宙旅行へ飛び立つスタイルという常識を打ち破ってきたのが、RichardBranson氏の率いるVirginGalactic。そこから衛星の打ち上げ事業などを専門とするVirginOrbitが設立されたものの、このほどChapter11の連",
+          "link": "https://www.gizmodo.jp/2023/05/why-virgin-orbit-went-bankrupt.html",
+          "publishedOn": "2023-05-13T14:00:00.000Z",
+          "wordCount": 329,
+          "title": "上空の飛行機からロケットを宇宙へ…革新的だったVirgin Orbitが破産した理由",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/09/230509launcherone.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/09/230509launcherone.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/floating-huge-penis-found-in-canada.html",
+          "author": "岩田リョウコ",
+          "description": "Photo:KenPrettyこれはお見事な！ソレですね！カナダの写真家KenPrettyさんがドローンで撮影したカナダの氷山の写真。誰が彫刻したわけでもない自然の氷山です！でも完全に男根！Facebookに新しく見つかった氷山を報告するグループがあって、そこでこの氷山を知ったPrettyさん。「家から車で30分くらいの場所にあるとわかったので、行くっきゃないということで妻と一緒にドローンを持って",
+          "link": "https://www.gizmodo.jp/2023/05/floating-huge-penis-found-in-canada.html",
+          "publishedOn": "2023-05-13T13:30:00.000Z",
+          "wordCount": 85,
+          "title": "海に浮かぶ巨大な男根、カナダで発見",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/06/e35b90ef7b503fa87b498505dbd6d70e.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/06/e35b90ef7b503fa87b498505dbd6d70e.jpg"
+        },
         {
           "id": "https://www.gizmodo.jp/2023/05/brightest-gamma-ray-burst-ever-the-boat-1850273973.html",
           "author": "禿頭帽子屋/Word Connection JAPAN",
