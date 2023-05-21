@@ -2,10 +2,249 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hmhv.github.io/reader/index.html</id>
     <title>hmhv::news</title>
-    <updated>2023-05-20T12:23:32.211Z</updated>
+    <updated>2023-05-21T12:23:35.166Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hmhv.github.io/reader/index.html"/>
     <link rel="self" href="https://hmhv.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[8年かけて木星へ移動中の探査機が地上から見えた]]></title>
+        <id>https://www.gizmodo.jp/2023/05/oh-hey-theres-the-juice-probe-heading-for-jupiter.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/oh-hey-theres-the-juice-probe-heading-for-jupiter.html"/>
+        <updated>2023-05-21T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今年4月に打ち上げられた欧州宇宙機関のJUICE（木星氷衛星探査計画）。打ち上げから8年後の2031年に木星系に到着予定。今この瞬間も木星に向かって宇宙空間を旅していますが、その姿をエアバスが撮影に成功、Twitterで公開しています。]]></summary>
+        <author>
+            <name>そうこ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[睡眠時無呼吸症候群、脳にもダメージを与えている可能性]]></title>
+        <id>https://www.gizmodo.jp/2023/05/270120.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/270120.html"/>
+        <updated>2023-05-21T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[深い眠りが足りなくなる睡眠時無呼吸症候群は、脳の健康の悪化と関連があることが最近の研究でわかりました。]]></summary>
+        <author>
+            <name>たもり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[脱着も軽快！ カードや小銭も収納できるマルチレザーキーケースを使ってみた]]></title>
+        <id>https://www.gizmodo.jp/2023/05/machi-ya-slidekeycase-review-653984.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/machi-ya-slidekeycase-review-653984.html"/>
+        <updated>2023-05-21T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[「オールインワンキーケース」は、通勤や移動時に使えるスライド式のポーチ型キーケース。ドイツFIDLOCK社のマグネット式バックルを採用したことで、着脱を的確かつ素早く行えます。各種キーや現金、カード、ワイヤレスイヤホンなど小物を収納するのにピッタリなケースとして活躍が期待できます。現在クラウドファンディングサイトmachi-yaにてキャンペーン中。]]></summary>
+        <author>
+            <name>junior</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[次世代ウェンディーズ、駐車場の地下トンネルからロボットが車に注文を届けてくれるらしい]]></title>
+        <id>https://www.gizmodo.jp/2023/05/wendys-tunnel-robot.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/wendys-tunnel-robot.html"/>
+        <updated>2023-05-21T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:Wendy’sウェンディーズのチキンフィレバーガーが好きです。アメリカのウェンディーズが次世代店舗計画を発表。これがなかなか便利そうです。なんでも、駐車場の地下を改造予定だとか。駐車場にトンネルを掘る！ファストフード店のオーダー方法として、すでに定着してきたモバイルオーダー。お店に行く前に事前にスマホからオーダーしておいて、お店では受け取るだけ。待ち時間が短縮できるのが嬉しいですね。日]]></summary>
+        <author>
+            <name>そうこ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成AIに活用できるエントリーGPUの価格はこのくらい]]></title>
+        <id>https://www.gizmodo.jp/2023/05/rtx-4060-ti-16gb-price.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/rtx-4060-ti-16gb-price.html"/>
+        <updated>2023-05-21T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:NVIDIA生成AIに効くエントリーGPUになりそう。コストパフォーマンスに優れるGPU、RTX4060シリーズが発表されました。ラインナップは次の通りです。GeForceRTX40608GB5万2800円～　7月発売GeForceRTX4060Ti8GB6万9800円～　5月24日発売GeForceRTX4060Ti16GB8万8800円～　7月発売まずは中堅どころのRTX4060T]]></summary>
+        <author>
+            <name>武者良太</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[40年間指先に磁石を埋め込んだイカサマ師、除去した理由は？]]></title>
+        <id>https://www.gizmodo.jp/2023/05/magnet-finger.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/magnet-finger.html"/>
+        <updated>2023-05-21T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[40年も昔に自らの指先に磁石を埋め込んだ猛者がいました。]]></summary>
+        <author>
+            <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Watch向け「メッセンジャー」アプリが5月末から使えなくなるよ]]></title>
+        <id>https://www.gizmodo.jp/2023/05/apple-watch-messenger.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/apple-watch-messenger.html"/>
+        <updated>2023-05-21T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[受け取ったメッセージに対してワンタップで返信できるApple Watch向け「メッセンジャー」アプリですが、5月末から使えなくなります。]]></summary>
+        <author>
+            <name>はらいさん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ニトリの水切りグッズで、キッチンの水垢とおさらばしよう]]></title>
+        <id>https://www.gizmodo.jp/2023/05/nitori-kitchen-goods.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/nitori-kitchen-goods.html"/>
+        <updated>2023-05-21T07:35:00.000Z</updated>
+        <summary type="html"><![CDATA[今年1月下旬にニトリから発売された「水切りＷコート シリーズ」は、本体スチールにさびにくいWコート加工、トレーや箸立て、排水口に抗菌加工が施されています。ジメジメするこれからの季節、キッチンを水垢から守るために試してみては？]]></summary>
+        <author>
+            <name>mio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寝苦しい夜。"水冷"のマットでひんやりナイトがいいかも]]></title>
+        <id>https://www.gizmodo.jp/2023/05/water-cooler-mat.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/water-cooler-mat.html"/>
+        <updated>2023-05-21T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:サンコー冷水のパワー。なんか電気代上がるらしいですね。これからエアコンフル稼働の季節になるのに…。電気代が気になっちゃって、エアコン付けるのもとまどっちゃう。そこでサンコーの「ひんやり水流快眠マット2」なんていかがでしょう。Image:サンコーこちら、冷水が流れるマット。本体のタンクに水を入れて、マットをセット。そしてスイッチを入れれば、ひんやりマットの出来上がり。消費電力は約6W。1]]></summary>
+        <author>
+            <name>三浦一紀</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[風が吹く折りたたみ傘で熱中症対策を]]></title>
+        <id>https://www.gizmodo.jp/2023/05/fun-brella.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/fun-brella.html"/>
+        <updated>2023-05-21T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:サンコー扇風機と傘のマリアージュ。サンコーから発売されている「折りたたみファンブレラ」。ファンブレラって聞いたことないなと思っていたら、どうやら傘にファンがついているオリジナル製品のよう。Image:サンコー折りたたみ傘の内部にファンが内蔵されていて、傘を差した状態で風が吹いてくるという仕組み。ここ数年、ハンディファンが身近な存在となりましたが、日傘を差しながらハンディファンを持って使]]></summary>
+        <author>
+            <name>三浦一紀</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[家の中でトランポリンができる！「2way トランポリン／リバウンダー」が80%OFFに]]></title>
+        <id>https://www.gizmodo.jp/2023/05/262243-costory-trampoline-rebounder2nd.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/262243-costory-trampoline-rebounder2nd.html"/>
+        <updated>2023-05-21T05:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:CoSTORYこちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。運動が続かない…という方には部屋に小型のトランポリンを置いてみることをおススメします。重い腰を上げて身体を動かし始めるのは度が高いのに対して、そこにあるだけで飛び跳ねたくなるのがトランポリンの魅力で難易す。トランポリンをお得に購入したいとなれば、共同購入サイト「CoSTORY」に掲載中の「2way]]></summary>
+        <author>
+            <name>山田洋路</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無印良品の“やさしいラインマーカー”が、タスク管理で大活躍した理由]]></title>
+        <id>https://www.gizmodo.jp/2023/05/270176.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/270176.html"/>
+        <updated>2023-05-21T05:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:田中青紗ROOMIE2023年3月15日掲載の記事より転載春は文房具を新しく揃えたくなる季節。カラーマーカーやカラーペンを買い替えたくなるのですが、はっきりとした蛍光色があんまり得意じゃない私。可愛い色味のペンはないかな〜と探していたときに、ドストライクなアイテムを発見しました！新生活にぴったり！無印良品のペン無印良品「ラインマーカー」一本　80円（税込）それがこちらの無印良品の「ライ]]></summary>
+        <author>
+            <name>田中 青紗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[さらばスマホの容量不足。充電しながら写真のバックアップができる「Qubii」が優秀すぎた]]></title>
+        <id>https://www.gizmodo.jp/2023/05/269942-costory-qubii-memory-pack-2nd.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/269942-costory-qubii-memory-pack-2nd.html"/>
+        <updated>2023-05-21T04:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:山田洋路こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。スマホの容量がいっぱいだけどパソコンにつないでのバックアップは億劫、かといって、クラウドにデータを置いておくのは心もとない…。という方にピッタリのソリューションが「Qubii」です。毎日の充電時間を利用して、写真や連絡先などをバックアップできるので手間なしです。今回は、共同購入サイトCoSTORYでお得]]></summary>
+        <author>
+            <name>山田洋路</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AmazonはAIで商品需要と在庫管理を加速することを目論む]]></title>
+        <id>https://www.gizmodo.jp/2023/05/speeding-up-delivery-with-ai.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/speeding-up-delivery-with-ai.html"/>
+        <updated>2023-05-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazonはエリアの需要を的確に把握し、倉庫に適切な数の在庫を補充しておくシステムにAIを活用して、配送の高速化を目論んでいる。]]></summary>
+        <author>
+            <name>そうこ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone／Androidの写真データをPCで確認・編集する方法　多彩な連携パターンまとめ]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2305/21/news055.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2305/21/news055.html"/>
+        <updated>2023-05-21T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スマホのカメラはどんどん高性能化していくが、ディスプレイサイズは大きく変わらない。高解像度の写真をきれいに加工するような場合には、PC上で大きなディスプレイなどを使った方がいいだろう。今回はスマホとPCを接続し、データを遣り取りする方法を紹介する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[身近なガジェットの充電を快適化できる3-in-1充電器]]></title>
+        <id>https://www.gizmodo.jp/2023/05/giz-yatai-miak-3in1-wave-1.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/giz-yatai-miak-3in1-wave-1.html"/>
+        <updated>2023-05-21T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[充電環境をよりはかどらせてくれるのが、ワイヤレスな充電ステーション「miak 3in1 Wave」。オールワイヤレス＆3-in-1という、快適さに抜かりのない仕様が特徴です。]]></summary>
+        <author>
+            <name>ヤマダユウス型</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テイジン 快適清潔プレミアム マットレス「DEEP SLEEPER」の寝心地を試してみた]]></title>
+        <id>https://www.gizmodo.jp/2023/05/machi-ya-deepsleeper-review-665677.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/machi-ya-deepsleeper-review-665677.html"/>
+        <updated>2023-05-21T01:45:00.000Z</updated>
+        <summary type="html"><![CDATA[睡眠環境を見直したい方に、AQUA×帝人フロンティアのプレミアム薄型マットレス「DEEP SLEEPER」がおすすめです。高反発・高密度で理想的な体圧分散を実現。肌触りの良い高級ニットカバーと縦成構造不織布【エアーバーティカル®】を使用し、通気性と弾力性が抜群です。]]></summary>
+        <author>
+            <name>山田洋路</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[タクシーで見つかったトンデモな忘れ物22選]]></title>
+        <id>https://www.gizmodo.jp/2023/05/forgotten-items-in-the-cab.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/forgotten-items-in-the-cab.html"/>
+        <updated>2023-05-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Uberが発表した変わった忘れ物リスト。]]></summary>
+        <author>
+            <name>岩田リョウコ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[防水姫路レザーのミニマルデザインバックパック「recta」]]></title>
+        <id>https://www.gizmodo.jp/2023/05/machi-ya-recta-start-669363.html</id>
+        <link href="https://www.gizmodo.jp/2023/05/machi-ya-recta-start-669363.html"/>
+        <updated>2023-05-20T23:45:00.000Z</updated>
+        <summary type="html"><![CDATA[防水・防菌・軽量の超優秀バックパック「recta」をご紹介。表地には防水防菌機能を持つ丈夫な姫路産レザー。裏地には、防菌・防臭や静電気防止が期待できる、純銀を織り交ぜた素材を使用。新素材の融合で、本革の概念が覆るかも。]]></summary>
+        <author>
+            <name>にしやまあやか</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AppleのMRヘッドセット、製造コストは約20万円か]]></title>
+        <id>https://gori.me/?p=147792</id>
+        <link href="https://gori.me/apple/apple-news/147792"/>
+        <updated>2023-05-20T21:45:50.000Z</updated>
+        <summary type="html"><![CDATA[AppleのMRヘッドセット（Reality Pro）を製造コストは、1台あたり1,500ドル（約20万円）の可能性がある。部品の製造コストは1,400ドルと見られ、配送料を含めたBOMは、控えめに推定しても1,600ドル前後になるという。 最も高価な部品は、microOLEDディスプレイと14台の…
+The post AppleのMRヘッドセット、製造コストは約20万円か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[慣れると戻れないらしいよ？ロジクールのトラックボールマウス「M575S」が14％オフ]]></title>
+        <id>https://gori.me/?p=147574</id>
+        <link href="https://gori.me/sale/peripheral-sale/147574"/>
+        <updated>2023-05-20T21:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Amazon.co.jpでLogicool製マウスのセールが開催中だ。セール対象商品として、トラックボールマウス「ERGO M575S」が含まれており、通常価格の14％オフで販売されている。 【Amazon.co.jp限定】ロジクール ワイヤレスマウス トラックボール 無線 M575S Blueto…
+The post 慣れると戻れないらしいよ？ロジクールのトラックボールマウス「M575S」が14％オフ first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[App Storeで配信されているアプリ数、何本だと思う？]]></title>
+        <id>https://gori.me/?p=147795</id>
+        <link href="https://gori.me/apple/apple-news/147795"/>
+        <updated>2023-05-20T21:20:51.000Z</updated>
+        <summary type="html"><![CDATA[App Storeで配信されていたアプリ数は、2022年時点で1,783,232本だった。Appleが公開した「2022 App Store Transparency Report」で判明した。審査が行われたアプリ数は約610万件、そのうちリジェクトされた件数は約167万件。約3本に1本はリジェクト…
+The post App Storeで配信されているアプリ数、何本だと思う？ first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPTを狙った悪用の手口、フィッシングメール作成やプロンプト漏えいも　どう対策する？]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2305/19/news037.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2305/19/news037.html"/>
+        <updated>2023-05-20T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[マクニカが4月21日、ChatGPTを悪用したサイバーリスクについての説明会を開催した。攻撃者によるChatGPTの悪用の他、ChatGPTを組み込んだシステムに対する攻撃もあり、これらは数カ月もすると対策されるというが、情報漏えいの危険性をはらんでいる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[天王星の4つの衛星には内部海が存在するのかも]]></title>
         <id>https://www.gizmodo.jp/2023/05/four-of-uranus-moons-have-internal-oceans.html</id>
@@ -3277,340 +3516,6 @@ The post CIO製品が今週、最大40％オフ。充電器から首掛け扇風
         <link href="https://www.gizmodo.jp/2023/05/machi-ya-bodu-start-667068.html"/>
         <updated>2023-05-15T00:45:00.000Z</updated>
         <summary type="html"><![CDATA[73層ダマスカス鋼から成る「BODU」は芯材に日本製超高硬度「VG10」を採用。美しさと切れ味を兼ね備えた包丁です。耐食性が高くメンテナンスも容易。野菜や肉、魚に対応するシェフナイフとパンが美しく切れるパン切り・ナイフ、繊細なカットが得意なユーティリティ・ナイフがラインナップされています。]]></summary>
-        <author>
-            <name>山田洋路</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アウトドアでパリパリふっくらな水蒸気調理が楽しめる焚き火鉢がまもなく終了]]></title>
-        <id>https://www.gizmodo.jp/2023/05/machi-ya-takibibachi-end-663189.html</id>
-        <link href="https://www.gizmodo.jp/2023/05/machi-ya-takibibachi-end-663189.html"/>
-        <updated>2023-05-14T23:45:00.000Z</updated>
-        <summary type="html"><![CDATA[耐熱陶器でできた「栄」はMade in 福島の焚き火鉢。大堀相馬焼の伝統的なデザインと最新技術が融合し美しい炎が鑑賞できます。二次燃焼により煙や灰がほとんど出ないのが特徴的です。焚き火台としてだけでなく炭火調理器具としても活躍。キャンプの楽しみを広げてくれます。]]></summary>
-        <author>
-            <name>山田洋路</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手術後の自分の軟骨をミートソースにして食べたインフルエンサー]]></title>
-        <id>https://www.gizmodo.jp/2023/05/influencer-cooked-her-own-cartilage.html</id>
-        <link href="https://www.gizmodo.jp/2023/05/influencer-cooked-her-own-cartilage.html"/>
-        <updated>2023-05-14T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Illustration:JodySerrano/Gizmodo/GettyImagesせっかくならもっと味わえるメニューがよかったんでは？手術が終わったら退院してさっさと帰る。それが普通の行程だと思うんですが、取り除いた皮膚や細胞、骨をもらってってもいいですか？って聞く人もいるようです。しかも、それを持って帰って食べちゃったのがスペインのインフルエンサーPaulaGonuさん。自分の一部なんだか]]></summary>
-        <author>
-            <name>岩田リョウコ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モップローラーブラシで水拭きも乾拭きもできちゃう掃除機]]></title>
-        <id>https://www.gizmodo.jp/2023/05/mizuki.html</id>
-        <link href="https://www.gizmodo.jp/2023/05/mizuki.html"/>
-        <updated>2023-05-14T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Haierフローリングをもっと綺麗に。片手でスイスイ動かせるスティック型掃除機は、思い付いた時にスグ使えるのが利点です。しかし掃除機は伝統的に小さなゴミやチリ・ホコリを吸い込むだけで、床にこびり付いた汚れまでは綺麗にならないんですよね。水拭きと乾拭きができる掃除機Haier（ハイアール）の掃除機「MIZUKIJC-M1A」は、吸引だけでなく水拭きと乾拭きもできて1台3役！「マルチパワフ]]></summary>
-        <author>
-            <name>岡本玄介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M3 Proチップは12コアCPU＋18コアGPU。年末から来年にかけて搭載Macが登場へ]]></title>
-        <id>https://gori.me/?p=147714</id>
-        <link href="https://gori.me/macbookpro/147714"/>
-        <updated>2023-05-14T21:47:59.000Z</updated>
-        <summary type="html"><![CDATA[新型Macに搭載される「M3 Pro」チップは、12コアのCPU、18コアのGPU、36GBのメモリ（RAM）で構成されている可能性がある。Appleに詳しいBloombergの名物記者Mark Gurman氏の最新ニュースレターによると、AppleはApp Storeで配信されている一部アプリを「…
-The post M3 Proチップは12コアCPU＋18コアGPU。年末から来年にかけて搭載Macが登場へ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マイナンバーカードの「スマホ電子証明書」を使う　注意すべきポイントは？]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2305/15/news067.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2305/15/news067.html"/>
-        <updated>2023-05-14T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[マイナンバー（個人番号）カードの付加サービスとして、Androidスマートフォンを対象とする「スマホ用電子証明書」の提供が始まりました。実際に使ってみた上で、改めて注意点をまとめてみました。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[石川温の「スマホ業界 Watch」]「Pixel Fold」実機の仕上がりは？　先行する競合製品との違いとは]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/column/ishikawa/1500377.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/column/ishikawa/1500377.html"/>
-        <updated>2023-05-14T15:01:00.000Z</updated>
-        <summary type="html"><![CDATA[グーグルが2023年5月10日、開発者向け会議「Google I/O」を本社横の屋外シアターで開催。新製品のスマートフォン「Pixel 7a」と「Pixel Fold」を発表した。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[本日の一品]スノービーチ（ブナ材）で作った”出しっぱ”のウッドダンベル]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1500235.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1500235.html"/>
-        <updated>2023-05-14T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[新潟県の小地谷に"曲げ木"の加工技術を用い、地場産の無垢の木材を使ってプロダクトを提供し続けているストーリオという企業がある。多くは無垢のクルミやカエデ、ケヤキなど国産の天然無垢材だ。そして最近では新しく”ブナの木”が仲間入りした。筆者が発売以来愛用している魚沼産スノービーチ（ブナ材）で創った「TANZAKU Lamp」（LEDナイトライト）はその代表的な製品だ。筆者は他にも名刺ケースや万年筆ケースを長く愛用している。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[みんなのケータイ]表データも理解してくれるChatGPTさん、フィットネスのアドバイスをしてもらったら]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/column/minna/1500198.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/column/minna/1500198.html"/>
-        <updated>2023-05-14T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[サイクリングやランニングの記録に、Garminのスマートウォッチ（とクラウドサービス）を使っている。記録したデータはスマートフォンのアプリ上で確認できるのだけれども、グラフでビジュアル化されるとはいえ、そこから意味や傾向を読み取って次回以降のトレーニングに役立てるには、ある程度ユーザー側に知識やノウハウが求められるところもあって、難しい。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[スタパ齋藤の「スタパトロニクスMobile」]EcoFlowの最新ポータブル電源「RIVER 2 Pro」を買って軽快な気分になった話]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/column/stapa/1500104.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/column/stapa/1500104.html"/>
-        <updated>2023-05-14T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[愛用中のポータブル電源はEcoFlow「DELTA 2」。詳細なレビューは本連載バックナンバーに書いた。使用開始してから現在で半年以上が経過しているが、相変わらず超絶便利に役立ってくれている。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人類は宇宙セックスに備えよ！ 無重力でする日も近い…？]]></title>
-        <id>https://www.gizmodo.jp/2023/05/sex-in-outer-space.html</id>
-        <link href="https://www.gizmodo.jp/2023/05/sex-in-outer-space.html"/>
-        <updated>2023-05-14T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今後10年以内に人類は宇宙で性行為をするようになる。そのときに備えた対応が必要と科学者たちが提言。]]></summary>
-        <author>
-            <name>そうこ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーロン・マスクが設立した新AI会社のトップ、DVで逮捕されてた]]></title>
-        <id>https://www.gizmodo.jp/2023/05/x-ai-dv.html</id>
-        <link href="https://www.gizmodo.jp/2023/05/x-ai-dv.html"/>
-        <updated>2023-05-14T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:DIATV/Shutterstock.com前途多難。ChatGPTの開発を半年止めて！と署名していたイーロン・マスクが、ChatGPTみたいなAIを自分もつくる！と張り切って新会社、X.AIをつくって失笑を買っていますが、この新会社にいち早く採用されたIgorBabuschkin研究員が3月6日午前、パロアルト市内の自宅で暴力沙汰となって通報され、ドメスティックバイオレンス容疑で逮捕]]></summary>
-        <author>
-            <name>satomi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsungの外付けSSDが51％オフ！直近1年間の最安価格を更新中【Amazonタイムセール祭り】]]></title>
-        <id>https://www.gizmodo.jp/2023/05/amazon-timesale-fes-2023-0514-4.html</id>
-        <link href="https://www.gizmodo.jp/2023/05/amazon-timesale-fes-2023-0514-4.html"/>
-        <updated>2023-05-14T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon（アマゾン）では、2023年5月12日9時から5月14日23時59分まで｢Fashion×Outdoorタイムセール祭り｣を開催中。
-
-現在、Samsungの外付けSSDが51％オフ、シリコンパワーのmicroSDカード 1TBが5%オフなど、ストレージ関連アイテムがお買い得に登場しています。]]></summary>
-        <author>
-            <name>お買いものサポーター</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[まるで黒猫さん。「くろ」のLOVOTにキュン！]]></title>
-        <id>https://www.gizmodo.jp/2023/05/lovot-new-color-kuro.html</id>
-        <link href="https://www.gizmodo.jp/2023/05/lovot-new-color-kuro.html"/>
-        <updated>2023-05-14T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:GROOVEXあっ、この破壊力はやばい。愛くるしい姿に、愛くるしい動き。人になついたり、体温を感じられるロボット「LOVOT」。これまで限定色が登場したりキティちゃんコラボしたりと、さまざまなスタイルを見せてくれていますが、全身黒に身を包んだ新カラー「くろ」が仲間に加わります。シックで大人びた美しい毛並み。でも、くりくりで愛らしいおめめ！なにこのギャップ萌え…卑怯ですやん…まさに黒猫さ]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI生成のフランク・オーシャンの楽曲、1曲最大4000ドルで販売される]]></title>
-        <id>https://www.gizmodo.jp/2023/05/frank-ocean-ai-music.html</id>
-        <link href="https://www.gizmodo.jp/2023/05/frank-ocean-ai-music.html"/>
-        <updated>2023-05-14T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:FeatureflashPhotoAgency/Shutterstock.comAIのせいで、もはやリーク曲と言われても信じてしまうクオリティ。今年のコーチェラでヘッドライナーを務めたフランク・オーシャン。新曲らしいものがネットに出回っていたため、どうやら新曲がリークされている...と思った人も多いらしいんですが、それ、なんと誰かがAIで生成したフランク・オーシャンの曲でした。しかもそ]]></summary>
-        <author>
-            <name>岩田リョウコ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スマホで家電の一括管理も楽々！賢い暮らしを実現するスマートホーム化ガジェット15選【Amazonタイムセール祭り】]]></title>
-        <id>https://www.gizmodo.jp/2023/05/amazon-timesale-fes-2023-0514-3.html</id>
-        <link href="https://www.gizmodo.jp/2023/05/amazon-timesale-fes-2023-0514-3.html"/>
-        <updated>2023-05-14T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon（アマゾン）では、2023年5月12日9時から5月14日23時59分まで｢Fashion×Outdoorタイムセール祭り｣を開催中。
-
-現在、SwitchBotのスマートリモコンが5000円以下やルンバi2が25％オフなど、今すぐ使えるすまーとホーム化にオススメのアイテムがお買い得に登場しています。]]></summary>
-        <author>
-            <name>お買いものサポーター</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生の小麦粉を食べるのはキケン。米国の有名な小麦粉からサルモネラ菌が発生]]></title>
-        <id>https://www.gizmodo.jp/2023/05/gold-medal.html</id>
-        <link href="https://www.gizmodo.jp/2023/05/gold-medal.html"/>
-        <updated>2023-05-14T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:VDBPhotos(Shutterstock)まさかの小麦粉から食中毒！アメリカでメジャーな小麦粉のブランド「GoldMedal」からなんとサルモネラ菌が発生。米国疾病管理予防センターがGoldMedalの小麦粉は使わないようにとのお達しを出しています。同時に、GoldMedalの製造元であるGeneralMillsもサルモネラの恐れのある商品をリコール対象として発表しています。現在の]]></summary>
-        <author>
-            <name>岩田リョウコ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI開発停止は国際的かつ超強力な規制ができないと無理]]></title>
-        <id>https://www.gizmodo.jp/2023/05/international-ai-development-regulations.html</id>
-        <link href="https://www.gizmodo.jp/2023/05/international-ai-development-regulations.html"/>
-        <updated>2023-05-14T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[国際的なAI開発の一時停止を行なうのは、強力は規制がないと難しい。]]></summary>
-        <author>
-            <name>そうこ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[山崎実業のコレで「ドライヤーまわりがゴチャッと見える」問題が解決]]></title>
-        <id>https://www.gizmodo.jp/2023/05/yamazaki-jitsugyo-dryer-hanger-review.html</id>
-        <link href="https://www.gizmodo.jp/2023/05/yamazaki-jitsugyo-dryer-hanger-review.html"/>
-        <updated>2023-05-14T07:35:00.000Z</updated>
-        <summary type="html"><![CDATA[ドライヤー収納って長いコードのせいもあり、どうしてもゴチャついて見えがち。そんな悩みを解決してくれたのが山崎実業 towerシリーズの「ドライヤーハンガー」です。]]></summary>
-        <author>
-            <name>田中 青紗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[もう持ち上げなくていい｡重たい家電は平台車でラクに移動させよう]]></title>
-        <id>https://www.gizmodo.jp/2023/05/esupply-eex-ct11.html</id>
-        <link href="https://www.gizmodo.jp/2023/05/esupply-eex-ct11.html"/>
-        <updated>2023-05-14T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[花粉の時期は空気清浄機、乾燥する冬は加湿器、雨の日や梅雨の時期は除湿機と、各家庭には膝丈くらいの白物家電がいくつかあるのでは？ けっこうな重さなのに車輪が付いているわけでもなく、ヨッコイショと持ち上げて移動させるのは大変なんですよね。]]></summary>
-        <author>
-            <name>岡本玄介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M1MacBook、Apple Watch、Apple Pencilも！今お得のApple製品おすすめ15選【Amazonタイムセール祭り】]]></title>
-        <id>https://www.gizmodo.jp/2023/05/amazon-timesale-fes-2023-0514-2.html</id>
-        <link href="https://www.gizmodo.jp/2023/05/amazon-timesale-fes-2023-0514-2.html"/>
-        <updated>2023-05-14T06:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon（アマゾン）では、2023年5月12日9時から5月14日23時59分まで｢Fashion×Outdoorタイムセール祭り｣を開催中。
-
-今回は、6％オフのM1のMacBook Airやセール特価のApple Pencil(第2世代)など、今お得なApple製品を15点ピックアップしました。]]></summary>
-        <author>
-            <name>お買いものサポーター</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[散らかりがちなキッチン、山崎実業の4つのアイテムで定位置管理しよう]]></title>
-        <id>https://www.gizmodo.jp/2023/05/yamazaki_kitchen_newitems.html</id>
-        <link href="https://www.gizmodo.jp/2023/05/yamazaki_kitchen_newitems.html"/>
-        <updated>2023-05-14T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[細々したモノが多く、散らかりがちなキッチン…。山崎実業が新発売した4つの収納なら、キッチンのモノを定位置管理できそうです。]]></summary>
-        <author>
-            <name>mio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無駄をとことん省いたデザイン！ スーツや洋服が引き立つシティリュック]]></title>
-        <id>https://www.gizmodo.jp/2023/05/267539-costory-cityruckone-2nd.html</id>
-        <link href="https://www.gizmodo.jp/2023/05/267539-costory-cityruckone-2nd.html"/>
-        <updated>2023-05-14T05:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:株式会社ティーエスオージージャパン※本記事は2023年3月15日の記事を再編集して掲載しています。こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。手が塞がらず荷物が軽く運べてたいへん実用的なリュックですが、ピンとくるデザインのものにはなかなか出会えないのが悩ましいところです。とりわけビジネスリュックとなると、見た目がシンプルなものですら背負うともっさりした印]]></summary>
-        <author>
-            <name>山田洋路</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[狭い玄関のデッドスペースを有効活用する方法まとめ]]></title>
-        <id>https://www.gizmodo.jp/2023/05/269908.html</id>
-        <link href="https://www.gizmodo.jp/2023/05/269908.html"/>
-        <updated>2023-05-14T05:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:KanroROOMIE2023年3月18日掲載の記事より転載玄関って、どれだけ整理整頓をしてもごちゃついて見えてしまいますが、工夫しがいがある場所。今回はそんな限られた狭いスペースである玄関のデッドスペースを有効活用できる山崎実業のアイテムを3つご紹介。コレを導入するだけでかなりスッキリできると思いますよ～！玄関で置き場所に困る「長物」にはコレImage:山崎実業山崎実業「浮かせる長物]]></summary>
-        <author>
-            <name>ROOMIE編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Amazonタイムセール祭り】デスク環境を整えるアイテム15選。ロジクールのトラックボールマウスやバッファローの外付けSSDなど]]></title>
-        <id>https://www.gizmodo.jp/2023/05/amazon-timesale-fes-2023-0514-1.html</id>
-        <link href="https://www.gizmodo.jp/2023/05/amazon-timesale-fes-2023-0514-1.html"/>
-        <updated>2023-05-14T04:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon（アマゾン）では、2023年5月12日9時から5月14日23時59分まで｢Fashion×Outdoorタイムセール祭り｣を開催中。
-
-現在、ロジクールのトラックボールマウスファ14％オフやバッファローの外付けSSDが41％オフなど、デスク環境を整えるのにおすすめなアイテムがお買い得に登場しています。]]></summary>
-        <author>
-            <name>お買いものサポーター</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なんでプルタブふたつ？ 泡の比率をカンペキに注げるビール缶]]></title>
-        <id>https://www.gizmodo.jp/2023/05/nendo-foam-can.html</id>
-        <link href="https://www.gizmodo.jp/2023/05/nendo-foam-can.html"/>
-        <updated>2023-05-14T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:nendoフタの隙間がウマさの秘訣。ビールを美味しく飲む決め手は「泡」の比率だといわれています。見た目の美しさだけでなく、酸化防止や炭酸ガスが抜けないよう、7：3の黄金比率でフタをするのが良いというのが通説ですよね。サーバーで注ぐ場合は、レバーを手前に倒すとビール、奥に倒すと泡が出ます。ですが缶ビールだと調節が難しいところ。最初に高い位置からドバドバーっと泡立てながら入れ、後から静かに]]></summary>
-        <author>
-            <name>岡本玄介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アウトドアや災害時に｡ワイヤレス充電対応ソーラーモバイルバッテリー]]></title>
-        <id>https://www.gizmodo.jp/2023/05/giz-yatai-sonae-2.html</id>
-        <link href="https://www.gizmodo.jp/2023/05/giz-yatai-sonae-2.html"/>
-        <updated>2023-05-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[大容量でありつつも、アウトドアや災害時に便利な機能を備えたモバイルバッテリー。そんなニッチな要素を狙ってきたのが、アウトドアブランドFAL.COが手掛けている「SoNAe」です。日々のソナエ的なネーミングですな。]]></summary>
-        <author>
-            <name>ヤマダユウス型</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国成人の喫煙率、過去最低レベルまで減ってます]]></title>
-        <id>https://www.gizmodo.jp/2023/05/only-10per-are-smokers.html</id>
-        <link href="https://www.gizmodo.jp/2023/05/only-10per-are-smokers.html"/>
-        <updated>2023-05-14T02:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:fongbeerredhot（Shutterstock）タバコが見向きもされなくなってきた…。煙草をくゆらせる姿がカッコいいなんて、もうとっくに昔の話のようです。このほどアメリカ疾病管理予防センター（CDC）は、米国成人男女の喫煙者数が、ここ数十年の調査で最低レベルにまで落ち込んだとの速報値を発表しました。紙巻きタバコを買っては吸い続ける人が、とうとう9人に1人の割合まで減ってきたとい]]></summary>
-        <author>
-            <name>湯木進悟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Androidに緊急連絡先を登録するには？　もしものための準備をしよう]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2305/14/news018.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2305/14/news018.html"/>
-        <updated>2023-05-14T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[外出中に事故などで動けなくなった場合、Android端末には画面ロックをかけたまま緊急通報ができる機能が備わっている。今回は緊急連絡先の登録方法を紹介する。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冷たさを3日間キープ｡折りたためて省スペースなクーラーバッグ]]></title>
-        <id>https://www.gizmodo.jp/2023/05/doshisha-freezing-power-cooler.html</id>
-        <link href="https://www.gizmodo.jp/2023/05/doshisha-freezing-power-cooler.html"/>
-        <updated>2023-05-14T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:DOSHISHAトランスフォームするクーラーバッグ！大型連休から夏休み、秋でも続くアウトドア。キャンプやバーベキューやピクニックには、毎回のように冷やした食材やドリンクを持って行きますよね。そこはクーラーボックスの出番なのですが、空っぽのまま持ち帰るのは何だか空間のムダ使いのようですし、かといってゴミを詰め込むのもちょっと抵抗がありませんか？コンパクト収納で場所を取らないDOSHISH]]></summary>
-        <author>
-            <name>岡本玄介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スケルトンのBeats Studio Buds+、米国の量販店に入荷。週明けに正式発表か]]></title>
-        <id>https://gori.me/?p=147713</id>
-        <link href="https://gori.me/music-accessories/earphones/147713"/>
-        <updated>2023-05-14T01:27:30.000Z</updated>
-        <summary type="html"><![CDATA[スケルトンモデルが用意されると噂の新しい完全ワイヤレスイヤホン「Beats Studio Buds+」のパッケージ写真が流出した。Apple情報を正確にリークした実績を持つBen Geskin氏が5月13日、スケルトンモデルのパッケージ写真をTwitterに投稿。14日には残りのカラーバリエーション…
-The post スケルトンのBeats Studio Buds+、米国の量販店に入荷。週明けに正式発表か first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IIJmio、OCN モバイル ONE、mineoのキャンペーンまとめ【5月14日最新版】　ミドルクラスの端末をお得に販売]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2305/13/news046.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2305/13/news046.html"/>
-        <updated>2023-05-14T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[5月も半ば、雨も降り初夏と梅雨の気配を感じる。MVNO各ブランドも多数のキャンペーンを実施しているが、特に多いのがオプションの無料提供だ。今回はIIJmio、OCN モバイル ONE、mineoで実施しているキャンペーンをまとめた。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スマホに接続して自由なアングルで撮影できるミニカメラ「インスタカム」がまもなく終了]]></title>
-        <id>https://www.gizmodo.jp/2023/05/machi-ya-instacam-review2-660860.html</id>
-        <link href="https://www.gizmodo.jp/2023/05/machi-ya-instacam-review2-660860.html"/>
-        <updated>2023-05-14T00:45:00.000Z</updated>
-        <summary type="html"><![CDATA[スマホに接続するミニカメラ「インスタカム」は3種類のレンズ（標準、マクロ、広角）を使い分けることでクリエイティブな撮影が可能です。小回りが効く1.5mのケーブルと小さなレンズで普段見られない世界を簡単に開拓。付属のクリップで自転車やスケボーにも取り付けられアクションカメラとしても役立ちます。]]></summary>
         <author>
             <name>山田洋路</name>
         </author>
