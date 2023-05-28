@@ -6,6 +6,26 @@
       "siteUrl": "https://gori.me",
       "articles": [
         {
+          "id": "https://gori.me/?p=147903",
+          "author": "g.O.R.i",
+          "description": "ドコモオンラインショップが5月23日より、Pixel 7aを「5G WELCOME割」の対象機種に追加。乗り換え（MNP）の場合は22,000円割引、新規契約の場合は20,000円相当のポイントがもらえると案内している。 ドコモでは、Pixel 7aを75,350円で販売している。5G WELCOM…\nThe post ドコモでPixel 7aが2.2万円オフ。実質負担額は約1.7万円に first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/google/pixel-news/147903",
+          "publishedOn": "2023-05-27T21:46:00.000Z",
+          "wordCount": 1221,
+          "title": "ドコモでPixel 7aが2.2万円オフ。実質負担額は約1.7万円に",
+          "imageUrl": "https://gori.me/uploads/2023/05/GoriMe-Google-Pixel-7a-Review-outside-05-800x533.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=147901",
+          "author": "g.O.R.i",
+          "description": "LINEMOが、6月5日までの期間中に他社から「スマホプラン」に乗り換え（MNP）した場合、PayPayポイント15,000円相当がもらえる「スマホプラン乗り換え大応援キャンペーン」を開催している。 PayPayサービス加盟店にてPayPay決済をした場合、決済金額の最大20％に相当するPayPay…\nThe post LINEMO、1.5万円相当のPayPayポイントがもらえる乗り換えキャンペーンを開催中 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/mobile/smartphone/147901",
+          "publishedOn": "2023-05-27T21:20:15.000Z",
+          "wordCount": 1154,
+          "title": "LINEMO、1.5万円相当のPayPayポイントがもらえる乗り換えキャンペーンを開催中",
+          "imageUrl": "https://gori.me/uploads/2023/05/LINEMO-PayPay-Point-Campaign-800x500.jpg"
+        },
+        {
           "id": "https://gori.me/?p=147899",
           "author": "g.O.R.i",
           "description": "Appleが、マイフォトストリームを2023年7月26日にサービス終了すると案内している。マイフォトストリームは、直近30日間の写真を最大1,000枚までiCloudまでアップロードできる無料サービス。今後はiCloudフォトの利用が推奨されている。 変更に伴い、デバイスからマイフォトストリームへの…\nThe post Apple、マイフォトストリームを2023年7月に終了へ first appeared on ゴリミー.\n\n 【もっと読む】",
@@ -292,6 +312,36 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/mobile.xml",
       "siteUrl": "https://www.itmedia.co.jp/mobile/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2305/28/news015.html",
+          "author": null,
+          "description": "2019年に日本に参入し、その後事実上撤退したWikoが、現在中国で5Gスマホ「Wiko 5G」を販売している。これにはHuaweiが製造する「nova 9 SE」がベースモデルとなっている。米国がHuaweiのスマホ規制を強める中、Huaweiが行っている施策を調べた。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2305/28/news015.html",
+          "publishedOn": "2023-05-28T02:00:00.000Z",
+          "wordCount": 2993,
+          "title": "あの「Wiko」の5Gスマホが中国で登場　ベースになった意外な機種の正体",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2305/28/cover_news015.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2305/28/news009.html",
+          "author": null,
+          "description": "大手キャリアがオンライン専用プランを展開したり、MVNO各社が料金を引き下げたりと、これまでMNOを契約していた人も毎月のスマホ料金を大きく節約できる場合がある。今回はソフトバンクからの乗り換えにオススメのキャリアを紹介する。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2305/28/news009.html",
+          "publishedOn": "2023-05-28T02:00:00.000Z",
+          "wordCount": 2969,
+          "title": "ソフトバンクからの乗り換えにオススメのキャリア【2023年5月】：LINEMOとY!mobileどちらを選ぶ？",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2305/28/cover_news009.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2305/27/news082.html",
+          "author": null,
+          "description": "ドコモオンラインショップの「売れ筋ランキング」。5月15日～5月21日の期間は、Pixel 7aが前週から引き続き、1位を獲得した。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2305/27/news082.html",
+          "publishedOn": "2023-05-28T01:00:00.000Z",
+          "wordCount": 3039,
+          "title": "ドコモ販売ランキング：Pixel 7aが2週連続首位を獲得【5月15日～5月21日】",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2305/27/cover_news082.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/mobile/articles/2305/27/news071.html",
           "author": null,
@@ -841,26 +891,6 @@
           "wordCount": 3069,
           "title": "楽天モバイル公式 楽天市場店、iPhoneの最大20％値引きキャンペーン開催",
           "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2305/22/l_asa_RakuiPhone20_01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2305/22/news083.html",
-          "author": null,
-          "description": "HTCは5月18日（現地時間）、Androidスマートフォン「U23 pro」を発表した。メタバースプラットフォーム「VIVERSE」に対応する。価格は1万6990台湾ドル（約7万7000円）から。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2305/22/news083.html",
-          "publishedOn": "2023-05-22T00:00:00.000Z",
-          "wordCount": 3008,
-          "title": "HTCが台湾で「U23 pro」を発表　Snapdragon 7 Gen 1搭載で約7.7万円から",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2305/22/l_rk1640414_HTCU23pro-01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2305/21/news055.html",
-          "author": null,
-          "description": "スマホのカメラはどんどん高性能化していくが、ディスプレイサイズは大きく変わらない。高解像度の写真をきれいに加工するような場合には、PC上で大きなディスプレイなどを使った方がいいだろう。今回はスマホとPCを接続し、データを遣り取りする方法を紹介する。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2305/21/news055.html",
-          "publishedOn": "2023-05-21T02:00:00.000Z",
-          "wordCount": 2984,
-          "title": "iPhone／Androidの写真データをPCで確認・編集する方法　多彩な連携パターンまとめ",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2305/21/cover_news055.jpg"
         }
       ]
     },
@@ -1855,46 +1885,6 @@
           "wordCount": 4619,
           "title": "ドコモが「Pixel 7a」2.2万円割引へ、オンラインショップで23日～",
           "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1502/235/01.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/column/stapa/1502131.html",
-          "author": null,
-          "description": "MagSafeが大好きな俺。iPhoneをワイヤレス充電したり、端末を磁力でホールドしたり、使ってみるとヒッジョーに便利だ。従来からあるワイヤレス充電規格「Qi」と互換性があるので、Qi充電対応の機器ならMagSafe充電台を使って充電できる。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/1502131.html",
-          "publishedOn": "2023-05-21T15:00:00.000Z",
-          "wordCount": 4655,
-          "title": "[スタパ齋藤の「スタパトロニクスMobile」]MagSafe対応のスマホスタンド、オススメ3種類を一挙ご紹介!!!",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1502/131/stptncs2023-05-22thumbnail.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/column/minna/1502043.html",
-          "author": null,
-          "description": "ゴールデンウィーク（といっても２泊３日だけですが）に、台北に行ってきました。筆者にとっては2020年2月以来の海外でした。文化や気候が異なる場所に訪れるのは、やっぱり楽しいものですね。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/1502043.html",
-          "publishedOn": "2023-05-21T15:00:00.000Z",
-          "wordCount": 4634,
-          "title": "[みんなのケータイ]Google Pixel以外のAndroidスマホでも「消しゴムマジック」って使えるんだね",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1502/043/01.JPG"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1502027.html",
-          "author": null,
-          "description": "どちらかと言えば筆者は何かを考えることに集中しようとした時に周囲の環境音が気になるタイプだ。しかし勝手なモノで子供の頃から受験勉強のピークの時も、社会人になって自宅で仕事をする時も原稿を書く時も”考え書く”という生産性作業の時はお好みのBGMが必要と言う場合も多い。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1502027.html",
-          "publishedOn": "2023-05-21T15:00:00.000Z",
-          "wordCount": 4645,
-          "title": "[本日の一品]発想に集中する為に「Loop Quiet」イヤプラグ（耳栓）を手に入れた",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1502/027/1.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1501372.html",
-          "author": null,
-          "description": "TGR TEAM au TOM'Sの36号車が決勝で勝利を飾った「2023 AUTOBACS SUPER GT Round2 FUJIMAKI GROUP FUJI GT450km RACE」。本誌は今回、TOM'Sとパートナーを組むKDDIのモータースポーツへの取り組みに迫った。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1501372.html",
-          "publishedOn": "2023-05-21T15:00:00.000Z",
-          "wordCount": 4656,
-          "title": "ファンとともに走る「au TOM'S」、KDDIがモータースポーツに取り組むワケ",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1501/372/45.jpg"
         }
       ]
     },
@@ -1903,6 +1893,306 @@
       "feedUrl": "https://www.gizmodo.jp/index.xml",
       "siteUrl": "https://www.gizmodo.jp",
       "articles": [
+        {
+          "id": "https://www.gizmodo.jp/2023/05/ideaco_wrap_holder.html",
+          "author": "mio",
+          "description": "Photo:mioキッチンをより使いやすくしたいと思いSNSでいろんな方のキッチン収納を見ていると、素敵なキッチンに共通しているのは、とにかく“美しく収納している”ということ。小物からでも、何か真似したいな……。サイズ展開豊富な「ラップホルダー」上からサンドホワイト、ホワイト、ブラックそこで見つけたのが、生活用品ブランド「ideaco」のラップホルダーです。ラップホルダーはいろんなメーカーで販売さ",
+          "link": "https://www.gizmodo.jp/2023/05/ideaco_wrap_holder.html",
+          "publishedOn": "2023-05-28T12:00:00.000Z",
+          "wordCount": 358,
+          "title": "切れ味も抜群！ 冷蔵庫に貼れてサッと使えるラップホルダー",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/25/20230525_ideaco_wrap_holder_02.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/25/20230525_ideaco_wrap_holder_02.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/hey-ninja-djs-vol-14.html",
+          "author": "うじたなおき",
+          "description": "Image:うじたなおき第13話はこちら♪【DJ4コマ・第13話】公園の健康器具でDJ上達っの巻！うじたなおき第12話はこちら♪Source:うじたなおきhttps://www.gizmodo.jp/2023/04/hey-ninja-djs-vol-13.htmlSource:うじたなおき",
+          "link": "https://www.gizmodo.jp/2023/05/hey-ninja-djs-vol-14.html",
+          "publishedOn": "2023-05-28T11:00:00.000Z",
+          "wordCount": 309,
+          "title": "【DJ4コマ・第14話】大切な音源を所有していますキーホルダーっの巻！うじたなおき",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/22/djninja_manga_014_title.png"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/22/djninja_manga_014_title.png"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/machi-ya-sttoke_powder-start-670759.html",
+          "author": "Yama3",
+          "description": "「STOKE」は見た目にも美しいオーストリア発の真空二重タンブラー。内側にはセラミックコーティングが施され、金属臭のない上質な口当たりとドリンクの風味を提供してくれます。 高い保温性能で温冷いずれのドリンクも適温で長く楽しめる人気製品です。今回新たに、アウトドアにも使いやすい傷耐性がアップしたパウダーコートモデルが2色新登場。横や逆さまにしても漏れないリークプルーフ仕様で水筒のように持ち運べる機能",
+          "link": "https://www.gizmodo.jp/2023/05/machi-ya-sttoke_powder-start-670759.html",
+          "publishedOn": "2023-05-28T10:45:00.000Z",
+          "wordCount": 325,
+          "title": "タフモデルも登場！横にしても漏れないサーモタンブラー「STTOKE」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/19/GR6.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/19/GR6.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/yamazaki-miso-container-release.html",
+          "author": "mio",
+          "description": "冷蔵庫での味噌パックの保存方法って、なかなか迷うもの。山崎実業の新商品「密閉フードコンテナ」なら、風味を保ちながら冷蔵庫の整理整頓にも役立ってくれるんだとか。",
+          "link": "https://www.gizmodo.jp/2023/05/yamazaki-miso-container-release.html",
+          "publishedOn": "2023-05-28T10:30:00.000Z",
+          "wordCount": 352,
+          "title": "ワンプッシュで密閉。山崎実業のコンテナが味噌保存の正解かも",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/25/20230525_yamazaki_miso_container_03.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/25/20230525_yamazaki_miso_container_03.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/apple-mr-headset-trademark.html",
+          "author": "三浦一紀",
+          "description": "Image:IanZelboいよいよ出てくるのかな？もうすぐWWDCが始まるわけですが、そこで発表されるかもしれないと注目を集めているのが、Apple（アップル）謹製MRヘッドセット。いまだにどんな形なのか、どんな名前なのかは不明ですが、AppleがさまざまなMRヘッドセット関連の商標を登録していることが確認されています。ということで、MRヘッドセット関連の商標登録をまとめてみました。xrOSxr",
+          "link": "https://www.gizmodo.jp/2023/05/apple-mr-headset-trademark.html",
+          "publishedOn": "2023-05-28T10:30:00.000Z",
+          "wordCount": 314,
+          "title": "AppleがMRヘッドセット関連で出願している商標まとめ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/26/2023-03-27ARk00.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/26/2023-03-27ARk00.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/the-north-face-undyed-mountain-jacket.html",
+          "author": "カネコヒデシ（BonVoyage）",
+          "description": "街にもアウトドアにも映える斬新なホワイトカラーが印象的なマウンテンジャケット。実はこの色、環境に配慮すべく染色の工程を省いたために実現されたもの。環境配慮と華やかさが両立したモデルです。",
+          "link": "https://www.gizmodo.jp/2023/05/the-north-face-undyed-mountain-jacket.html",
+          "publishedOn": "2023-05-28T09:00:00.000Z",
+          "wordCount": 338,
+          "title": "THE NORTH FACEの白ジャケットが、街にもアウトドアにも映える理由",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/23/230522_tnf_giz008.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/23/230522_tnf_giz008.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/cannabis-pregnancy-birth-weight-risks-first-trimester-1850442373.html",
+          "author": "岩田リョウコ",
+          "description": "Image:SvetlanaSatsiuk(Shutterstock)アメリカでは娯楽用で販売されているので...。アメリカでは、つわりや妊娠中の不安などでマリファナを使用する人もいるのですが、マリファナが胎児に与える影響は特に報告されていませんでした。しかし、最新の研究で、妊娠中のマリファナは必ずしも害がないとは言えないことがわかりました。マリファナの吸引と赤ちゃんの低体重に関連性がありそうだと",
+          "link": "https://www.gizmodo.jp/2023/05/cannabis-pregnancy-birth-weight-risks-first-trimester-1850442373.html",
+          "publishedOn": "2023-05-28T08:00:00.000Z",
+          "wordCount": 316,
+          "title": "妊娠初期の大麻使用でも、赤ちゃんの出生体重が低くなる可能性",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/20/45859d135761b359c5e8fa5aec2768ad.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/20/45859d135761b359c5e8fa5aec2768ad.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/razersuperfuture-matte-black-glasses.html",
+          "author": "岡本玄介",
+          "description": "ゲーミングPCや極彩色に光る周辺機器を作るRAZER（レイザー）から、ゲームに集中する目をブルーライトからまもる調光メガネ「Razersuperfuture Matte Black Glasses」が登場。",
+          "link": "https://www.gizmodo.jp/2023/05/razersuperfuture-matte-black-glasses.html",
+          "publishedOn": "2023-05-28T07:00:00.000Z",
+          "wordCount": 371,
+          "title": "3Dメガネみたい？ ブルーライトをカットするゲーミング調光メガネ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/26/230526_razer.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/26/230526_razer.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/machi-ya-smoll_envelope_wallet-end.html",
+          "author": "cheee",
+          "description": "本革の魅力を最大限に生かす！ がコンセプトの極薄レザーウォレット「Smoll Envelope Wallet」。素材には環境にも人にも優しい植物タンニンなめし革を採用。薄いだけでなく、軽くて丈夫な財布です。折り紙をヒントにした、飽きがこないシンプルなデザインが特徴。コンパクトとロングの2サイズ展開でカラーは5色。どちらのサイズにもカード、紙幣、小銭、レシートなどを入れるための4層ポケット付き。お出",
+          "link": "https://www.gizmodo.jp/2023/05/machi-ya-smoll_envelope_wallet-end.html",
+          "publishedOn": "2023-05-28T06:45:00.000Z",
+          "wordCount": 340,
+          "title": "折り紙発想の薄型レザーウォレット「Smoll Envelope Wallet」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/19/original.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/19/original.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/every-jedi-that-survived-order-66-canon-star-wars-1850447696.html",
+          "author": "岩田リョウコ",
+          "description": "正義のジェダイたちが、フォースを悪用する人たちが支配する世界によって反逆者と見なされ発せられたジェダイ抹殺指令が「オーダー66」です。これによってたくさんのジェダイが殺されたのですが、生き延びたジェダイもいました。その後亡くなってしまったジェダイもいますが、オーダー66で生き残ったジェダイたちをご紹介します。",
+          "link": "https://www.gizmodo.jp/2023/05/every-jedi-that-survived-order-66-canon-star-wars-1850447696.html",
+          "publishedOn": "2023-05-28T06:00:00.000Z",
+          "wordCount": 394,
+          "title": "こんなにいる。抹殺指令「オーダー66」を生き延びたジェダイまとめ【ネタバレあり】",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/26/20230526_80041_01.jpeg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/26/20230526_80041_01.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/270239-costory-universal-backpack-2nd.html",
+          "author": "山田洋路",
+          "description": "Photo:山田洋路こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。リアルレザーを代替する素材として注目を集めているヴィーガンレザー。いまや、本革に遜色ないほどエレガントな質感をまとった素材も登場しています。エシカル素材でありながら、本革の高級感をリアルに再現したのが「ユニバーサルバックパック」です。スタイリッシュなルックスと中身へのアクセス性を高めた設計で、使い続けた",
+          "link": "https://www.gizmodo.jp/2023/05/270239-costory-universal-backpack-2nd.html",
+          "publishedOn": "2023-05-28T05:45:00.000Z",
+          "wordCount": 313,
+          "title": "注目のヴィーガンレザー仕様。「ユニバーサルバックパック」が物が多い人のツボを押さえてる！",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/22/original-2.jpeg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/22/original-2.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/car-trunk-pocket-review.html",
+          "author": "ROOMIE編集部",
+          "description": "きれいに保ちたいと思いつつも、なかなか片付かない車の中。意外と収納しておきたいものが多いので仕方ない、と思っていたのもあってスッキリとは言いがたい状態でした。でも今回見つけた、コレを試したら一発解決できちゃったのでご紹介します。",
+          "link": "https://www.gizmodo.jp/2023/05/car-trunk-pocket-review.html",
+          "publishedOn": "2023-05-28T05:35:00.000Z",
+          "wordCount": 354,
+          "title": "小物でゴチャつきがちな車内、このポケットでスマートな見た目になりました",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/25/2202031car-01.jpeg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/25/2202031car-01.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/amazon-sanwadirect-400hub065bk.html",
+          "author": "田中宏和",
+          "description": "無線よりも、レスポンス、スピードに優れる有線ケーブルが好きという人にとって、「USBポート不足しがち問題」は、ちょっとした悩みですよね。特に、ノートPCの場合、USBポートは3つもあれば上出来という状態ですもんね…。そこで、サンワダイレクトの「USB3.0ハブ4ポート クランプ固定  400-HUB065BK」を要チェック。これは、モニターの下枠、デスクの端などに手軽にクランプ固定できる、4ポート",
+          "link": "https://www.gizmodo.jp/2023/05/amazon-sanwadirect-400hub065bk.html",
+          "publishedOn": "2023-05-28T04:45:00.000Z",
+          "wordCount": 329,
+          "title": "目立たずUSBポートを増設！ サンワダイレクトのクランプ固定式USBハブ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2021/10/07/211007_sanwausbhub_top.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2021/10/07/211007_sanwausbhub_top.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/giz-yatai-flagship-optimus-prime-1.html",
+          "author": "ヤマダユウス型",
+          "description": "ロボット開発企業Robosenが手掛けた「フラッグシップ オプティマスプライム」。日本では行雲商事から販売されているのですが、なんとギズ屋台でも取り扱いが始まりました！",
+          "link": "https://www.gizmodo.jp/2023/05/giz-yatai-flagship-optimus-prime-1.html",
+          "publishedOn": "2023-05-28T04:00:00.000Z",
+          "wordCount": 324,
+          "title": "アプリで操縦＆トランスフォームするオプティマス･プライム",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/04/11/230411robosentransformer_01.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/04/11/230411robosentransformer_01.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/useful-features-of-ms-edge.html",
+          "author": "satomi",
+          "description": "Microsoftのブラウザ「Edge」の便利な機能を解説。",
+          "link": "https://www.gizmodo.jp/2023/05/useful-features-of-ms-edge.html",
+          "publishedOn": "2023-05-28T03:00:00.000Z",
+          "wordCount": 355,
+          "title": "使いこなしてる？ Bing AIと融合したMicrosoft Edgeの便利機能9つ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/20/20230520BingAI_Edge.png"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/20/20230520BingAI_Edge.png"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/7artisans-handheld-split-diopter.html",
+          "author": "武者良太",
+          "description": "Image:7Artisans面白いモノ作るなあ。味わい深い描写のマニュアルレンズが得意な7Artisans（七工匠）から、手持ち式の半円フィルター「HandheldSplitDiopter」がやってきます。ピントが合ってるところも合っていないところも、まるごとまとめてドリーミーアトモスフィアしちゃう。その効果のほどを御覧ください。Image:7Artisans使用前も雰囲気あってよい感じ。しかし",
+          "link": "https://www.gizmodo.jp/2023/05/7artisans-handheld-split-diopter.html",
+          "publishedOn": "2023-05-28T02:00:00.000Z",
+          "wordCount": 315,
+          "title": "ドリーミーなボケ写真を作り出す手持ち半円フィルター",
+          "enclosure": {
+            "length": "0",
+            "type": "image/",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/26/top."
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/26/top."
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/machi-ya-4wayfoldingbox-review2-653276.html",
+          "author": "山科拓郎",
+          "description": "「4WAY Folding Box」はキャンプで役立つ4つの機能を兼ね備えた優秀コンテナ。スチール脚を立てて天板を広げれば、ちょうどよい高さのテーブルに。付属のキャスターやハンドルを利用すれば、積み重ねたコンテナを移動できるキャリーに変身。30Lと50Lからサイズを選べて、コンテナとしての収納力も優秀です。",
+          "link": "https://www.gizmodo.jp/2023/05/machi-ya-4wayfoldingbox-review2-653276.html",
+          "publishedOn": "2023-05-28T00:45:00.000Z",
+          "wordCount": 327,
+          "title": "収納・運搬・ベンチ・テーブルの4役がこなせるアウトドア用収納BOX「4WAY Folding Box」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/24/4WAYFoldingBoxreview200.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/24/4WAYFoldingBoxreview200.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/switle-stick.html",
+          "author": "三浦一紀",
+          "description": "Image:シリウスさあみんなで考えよう！家電ベンチャー、シリウスが発売しているスティック型コードレス掃除機「switlestick」（スイトルスティック）。約1,250gと軽量で、最大100Wの吸引力。標準運転時は40分の連続運転が可能と、普段使いの掃除機として必要十分な性能を有しています。お手入れが簡単な理由は…でも、一番のポイントは「お手入れが簡単」というところ。その秘密はフィルター。なんと",
+          "link": "https://www.gizmodo.jp/2023/05/switle-stick.html",
+          "publishedOn": "2023-05-28T00:00:00.000Z",
+          "wordCount": 313,
+          "title": "このコードレス掃除機、フィルターが○○だからお手入れがラクなんです。",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/26/sub3.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/26/sub3.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/machi-ya-allestsuit-review3-651396.html",
+          "author": "山科拓郎",
+          "description": "「ALLESTサステナブルスーツ」は、「BotanicalTech」というトウモロコシ由来の機能性素材を採用。シルクのような肌触りと軽さを実現し、肌への不快な張りつきも抑えて高い通気性を確保しているのが特長。5月の夏日に、その着心地をチェックしてみました！",
+          "link": "https://www.gizmodo.jp/2023/05/machi-ya-allestsuit-review3-651396.html",
+          "publishedOn": "2023-05-27T23:45:00.000Z",
+          "wordCount": 325,
+          "title": "サステナブル素材採用の涼しく軽量な「ALLESTサステナブルスーツ」の着心地をレポート",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/25/ALLESTreview300.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/25/ALLESTreview300.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/05/3coins_carbag.html",
+          "author": "osio",
+          "description": "Photo:osioROOMIE2023年5月15日掲載の記事より転載車内を快適にしたくて、最近いろんなアイテムに手を出しています。わたしが特に気にしているのは後部座席の居心地。こどもをチャイルドシートに乗せ、その隣に座ることが多くなったため、自分のためにも家族のためにもなんとかできたらいいな……と思っていました。収納アイテムでドライブを快適にそこで使いはじめたのが、3COINSで見つけた「CAR",
+          "link": "https://www.gizmodo.jp/2023/05/3coins_carbag.html",
+          "publishedOn": "2023-05-27T13:30:00.000Z",
+          "wordCount": 312,
+          "title": "さすが3COINS！ 車中のデッドスペースが550円で拡張できる",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/24/230510co_9.jpeg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/24/230510co_9.jpeg"
+        },
         {
           "id": "https://www.gizmodo.jp/2023/05/ancient-mesopotamian-clay-tablets-mention-kissing.html",
           "author": "岩田リョウコ",
@@ -3972,306 +4262,6 @@
             "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/16/%E2%88%87%E3%82%B9%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%90%E3%83%83%E3%82%B0review00.jpg"
           },
           "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/16/%E2%88%87%E3%82%B9%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%90%E3%83%83%E3%82%B0review00.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/05/machi-ya-deepsleeper-end-665677.html",
-          "author": "飯田あゆみ",
-          "description": "理想的な体圧分散がマットレス「DEEP SLEEPER」。高反発、高弾力で体を支えるため、腰や首などに負荷がかからりにくいのが特長です。帝人フロンティアが開発したエアーバーティカルという特殊繊維をカバーの中綿に採用し、蒸れにくさを実現しました。",
-          "link": "https://www.gizmodo.jp/2023/05/machi-ya-deepsleeper-end-665677.html",
-          "publishedOn": "2023-05-21T23:45:00.000Z",
-          "wordCount": 328,
-          "title": "AQUAと帝人フロンティアが共同開発した睡眠環境を整えるマットレス「DEEP SLEEPER」が本日終了",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/11/DEEPSLEEPER00.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/11/DEEPSLEEPER00.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/05/origami-solar-panel.html",
-          "author": "岡本玄介",
-          "description": "Image:SegoInnovations広げると8倍の大きさに！アウトドアや被災時に活躍する、折りたたみ式の太陽光パネル。スマートフォンや充電して使うガジェットに囲まれた我々は、電力なしで生きることができないため、ひとりに一つレベルで大事なアイテムです。折り紙式は世界初？Image:SegoInnovations大小の差はあれど、三つ折りや四つ折りでたたむタイプは良く見ますよね。ですがSegoI",
-          "link": "https://www.gizmodo.jp/2023/05/origami-solar-panel.html",
-          "publishedOn": "2023-05-21T23:00:00.000Z",
-          "wordCount": 334,
-          "title": "折り紙みたいに小さくたためるソーラーパネル",
-          "enclosure": {
-            "length": "0",
-            "type": "image/gif",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/19/2023-05-1922.38.00.gif"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/19/2023-05-1922.38.00.gif"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/05/1h-qurra-dryer.html",
-          "author": "岡本玄介",
-          "description": "Image:スリーアール10時間の乾燥が1時間で終わるって。雨の日の洗濯は、乾きにくいのでどうしても室内干しになりますよね。浴室乾燥や除湿機などの方法もありますが、もっと小さな空間で乾燥させれば効率的で早く済ませることができます。密閉するから早く乾燥できるスリーアール株式会社の「Qurra（クルラ）ぽけどらいさっと」は、箱型の本体から左右に翼を開いてカバーを被せるだけ。密閉するため、10時間の乾燥",
-          "link": "https://www.gizmodo.jp/2023/05/1h-qurra-dryer.html",
-          "publishedOn": "2023-05-21T22:00:00.000Z",
-          "wordCount": 346,
-          "title": "梅雨の救世主。 1時間で洗濯物が乾く折りたたみ乾燥機",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/19/230520_3r.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/19/230520_3r.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/05/machi-ya-surprisebottle-revierw-664316.html",
-          "author": "Haruki Matsumoto",
-          "description": "「サプライズボトル」は、ナイトロ（窒素）ドリンクを自宅で手軽に楽しめるドリンクメーカー。ビールやコーヒーに使用でき、クリーミーな泡とスッキリした仕上がりに。ガスカートリッジは市販のものでも使用可能。\nさらに窒素だけでなく、炭酸ガスにも対応するのでオリジナル炭酸ドリンクだって作れてしまいます。一石二鳥なドリンクメーカーを試してみたので、ぜひチェックしてみてください！",
-          "link": "https://www.gizmodo.jp/2023/05/machi-ya-surprisebottle-revierw-664316.html",
-          "publishedOn": "2023-05-21T12:45:00.000Z",
-          "wordCount": 331,
-          "title": "炭酸にも対応！ 窒素でクリーミーなドリンクが作れる「サプライズボトル」",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/17/%E3%82%B5%E3%83%95%E3%82%9A%E3%83%A9%E3%82%A4%E3%82%B9%E3%82%99%E3%83%9B%E3%82%99%E3%83%88%E3%83%AB_render-19.png"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/17/%E3%82%B5%E3%83%95%E3%82%9A%E3%83%A9%E3%82%A4%E3%82%B9%E3%82%99%E3%83%9B%E3%82%99%E3%83%88%E3%83%AB_render-19.png"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/05/oh-hey-theres-the-juice-probe-heading-for-jupiter.html",
-          "author": "そうこ",
-          "description": "今年4月に打ち上げられた欧州宇宙機関のJUICE（木星氷衛星探査計画）。打ち上げから8年後の2031年に木星系に到着予定。今この瞬間も木星に向かって宇宙空間を旅していますが、その姿をエアバスが撮影に成功、Twitterで公開しています。",
-          "link": "https://www.gizmodo.jp/2023/05/oh-hey-theres-the-juice-probe-heading-for-jupiter.html",
-          "publishedOn": "2023-05-21T12:00:00.000Z",
-          "wordCount": 343,
-          "title": "8年かけて木星へ移動中の探査機が地上から見えた",
-          "enclosure": {
-            "length": "0",
-            "type": "image/gif",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/19/230519Jupiter.GIF"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/19/230519Jupiter.GIF"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/05/270120.html",
-          "author": "たもり",
-          "description": "深い眠りが足りなくなる睡眠時無呼吸症候群は、脳の健康の悪化と関連があることが最近の研究でわかりました。",
-          "link": "https://www.gizmodo.jp/2023/05/270120.html",
-          "publishedOn": "2023-05-21T11:00:00.000Z",
-          "wordCount": 335,
-          "title": "睡眠時無呼吸症候群、脳にもダメージを与えている可能性",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/18/230518SleepApnea.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/18/230518SleepApnea.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/05/machi-ya-slidekeycase-review-653984.html",
-          "author": "junior",
-          "description": "「オールインワンキーケース」は、通勤や移動時に使えるスライド式のポーチ型キーケース。ドイツFIDLOCK社のマグネット式バックルを採用したことで、着脱を的確かつ素早く行えます。各種キーや現金、カード、ワイヤレスイヤホンなど小物を収納するのにピッタリなケースとして活躍が期待できます。現在クラウドファンディングサイトmachi-yaにてキャンペーン中。",
-          "link": "https://www.gizmodo.jp/2023/05/machi-ya-slidekeycase-review-653984.html",
-          "publishedOn": "2023-05-21T10:45:00.000Z",
-          "wordCount": 329,
-          "title": "脱着も軽快！ カードや小銭も収納できるマルチレザーキーケースを使ってみた",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/15/DSCF0951.png"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/15/DSCF0951.png"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/05/wendys-tunnel-robot.html",
-          "author": "そうこ",
-          "description": "Image:Wendy’sウェンディーズのチキンフィレバーガーが好きです。アメリカのウェンディーズが次世代店舗計画を発表。これがなかなか便利そうです。なんでも、駐車場の地下を改造予定だとか。駐車場にトンネルを掘る！ファストフード店のオーダー方法として、すでに定着してきたモバイルオーダー。お店に行く前に事前にスマホからオーダーしておいて、お店では受け取るだけ。待ち時間が短縮できるのが嬉しいですね。日",
-          "link": "https://www.gizmodo.jp/2023/05/wendys-tunnel-robot.html",
-          "publishedOn": "2023-05-21T10:30:00.000Z",
-          "wordCount": 312,
-          "title": "次世代ウェンディーズ、駐車場の地下トンネルからロボットが車に注文を届けてくれるらしい",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/19/230519wendys.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/19/230519wendys.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/05/rtx-4060-ti-16gb-price.html",
-          "author": "武者良太",
-          "description": "Image:NVIDIA生成AIに効くエントリーGPUになりそう。コストパフォーマンスに優れるGPU、RTX4060シリーズが発表されました。ラインナップは次の通りです。GeForceRTX40608GB5万2800円～　7月発売GeForceRTX4060Ti8GB6万9800円～　5月24日発売GeForceRTX4060Ti16GB8万8800円～　7月発売まずは中堅どころのRTX4060T",
-          "link": "https://www.gizmodo.jp/2023/05/rtx-4060-ti-16gb-price.html",
-          "publishedOn": "2023-05-21T10:30:00.000Z",
-          "wordCount": 351,
-          "title": "生成AIに活用できるエントリーGPUの価格はこのくらい",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/19/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%882023-05-19170757.png"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/19/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%882023-05-19170757.png"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/05/magnet-finger.html",
-          "author": "岡本玄介",
-          "description": "40年も昔に自らの指先に磁石を埋め込んだ猛者がいました。",
-          "link": "https://www.gizmodo.jp/2023/05/magnet-finger.html",
-          "publishedOn": "2023-05-21T09:00:00.000Z",
-          "wordCount": 315,
-          "title": "40年間指先に磁石を埋め込んだイカサマ師、除去した理由は？",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/19/20230519_78844_01.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/19/20230519_78844_01.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/05/apple-watch-messenger.html",
-          "author": "はらいさん",
-          "description": "受け取ったメッセージに対してワンタップで返信できるApple Watch向け「メッセンジャー」アプリですが、5月末から使えなくなります。",
-          "link": "https://www.gizmodo.jp/2023/05/apple-watch-messenger.html",
-          "publishedOn": "2023-05-21T08:00:00.000Z",
-          "wordCount": 319,
-          "title": "Apple Watch向け「メッセンジャー」アプリが5月末から使えなくなるよ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/17/230517Applewatch.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/17/230517Applewatch.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/05/nitori-kitchen-goods.html",
-          "author": "mio",
-          "description": "今年1月下旬にニトリから発売された「水切りＷコート シリーズ」は、本体スチールにさびにくいWコート加工、トレーや箸立て、排水口に抗菌加工が施されています。ジメジメするこれからの季節、キッチンを水垢から守るために試してみては？",
-          "link": "https://www.gizmodo.jp/2023/05/nitori-kitchen-goods.html",
-          "publishedOn": "2023-05-21T07:35:00.000Z",
-          "wordCount": 346,
-          "title": "ニトリの水切りグッズで、キッチンの水垢とおさらばしよう",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/18/202305_thum.png"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/18/202305_thum.png"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/05/water-cooler-mat.html",
-          "author": "三浦一紀",
-          "description": "Image:サンコー冷水のパワー。なんか電気代上がるらしいですね。これからエアコンフル稼働の季節になるのに…。電気代が気になっちゃって、エアコン付けるのもとまどっちゃう。そこでサンコーの「ひんやり水流快眠マット2」なんていかがでしょう。Image:サンコーこちら、冷水が流れるマット。本体のタンクに水を入れて、マットをセット。そしてスイッチを入れれば、ひんやりマットの出来上がり。消費電力は約6W。1",
-          "link": "https://www.gizmodo.jp/2023/05/water-cooler-mat.html",
-          "publishedOn": "2023-05-21T07:00:00.000Z",
-          "wordCount": 307,
-          "title": "寝苦しい夜。\"水冷\"のマットでひんやりナイトがいいかも",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/19/230519watermat-01.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/19/230519watermat-01.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/05/fun-brella.html",
-          "author": "三浦一紀",
-          "description": "Image:サンコー扇風機と傘のマリアージュ。サンコーから発売されている「折りたたみファンブレラ」。ファンブレラって聞いたことないなと思っていたら、どうやら傘にファンがついているオリジナル製品のよう。Image:サンコー折りたたみ傘の内部にファンが内蔵されていて、傘を差した状態で風が吹いてくるという仕組み。ここ数年、ハンディファンが身近な存在となりましたが、日傘を差しながらハンディファンを持って使",
-          "link": "https://www.gizmodo.jp/2023/05/fun-brella.html",
-          "publishedOn": "2023-05-21T06:00:00.000Z",
-          "wordCount": 309,
-          "title": "風が吹く折りたたみ傘で熱中症対策を",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/19/230519fanbrella01.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/19/230519fanbrella01.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/05/262243-costory-trampoline-rebounder2nd.html",
-          "author": "山田洋路",
-          "description": "Image:CoSTORYこちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。運動が続かない…という方には部屋に小型のトランポリンを置いてみることをおススメします。重い腰を上げて身体を動かし始めるのは度が高いのに対して、そこにあるだけで飛び跳ねたくなるのがトランポリンの魅力で難易す。トランポリンをお得に購入したいとなれば、共同購入サイト「CoSTORY」に掲載中の「2way",
-          "link": "https://www.gizmodo.jp/2023/05/262243-costory-trampoline-rebounder2nd.html",
-          "publishedOn": "2023-05-21T05:45:00.000Z",
-          "wordCount": 319,
-          "title": "家の中でトランポリンができる！「2way トランポリン／リバウンダー」が80%OFFに",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2022/11/22/trampoline-rebounder01.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2022/11/22/trampoline-rebounder01.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/05/270176.html",
-          "author": "田中 青紗",
-          "description": "Photo:田中青紗ROOMIE2023年3月15日掲載の記事より転載春は文房具を新しく揃えたくなる季節。カラーマーカーやカラーペンを買い替えたくなるのですが、はっきりとした蛍光色があんまり得意じゃない私。可愛い色味のペンはないかな〜と探していたときに、ドストライクなアイテムを発見しました！新生活にぴったり！無印良品のペン無印良品「ラインマーカー」一本　80円（税込）それがこちらの無印良品の「ライ",
-          "link": "https://www.gizmodo.jp/2023/05/270176.html",
-          "publishedOn": "2023-05-21T05:25:00.000Z",
-          "wordCount": 311,
-          "title": "無印良品の“やさしいラインマーカー”が、タスク管理で大活躍した理由",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/19/2-1.jpeg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/19/2-1.jpeg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/05/269942-costory-qubii-memory-pack-2nd.html",
-          "author": "山田洋路",
-          "description": "Photo:山田洋路こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。スマホの容量がいっぱいだけどパソコンにつないでのバックアップは億劫、かといって、クラウドにデータを置いておくのは心もとない…。という方にピッタリのソリューションが「Qubii」です。毎日の充電時間を利用して、写真や連絡先などをバックアップできるので手間なしです。今回は、共同購入サイトCoSTORYでお得",
-          "link": "https://www.gizmodo.jp/2023/05/269942-costory-qubii-memory-pack-2nd.html",
-          "publishedOn": "2023-05-21T04:45:00.000Z",
-          "wordCount": 312,
-          "title": "さらばスマホの容量不足。充電しながら写真のバックアップができる「Qubii」が優秀すぎた",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/15/original6.jpeg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/15/original6.jpeg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/05/speeding-up-delivery-with-ai.html",
-          "author": "そうこ",
-          "description": "Amazonはエリアの需要を的確に把握し、倉庫に適切な数の在庫を補充しておくシステムにAIを活用して、配送の高速化を目論んでいる。",
-          "link": "https://www.gizmodo.jp/2023/05/speeding-up-delivery-with-ai.html",
-          "publishedOn": "2023-05-21T03:00:00.000Z",
-          "wordCount": 316,
-          "title": "AmazonはAIで商品需要と在庫管理を加速することを目論む",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/19/Shutterstock_1514808629.jpeg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/19/Shutterstock_1514808629.jpeg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/05/giz-yatai-miak-3in1-wave-1.html",
-          "author": "ヤマダユウス型",
-          "description": "充電環境をよりはかどらせてくれるのが、ワイヤレスな充電ステーション「miak 3in1 Wave」。オールワイヤレス＆3-in-1という、快適さに抜かりのない仕様が特徴です。",
-          "link": "https://www.gizmodo.jp/2023/05/giz-yatai-miak-3in1-wave-1.html",
-          "publishedOn": "2023-05-21T02:00:00.000Z",
-          "wordCount": 328,
-          "title": "身近なガジェットの充電を快適化できる3-in-1充電器",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/03/27/230327miakpowerstation_01.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/03/27/230327miakpowerstation_01.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/05/machi-ya-deepsleeper-review-665677.html",
-          "author": "山田洋路",
-          "description": "睡眠環境を見直したい方に、AQUA×帝人フロンティアのプレミアム薄型マットレス「DEEP SLEEPER」がおすすめです。高反発・高密度で理想的な体圧分散を実現。肌触りの良い高級ニットカバーと縦成構造不織布【エアーバーティカル®】を使用し、通気性と弾力性が抜群です。",
-          "link": "https://www.gizmodo.jp/2023/05/machi-ya-deepsleeper-review-665677.html",
-          "publishedOn": "2023-05-21T01:45:00.000Z",
-          "wordCount": 325,
-          "title": "テイジン 快適清潔プレミアム マットレス「DEEP SLEEPER」の寝心地を試してみた",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/18/DEEPSLEEPERreview00.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/18/DEEPSLEEPERreview00.jpg"
         }
       ]
     }
