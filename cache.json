@@ -6,6 +6,16 @@
       "siteUrl": "https://gori.me",
       "articles": [
         {
+          "id": "https://gori.me/?p=148792",
+          "author": "g.O.R.i",
+          "description": "Twitterは7月21日、Twitter Blueに未加入の非認証アカウントに対し、送信できるダイレクトメッセージ（DM）の件数を制限すると発表した。 ITmedia NEWSの調べによると、1日20件までに制限される模様。Twitter公式のヘルページによると、現地時間2023年7月21日より制…\nThe post Twitter、”画期的”なDMのスパム対抗策を思いつく。「そうだ、ユーザーに課金させよう」 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/twitter/twitter-news/148792",
+          "publishedOn": "2023-07-23T00:33:48.000Z",
+          "wordCount": 1487,
+          "title": "Twitter、”画期的”なDMのスパム対抗策を思いつく。「そうだ、ユーザーに課金させよう」",
+          "imageUrl": "https://gori.me/uploads/2023/07/Twitter-going-to-force-you-to-pay-for-dms-800x500.jpg"
+        },
+        {
           "id": "https://gori.me/?p=148785",
           "author": "g.O.R.i",
           "description": "Amazon.co.jpで、プライム会員向けの特選タイムセール「バイヤーイチオシ家電などがお買い得」が開催中。プライムデーで「数量限定招待セール」として登場した製品の多くが、セール価格で登場している。 LGの55V型有機ELテレビは10万円以下、TCLの75V型4K液晶テレビはほぼ10万円で購入でき…\nThe post 最大39％オフ。プライムデーの「数量限定招待セール」に登場した人気商品がまた安くなってる first appeared on ゴリミー.\n\n 【もっと読む】",
@@ -254,26 +264,6 @@
           "wordCount": 1499,
           "title": "掘り出し物が、見つかるチャンス。Amazonで「家具在庫処分セール」が開催中",
           "imageUrl": "https://gori.me/uploads/2023/07/Amazon-Kagu-Zaiko-Shobun-Sale-800x375.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=148438",
-          "author": "g.O.R.i",
-          "description": "朝4時頃、僕は京都の観光名所である伏見稲荷大社の前に立っていた。過去にも訪れたことはあるが、この時間帯は初めて。すでに2時間以上歩いていたが、これが今回の目的地。少年のような気持ちで空を見上げた。 ブルーアワーで青く染まった空に鳥居と楼門を前に頭を下げ、千本鳥居のほうへ向かう。普段からこの時間帯は起…\nThe post 伏見稲荷大社を明け方に散策。観光名所をほぼ独り占め first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/camera/lens/148438",
-          "publishedOn": "2023-07-16T23:53:16.000Z",
-          "wordCount": 1534,
-          "title": "伏見稲荷大社を明け方に散策。観光名所をほぼ独り占め",
-          "imageUrl": "https://gori.me/uploads/2023/06/Kyoto-Fushimi-Inari-at-midnight-01-800x534.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=148673",
-          "author": "g.O.R.i",
-          "description": "Appleは、新しい「M3」チップを搭載した新型Mac製品を、今年の10月頃より発表する可能性がある。Appleに詳しいBloombergの名物記者Mark Gurman氏の最新ニュースレターによると、Appleは「iPhone 15」シリーズと新型Apple Watchを発表する9月頃にイベントを…\nThe post M3チップ搭載Mac、10月から出てくるっぽいぞ。まずはMacBook Airや24インチiMacから first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/macbookair/148673",
-          "publishedOn": "2023-07-16T21:30:19.000Z",
-          "wordCount": 1479,
-          "title": "M3チップ搭載Mac、10月から出てくるっぽいぞ。まずはMacBook Airや24インチiMacから",
-          "imageUrl": "https://gori.me/uploads/2023/07/M3-MacBook-Air-top-image-800x500.jpg"
         }
       ]
     },
@@ -282,6 +272,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/mobile.xml",
       "siteUrl": "https://www.itmedia.co.jp/mobile/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2307/23/news059.html",
+          "author": null,
+          "description": "Googleは、Androidのメッセージングアプリ「メッセージ」でIETFが承認したばかりのE2EE新プロトコル「MLS」をサポートすると発表した。MetaやCiscoもMLSのサポートを表明している。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2307/23/news059.html",
+          "publishedOn": "2023-07-23T08:15:00.000Z",
+          "wordCount": 2864,
+          "title": "Google、「メッセージ」でIETFの新E2EEプロトコル「MLS」サポートへ",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2307/23/cover_news059.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2307/23/news019.html",
+          "author": null,
+          "description": "水場に遊びに行くことも多い夏。Android端末は防水規格に対応していない端末もあり、水ぬれは禁物だ。万が一端末が水没したり水にぬれたりした場合の対策を紹介する。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2307/23/news019.html",
+          "publishedOn": "2023-07-23T01:00:00.000Z",
+          "wordCount": 2866,
+          "title": "Android端末が水没！　すぐにやることと、やってはいけないこと",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2307/23/cover_news019.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/mobile/articles/2307/22/news067.html",
           "author": null,
@@ -741,26 +751,6 @@
           "wordCount": 2877,
           "title": "Rakuten最強プラン、2回線目以降は本人確認書類の提示が不要に　追加契約で3000ポイント付与も",
           "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2307/17/cover_news041.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2307/16/news042.html",
-          "author": null,
-          "description": "家族や友達と海へ遊びに行くときは、やはり思い出を共有したいものですよね。しかし、機能性など優れてきてはいるものの、水辺でのスマホの使用には十分な注意が必要です。海でスマホを使うときに気を付けたいポイントを紹介します。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2307/16/news042.html",
-          "publishedOn": "2023-07-16T01:00:00.000Z",
-          "wordCount": 2887,
-          "title": "海でスマホを安全に使うには？　やってはいけない3つのポイント",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2307/16/cover_news042.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2307/16/news017.html",
-          "author": null,
-          "description": "NTTドコモ、au、ソフトバンク、楽天モバイルの4キャリアに加え、MVNOやメーカーがオープンマーケット向けにもスマートフォンを投入している。2022年1月以降に発売されたAndroidスマートフォンの価格をまとめる。記事内の価格は全て税込み。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2307/16/news017.html",
-          "publishedOn": "2023-07-16T01:00:00.000Z",
-          "wordCount": 3055,
-          "title": "現行Androidスマートフォンの価格まとめ【2023年7月編】　Pixel FoldやAQUOS R8 proの価格が出そろう",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2307/16/l_rk1640414_AndroidPrice-01.jpg"
         }
       ]
     },
@@ -816,6 +806,16 @@
       "feedUrl": "https://k-tai.watch.impress.co.jp/data/rss/1.0/ktw/feed.rdf",
       "siteUrl": "https://k-tai.watch.impress.co.jp",
       "articles": [
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1518265.html",
+          "author": null,
+          "description": "NTT西日本は、22日21時11分ごろから、三重県全域で通信サービスに障害が発生していることを明らかにした。光アクセスサービスが利用できない状況で、電話では緊急通報もできない状況。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1518265.html",
+          "publishedOn": "2023-07-22T14:05:31.000Z",
+          "wordCount": 4686,
+          "title": "NTT西日本、三重県全域でフレッツやひかり電話など通信障害　22日夜",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1518/265/230722.jpg"
+        },
         {
           "id": "https://k-tai.watch.impress.co.jp/docs/news/1518090.html",
           "author": null,
@@ -1573,6 +1573,186 @@
       "feedUrl": "https://www.gizmodo.jp/index.xml",
       "siteUrl": "https://www.gizmodo.jp",
       "articles": [
+        {
+          "id": "https://www.gizmodo.jp/2023/07/262019.html",
+          "author": "田中宏和",
+          "description": "車のフロントガラス内側って、ホントに拭きづらいですよね…。フロントガラスは、空気抵抗を減らす目的で相当に傾斜しているために、精一杯手を伸ばしても、ダッシュボードがジャマをして奥まで届かなかったりするんです。そこで役立つのが専用ツール。カーメイトの「車の内窓専用ワイパー」と「ガラス内側専用クリーナー」があれば、今までの苦労がウソみたいに楽に、ピカピカにできますよ。",
+          "link": "https://www.gizmodo.jp/2023/07/262019.html",
+          "publishedOn": "2023-07-23T11:45:00.000Z",
+          "wordCount": 368,
+          "title": "車のフロントガラス内側を、簡単に隅々までピカピカにできるカーメイトの専用ツール2点",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2022/11/17/%E3%82%AB%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%88%E3%81%AE%E5%B0%82%E7%94%A8%E3%83%84%E3%83%BC%E3%83%AB%EF%BC%92%E7%82%B91.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2022/11/17/%E3%82%AB%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%88%E3%81%AE%E5%B0%82%E7%94%A8%E3%83%84%E3%83%BC%E3%83%AB%EF%BC%92%E7%82%B91.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/07/iced-coffee.html",
+          "author": "ROOMIE編集部",
+          "description": "Photo:ROOMIE編集部ROOMIE2023年6月27日掲載の記事より転載アイスコーヒー、おいしいですよね〜。日に、何杯も飲んでしまいます。何気なく飲んでいるアイスコーヒーも、淹れ方ひとつで味も香りもまったく変わるそうです。そこで、アイスコーヒーがもっと好きになる淹れ方を3つご紹介します。スタバの担当者直伝。香りも味も最高の急冷式アイスコーヒー「急冷式」とは、氷を入れたグラスに直接、ドリップ",
+          "link": "https://www.gizmodo.jp/2023/07/iced-coffee.html",
+          "publishedOn": "2023-07-23T07:35:00.000Z",
+          "wordCount": 370,
+          "title": "家でできる最高なアイスコーヒーの淹れ方3選",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/07/20/top_icecoffee25-1_matome.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/07/20/top_icecoffee25-1_matome.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/07/plus-herbs.html",
+          "author": "浅田よわ美",
+          "description": "Photo:浅田よわ美ROOMIE2023年7月9日掲載の記事より転載「健康のため」だからといって、制限や我慢が多くなるとつらくて続けられません。だからハードル低く、一日一杯の白湯を飲む！と決めた私だったのですが、たしかに体はあったまるけれど、無味の白湯を毎朝飲むのに飽きてきていました。＋ハーブが新鮮・美味しい！NATURETEALAB「オーガニックハーブティー」そんな矢先に知ったのが、NATUR",
+          "link": "https://www.gizmodo.jp/2023/07/plus-herbs.html",
+          "publishedOn": "2023-07-23T05:35:00.000Z",
+          "wordCount": 388,
+          "title": "クーラーで冷えた身体に。白湯に飽きた私が次に始めたのはコレでした",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/07/20/nature_greentea_top.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/07/20/nature_greentea_top.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/07/modern-deco-fans-circulators.html",
+          "author": "岡本玄介",
+          "description": "Image:Amazon多機能なのに安いのも最高！暑い時期、お風呂上がりは身体が火照って汗が噴出してしまいますよね。また熱帯夜対策として、エアコンの冷たい風を循環させたいという人や､エアコンが苦手な人にも扇風機を兼ねるサーキュレーターはQOL（生活の質）を上げるお助けアイテムです。1台3役のデスクファンMODERNDECOの照明機能付きデスクファン「hpf01」は、手持ち型より大きくパワフル。だけ",
+          "link": "https://www.gizmodo.jp/2023/07/modern-deco-fans-circulators.html",
+          "publishedOn": "2023-07-23T04:00:00.000Z",
+          "wordCount": 363,
+          "title": "1台3役｡照明＆モバイルバッテリーになるサーキュレーター",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/07/21/2b6a623c-75a9-4183-a1f3-1be1b0ba834e.__CR0%2C0%2C970%2C600_PT0_SX970_V1___.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/07/21/2b6a623c-75a9-4183-a1f3-1be1b0ba834e.__CR0%2C0%2C970%2C600_PT0_SX970_V1___.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/07/giz-yatai-geethor-magsafe-mobile-battery-1.html",
+          "author": "岡本玄介",
+          "description": "スケルトンタイプのかっこいいMagSafeモバイルバッテリーGLOTURE「GeeThor（ジー トール）」発売。",
+          "link": "https://www.gizmodo.jp/2023/07/giz-yatai-geethor-magsafe-mobile-battery-1.html",
+          "publishedOn": "2023-07-23T03:00:00.000Z",
+          "wordCount": 353,
+          "title": "MagSafeにも対応｡中身が丸見えな大容量モバイルバッテリー",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2022/07/28/220728_greethor.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2022/07/28/220728_greethor.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/07/machi-ya-terastretchdenim-start-671548.html",
+          "author": "山田洋路",
+          "description": "体型に合わせてウエストが伸縮する「テラストレッチデニム」にオールシーズン対応のmachi-ya専用モデルが登場。ルームウェアとしても使えるほど快適に穿ける一方、動きを制限しないのでアクティブなシーンでも使えます。さらっとした生地を採用していて裏地が肌にまとわりつく不快感も最小限です。",
+          "link": "https://www.gizmodo.jp/2023/07/machi-ya-terastretchdenim-start-671548.html",
+          "publishedOn": "2023-07-23T01:45:00.000Z",
+          "wordCount": 349,
+          "title": "体型に合わせてウエストが伸縮するオールシーズン対応「テラストレッチデニム」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/07/18/%E3%83%86%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AC%E3%83%83%E3%83%81%E3%83%87%E3%83%8B%E3%83%A000.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/07/18/%E3%83%86%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AC%E3%83%83%E3%83%81%E3%83%87%E3%83%8B%E3%83%A000.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/07/how-to-download-and-use-chatgpt-official-app.html",
+          "author": "かみやまたくみ",
+          "description": "Image:AppStore/OpenAI2023年5月26日、ChatGPTの公式アプリが日本でも利用可能になりました。同アプリは先日海外で先行リリースされ、日本での公開が待たれていました。・アプリ名：ChatGPT・ダウンロード先：AppStore・料金：基本無料、アプリ内課金（月額3,000円）アリこちらからダウンロードできます。まだiPhone用（iOS用）のみです。Image:Googl",
+          "link": "https://www.gizmodo.jp/2023/07/how-to-download-and-use-chatgpt-official-app.html",
+          "publishedOn": "2023-07-23T01:14:00.000Z",
+          "wordCount": 391,
+          "title": "Android用も来週登場！「ChatGPT公式アプリ」のダウンロード先と使い方【7月23日更新】",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/05/26/230526_chatgpt_app_0-1.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/05/26/230526_chatgpt_app_0-1.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/07/machi-ya-torras-review-674791.html",
+          "author": "山科拓郎",
+          "description": "「TORRAS」は、家庭用水道に接続するだけで使える電源不要な高圧洗浄ノズル。3種類の噴射モード（ジェット／ワイド／シャワー）を切り替えでき、洗車から水撒きまでを手軽にします。アタッチメント式の洗剤ボトル付属で、洗車効率化をサポート。",
+          "link": "https://www.gizmodo.jp/2023/07/machi-ya-torras-review-674791.html",
+          "publishedOn": "2023-07-23T00:45:00.000Z",
+          "wordCount": 367,
+          "title": "電源不要！家庭用水道に接続するだけで使える高圧洗浄ノズル「TORRAS」を試してみた",
+          "enclosure": {
+            "length": "0",
+            "type": "image/gif",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/07/17/TORRASreview00.gif"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/07/17/TORRASreview00.gif"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/07/no-more-plans-to-launch-the-iphone-se-in-2024.html",
+          "author": "小暮ひさのり",
+          "description": "Image:Appleしばらく更新ないみたい。えっ？6.1インチOLEDのiPhoneSE（第4世代）のウワサあったじゃん！って記憶に残っていて、楽しみにしていた人も多いかもしれませんが、スケジュールに変動があるみたい。Barclaysのアナリストがアジアのサプライチェーンから得た情報によると、2024年にiPhoneSE（第4世代）を発売する計画はもう無い。らしいですよ。繰り返します、2024年",
+          "link": "https://www.gizmodo.jp/2023/07/no-more-plans-to-launch-the-iphone-se-in-2024.html",
+          "publishedOn": "2023-07-23T00:00:00.000Z",
+          "wordCount": 365,
+          "title": "iPhone SEが欲しい人は、今買っちゃって大丈夫！ 理由は…",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/07/21/20230721SEk00.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/07/21/20230721SEk00.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/07/machi-ya-taotao-end-675735.html",
+          "author": "山科拓郎",
+          "description": "夏はもうすぐそこ！ machi-yaで過去3シーズンにわたり人気を集めている送風機能付きのシート「TAOTAO」最新モデルの機能や特長をまとめてみました。プロジェクト終了前に要チェックです！",
+          "link": "https://www.gizmodo.jp/2023/07/machi-ya-taotao-end-675735.html",
+          "publishedOn": "2023-07-22T23:45:00.000Z",
+          "wordCount": 377,
+          "title": "チャイルドシートやベビーカーに取り付けるクーラーファンシート「TAOTAO」がまもなく終了",
+          "enclosure": {
+            "length": "0",
+            "type": "image/gif",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/07/18/%E3%82%AF%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%88end00.gif"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/07/18/%E3%82%AF%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%88end00.gif"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/07/aurex.html",
+          "author": "三浦一紀",
+          "description": "Image:東芝エルイートレーディングデジタルとアナログのいいところを合体。東芝エルイートレーディングは、同社のオーディオブランド「Aurex」（オーレックス）の誕生50周年を機にブランドイメージを刷新。リブランディング第一弾として、カセットプレーヤー3機種を、7月下旬より発売します。ワイヤレスなカセットプレーヤー左がAX-W1、右がAX-W10C。AX-W10Cは正面のカセット窓が大きくなってお",
+          "link": "https://www.gizmodo.jp/2023/07/aurex.html",
+          "publishedOn": "2023-07-22T23:00:00.000Z",
+          "wordCount": 351,
+          "title": "最近人気のカセットテープ。ワイヤレスでも楽しめるスピーカーから始めてみない？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/07/21/230721cassette-01.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/07/21/230721cassette-01.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/07/machi-ya-kumonoisu-repost-674068.html",
+          "author": "山田洋路",
+          "description": "バランスボール感覚の「雲のイス」は長時間座っても快適。座面が自由に傾くことで絶え間ないポジションの微調整に対応可能です。ゆらゆら揺れることでリラックスした状態で仕事できます。前後左右、8°まで傾くと自動的に中心に戻るのでバランスが保てて安心です。",
+          "link": "https://www.gizmodo.jp/2023/07/machi-ya-kumonoisu-repost-674068.html",
+          "publishedOn": "2023-07-22T22:45:00.000Z",
+          "wordCount": 350,
+          "title": "バランスボール感覚の「雲のイス」で長時間座り作業してみた",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/07/17/%E9%9B%B2%E3%81%AE%E3%82%A4%E3%82%B9review00.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/07/17/%E9%9B%B2%E3%81%AE%E3%82%A4%E3%82%B9review00.jpg"
+        },
         {
           "id": "https://www.gizmodo.jp/2023/07/nitori-sheets.html",
           "author": "岡本玄介",
@@ -3507,276 +3687,6 @@
             "url": "https://media.loom-app.com/gizmodo/dist/images/2023/06/13/230613sorgerenew_01.jpg"
           },
           "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/06/13/230613sorgerenew_01.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/07/lmount-alliance-samyang.html",
-          "author": "武者良太",
-          "description": "Image:ライカ現在、7社のギルドになりました。Lマウントのカメラ/レンズといえばライカ、パナソニック、シグマが思い浮かびますよね。他にもシネレンズを作っているエルンスト・ライツ・ウェッツラーと、ドローンメーカーのDJIが仲間に入っていましたが、さらにあらたに2社が参加します。Image:ライカ1社はサムヤン（SAMYANG）です。数多くのマウント用レンズを作っている総合レンズメーカーです。キヤ",
-          "link": "https://www.gizmodo.jp/2023/07/lmount-alliance-samyang.html",
-          "publishedOn": "2023-07-17T00:00:00.000Z",
-          "wordCount": 346,
-          "title": "パナ、ライカ、シグマなどのLマウントアライアンス、新たな仲間が参戦",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/07/14/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%882023-07-14182148.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/07/14/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%882023-07-14182148.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/07/machi-ya-kunekuneleatherhook-start-681076.html",
-          "author": "山田洋路",
-          "description": "アウトドア向け「くねくねレザーフック」はランタンの吊り下げやロープの束縛などキャンプで多種多様な役割を果たします。耐荷重6kgと力持ちなので日常生活でもバッグを掛けたりに使用できます。素材のオイルヌメ革は兵庫県たつの市仕込み。革職人のハンドメイドギアをおしゃれに使いこなしてみてください。",
-          "link": "https://www.gizmodo.jp/2023/07/machi-ya-kunekuneleatherhook-start-681076.html",
-          "publishedOn": "2023-07-16T23:45:00.000Z",
-          "wordCount": 347,
-          "title": "ランタンの吊り下げやロープの束縛に便利なアウトドア向け「くねくねレザーフック」",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/07/13/%E3%81%8F%E3%81%AD%E3%81%8F%E3%81%AD%E3%83%AC%E3%82%B6%E3%83%BC%E3%83%95%E3%83%83%E3%82%AF00.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/07/13/%E3%81%8F%E3%81%AD%E3%81%8F%E3%81%AD%E3%83%AC%E3%82%B6%E3%83%BC%E3%83%95%E3%83%83%E3%82%AF00.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/07/udon-plarail.html",
-          "author": "岡本玄介",
-          "description": "Image:株式会社タカラトミープラレールで回転わんこ流しうどん。小さいお子さんがいるご家庭なら、一度はトライしたことがあるかもしれないプラレール回転寿司。大人がやってもけっこう楽しいものだったりしますが…それをうどんでやってのけるセットが誕生しました。うどん特急ツルリがお届け「打ち立て！おとどけ！丸亀製麺×プラレール」は、丸亀製麺とのコラボで作られた、プラレール。うどん特急ツルリが貨物列車のよう",
-          "link": "https://www.gizmodo.jp/2023/07/udon-plarail.html",
-          "publishedOn": "2023-07-16T23:00:00.000Z",
-          "wordCount": 352,
-          "title": "うどんお届け！ 暑い日は楽しく美味しい丸亀製麺×プラレールで涼むに限る",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/07/14/230715_udon.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/07/14/230715_udon.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/07/fiat-500-ev-topolino.html",
-          "author": "岡本玄介",
-          "description": "Image:FIAT狭い路地でも静かでスイスイ。1899年にイタリアで誕生した自動車メーカーFIAT（フィアット）。最も代表的なのは『カリオストロの城』でルパン三世も乗っていた、1936年生まれの「500（チンクエチェント）」ですよね。2017年より、ニューヨーク近代美術館で「美術品」として永久展示されているほど、世界が愛する1台です。小さなネズミが電動にその小ささとデザインから、「トッポリーノ（",
-          "link": "https://www.gizmodo.jp/2023/07/fiat-500-ev-topolino.html",
-          "publishedOn": "2023-07-16T22:00:00.000Z",
-          "wordCount": 356,
-          "title": "ルパンの愛車フィアット500がコンパクトなEVで復活",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/07/14/230715_fiat.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/07/14/230715_fiat.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/07/272654.html",
-          "author": "ライフハッカー［日本版］編集部",
-          "description": "自転車通勤したいけど、家の周辺や通勤路に坂道が多くて自転車の利便性をあきらめていた人は、朗報!",
-          "link": "https://www.gizmodo.jp/2023/07/272654.html",
-          "publishedOn": "2023-07-16T12:45:00.000Z",
-          "wordCount": 344,
-          "title": "1回の充電で150km走行可能！街乗りからアウトドアまでパワフルに山・海・悪路を走るすごいE-BIKE",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/07/12/20230714-engwe04.png"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/07/12/20230714-engwe04.png"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/07/272653-machi-ya-quattrowallethl-review-660709.html",
-          "author": "中川真知子",
-          "description": "極薄6mm＆全面レザー採用の超薄型財布「Tenuis TL」が、クオリティアップして帰ってきました！",
-          "link": "https://www.gizmodo.jp/2023/07/272653-machi-ya-quattrowallethl-review-660709.html",
-          "publishedOn": "2023-07-16T11:45:00.000Z",
-          "wordCount": 359,
-          "title": "ロジカルシンキングから生まれた 「時短支払い」財布。4つの方法でカード、小銭、お札にアクセス",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/07/12/20230714-tl01.png"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/07/12/20230714-tl01.png"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/07/starlink-debris.html",
-          "author": "そうこ",
-          "description": "Image:PHOTOCREOMichalBednarek/Shutterstock.com近年よく聞くようになった言葉、スペースデブリ（宇宙ゴミ）。地球の低軌道上には人工衛星がたくさんありますが、使用しなくなった衛星やそのパーツなどもゴミとしてわんさか漂っています。衛星インターネットのStarlinkは地球低軌道上に4000以上の衛星を飛ばしており、ある調査によると、Starlink衛星は、毎日",
-          "link": "https://www.gizmodo.jp/2023/07/starlink-debris.html",
-          "publishedOn": "2023-07-16T11:00:00.000Z",
-          "wordCount": 354,
-          "title": "スターリンク衛星がデブリとの衝突を回避する回数、毎日140回",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/07/14/20230714_79890_01-1.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/07/14/20230714_79890_01-1.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/07/machi-ya-taruholic-review-661150.html",
-          "author": "junior",
-          "description": "「TARU HOLIC」から登場した「ミニ樽」は、ウイスキーや焼酎などのお酒を、自宅で手軽に熟成可能にするお酒好きにおすすめのキット。ウイスキーを単体で熟成するもよし、ブレンドしたウイスキークラウドファンディングサイトmachi-yaで開始したキャンペーンでは、スパニッシュオークと桜の木材を使用したモデルが登場しています。今回は実機を使用したレポートをお届けします！",
-          "link": "https://www.gizmodo.jp/2023/07/machi-ya-taruholic-review-661150.html",
-          "publishedOn": "2023-07-16T10:45:00.000Z",
-          "wordCount": 374,
-          "title": "ウイスキーや焼酎を自分で追加熟成できるマイ酒樽を試してみた",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/07/11/DSCF3354.png"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/07/11/DSCF3354.png"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/07/megalodon-sword-macropad.html",
-          "author": "武者良太",
-          "description": "DROPが扱う「Megalodon Sword Macropad」。メカニカルな12キー＋クリックできるロータリーノブで構成されたアルミボディのキーボードです。",
-          "link": "https://www.gizmodo.jp/2023/07/megalodon-sword-macropad.html",
-          "publishedOn": "2023-07-16T10:00:00.000Z",
-          "wordCount": 345,
-          "title": "ファンクションキーだけのキーボード。なんだか便利そう",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/07/14/ZVkYrVdQHmtXTjophqR1_01.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/07/14/ZVkYrVdQHmtXTjophqR1_01.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/07/honda-ring.html",
-          "author": "岡本玄介",
-          "description": "Image:U-TREASUREこれを着けたらディーラーで挙式しよう。車を運転する人は愛車にこだわりがあり、乗り換えても同じメーカーで統一することもあるかと思います。もしホンダが大好きで、いろんなグッズも持っているぞ！という皆さん、結婚指輪もホンダのロゴ入りを選んでみませんか？代表的なモデルのロゴも選べるU-TREASURE（ユートレジャー）が手掛けるのは、内側に12種類の刻印が選べるセミオーダー",
-          "link": "https://www.gizmodo.jp/2023/07/honda-ring.html",
-          "publishedOn": "2023-07-16T09:00:00.000Z",
-          "wordCount": 352,
-          "title": "車好きの新婚さんいらっしゃい。ホンダのロゴ入り結婚指輪",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/07/14/230715_ring.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/07/14/230715_ring.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/07/netfilx-greenback.html",
-          "author": "そうこ",
-          "description": "Image:Netflix近年の動画コンテンツに必要不可欠な存在、グリーンバック。最近ではアプリのフィルターでも簡単に合成できますが、プロのコンテンツは本格的なグリーンバックを使ってこそ。制作スタジオレベルの完璧な仕上がりには、優秀な特殊効果デザイナーとそれ相当のソフトウェアが必要になります。これをもう少し簡単にできないかとNetflixが研究しているのが、緑の補色である赤紫、マゼンタカラーを活用",
-          "link": "https://www.gizmodo.jp/2023/07/netfilx-greenback.html",
-          "publishedOn": "2023-07-16T08:00:00.000Z",
-          "wordCount": 351,
-          "title": "グリーンバッグ撮影の進化系は「マゼンタライト」を足し算",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/07/13/230713netflixmagentagreen01.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/07/13/230713netflixmagentagreen01.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/07/home-cafe.html",
-          "author": "かくれい",
-          "description": "Photo:かくれいROOMIE2023年6月2日掲載の記事より転載お家で飲めるものってマンネリ化しがち。お家でもカフェみたいな美味しいものが飲めたらいいのに…。モナンのフレーバーシロップそんな夢を叶えてくれたのが、モナンのシロップ。いつもの飲み物をとびきりのご馳走にしてくれる「ご褒美シロップ」なんです！いろんなフレーバーが出ていて、私のお気に入りは塩キャラメルとローズです。モナンソルテッドキャラ",
-          "link": "https://www.gizmodo.jp/2023/07/home-cafe.html",
-          "publishedOn": "2023-07-16T07:35:00.000Z",
-          "wordCount": 372,
-          "title": "いつもの家ドリンクに飽きたら。コレをちょい足しするだけでご馳走になった",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/07/12/top_cafe.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/07/12/top_cafe.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/07/machi-ya-axguardian2-end-664066.html",
-          "author": "kotoha ozawa",
-          "description": "「アックスガーディアン2」は、ナイフのようなサイズ感ながら薪割りなどナタのようにも使えるアウトドア用の万能刃物。刃を正面から見ると楔（くさび）形になっており、薪に食い込んで割りやすい仕様なのが特長。シリーズ前作からよりダウンサイジングし、フェザリングなどの細かな作業性もアップ！2023年7月19日まで、クラウドファンディングサイトmachi-yaにておトクに購入できますよ。",
-          "link": "https://www.gizmodo.jp/2023/07/machi-ya-axguardian2-end-664066.html",
-          "publishedOn": "2023-07-16T06:45:00.000Z",
-          "wordCount": 360,
-          "title": "ナイフサイズだけど薪割りもOK！ 本格的なキャンプ用刃物「アックスガーディアン2」",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/07/05/original.jpg.png"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/07/05/original.jpg.png"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/07/bigbox_sauna.html",
-          "author": "Yohei Arai",
-          "description": "Image:BIGBOX整ってますか？え？なにがって、サウナの話です。空前のサウナブームですが、サウナ好きにとって「マイサウナ」は夢そのもの！サウナライフの理想形です。時間や他人を気にせず、好きなだけサウナを堪能できるなんて、考えただけでもワクワクしちゃいますよね。マイサウナは、部屋の中に後付けするタイプ、大自然のなかで楽しむテントタイプなど、いくつかスタイルがありますが、今回紹介するのは「ログハ",
-          "link": "https://www.gizmodo.jp/2023/07/bigbox_sauna.html",
-          "publishedOn": "2023-07-16T06:00:00.000Z",
-          "wordCount": 353,
-          "title": "サウナ好き究極の夢。自宅に北欧製サウナ小屋を作る方法",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/07/14/bigbox_main.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/07/14/bigbox_main.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/07/montbell-summer-review.html",
-          "author": "かとパン",
-          "description": "Photo:かとパンROOMIE2023年6月22日掲載の記事より転載もうすぐ夏山シーズンの到来！「今年こそは富士山登頂！」などなど、目標を立てている方もいらっしゃるのではないでしょうか？今回は、登山を始める時に揃えておきたいアイテムをご紹介します。モンベルのトレッキングタイツモンベル「サポーテックライトタイツWomen」それが足の筋肉のサポートをしてくれる、モンベルの「サポーテックライトタイツW",
-          "link": "https://www.gizmodo.jp/2023/07/montbell-summer-review.html",
-          "publishedOn": "2023-07-16T05:35:00.000Z",
-          "wordCount": 357,
-          "title": "夏の登山にはコレ。モンベルの「トレッキングタイツ」が頼れる優れものでした",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/07/12/top_IMG_9027-scaled.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/07/12/top_IMG_9027-scaled.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/07/amazon-yamazen-mini-fan-coolers.html",
-          "author": "Qurumu",
-          "description": "山善（YAMAZEN）の「ミニ冷風扇 FMR-40」は、卓上に置けるコンパクトサイズ。水が蒸発する気化熱の原理を利用し、扇風機よりも涼しい風が出ますが、エアコンのように冷え過ぎない特徴があります。ハンドル付きで持ち運びやすいので、どこでも使えそう。",
-          "link": "https://www.gizmodo.jp/2023/07/amazon-yamazen-mini-fan-coolers.html",
-          "publishedOn": "2023-07-16T04:45:00.000Z",
-          "wordCount": 357,
-          "title": "扇風機より涼しいけどエアコンのように冷えすぎないコンパクトな冷風扇",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2020/07/25/20200725_450_1.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2020/07/25/20200725_450_1.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/07/giz-yatai-storm2-slim-1-1.html",
-          "author": "塚本直樹",
-          "description": "まさに群雄割拠のモバイルバッテリー業界ですが、SHARGEからは「スケルトン」という新たなデザイン基軸を取り入れた新型モバイルバッテリー「Storm2」と｢Storm2 Slim｣が、ギズ屋台に入荷しました。",
-          "link": "https://www.gizmodo.jp/2023/07/giz-yatai-storm2-slim-1-1.html",
-          "publishedOn": "2023-07-16T04:00:00.000Z",
-          "wordCount": 360,
-          "title": "PCもスマホも充電可｡サイバーパンクな大容量モバイルバッテリー",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/03/16/sub1.png"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/03/16/sub1.png"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/07/marufuku-shabo.html",
-          "author": "mio",
-          "description": "Image:丸福繊維7月も後半に差しかかり、暑さの厳しい日が続いています。夏休みシーズンに向けて、少しでも涼しく過ごせる熱中症対策のアイテムを探していたところ、「−10度遮熱帽子」と気になるアイテムを発見。よく調べてみると、老舗70年の紫外線・熱中症対策商品の繊維メーカー丸福繊維が作っているらしく、特殊な素材に涼しさの秘密がありました。1カ月で即完売したアイテムが再入荷Image:丸福繊維この度7",
-          "link": "https://www.gizmodo.jp/2023/07/marufuku-shabo.html",
-          "publishedOn": "2023-07-16T02:00:00.000Z",
-          "wordCount": 345,
-          "title": "綿素材より-10℃以上涼しい。老舗の繊維メーカーがつくったアウトドア用帽子",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/07/11/20230711-marufuku-shabo-03.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/07/11/20230711-marufuku-shabo-03.jpg"
         }
       ]
     }
