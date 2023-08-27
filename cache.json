@@ -6,6 +6,26 @@
       "siteUrl": "https://gori.me",
       "articles": [
         {
+          "id": "https://gori.me/?p=149369",
+          "author": "g.O.R.i",
+          "description": "2023年の新型iPhone（iPhone 15）の通常モデル（iPhone 15とiPhone 15 Plus）は6色、Proモデル（iPhone 15 ProとiPhone 15 Pro Max）は4色のカラーバリエーションが用意される可能性がある。過去に正確な新型iPhone情報を伝えてきたリ…\nThe post iPhone 15は6色展開、iPhone 15 Proは4色展開か first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone/iphone-news/149369",
+          "publishedOn": "2023-08-27T01:33:20.000Z",
+          "wordCount": 1735,
+          "title": "iPhone 15は6色展開、iPhone 15 Proは4色展開か",
+          "imageUrl": "https://gori.me/uploads/2023/08/iphone15-and-15pro-color-variations-800x500.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=149258",
+          "author": "g.O.R.i",
+          "description": "CanonのRFレンズ初のパンケーキレンズ「RF28mm F2.8 STM」をEOS R3付けて、家族で鎌倉にある流しそうめんを食べに行き、報国寺の竹林を散歩してきた。この流れは昨年に続き、2回目。夏らしい過ごし方なので、来年以降も続けて「ゴリミーファミリー夏の恒例イベント」としていきたい。 流しそ…\nThe post RF28mm F2.8 STMで家族スナップ。流しそうめんや報国寺の竹林を撮る first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/camera/lens/149258",
+          "publishedOn": "2023-08-26T23:07:36.000Z",
+          "wordCount": 1542,
+          "title": "RF28mm F2.8 STMで家族スナップ。流しそうめんや報国寺の竹林を撮る",
+          "imageUrl": "https://gori.me/uploads/2023/08/28mm-f2_8-STM-lens-review-04-800x534.jpg"
+        },
+        {
           "id": "https://gori.me/?p=149191",
           "author": "g.O.R.i",
           "description": "現代人はわがままだ。買い物には常にコスパ（費用対効果）とタイパ（時間対効果）を徹底的に追求する。特に食料品は「安くて美味しいもの」には目がない。最近は共働き家庭も多く、買い物をする時間の短縮、献立を考える時間の圧縮なども求められるようになった。 Amazonは、食卓周りのコスパ・タイパ問題を解決する…\nThe post 知ってた？Amazonに「ガチで美味しいもの」だけを揃えたストアがあるんです first appeared on ゴリミー.\n\n 【もっと読む】",
@@ -304,16 +324,6 @@
           "wordCount": 1519,
           "title": "Ankerの冷蔵庫、車に積みっぱなしにして活用しまくった。持ち運べるって本当に便利だね",
           "imageUrl": "https://gori.me/uploads/2023/08/Anker-EverFrost-30-using-it-daily-01-800x600.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=149279",
-          "author": "g.O.R.i",
-          "description": "X（旧Twitter）は、現状提供されているブロックやミュートより優れた機能を開発している。リンダ・ヤッカリーノCEOがいじめ撲滅活動家として活動するモニカ・ルインスキーによるブロック機能廃止の再考を求める投稿に対し、「ユーザーの安全性がXの最優先事項だ」とし、新機能の実装に着手していると明らかにし…\nThe post Twitter、「ブロックやミュートより優れた機能」を開発中と説明 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/twitter/twitter-news/149279",
-          "publishedOn": "2023-08-20T21:30:29.000Z",
-          "wordCount": 1485,
-          "title": "Twitter、「ブロックやミュートより優れた機能」を開発中と説明",
-          "imageUrl": "https://gori.me/uploads/2023/08/kyle-glenn-dGk-qYBk4OA-unsplash-800x534.jpg"
         }
       ]
     },
@@ -322,6 +332,36 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/mobile.xml",
       "siteUrl": "https://www.itmedia.co.jp/mobile/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2308/27/news065.html",
+          "author": null,
+          "description": "残暑が続き、全国的に過ごしづらい今日この頃ですが、暑い中ではスマホも熱くなりがちです。少しでも冷やそうと、手持ちのハンドクーラーやクリップクーラー（携帯型扇風機）を使って冷やすのはアリなのでしょうか……？",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2308/27/news065.html",
+          "publishedOn": "2023-08-27T10:00:00.000Z",
+          "wordCount": 2883,
+          "title": "残暑が続く！　スマホが熱い！　ハンドクーラーやクリップクーラーで冷やしていい？【2023年版】",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2308/27/cover_news065.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2308/27/news018.html",
+          "author": null,
+          "description": "肌身離さず持ち歩いているAndroidスマホでも、出先の飲食店などに置き去りにしてしまうことがあるかもしれない。万が一に備えて、「設定」から「デバイスを探す」をオンにしておこう。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2308/27/news018.html",
+          "publishedOn": "2023-08-27T01:00:00.000Z",
+          "wordCount": 2885,
+          "title": "Androidスマホをなくしたら？　万が一に備えて「デバイスを探す」をオンにしよう",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2308/27/cover_news018.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2308/27/news043.html",
+          "author": null,
+          "description": "Googleのオンラインメモアプリ「Google Keep」で、メモの文字の書式を設定できるようになる。太字、斜体、下線、段落見出しの設定が可能。残念な制約もある。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2308/27/news043.html",
+          "publishedOn": "2023-08-26T22:28:00.000Z",
+          "wordCount": 2880,
+          "title": "Googleのメモアプリ「Keep」、Androidアプリで書式設定が可能に",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2308/27/cover_news043.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/mobile/articles/2308/26/news061.html",
           "author": null,
@@ -861,36 +901,6 @@
           "wordCount": 2905,
           "title": "「ポケモンスリープ」の睡眠計測中は充電しなくても問題ない？　実際に試した結果",
           "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2308/21/cover_news116.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2308/20/news059.html",
-          "author": null,
-          "description": "X（旧Twitter）のリンダ・ヤッカリーノCEOは8月18日（米国時間）、ブロックとミュートを優れた機能にするとの考えを投稿した。イーロン・マスクCTOがブロック機能の削除を明らかにした約10時間後に投稿された。そもそもブロック機能は効果があるのだろうか……？",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2308/20/news059.html",
-          "publishedOn": "2023-08-20T14:30:00.000Z",
-          "wordCount": 2913,
-          "title": "X（旧Twitter）の「ブロック機能」は効果なし？　マスク氏による「同機能の削除」予告で物議",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2308/20/cover_news059.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2308/20/news037.html",
-          "author": null,
-          "description": "EU（欧州連合）は、スマートフォンなどに対する新たな規制として、「バッテリーを簡単に交換できる設計とすること」を可決した。バッテリーを交換できるのはメリットだけではない。スマートフォンのイノベーションを阻害する側面もある。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2308/20/news037.html",
-          "publishedOn": "2023-08-20T01:00:00.000Z",
-          "wordCount": 2894,
-          "title": "「スマホのバッテリー交換義務化」がユーザーにデメリットをもたらす理由",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2308/20/cover_news037.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2308/20/news018.html",
-          "author": null,
-          "description": "スマートフォンは長期間使い続けているとバッテリーを消耗しやすくなるが、処理の多いアプリや、バックグラウンドで動作するアプリを多く使用していてもバッテリーを消耗しやすくなる。バッテリーを長持ちさせるためにも、どのアプリが多くバッテリーを使用しているか確認してみよう。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2308/20/news018.html",
-          "publishedOn": "2023-08-20T01:00:00.000Z",
-          "wordCount": 2880,
-          "title": "Androidスマホで「バッテリーの減りが早いとき」に試したい設定",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2308/20/cover_news018.jpg"
         }
       ]
     },
@@ -1915,46 +1925,6 @@
           "wordCount": 4711,
           "title": "ぐるなびが「楽天ぐるなび」にサービス名を変更へ",
           "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1524/935/sub.png"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1524686.html",
-          "author": null,
-          "description": "シャオミは、エントリーモデルのワイヤレスイヤホン「Redmi Buds 4 Active」をAmazon限定で発売した。希望小売価格は1990円。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1524686.html",
-          "publishedOn": "2023-08-21T00:00:00.000Z",
-          "wordCount": 4736,
-          "title": "シャオミ、1990円のフルワイヤレスイヤホン「Redmi Buds 4 Active」をAmazon限定発売",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1524/686/img1.png"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/column/stapa/1524811.html",
-          "author": null,
-          "description": "以前からネックスピーカーを買おうかニャーと、少しだけ思っていた。目的はe-bikeサイクリング時の音楽聴取。本連載前回でe-bikeサイクリング時に音楽を流すスピーカーとして「JBL WIND 3」を使ったが、まあソレと同じ目的ですな。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/1524811.html",
-          "publishedOn": "2023-08-20T15:00:00.000Z",
-          "wordCount": 4794,
-          "title": "[スタパ齋藤の「スタパトロニクスMobile」]ネックスピーカー「AQUOS サウンドパートナー AN-SS3」を購入！　サイクリングでも室内でも便利!!!",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1524/811/stptncs2023-08-21thumbnail.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1524641.html",
-          "author": null,
-          "description": "例年、夏から秋にかけては台風の影響による雨や太平洋高気圧の勢力が弱まってくると秋雨前線が登場してくる。そして運が悪いと8月末から10月頃には”秋の長雨”と呼ばれる梅雨の様な感じになることがある。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1524641.html",
-          "publishedOn": "2023-08-20T15:00:00.000Z",
-          "wordCount": 4738,
-          "title": "[本日の一品]雨降りも楽しい「KASAASHI」（カサアシ）をクラファンで大人買い",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1524/641/5.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/column/minna/1524607.html",
-          "author": null,
-          "description": "過去を振り返ると、筆者は毎年3〜4台スマホを買っていました。しかし、今年はもう８月なのに１台も買っていません。端末価格が値上がりする一方で、懐が寂しいという個人的な事情もあるのですが、すぐに欲しくなる端末がなかったのも事実。筆者は中国メーカーのハイエンドモデルが好きなのですが、今年はまだ１台も発売されていないんですよ。そろそろ日本に来てほしい、と密かに期待しているOnePlusも、一向に来る気配がないですからね。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/1524607.html",
-          "publishedOn": "2023-08-20T15:00:00.000Z",
-          "wordCount": 4746,
-          "title": "[みんなのケータイ]モノクロのホーム画面が心地よい Nothing Phone (2)",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1524/607/01.jpg"
         }
       ]
     },
@@ -1963,6 +1933,306 @@
       "feedUrl": "https://www.gizmodo.jp/index.xml",
       "siteUrl": "https://www.gizmodo.jp",
       "articles": [
+        {
+          "id": "https://www.gizmodo.jp/2023/08/sun-outburst-detected-earth-mars-moon.html",
+          "author": "たもり",
+          "description": "大規模な太陽フレアが3つの天体で観測されていました。この非常に珍しい出来事からのデータは、今後の有人ミッションでの宇宙放射線対策に役立ちそうです。",
+          "link": "https://www.gizmodo.jp/2023/08/sun-outburst-detected-earth-mars-moon.html",
+          "publishedOn": "2023-08-27T12:00:00.000Z",
+          "wordCount": 383,
+          "title": "2021年の太陽フレア、地球・月・火星で観測されていた",
+          "enclosure": {
+            "length": "0",
+            "type": "image/gif",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/08/25/20230825_101440.GIF"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/08/25/20230825_101440.GIF"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/08/273766-costory-playtronicscontainer-review.html",
+          "author": "メディアジーンCoSTORY運営チーム",
+          "description": "今回ご紹介するのはデザイナーのハイロック氏が手がけた「PlayTronics」のコンテナ。架空のおもちゃブランドの段ボール箱をイメージしたという薄ベージュのボディに、パキっとした赤の組み合わせが、かわいい。コンテナとはつまり、入れ物。ハイロックさんには、独自の「入れ物論」なるものがあるのだとか。",
+          "link": "https://www.gizmodo.jp/2023/08/273766-costory-playtronicscontainer-review.html",
+          "publishedOn": "2023-08-27T11:45:00.000Z",
+          "wordCount": 369,
+          "title": "【限定販売】「トラスコ」のコンテナにインスパイア！折り畳みもスタッキングもできる「PlayTronics」の収納ボックス",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/08/09/original2-1.jpeg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/08/09/original2-1.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/08/clearspace-1-space-junk-removal-mission-hit-space-junk.html",
+          "author": "mayumine",
+          "description": "2026年に打ち上げ予定の「ClearSpace-1」ミッション宇宙ゴミから宇宙ゴミが生まれてしまった…2026年に実施予定の宇宙ゴミ除去ミッション「ClearSpace-1」。その除去の第1号目標「VESPA」と名付けられた宇宙ゴミが、別の宇宙ゴミと衝突し、新たな宇宙ゴミが発生してしまった可能性を、欧州宇宙機関（ESA）が報告しました。「ClearSpace-1」で打ち上げるのは、かぎ爪のような",
+          "link": "https://www.gizmodo.jp/2023/08/clearspace-1-space-junk-removal-mission-hit-space-junk.html",
+          "publishedOn": "2023-08-27T11:00:00.000Z",
+          "wordCount": 358,
+          "title": "宇宙ゴミが宇宙ゴミに衝突し、新たな宇宙ゴミが生まれてしまう",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/08/26/20230826_space.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/08/26/20230826_space.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/08/amazon-skinfact-skinsteacker.html",
+          "author": "田中宏和",
+          "description": "skinfactの「スキンシールシリーズ」は、Nintendo Switchを木目調にアレンジできるユニークなアイテム。「ジョイコン用」「本体用」「ドック用」の3種類がラインナップされていて、トータルコーディネートも可能です。",
+          "link": "https://www.gizmodo.jp/2023/08/amazon-skinfact-skinsteacker.html",
+          "publishedOn": "2023-08-27T10:45:00.000Z",
+          "wordCount": 412,
+          "title": "Nintendo Switchが木目調に!?スキンシールで手軽にアレンジ可能です。",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2021/05/20/%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2021/05/20/%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/08/zoom-ceo-return-to-office-leaked-audio.html",
+          "author": "岩田リョウコ",
+          "description": "Image:DANIELCONSTANTE(Shutterstock)あんたが言うんかい！コロナ禍で主流になったリモートワーク。その立役者とも言えるのがクラウドコンピューティングを使用したWeb会議サービス、Zoom（ズーム）です。そのZoomのCEOであるEricYuan（エリック・ユアン）が「ビデオ通話だといい関係が築けないから、出社してほしい」と社内ミーティングで発言している音声が流出しまし",
+          "link": "https://www.gizmodo.jp/2023/08/zoom-ceo-return-to-office-leaked-audio.html",
+          "publishedOn": "2023-08-27T10:00:00.000Z",
+          "wordCount": 365,
+          "title": "Zoom社長「Zoomやめて出社して？」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/08/26/584408a8d64e9217ad122759a92a4adb.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/08/26/584408a8d64e9217ad122759a92a4adb.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/08/amazon-yamazen-mini-fan-coolers.html",
+          "author": "Qurumu",
+          "description": "山善（YAMAZEN）の「ミニ冷風扇 FMR-40」は、卓上に置けるコンパクトサイズ。水が蒸発する気化熱の原理を利用し、扇風機よりも涼しい風が出ますが、エアコンのように冷え過ぎない特徴があります。ハンドル付きで持ち運びやすいので、どこでも使えそう。",
+          "link": "https://www.gizmodo.jp/2023/08/amazon-yamazen-mini-fan-coolers.html",
+          "publishedOn": "2023-08-27T09:45:00.000Z",
+          "wordCount": 371,
+          "title": "扇風機より涼しいけどエアコンのように冷えすぎないコンパクトな冷風扇",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2020/07/25/20200725_450_1.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2020/07/25/20200725_450_1.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/08/machi-ya-vgear163-review-690887.html",
+          "author": "Haruki Matsumoto",
+          "description": "今回ご紹介する「Vギア163 」は、安全性と使いやすさをしっかりと両立したブーツ。600デニールにまで織り込まれたナイロン生地と止水ファスナーにより防水性能を高めているのが特長です。また対滑アウトソールやトゥスプリングの高さの調整により、転倒しにくく滑りにくい仕様に設計されています。",
+          "link": "https://www.gizmodo.jp/2023/08/machi-ya-vgear163-review-690887.html",
+          "publishedOn": "2023-08-27T08:45:00.000Z",
+          "wordCount": 386,
+          "title": "アウトドアや雨の日に助かる滑りにくい軽量防水ブーツ「Vギア163",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/08/16/%E9%98%B2%E6%B0%B4%E3%83%95%E3%82%99%E3%83%BC%E3%83%84v163_render-11.png"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/08/16/%E9%98%B2%E6%B0%B4%E3%83%95%E3%82%99%E3%83%BC%E3%83%84v163_render-11.png"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/08/sanwa-direct-chair-150snc132-1.html",
+          "author": "岡本玄介",
+          "description": "サンワダイレクトからチェア「150-SNC132」発売。ソファのようなふあふあの座り心地。",
+          "link": "https://www.gizmodo.jp/2023/08/sanwa-direct-chair-150snc132-1.html",
+          "publishedOn": "2023-08-27T07:45:00.000Z",
+          "wordCount": 374,
+          "title": "昼寝がはかどるね｡ふわふわでソファのように快適なオフィスチェア",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/02/01/230201_sanwa.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/02/01/230201_sanwa.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/08/sanwa-400-lcd006-1.html",
+          "author": "岡本玄介",
+          "description": "ノートPCで仕事をする時、外部モニターに繋ぐと効率が爆上がりしますよね。でもいかにもディスプレイって感じのものは大袈裟すぎます。そこで重宝するのが薄型のモバイルモニター。\n\nサンワダイレクトの「400-LCD006」は、15.6インチの大画面タッチパネル。HDMIとUSB-C入力でMacbookにもニンテンドースイッチにも使えます。",
+          "link": "https://www.gizmodo.jp/2023/08/sanwa-400-lcd006-1.html",
+          "publishedOn": "2023-08-27T07:35:00.000Z",
+          "wordCount": 390,
+          "title": "もはや一家に一台レベル｡PCもスイッチもタッチ操作できる15.6インチの外付けモニター",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2022/09/22/220923_sanwa.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2022/09/22/220923_sanwa.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/08/machi-ya-magichandy-review-679653.html",
+          "author": "Yama3",
+          "description": "パカッと開くとお札が瞬間移動!? 「MAGIC HANDY」はカードケースライクに使えるフルグレインレザーのミニマルウォレット。コインは入りませんが、ユニークなギミックでお札やカードをスマートに持ち運べるんですよ。見た目に反して収納力も高めなので、キャッシュレス派の方にはオススメかも？ サンプルを試してみたレポートをぜひチェックしてみてください。",
+          "link": "https://www.gizmodo.jp/2023/08/machi-ya-magichandy-review-679653.html",
+          "publishedOn": "2023-08-27T06:45:00.000Z",
+          "wordCount": 391,
+          "title": "収納法もユニークな上質革のミニマル財布「MAGIC HANDY」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/08/10/MAGICHANDY_render-5.png"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/08/10/MAGICHANDY_render-5.png"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/08/elecom-ams-magstbk-1.html",
+          "author": "三浦一紀",
+          "description": "エレコムが発売している「MAGKEEP メタルリングステッカー」。これ、すごいんですよ。MagSafe非対応のiPhoneケースにこれを貼ると、あら不思議、MagSafe対応になっちゃいます。",
+          "link": "https://www.gizmodo.jp/2023/08/elecom-ams-magstbk-1.html",
+          "publishedOn": "2023-08-27T05:45:00.000Z",
+          "wordCount": 368,
+          "title": "iPhoneケースに貼った瞬間MagSafe対応になるステッカー",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/03/30/230330magkeep-01-1.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/03/30/230330magkeep-01-1.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/08/likeit-dustbox.html",
+          "author": "ROOMIE編集部",
+          "description": "Photo:街角レモンROOMIE2023年6月25日掲載の記事より転載ジメジメとした日が続きますね。この時期、暮らしの中で一番困っていたのが生ゴミ問題。ゴミ回収までの期間、どうしても臭いが気になっていました。密閉できるダストボックスlike-it「シールズ9.5密閉ダストボックス　ホワイト」そんなとき出会ったのが、like-itの「密閉ダストボックス」。以前からlike-itのアイテムを愛用して",
+          "link": "https://www.gizmodo.jp/2023/08/likeit-dustbox.html",
+          "publishedOn": "2023-08-27T05:35:00.000Z",
+          "wordCount": 392,
+          "title": "夏の「生ゴミ臭う問題」はコレが解決。密閉できるのにワンプッシュ開閉で使いやすいよ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/08/23/top_IMG_1561-1.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/08/23/top_IMG_1561-1.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/08/punkt-1.html",
+          "author": "岡本玄介",
+          "description": "Image:+Style2022年3月2日の記事を編集して再掲載しています。シンプルな携帯電話が爽やかでかわいく。スイス発のミニマルなフューチャーフォンPunkt.「MP02」に、NewGenerationBlueという爽やかなブルーが追加されました。機能もミニマルでデジタルデトックスできる著名なプロダクトデザイナー、ジャスパー・モリソンが設計した「MP02」は、タッチパネルではなく古典的な物理ボ",
+          "link": "https://www.gizmodo.jp/2023/08/punkt-1.html",
+          "publishedOn": "2023-08-27T04:45:00.000Z",
+          "wordCount": 376,
+          "title": "デジタルデトックスにいかが？ 物理ボタンが新鮮なミニマルな携帯電話",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2022/03/02/220303_punkt.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2022/03/02/220303_punkt.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/08/atari-2600-plus.html",
+          "author": "武者良太",
+          "description": "Image:Atariファミコン前史時代、世界を席巻したゲーム機が蘇ります。ビンテージなゲーム機をミニサイズにして復刻する流れが続いていますが、この本物に近いサイズの「Atari2600+」はちょっとエモいですよ。なんてったって、当時の、オリジナルのゲームカートリッジ（ゲームカセット）を挿して遊ぶことができるんですから。Image:Atariこんなふうに、ガシャッと差し込むんです。そしてゲームプレ",
+          "link": "https://www.gizmodo.jp/2023/08/atari-2600-plus.html",
+          "publishedOn": "2023-08-27T02:00:00.000Z",
+          "wordCount": 367,
+          "title": "50年前のゲームカートリッジも使える「Atari 2600」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/08/25/Screenshot2023-08-25at12-22-07Atari2600.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/08/25/Screenshot2023-08-25at12-22-07Atari2600.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/08/machi-ya-wedgepillow-review2-688065.html",
+          "author": "山田洋路",
+          "description": "「Dr.Shinウエッジピロー」では睡眠の専門家の意見を設計に反映。絶妙な角度と寸法で、寝返りが打ちやすい構造。形状記憶素材を採用することでフィット感と“高級マットレスのような寝心地”を実現します。折り畳み式で持ち運びが容易。ベッドテーブルや背もたれとしても活用できます。",
+          "link": "https://www.gizmodo.jp/2023/08/machi-ya-wedgepillow-review2-688065.html",
+          "publishedOn": "2023-08-27T00:45:00.000Z",
+          "wordCount": 359,
+          "title": "睡眠の専門家＆医師と共に開発された三角枕「Dr.Shinウェッジピロー」の寝心地をレポート",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/08/23/Dr.Shin%E3%82%A6%E3%82%A7%E3%83%83%E3%82%B8%E3%83%94%E3%83%AD%E3%83%BCreview300.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/08/23/Dr.Shin%E3%82%A6%E3%82%A7%E3%83%83%E3%82%B8%E3%83%94%E3%83%AD%E3%83%BCreview300.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/08/machi-ya-poleholderbelt-end-680305.html",
+          "author": "Haruki Matsumoto",
+          "description": "「ポールホルダーベルト」は、トレッキングポールの脱着が簡単に行える便利アイテム。カラビナとマジックテープというシンプルな設計ですが、バッグの形状に左右されずに好きな位置に設置できるの特長。カバンを下ろさずとも手元でサッと取り外しできるので、ニッチですが登山やハイキングの効率が上がるアイテムとなっています。",
+          "link": "https://www.gizmodo.jp/2023/08/machi-ya-poleholderbelt-end-680305.html",
+          "publishedOn": "2023-08-26T23:45:00.000Z",
+          "wordCount": 379,
+          "title": "いろんなバッグにポールや三脚を取り付けできる「ポールホルダーベルト」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/08/17/d81a42ee-19d5-451e-9c30-c841145ec6c3.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/08/17/d81a42ee-19d5-451e-9c30-c841145ec6c3.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/08/ayaneo-pocket-s.html",
+          "author": "武者良太",
+          "description": "Image:AYANEOバトロワ系、やってみたすぎなのです。一般スマホ用、IoT用、VR用など、様々な用途のSoCを開発しているクアルコムが新たに、携帯ゲーム機用のSoC「SnapdragonG3xGen2」を発表。同時にUMPCなどを作っているAYANEOが、このSnapdragonG3xGen2を搭載するAndroidゲーム機「AYANEOPocketS」を発表しました。マーベラスコラボといっ",
+          "link": "https://www.gizmodo.jp/2023/08/ayaneo-pocket-s.html",
+          "publishedOn": "2023-08-26T23:00:00.000Z",
+          "wordCount": 387,
+          "title": "Android最強のゲーム体験を狙える「AYANEO Pocket S」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/08/25/A1.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/08/25/A1.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/08/aura-smart-sleep-mask.html",
+          "author": "武者良太",
+          "description": "Image:Kickstarter眼のマッサージャーとは別のアプローチなんですね。規則正しい生活をする、布団に入ったらスマホを見ない、ちゃんと太陽の光を浴びるなどなど、健やかな入眠をもたらすワザにはいろいろあります。こちらの「AuraSmartSleepMask」もそんなワザの1つ。音と淡い光で身体にリラックスを促して健やかに眠り、そして心地よい目覚めをもたらすためのデバイスです。目元を押さえつけ",
+          "link": "https://www.gizmodo.jp/2023/08/aura-smart-sleep-mask.html",
+          "publishedOn": "2023-08-26T22:00:00.000Z",
+          "wordCount": 369,
+          "title": "かけた瞬間、音と光の癒やし空間来たれりスマートスリープマスク",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/08/24/64e3270836eb8460b578b42e0e1e3ac9_original.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/08/24/64e3270836eb8460b578b42e0e1e3ac9_original.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/08/webb-space-telescope-ring-nebula-two-new-images.html",
+          "author": "たもり",
+          "description": "ジェイムズ・ウェッブ宇宙望遠鏡（JWST）が撮影した、環状星雲（別名リング星雲）の画像が公開されました。同望遠鏡の主要な観測機器2つが、その構造をかつてないほど詳細に捉えています。",
+          "link": "https://www.gizmodo.jp/2023/08/webb-space-telescope-ring-nebula-two-new-images.html",
+          "publishedOn": "2023-08-26T13:30:00.000Z",
+          "wordCount": 397,
+          "title": "宇宙の宝石箱や！ ウェッブ宇宙望遠鏡がとらえた環状星雲の複雑な構造",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/08/24/230824RingNebula.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/08/24/230824RingNebula.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/08/yamazaki_toiletpaper_holder-1.html",
+          "author": "mio",
+          "description": "Photo:mio2023年6月24日の記事を編集して再掲載しています。備えつけ収納がゼロなわが家のお手洗い…。とにかくトイレットペーパーのストック場所に困るんです。手狭なお手洗いでも動線の邪魔にならない収納アイテムを探して行きついたのは、やっぱり山崎実業でした。必要な分だけストックしたい「ウォールトイレットペーパーホルダー」導入前の様子今まであまり深く考えていなかったのですがよく考えると、わが家",
+          "link": "https://www.gizmodo.jp/2023/08/yamazaki_toiletpaper_holder-1.html",
+          "publishedOn": "2023-08-26T12:45:00.000Z",
+          "wordCount": 381,
+          "title": "トイレットペーパーどこにストックする？ 正解は“浮かせるホルダー”でした",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/06/21/yamazaki_toiletpaper_holder_01.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/06/21/yamazaki_toiletpaper_holder_01.jpg"
+        },
         {
           "id": "https://www.gizmodo.jp/2023/08/development-delays-in-babies-linked-to-screen-time.html",
           "author": "岩田リョウコ",
@@ -4122,261 +4392,6 @@
             "url": "https://media.loom-app.com/gizmodo/dist/images/2023/08/10/_37A9470.JPG"
           },
           "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/08/10/_37A9470.JPG"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/08/amazon-countermeasures-against-fake-reviews.html",
-          "author": "中川真知子",
-          "description": "Amazonがレビューを要約する生成AIと、AIによって生成されたレビューを監視する詐欺検出ツールを使用すると発表。",
-          "link": "https://www.gizmodo.jp/2023/08/amazon-countermeasures-against-fake-reviews.html",
-          "publishedOn": "2023-08-20T23:00:00.000Z",
-          "wordCount": 370,
-          "title": "偽の評価を見抜けるか？ Amazonが商品レビューを要約するAIを公開",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/08/15/d351033a8868bf6ec542bead1f0ffa87.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/08/15/d351033a8868bf6ec542bead1f0ffa87.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/08/indias-moon-mission-enters-lunar-orbit-ahead-of-histori.html",
-          "author": "たもり",
-          "description": "チャンドラヤーン3号は7月14日にインドのLVM3ロケットにて飛び立ちました（Photo:ISRO）インドの月探査機｢チャンドラヤーン3号｣は月周回軌道に投入されてから、高度を徐々に下げて月面に近付きつつあります。インド宇宙研究機関（ISRO）は、同機関の3つ目の月探査ミッションであるチャンドラヤーン3号がエンジン噴射を経て、月を周回する楕円軌道に投入されたと8月5日に発表しました。同探査機は8月",
-          "link": "https://www.gizmodo.jp/2023/08/indias-moon-mission-enters-lunar-orbit-ahead-of-histori.html",
-          "publishedOn": "2023-08-20T11:00:00.000Z",
-          "wordCount": 368,
-          "title": "着陸は8月23日の予定｡インドの探査機が月周回軌道投入に成功",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/08/11/230811C3LunarOrbit.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/08/11/230811C3LunarOrbit.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/08/machi-ya-maxshapener-review-679654.html",
-          "author": "Haruki Matsumoto",
-          "description": "「MAX SHAPENER」はドイツ生まれの家庭用シャープナー。老舗の刃物メーカーが生んだ作品で、研磨ロッドでに押し当てて研いでいく独自のギミックがポイント。簡単な動作を繰り返すだけで切れ味が回復するので、難しいスキルや知識も必要なし。今回は筆者が使ってみて感じたレポートをお届けします。",
-          "link": "https://www.gizmodo.jp/2023/08/machi-ya-maxshapener-review-679654.html",
-          "publishedOn": "2023-08-20T10:45:00.000Z",
-          "wordCount": 397,
-          "title": "切れ味が完全復活！ ギミックも楽しいシャープナーで包丁を研いでみた",
-          "enclosure": {
-            "length": "0",
-            "type": "image/gif",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/08/08/original-6.gif"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/08/08/original-6.gif"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/08/gene-therapy-treats-alcohol-use-disorder-in-monkeys.html",
-          "author": "mayumine",
-          "description": "アルコール依存症の治療方法を研究するチームが、サルでの遺伝子治療を実験した結果、サルのアルコールへの渇望を抑えることができたと報告されています。",
-          "link": "https://www.gizmodo.jp/2023/08/gene-therapy-treats-alcohol-use-disorder-in-monkeys.html",
-          "publishedOn": "2023-08-20T10:00:00.000Z",
-          "wordCount": 354,
-          "title": "アルコール依存症のサル、遺伝子治療で症状が劇的に改善",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/08/18/20230818_82031_01.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/08/18/20230818_82031_01.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/08/amazon-niteize-gcarabiner.html",
-          "author": "田中宏和",
-          "description": "一般的なカラビナの場合、ベルトフックやバッグのストラップなどに付けたり外したりしているときに、キーが外れてしまうことも…。NITEIZE（ナイトアイズ）の「Gカラビナー」は、かなりのリスクであるこの問題を解決したカラビナです。",
-          "link": "https://www.gizmodo.jp/2023/08/amazon-niteize-gcarabiner.html",
-          "publishedOn": "2023-08-20T09:45:00.000Z",
-          "wordCount": 370,
-          "title": "NITEIZEの「Gカラビナー」なら、付け外しのときにキーが外れてしまう心配がなくなりそう！",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2021/10/24/211024_gcarabiner_top.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2021/10/24/211024_gcarabiner_top.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/08/eternal-ash-vr-chat-1.html",
-          "author": "武者良太",
-          "description": "VRChatにはさまざまなワールドがありますが、過酷さランキングNo.1の座に輝き続けているのがKarl Kroenenさんが作った「Eternal Ash」です。\n\nそんなEternal Ashに挑んだ1人が、メタバース系YouTuberの猿頭トリートメントさん（@Sarugashira）です。しかもコントローラのスティックを倒して進んでいくのではなく、歩行デバイス「KAT loco S」を用い",
-          "link": "https://www.gizmodo.jp/2023/08/eternal-ash-vr-chat-1.html",
-          "publishedOn": "2023-08-20T09:00:00.000Z",
-          "wordCount": 396,
-          "title": "足踏みし続け9時間30分。過酷すぎるVR登山で心が折れた男の話",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2022/07/16/VRChat_3840x2160_2022-07-11_23-30-38.755_R.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2022/07/16/VRChat_3840x2160_2022-07-11_23-30-38.755_R.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/08/machi-ya-tsunagubag2in1plus-review-676947.html",
-          "author": "Haruki Matsumoto",
-          "description": "今回ご紹介する「TSUNAGU BAG 2in1 plus」は、収納力・快適さにこだわって作られたバックパック。PCや小物などの収納はもちろん、フロントポケットを切り離してサコッシュとして利用できるなどユニークな機能も搭載。体に触れる背面はメッシュ生地で通気性も確保。ぴったりフィットして負担軽減をしてくれる快適バックパックとなっています。",
-          "link": "https://www.gizmodo.jp/2023/08/machi-ya-tsunagubag2in1plus-review-676947.html",
-          "publishedOn": "2023-08-20T08:45:00.000Z",
-          "wordCount": 416,
-          "title": "ポケットが分離してサコッシュになる「TSUNAGU BAG 2in1 plus」",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/08/04/original.png"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/08/04/original.png"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/08/tenori-tetra-1.html",
-          "author": "SATYOUTH.COM",
-          "description": "置物として最高にかわいいテトラポッドのミニチュア「テノリテトラ」。何かに役立つわけではないけど、デスクトップに置いておくだけでちょっとした彩りとユーモアを与えてくれます。",
-          "link": "https://www.gizmodo.jp/2023/08/tenori-tetra-1.html",
-          "publishedOn": "2023-08-20T07:45:00.000Z",
-          "wordCount": 353,
-          "title": "アレのミニチュア版、机の上に置いてみたら新世界が広がりました",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/03/12/_DSC87121.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/03/12/_DSC87121.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/08/machi-ya-ultimate_sierrabowl-review-687994.html",
-          "author": "shunki.n",
-          "description": "「究極のシェラボウル」は金物で有名な燕三条で作られたキャンプの調理シーンで活躍するアイテム。容量は850mlとなっており一般的なシェラボウルに比べて少し大きめ。袋ラーメンの上に豪快にトッピングを乗せてもを十分に収まります。キャンプで使い勝手の良い食器を探している方におすすめです。",
-          "link": "https://www.gizmodo.jp/2023/08/machi-ya-ultimate_sierrabowl-review-687994.html",
-          "publishedOn": "2023-08-20T06:45:00.000Z",
-          "wordCount": 362,
-          "title": "お鍋みたいに使える大きめシェラカップ「究極のシェラボウル」が便利だった",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/08/08/DSCF3387.png"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/08/08/DSCF3387.png"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/08/onoe-tsubo.html",
-          "author": "かくれい",
-          "description": "Photo:かくれいROOMIE2023年8月3日掲載の記事より転載外で炭火焼肉をするのって最高！でも、暑いなか片付けをするのは大変ですよね……。サクッと短時間でアウトドアを楽しみたくて、片付けが楽なギアを探していたらこれに出会いました。火消し壺になる七輪ONOE火消し壺になる七輪ONOEの「火消し壺になる七輪」は、その名の通り火消し壺になる七輪。それだけでもかなり興味をそそられますが、使ってみた",
-          "link": "https://www.gizmodo.jp/2023/08/onoe-tsubo.html",
-          "publishedOn": "2023-08-20T06:00:00.000Z",
-          "wordCount": 372,
-          "title": "持ち運びも片付けもラク。本格キャンプ飯がササッと作れる秘訣は「七輪」にあるんです",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/08/10/top_20230723_ideaco_katori016.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/08/10/top_20230723_ideaco_katori016.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/08/mobo-keyboard-2-1.html",
-          "author": "小暮ひさのり",
-          "description": "iPad miniって「どこにでも」なサイズ感だから、外にも一緒にお出かけしたくなりますよね。ビューワーとしても優秀だし、Bluetoothキーボードも備えておけば、書き物も快適です。そんな外出時のお供としてよさそうな折りたたみキーボードを見つけました。",
-          "link": "https://www.gizmodo.jp/2023/08/mobo-keyboard-2-1.html",
-          "publishedOn": "2023-08-20T05:45:00.000Z",
-          "wordCount": 373,
-          "title": "パートナー見つけた！ このキーボードをiPad miniと持ち運びたくなる、ひとつの理由",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2022/04/05/2022-04-05ipadkmink00.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2022/04/05/2022-04-05ipadkmink00.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/08/rubiks-cube-impossible-1.html",
-          "author": "岡本玄介",
-          "description": "6色の面を揃えて完成させるお馴染みのルービックキューブに、角度によって色が変わって見えるパネルを混ぜた「ルービックキューブインポッシブル」が爆誕しました。",
-          "link": "https://www.gizmodo.jp/2023/08/rubiks-cube-impossible-1.html",
-          "publishedOn": "2023-08-20T04:45:00.000Z",
-          "wordCount": 352,
-          "title": "開発チームもほぼクリアできず。「難易度MAXのルービックキューブ」が発売されます",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2022/03/03/220304_rubikscube.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2022/03/03/220304_rubikscube.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/08/xiaomi-cyberdog2.html",
-          "author": "岡本玄介",
-          "description": "中国のシャオミは2年前に｢CyberDog｣を発表しましたが、進化を果たし「CyberDog 2」に。犬っぽさが増しています。",
-          "link": "https://www.gizmodo.jp/2023/08/xiaomi-cyberdog2.html",
-          "publishedOn": "2023-08-20T04:00:00.000Z",
-          "wordCount": 362,
-          "title": "シャオミのロボット犬がだいぶ犬っぽく進化してる",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/08/17/230818_cyberdog.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/08/17/230818_cyberdog.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/08/atex-neck-massager.html",
-          "author": "岡本玄介",
-          "description": "ATEXの「低周波治療器 ネックマッサージャー」はチョーカーのようなアクセサリー風デザインで目立たず首のこりをケアできます。",
-          "link": "https://www.gizmodo.jp/2023/08/atex-neck-massager.html",
-          "publishedOn": "2023-08-20T03:00:00.000Z",
-          "wordCount": 354,
-          "title": "この低周波治療器、チョーカーにしか見えない",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/08/14/230815_atex.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/08/14/230815_atex.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/08/machi-ya-infinitycoolbranket-start-681616.html",
-          "author": "山田洋路",
-          "description": "冷感ブランケット「INFINITY COOL BRANKET」は触れるだけで-15℃の冷却を提供。内閣総理大臣賞受賞の冷感技術と遮熱機能を組み合わせることで寝苦しい夏の夜も涼しく過ごせます。洗濯機で丸洗いできて衛生的。薄くて軽いので持ち運んでキャンプや車中泊でも使えます。",
-          "link": "https://www.gizmodo.jp/2023/08/machi-ya-infinitycoolbranket-start-681616.html",
-          "publishedOn": "2023-08-20T01:45:00.000Z",
-          "wordCount": 376,
-          "title": "寝苦しい夏の味方！遮熱機能を組み込んだ冷感ブランケット「INFINITY COOL BRANKET」",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/08/09/INFINITYCOOLBRANKET00.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/08/09/INFINITYCOOLBRANKET00.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/08/clappy-cupsule-toy-500yen.html",
-          "author": "岡本玄介",
-          "description": "Image:株式会社いきもん合体ギミックが良い！日本のモノ作りは世界に誇れる技術力がありますが、時として発想力が大爆発することがありますよね。拍手をするロボット「クラッピー」シリーズもそのひとつかと思います。あの拍手ロボが500円でこれまで、リアルな拍手音を出すロボット｢ビッグクラッピー｣が海外でクラウド・ファンディングを行なったり、弟分の｢ベイビークラッピー｣が海外のサイトで取り挙げられたり、着",
-          "link": "https://www.gizmodo.jp/2023/08/clappy-cupsule-toy-500yen.html",
-          "publishedOn": "2023-08-20T01:00:00.000Z",
-          "wordCount": 369,
-          "title": "「拍手ロボット」がカプセルトイに。歌うし合体するしで500円とは思えない",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/08/16/230817_clappy1.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/08/16/230817_clappy1.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/08/machi-ya-pokeplus2-start-682097.html",
-          "author": "shunki.n",
-          "description": "「ポケプラス2」は丈夫で便利なミニポーチ。万能な一般的なスマホが問題なく入るサイズ感で、カード類や小さな鍵なども収納可能。 ベルトに付けたりカラビナで吊り下げたり、お好みのスタイルで携帯できます。生地はウェットスーツと同じなので、柔らかくて耐久性も良し。外に出かける時にとりあえずこれを持っておけば間違いない万能アイテムです。",
-          "link": "https://www.gizmodo.jp/2023/08/machi-ya-pokeplus2-start-682097.html",
-          "publishedOn": "2023-08-20T00:45:00.000Z",
-          "wordCount": 359,
-          "title": "手ブラ派に良さげ。ポケットをちょい足しできるミニポーチ「ポケプラス2」",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/07/28/2023-04-2921.51.12-min.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/07/28/2023-04-2921.51.12-min.jpg"
         }
       ]
     }
