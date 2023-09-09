@@ -2,10 +2,392 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hmhv.github.io/reader/index.html</id>
     <title>hmhv::news</title>
-    <updated>2023-09-08T12:24:33.375Z</updated>
+    <updated>2023-09-09T12:22:04.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hmhv.github.io/reader/index.html"/>
     <link rel="self" href="https://hmhv.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[猫ちゃん探索サイバーパンクゲーム「Stray」が劇場アニメに！]]></title>
+        <id>https://www.gizmodo.jp/2023/09/stray_game.html</id>
+        <link href="https://www.gizmodo.jp/2023/09/stray_game.html"/>
+        <updated>2023-09-09T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:Twitter映像作品との相性良いと思いますよ。猫を操作してサイバーパンクな世界観を駆け巡るアクションアドベンチャーゲーム『Stray』。開発スタジオには人間よりも猫の方が多いほどに、猫への愛に溢れた一作です。2022年7月にSteamやPS4・5で配信された本作が、劇場向けの長編アニメ化されることがEntertainmentWeeklyにより報じられました。大画面で猫ちゃんに会える！]]></summary>
+        <author>
+            <name>ヤマダユウス型</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VRヘッドセットの次は軍事産業。Oculus創業者がAI戦闘機を発表]]></title>
+        <id>https://www.gizmodo.jp/2023/09/ai-aircraft-fury.html</id>
+        <link href="https://www.gizmodo.jp/2023/09/ai-aircraft-fury.html"/>
+        <updated>2023-09-09T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Oculusの創業者Palmer Lucky氏が、AIによる完全自動操縦を目指す新型戦闘機の「Fury」を発表。]]></summary>
+        <author>
+            <name>湯木進悟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サポート力とフィット感に自信アリなトラベルピローを試してみた]]></title>
+        <id>https://www.gizmodo.jp/2023/09/machi-ya-bullbird-review-649775.html</id>
+        <link href="https://www.gizmodo.jp/2023/09/machi-ya-bullbird-review-649775.html"/>
+        <updated>2023-09-09T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[今回ご紹介する「bullbird トラベルピロー」は、独自デザインで首をまっすぐ適切な位置に固定してくれるネックピロー。形状記憶フォーム採用でクッション性は高く、プラスチックフレームを加えることで安定性も向上されています。通気穴を作ることでムレを防止するなど快適に睡眠できる工夫が散りばめられたアイテムとなっています。]]></summary>
+        <author>
+            <name>Haruki Matsumoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ポケモンのWebアニメ『放課後のブレス』公開。ホゲータかわえぇ…]]></title>
+        <id>https://www.gizmodo.jp/2023/09/pokemon-houkago.html</id>
+        <link href="https://www.gizmodo.jp/2023/09/pokemon-houkago.html"/>
+        <updated>2023-09-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ゲーム『ポケットモンスター スカーレット・バイオレット』の世界観を元にしたアニメ『放課後のブレス』がYouTubeで公開。]]></summary>
+        <author>
+            <name>ヤマダユウス型</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirPods Pro（第2世代）がしれっと安いし、iPhone持ってるならこれでいいんじゃない？【Amazonセール】]]></title>
+        <id>https://www.gizmodo.jp/2023/09/amazon-timesale-2023-0909-1.html</id>
+        <link href="https://www.gizmodo.jp/2023/09/amazon-timesale-2023-0909-1.html"/>
+        <updated>2023-09-09T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon（アマゾン）で毎日開催されているタイムセール。本日2022年9月9日は、Apple AirPods Pro（第2世代）が6％オフ、Apple Watch最新モデルのSeries 8セルラーモデルが8％オフなど、Apple製品がお得に登場しています。]]></summary>
+        <author>
+            <name>お買いものサポーター</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPTで動く自動運転車に、クルマの未来が見えた]]></title>
+        <id>https://www.gizmodo.jp/2023/09/chatgpt-turing.html</id>
+        <link href="https://www.gizmodo.jp/2023/09/chatgpt-turing.html"/>
+        <updated>2023-09-09T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:三浦一紀｜Turingが描く自動運転車のデザイン未来はすぐそこにある。Turing（チューリング）という会社をご存知でしょうか。Turingは、完全自動運転車を開発している日本の自動車メーカーです。そのTuringから、「現在開発中のChatGPTで動作する自動運転車のデモをするので、見に来ませんか？」とお誘いをいただいたので、ギズモード編集部からリチャードと黒田、そして僕がお伺いして]]></summary>
+        <author>
+            <name>三浦一紀</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[絶対踏む！ 歩く先にLEGOブロックを撃ち込むマシンを作った人、ドS決定]]></title>
+        <id>https://www.gizmodo.jp/2023/09/adam-beedle-youtuber-lego-cannon-smart-step-on-brick-1.html</id>
+        <link href="https://www.gizmodo.jp/2023/09/adam-beedle-youtuber-lego-cannon-smart-step-on-brick-1.html"/>
+        <updated>2023-09-09T07:35:00.000Z</updated>
+        <summary type="html"><![CDATA[LEGO好きじゃなくても、家に少しでもブロックがあればわかると思いますが、アレ、踏むと悶絶する痛さですよね。痛すぎて思考停止、いや、むしろ「あれ、これ足ツボ的に体にいい？」って思考が逆に進むレベルで痛い。絶対踏みたくない。踏みたくないはずなのに、わざわざこんなものを作ってしまう人がいるとは…。]]></summary>
+        <author>
+            <name>そうこ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スマホは「機種」よりも「おトク」に目が行きがち？　「機能」よりも「値引き」や「特典」？]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2309/09/news061.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2309/09/news061.html"/>
+        <updated>2023-09-09T07:15:00.000Z</updated>
+        <summary type="html"><![CDATA[最近は、スマホ（端末）に関する記事よりも、各種キャンペーンを紹介する記事が読まれることが多くなったように思います。まもなく「話題のスマホ」や「Pixel」の新モデルが発表される見通しですが、果たしてスマホそのものへの興味を取り戻すような新機種が出てくるのでしょうか……？]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヘインズがクーポンで最大2,000円オフ！これから欲しくなるロンTも【楽天スーパーSALE】で新調しておこう]]></title>
+        <id>https://www.gizmodo.jp/2023/09/rakuten-supersale-2023-0909-1.html</id>
+        <link href="https://www.gizmodo.jp/2023/09/rakuten-supersale-2023-0909-1.html"/>
+        <updated>2023-09-09T05:45:00.000Z</updated>
+        <summary type="html"><![CDATA[楽天市場では、9月4日(月)20:00から9月11日(月)01:59まで｢楽天スーパーSALE｣が開催中。
+
+｢ショップ買いまわり｣ で最大7,000ポイントがゲットできます。お得に買える3つの攻略法についてはこちら。
+
+現在、ヘインズのロングスリーブTシャツがクーポンで最大2,000円オフ、カルバンクラインのボクサーパンツが最大15％ポイント還元など、インナーウェアがお買い得になっています。]]></summary>
+        <author>
+            <name>お買いものサポーター</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[パスタの茹で時間も1分に。夕飯作りが「魔法のようにラクになる裏技」3選]]></title>
+        <id>https://www.gizmodo.jp/2023/09/pasta-zip.html</id>
+        <link href="https://www.gizmodo.jp/2023/09/pasta-zip.html"/>
+        <updated>2023-09-09T05:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:ROOMIE編集部ROOMIE2022年7月22日掲載の記事より転載「調理は簡単に。かつ、おいしいものが食べたい！」というのは、おうちごはんの永遠のテーマのような気がします。そんな願いを叶える裏技、あります！ということで、パスタを超高速で茹であげる方法、しんなりしたフライドポテトを復活させる技、そうめんをパパッと食卓に出せるキッチンツールを紹介します。茹で時間が10分から1分に短縮でき]]></summary>
+        <author>
+            <name>ROOMIE編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nothing Phone(2)、気に入らなかったら全額返金キャンペーン実施中]]></title>
+        <id>https://www.gizmodo.jp/2023/09/nothing-2-refund-campaign.html</id>
+        <link href="https://www.gizmodo.jp/2023/09/nothing-2-refund-campaign.html"/>
+        <updated>2023-09-09T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nothing Phone(2)、使用して気に入らなかったら全額返金するキャンペーンを実施。9月30日23:59購入分までが対象。]]></summary>
+        <author>
+            <name>三浦一紀</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「お～いお茶 」の新パッケージ、デザインお助けAIが考えたんだって]]></title>
+        <id>https://www.gizmodo.jp/2023/09/itoen-ai-design.html</id>
+        <link href="https://www.gizmodo.jp/2023/09/itoen-ai-design.html"/>
+        <updated>2023-09-09T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[伊藤園の「お～いお茶 」新デザインは、「商品デザイン用の画像生成AI」が発案。人間のデザイナーが最終的な手を加えて商品化。]]></summary>
+        <author>
+            <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IIJmio、mineo、NUROモバイル、イオンモバイルのキャンペーンまとめ【9月9日最新版】　最新スマホの特価や1万円超のキャッシュバックあり]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2309/09/news036.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2309/09/news036.html"/>
+        <updated>2023-09-09T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[9月となり、MVNO各ブランドも多数のキャンペーンを実施しているが、特に多いのがオプションの無料提供だ。今回はIIJmio、mineo、NUROモバイル、イオンモバイルで実施しているキャンペーンをまとめた。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テスラとマックがマックフルーリー専用スプーン開発 in 中国]]></title>
+        <id>https://www.gizmodo.jp/2023/09/tesla-macdonald-mcflurry-spoon.html</id>
+        <link href="https://www.gizmodo.jp/2023/09/tesla-macdonald-mcflurry-spoon.html"/>
+        <updated>2023-09-09T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[中国でテスラとマクドナルドがコラボして、マックフルーリー専用スプーンを作っていました。]]></summary>
+        <author>
+            <name>そうこ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[価格以上のクオリティ！日本製ラグスポウォッチ「ALSTRO」の魅力とは？]]></title>
+        <id>https://www.gizmodo.jp/2023/09/machi-ya-elfolkalstro-review-685581.html</id>
+        <link href="https://www.gizmodo.jp/2023/09/machi-ya-elfolkalstro-review-685581.html"/>
+        <updated>2023-09-09T01:45:00.000Z</updated>
+        <summary type="html"><![CDATA[「ALSTRO」は、SEIKO社製のムーブメントを採用した、メイドインジャパンのラグジュアリースポーツウォッチ。組み立てから完成検査まで宮城県仙台市で行うことで、品質を追求。機能性とメカニカルなデザインを備えたクロノグラフ腕時計が、手に取りやすい価格帯でゲットできるチャンスです！]]></summary>
+        <author>
+            <name>山科拓郎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スマホの残債を1年で免除　ドコモの「いつでもカエドキプログラム＋」がビジネスとして成立するワケ]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2309/09/news052.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2309/09/news052.html"/>
+        <updated>2023-09-09T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ドコモの「いつでもカエドキプログラム＋」は、端末を1年利用して返却すると、残債が免除されるプログラム。一方で、ドコモにとっては事実上の下取り価格が高くなる形となる。それでも、ビジネスモデルとして成立するという。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモ販売ランキング：新発売の「Galaxy Z Flip5」が1位、「Galaxy Z Fold5」もランクイン【8月28日～9月3日】]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2309/09/news045.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2309/09/news045.html"/>
+        <updated>2023-09-09T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ドコモオンラインショップの「売れ筋ランキング」。8月28日～9月3日の期間は、新発売の「Galaxy Z Flip5 SC-54D」が1位を獲得した。Galaxy Z Fold5は512GBモデルが3位の好スタートを切った。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オールインワンPodcastスタジオ「Commander M1」を試してみた]]></title>
+        <id>https://www.gizmodo.jp/2023/09/machi-ya-commanderm1-review-687454.html</id>
+        <link href="https://www.gizmodo.jp/2023/09/machi-ya-commanderm1-review-687454.html"/>
+        <updated>2023-09-09T00:45:00.000Z</updated>
+        <summary type="html"><![CDATA[音声配信を始めたい方から極めたい方までにおススメなオーディオインターフェイスが「Commander M1」。バッテリー稼働式で最長13時間作業可能。入出力ポートが豊富で既存デバイスとの互換性も高いです。直感的な操作感で音量調整やエフェクト調整が可能。対談番組からゲーム実況まで幅広いコンテンツ制作に対応します。]]></summary>
+        <author>
+            <name>山田洋路</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゲオモバイル、UQのMNP契約で中古iPhoneが最安1円に]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1530060.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1530060.html"/>
+        <updated>2023-09-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ゲオストアは、公式オンラインサイト「ゲオモバイル」内の格安SIM契約サイト「ゲオモバイル 格安SIM・モバイルネット」で、条件を満たすと中古のiPhoneが最安1円で購入できるセールを実施している。期間は9月28日まで。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NTTのワイヤレスイヤホン「nwm MBE001」、マルチポイント接続に対応へ]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1530035.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1530035.html"/>
+        <updated>2023-09-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NTTソノリティは、音響ブランド「nwm（ヌーム）」のワイヤレスパーソナルスピーカー「nwm MBE001」について、9月19日からマルチポイント接続機能を追加する。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ちょうど良いスマウォがさらにちょうど良く。ガーミン「VENU 3 / 3S」登場]]></title>
+        <id>https://www.gizmodo.jp/2023/09/garmin-venu-3.html</id>
+        <link href="https://www.gizmodo.jp/2023/09/garmin-venu-3.html"/>
+        <updated>2023-09-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:GARMINバッテリー時間伸びた！嬉しい！ガーミンから新しいスマートウォッチ「VENU3」と、小型モデルの「VENU3S」発売されました。僕は「VENU2」ユーザーなのですが、羨ましい進化が多くてニヤニヤしちゃいます。睡眠機能がより手厚くなったVENUシリーズの持ち味は、シンプルなデザイン性と充実の機能性。僕のような「たまに運動するけど基本は日常使い」みたいな人にとって、かなりベストな]]></summary>
+        <author>
+            <name>ヤマダユウス型</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アメリカ発！86gの軽量アウトドアナイフ「F1 ALPHA」を使ってみた]]></title>
+        <id>https://www.gizmodo.jp/2023/09/machi-ya-f1alpha-review-686572.html</id>
+        <link href="https://www.gizmodo.jp/2023/09/machi-ya-f1alpha-review-686572.html"/>
+        <updated>2023-09-08T23:45:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカで大人気のナイフブランドTekto Knivesが製作した「F1 ALPHA」は機能的で美しいデザインのプレミアムナイフです。ブレードは耐摩耗性の高いD2鋼にチタンコーティングを施し錆びにくい仕様です。折り畳み式のアウトドアナイフで重量86gと軽いので持ち運びにも適しています。食材のカットから薪の処理、防災用品としての利用まで多岐にわたる用途に対応します。]]></summary>
+        <author>
+            <name>山田洋路</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クアルコム、二輪車向けの新プラットフォーム「QWM2290/QWS2290」を発表――バイクにコネクテッドカーと同様の機能を]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1530051.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1530051.html"/>
+        <updated>2023-09-08T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[クアルコム（Qualcomm）は、2輪車や3輪、4輪バギーなどの車輌向けに「Snapdragon Digital Chassis」ソリューションの新しいプラットフォーム「QWM2290/QWS2290」を発表した。電動バイクや内燃エンジンを備えた2輪車向けに今後供給される。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[DATAで見るケータイ業界] 「淘汰」から「撤退期」を迎えている国内端末ベンダーの動向]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/mca/1529995.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/mca/1529995.html"/>
+        <updated>2023-09-08T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今年に入り、国内端末ベンダーの撤退が相次いでいる。5月には2021年に新規参入を果たしたバルミューダが撤退を発表したのに続き、京セラも個人向け携帯電話事業の終息を発表した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ガーン。M3チップ搭載のMacBook、年内発表ないかも……]]></title>
+        <id>https://gori.me/?p=149591</id>
+        <link href="https://gori.me/mac/mac-news/149591"/>
+        <updated>2023-09-08T21:55:58.000Z</updated>
+        <summary type="html"><![CDATA[M3チップを搭載した新型MacBookシリーズは、年内に発表されない可能性がある。Apple情報に定評のアナリストMing-Chi Kuo氏が明らかにした。詳細は明らかにしていない。 看起來到今年年底前，Apple應該都不會發售新款的MacBook (配備M3系列處理器) 機型了==It seems…
+The post ガーン。M3チップ搭載のMacBook、年内発表ないかも…… first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Watch Series 9とUltra 2、センサーの改良や精度の向上が中心か]]></title>
+        <id>https://gori.me/?p=149590</id>
+        <link href="https://gori.me/apple-watch/watch-news/149590"/>
+        <updated>2023-09-08T21:50:36.000Z</updated>
+        <summary type="html"><![CDATA[「Apple Watch Series 9」と「Apple Watch Ultra（第2世代）」は、動作スピード・動作効率・精度向上に重点を置いたアップデートになる可能性がある。Bloombergが明らかにした。 心拍センサーは最新バージョンに改良され、新しい超広帯域チップ「U2」を搭載する。「U2…
+The post Apple Watch Series 9とUltra 2、センサーの改良や精度の向上が中心か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 15 Pro、10％の軽量化を実現か。「Ultra」ではなく「Pro Max」が有力]]></title>
+        <id>https://gori.me/?p=149588</id>
+        <link href="https://gori.me/iphone/iphone-news/149588"/>
+        <updated>2023-09-08T21:40:18.000Z</updated>
+        <summary type="html"><![CDATA[2023年の新型iPhoneのProモデル（iPhone 15 Pro）は、iPhone 14 Proシリーズと比べて10％の軽量化を実現している可能性がある。Bloombergが明らかにした。 iPhone 14 Proは206g、iPhone 14 Pro Maxは240g。10％軽量化すれば、…
+The post iPhone 15 Pro、10％の軽量化を実現か。「Ultra」ではなく「Pro Max」が有力 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google、Pixel Watch 2のスペックを”正式発表”。イベント直後に予約開始]]></title>
+        <id>https://gori.me/?p=149584</id>
+        <link href="https://gori.me/google/pixel-news/149584"/>
+        <updated>2023-09-08T21:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Googleは9月9日、Pixel 8とPixel 8 Proと同時に発表する新型スマートウォッチ「Pixel Watch 2」のティーザー動画を公開した。Googleは日本時間10月4日23時より、新製品の発表イベントを開催する。公開された予告動画によると、イベント直後より予約の受付を開始するとい…
+The post Google、Pixel Watch 2のスペックを”正式発表”。イベント直後に予約開始 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirPods Max、2024年にはUSB-C化する可能性]]></title>
+        <id>https://gori.me/?p=149589</id>
+        <link href="https://gori.me/music-accessories/airpods/149589"/>
+        <updated>2023-09-08T21:20:33.000Z</updated>
+        <summary type="html"><![CDATA[AirPods MaxやAirPodsは、早ければ2024年までに搭載ポートがLightningからUSB-Cに切り替わる可能性がある。Bloombergが明らかにした。 AirPods Proは、AirPodsシリーズとして最初にUBS-C化する見通し。日本時間9月13日午前2時よりスタートするス…
+The post AirPods Max、2024年にはUSB-C化する可能性 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スマホとStarlinkで西表島の生き物を守れ、KDDIや沖縄セルラーらが新たな環境保護の取り組み]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1530020.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1530020.html"/>
+        <updated>2023-09-08T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[KDDIと沖縄セルラー、バイオームの3社は、沖縄県西表島でスマートフォンや「Starlink」を活用した外来種調査を実施した。得られた情報は、西表島の生態系の保護などに役立てられる。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NTTドコモを装う自動音声案内にご用心　相次ぐ不審な偽電話、対応策はある？]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2309/08/news192.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2309/08/news192.html"/>
+        <updated>2023-09-08T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモは、同社を装う自動音声案内について注意喚起を行っている。偽の自動音声案内（電話）はドコモを名乗り、携帯電話料金の未納を理由に回線を停止する、などとアナウンスするもの。ドコモは偽の自動音声の内容を公開するとともに、身に覚えのない連絡を信用せず、不審な場合は内容に応じて警察署などに相談するよう呼びかけている。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orbic、2万円台の8型タブレット「TAB8 4G」を9月22日に発売]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2309/08/news191.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2309/08/news191.html"/>
+        <updated>2023-09-08T13:10:00.000Z</updated>
+        <summary type="html"><![CDATA[米Orbic（オルビック、Orbic US, LLC）の日本法人、Japan OrbicがAndroidタブレット「Orbic TAB8 4G」を9月22日に発売する。家電量販店やMVNOが同日から順次取り扱う。市場想定価格は2万7800円（税込み）だ。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jabraから最新ワイヤレスイヤホン「Elite 10」と「Elite 8 Active」が登場。3年ぶりのフラッグシップは伊達じゃない]]></title>
+        <id>https://www.gizmodo.jp/2023/09/jabra-elite-10-elite-8-active.html</id>
+        <link href="https://www.gizmodo.jp/2023/09/jabra-elite-10-elite-8-active.html"/>
+        <updated>2023-09-08T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:JabraJabraEliteActive75tやJabraElite85tのような二桁に迫ってきた。Jabraから、新しいワイヤレスイヤホン「JabraElite10」と「JabraElite8Active」が発表されました。最上位「Elite」シリーズの最新モデル、よりアクティブ性を極めたモデル、それぞれ見ていきましょう。約3年ぶりにフラッグシップモデルを更新今までのフラッグシップ]]></summary>
+        <author>
+            <name>ヤマダユウス型</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[節水しながら、肌あたりは心地よい柔らかさに。「シルキンシャワー シャワーヘッド」が優秀すぎる]]></title>
+        <id>https://www.gizmodo.jp/2023/09/amazon-arromic-silkinshower-1.html</id>
+        <link href="https://www.gizmodo.jp/2023/09/amazon-arromic-silkinshower-1.html"/>
+        <updated>2023-09-08T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA[「シルキンシャワー プレミアムステンレス」は、公称60％の節水効果を発揮してくれるシャワーヘッド。水圧切り替えレバーと止水ボタンを搭載しており、肌にやさしい極細シャワーが特長になっています。]]></summary>
+        <author>
+            <name>田中宏和</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M1 Max Mac Studioが8万円オフ、20万円以下に。ヤマダウェブコム、大特価セール開催中]]></title>
+        <id>https://gori.me/?p=149582</id>
+        <link href="https://gori.me/sale/peripheral-sale/149582"/>
+        <updated>2023-09-08T12:30:21.000Z</updated>
+        <summary type="html"><![CDATA[家電量販店「ヤマダデンキ」のオンラインストア「ヤマダウェブコム」が、M1 Maxチップを搭載したMac Studio（2022）を、Apple直販価格の8万円オフで販売するセールを開催している。 対象モデルは、10コアCPUを持つApple M1 Maxチップで、24コアGPU、32GBユニファイド…
+The post M1 Max Mac Studioが8万円オフ、20万円以下に。ヤマダウェブコム、大特価セール開催中 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orbic、Androidスマホ「Fun+ 4G」を2万4800円で9月13日に発売]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2309/08/news188.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2309/08/news188.html"/>
+        <updated>2023-09-08T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Orbic（オルビック、Orbic US, LLC）の日本法人、Japan OrbicがAndroidスマートフォン「Orbic Fun+ 4G」を9月13日に発売する。家電量販店やMVNOが同日から順次取り扱う。市場想定価格は2万4800円（税込み）だ。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1/1500万の確率で起こったイギリスの悪夢的な飛行機遅延。その原因とは？]]></title>
         <id>https://www.gizmodo.jp/2023/09/uk-explains-air-traffic-control-outage-glitch-jpn.html</id>
@@ -3163,451 +3545,6 @@ The post iPhone 15用の新素材ケース、”Apple信者の布”と似た質
         <summary type="html"><![CDATA[一級建築士として、QOLの向上を実現できる住まいを追求してきたプロジェクトオーナーYRCI Tatsumiは、自他共に認める革小物マニア。その目で見てきたミニ財布は、ただ小さいだけでカード入れはキツキツ、小銭入れも出し入れしにくくパツンパツンに膨らんでしまうなど、実用性を犠牲にしたものが多いと思っていたとのこと。そこで、1年半かけて作り上げたのが、コンパクトでありながら使いやすいミニ財布「FABU]]></summary>
         <author>
             <name>田中宏和</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Googleによる新たな検索体験。知りたいことを検索すれば生成AIが要約してくれるように]]></title>
-        <id>https://www.gizmodo.jp/2023/09/google-age-search-labs-ai-summary.html</id>
-        <link href="https://www.gizmodo.jp/2023/09/google-age-search-labs-ai-summary.html"/>
-        <updated>2023-09-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Googleこの試験管はなんだろう。Googleが、検索の新機能として生成AIによる検索体験（SGE）の試験運用を開始しました。この機能は、GoogleのSearchLabsにアカウント登録をすることですぐに利用可能です。PCでは、ChromeブラウザでGoogleトップページや検索結果ページにある「試験管アイコン」からSearchLabsのページへ。さらに「SGEを有効にする」という]]></summary>
-        <author>
-            <name>ヨコヤマコム</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自動起動機能付きのチタン製ミニシェーバー「ShowSee」]]></title>
-        <id>https://www.gizmodo.jp/2023/09/machi-ya-3bduolju-start-692244.html</id>
-        <link href="https://www.gizmodo.jp/2023/09/machi-ya-3bduolju-start-692244.html"/>
-        <updated>2023-09-02T23:45:00.000Z</updated>
-        <summary type="html"><![CDATA[わずか8cmのスマートシェーバー「ShowSee」はチタン製ボディのミニマルデザインが魅力的です。毎分5000回転するWエッジブレードが根こそぎヒゲをカット。バッテリー残量に関わらずパワフルなシェービングが可能です。自動起動機能を搭載していて肌に触れた瞬間に髭剃りが始まります。スリープモードも搭載で1時間の充電で60日間使えます。]]></summary>
-        <author>
-            <name>山田洋路</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ankerのスマート体重計が29％オフ。来年の夏に向けて季節を先取りしまくろう]]></title>
-        <id>https://gori.me/?p=149497</id>
-        <link href="https://gori.me/sale/peripheral-sale/149497"/>
-        <updated>2023-09-02T23:02:52.000Z</updated>
-        <summary type="html"><![CDATA[Anker製品がAmazonの「季節先取りSALE」に最大35％オフで登場している。全セール対象商品は充電器などのセールページとオーディオやロボット掃除機などのセールページから確認できるが、「季節先取り」ということで、ピックアップアイテムとして「スマート体重計」をおすすめしたい。 現在上位モデルが2…
-The post Ankerのスマート体重計が29％オフ。来年の夏に向けて季節を先取りしまくろう first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「iPhoneとPixelの大きな差」が埋まるかもしれない、という話]]></title>
-        <id>https://www.gizmodo.jp/2023/09/google-pixel-software-update-rumor.html</id>
-        <link href="https://www.gizmodo.jp/2023/09/google-pixel-software-update-rumor.html"/>
-        <updated>2023-09-02T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:ymgerman/Shutterstock.com現代社会においてほぼ必須アイテムのスマートフォン。修理する権利や電子ゴミを減らす観点からも1台の端末をお手入れしながら長く使えるのがいいですよね。スマートフォンを安全に長く使うには、ハードはもちろん、ソフトウェアサポートが続く必要もあります。そんな中、10月に発表が期待されるGoogleの新作スマートフォンPixel8は、OSのアップデ]]></summary>
-        <author>
-            <name>そうこ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デロンギの全自動コーヒーメーカーが人気。エントリーモデルが19％オフで登場]]></title>
-        <id>https://gori.me/?p=149495</id>
-        <link href="https://gori.me/sale/peripheral-sale/149495"/>
-        <updated>2023-09-02T22:23:14.000Z</updated>
-        <summary type="html"><![CDATA[デロンギの全自動コーヒーメーカー「オーテンティカ」が季節先取りSALEに登場。通常価格の19％オフで販売されている。売上に基づいた最も人気の商品が確認できる「エスプレッソマシンの売れ筋ランキング」では一時的にランキング1位まで上り詰めていた。 記事執筆時点におけるランキング1位は、同じくデロンギの全…
-The post デロンギの全自動コーヒーメーカーが人気。エントリーモデルが19％オフで登場 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HONOR、パーティバッグのような超薄折りたたみコンセプト「V Purse」を披露]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2309/03/news036.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2309/03/news036.html"/>
-        <updated>2023-09-02T22:22:00.000Z</updated>
-        <summary type="html"><![CDATA[HONORは「IFA 2023」の基調講演で、女性のパーティバッグのような超薄な折りたたみ端末「V Purse」のコンセプトを披露した。ストラップを直接付けてショルダーバッグのように持つこともできる。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高級感えぐい。フェラーリとBang＆Olufsenがコラボ]]></title>
-        <id>https://www.gizmodo.jp/2023/09/bang-olufsen-ferrari.html</id>
-        <link href="https://www.gizmodo.jp/2023/09/bang-olufsen-ferrari.html"/>
-        <updated>2023-09-02T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Bang&Olufsen目の覚めるような赤を。デンマークのピュアオーディオメーカーBang＆Olufsenが、なんとフェラーリとのカプセルコラボアイテムを発表しました。フェラーリらしい真紅をまとったスピーカーなどが発売中です。世界一有名な跳ね馬がイヤホンやスピーカーにFERRARICOLLECTIONとして展開されている今回のカプセルコラボ。実は2023年2月に、Bang＆Olufse]]></summary>
-        <author>
-            <name>ヤマダユウス型</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SwitchBot製品が最大40％オフ。スマートロック、スマートカーテン、スマートリモコンなどが値下げ中]]></title>
-        <id>https://gori.me/?p=149489</id>
-        <link href="https://gori.me/sale/peripheral-sale/149489"/>
-        <updated>2023-09-02T21:30:08.000Z</updated>
-        <summary type="html"><![CDATA[SwitchBot製品が、季節先取りSALEに登場。 人気のスマートロック（16％オフ）、カーテンの自動開閉が可能なカーテンロボット（30％オフ）、iPhoneのホームアプリと連係する最新のスマートリモコン兼スマートハブ（14％オフ）、防水仕様の温湿度計（10％オフ）などがセール対象だ。 Switc…
-The post SwitchBot製品が最大40％オフ。スマートロック、スマートカーテン、スマートリモコンなどが値下げ中 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Echoシリーズが最大42％オフ。プライム会員はさらに1,000円オフ]]></title>
-        <id>https://gori.me/?p=149487</id>
-        <link href="https://gori.me/sale/peripheral-sale/149487"/>
-        <updated>2023-09-02T15:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Echo製品を対象とした特選タイムセール「Echoシリーズ・Ringシリーズがお買い得」が、季節先取りSALEで開催中だ。対象商品が最大42％オフで購入でき、プライム会員であれば一部製品がさらに1,000円オフになる。 Echo Popは42％オフ、Echo Budsは39％オフ、Echo Show…
-The post Echoシリーズが最大42％オフ。プライム会員はさらに1,000円オフ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ここにも温暖化の影響が…南極の氷減少によりコウテイペンギンの雛が大量死]]></title>
-        <id>https://www.gizmodo.jp/2023/09/massive-death-of-penguin-chicks.html</id>
-        <link href="https://www.gizmodo.jp/2023/09/massive-death-of-penguin-chicks.html"/>
-        <updated>2023-09-02T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[南極の氷減少によって、2022年に5つのコウテイペンギンのコロニーのうち、4つのコロニーの雛が大量死した可能性。]]></summary>
-        <author>
-            <name>mayumine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3,000点以上が最大70％オフ。幻冬舎電本フェス本祭がスタート]]></title>
-        <id>https://gori.me/?p=149491</id>
-        <link href="https://gori.me/sale/kindle-sale/149491"/>
-        <updated>2023-09-02T12:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Kindleストアが、対象作品3,000点以上が最大70％オフで購入できる「幻冬舎電本フェス本祭」を開催している。セールは2023年09月14日（木）まで。 対象作品には、『メモの魔力　-The Magic of Memos-』、『新版　お金持ちになれる黄金の羽根の拾い方　知的人生設計のすすめ』、『…
-The post 3,000点以上が最大70％オフ。幻冬舎電本フェス本祭がスタート first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[勤続10年で7000万円？ 大手テック企業5社（GAFAM）でエンジニアのお給料が1番高いのはどこ？]]></title>
-        <id>https://www.gizmodo.jp/2023/09/gafam-salary-ranking.html</id>
-        <link href="https://www.gizmodo.jp/2023/09/gafam-salary-ranking.html"/>
-        <updated>2023-09-02T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Blind現代社会を作る人、エンジニア。エンジニア社会人としてトップを目指すなら、やはりアメリカのテック企業TOP5が夢かしら。GAFAMとはGAFAMとまとめられる大手テック企業。これは5つの企業の頭文字をとったもの。G：Google（グーグル）A：Apple（アップル）F：Meta（メタ）（旧Facebook）A：Amazon（アマゾン）M：Microsoft（マイクロソフト）ソフ]]></summary>
-        <author>
-            <name>そうこ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手ブラお出かけを助けてくれるミニポーチ「ポケプラス2」を使ってみた]]></title>
-        <id>https://www.gizmodo.jp/2023/09/machi-ya-pokeplus2-review-682097.html</id>
-        <link href="https://www.gizmodo.jp/2023/09/machi-ya-pokeplus2-review-682097.html"/>
-        <updated>2023-09-02T11:45:00.000Z</updated>
-        <summary type="html"><![CDATA[「ポケプラス2」はベルトに装着するだけで手ぶらで外出可能な便利なミニポーチ。 スマートフォンも問題無く入るサイズ感で、収納スペースが充実しているのも嬉しいポイント。 生地はウエットスーツ地で製作されているので、急な雨が降ってきた時でも安心です。]]></summary>
-        <author>
-            <name>shunki.n</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マニュアルを全部暗記して、どんな飛行機でも操縦できる人型ロボット]]></title>
-        <id>https://www.gizmodo.jp/2023/09/humanoid-robot-airplane.html</id>
-        <link href="https://www.gizmodo.jp/2023/09/humanoid-robot-airplane.html"/>
-        <updated>2023-09-02T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:KAISTロボット界の『トップガン』になれるか？最近は自動運転で目的地まで勝手に飛ぶeVTOL（電動垂直離着陸）が作られていますが、韓国にて人間が操縦する航空機を飛ばせるロボットが開発されています。記憶力に自信アリ韓国科学技術院（KAIST）の「PIBOT」は、人型のヒューマノイド。身長は160cmで体重は65kgと人間の成人くらいのサイズ感です。「PIBOT」は人の言葉で書かれたマニ]]></summary>
-        <author>
-            <name>岡本玄介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロジクールのやエルゴトロンなど、デスク周りのアプデのマストバイガジェットおすすめ17選【Amazon季節先取りSALE】]]></title>
-        <id>https://www.gizmodo.jp/2023/09/amazon-timesale-2023-0902-4.html</id>
-        <link href="https://www.gizmodo.jp/2023/09/amazon-timesale-2023-0902-4.html"/>
-        <updated>2023-09-02T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon（アマゾン）では、2023年9月1日9時から9月4日23時59分までAmazonタイムセール祭りの特別版「Amazon季節先取りSALE」を開催中。 
-
-現在、ロジクールのワイヤレストラックボール「MX ERGO」が13%オフ、バッファローのMicroSDカードが24％オフなど、デスク周辺アイテムがお買い得に登場しています。]]></summary>
-        <author>
-            <name>お買いものサポーター</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pixel 8、なんだかんだ物理SIM使える！ SIMトレイある説が有力]]></title>
-        <id>https://www.gizmodo.jp/2023/09/pixel-8-sim-tray.html</id>
-        <link href="https://www.gizmodo.jp/2023/09/pixel-8-sim-tray.html"/>
-        <updated>2023-09-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Shutterstock.comどっちなんだい。10月4日の開催が発表されたGoogleの発表会MadebyGoogle。Googleからは、今年すでに折りたたみスマホのPixelFoldが発売されていますが、本命はこっち。Pixel8/8Proです。Pixel8は、先日まで、eSIM対応のみ予想が強気でしたが、ここにきて一点。物理SIMカード使えるみたい。米国版iPhoneの後追いは]]></summary>
-        <author>
-            <name>そうこ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X（旧Twitter）が今度はユーザの生体情報や職歴も収集するって。目的は…]]></title>
-        <id>https://www.gizmodo.jp/2023/09/x-user-biometric-data.html</id>
-        <link href="https://www.gizmodo.jp/2023/09/x-user-biometric-data.html"/>
-        <updated>2023-09-02T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:KoshiroK/Shutterstock.com「急いては事を仕損じる」…かも。イーロン・マスク氏は、X（旧Twitter）を中国発SNSのWeChatのような「万能アプリ」にすべく着々と変革をすすめています。しかし、どうもXは怪しげなデータ収集（？）にまで乗り出している様子。今週、同社はプライバシーポリシーを改定し、「生体認証情報」と「求人応募および推薦」に関する規定を盛り込みまし]]></summary>
-        <author>
-            <name>R.Mitsubori</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[部屋のCO2濃度を知らせる黄色い鳥の空気質モニター]]></title>
-        <id>https://www.gizmodo.jp/2023/09/birdie.html</id>
-        <link href="https://www.gizmodo.jp/2023/09/birdie.html"/>
-        <updated>2023-09-02T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[デンマークで生まれた「birdie」は、伝統的な炭鉱のカナリアがモデルの黄色い鳥の模型。室内のCO2濃度が高いと、止まり木を軸にどんどん下向きになっていき、最後は真っ逆さまで死んでしまいます。換気をすると元気になり、またピシっと垂直に復活します。]]></summary>
-        <author>
-            <name>岡本玄介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マストバイの最強オーディオ機器15選。AirPods、Bose、AnkerやSonyの新作イヤホンまで。【Amazon季節先取りSALE】]]></title>
-        <id>https://www.gizmodo.jp/2023/09/amazon-timesale-2023-0902-3.html</id>
-        <link href="https://www.gizmodo.jp/2023/09/amazon-timesale-2023-0902-3.html"/>
-        <updated>2023-09-02T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon（アマゾン）では、2023年9月1日9時から9月4日23時59分までAmazonタイムセール祭りの特別版「Amazon季節先取りSALE」を開催中。 
-
-Amazon（アマゾン）では、2023年9月1日9時から9月4日23時59分までAmazonタイムセール祭りの特別版「Amazon季節先取りSALE」を開催中。 
-
-現在、Apple AirPods（第2世代）が15%オフや「Bose]]></summary>
-        <author>
-            <name>お買いものサポーター</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X上の誤情報が44%増加。政治広告を復活させて大丈夫なのか]]></title>
-        <id>https://www.gizmodo.jp/2023/09/x-brings-back-political-ads-for-2024-election.html</id>
-        <link href="https://www.gizmodo.jp/2023/09/x-brings-back-political-ads-for-2024-election.html"/>
-        <updated>2023-09-02T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Ascannio/Shutterstock.com政治広告はオッケー、でも誤情報には厳しく。それってむずかしくない？「X」として再スタートしたTwitterが、政治広告も再スタートすることを発表しています。政治広告は2019年にTwitterで禁止されていました。これは2024年の大統領選挙に先立ってのことで、Xは安全性と選挙チームの拡充のために従業員を採用すると述べています。広告＝収]]></summary>
-        <author>
-            <name>岩田リョウコ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AirPods Proが落ちにくくなるイヤピは音質もよくなる]]></title>
-        <id>https://www.gizmodo.jp/2023/09/sednaearfit-xelastec-for-airpods-pro-1.html</id>
-        <link href="https://www.gizmodo.jp/2023/09/sednaearfit-xelastec-for-airpods-pro-1.html"/>
-        <updated>2023-09-02T07:35:00.000Z</updated>
-        <summary type="html"><![CDATA[耳に差し込んだときにしっかりとフィットするなら、そうそう落ちるものではありません。だからAirPods Proオーナーと、未来のAirPods Proオーナーにおすすめしたいイヤーピースが「SednaEarfit XELASTEC for AirPods Pro」（セドナイヤーフィット・セラステック・フォー・エアポッズプロ）です。]]></summary>
-        <author>
-            <name>武者良太</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UGREENの140W充電器が30％オフ【Amazon季節先取りSALE】]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1527937.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1527937.html"/>
-        <updated>2023-09-02T07:04:50.000Z</updated>
-        <summary type="html"><![CDATA[Amazon.co.jpで開催されている「季節先取りセール」で、UGREEN製品がセール価格になっている。期間は9月4日まで。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIOの電源タップや充電器などがセール価格に【Amazon季節先取りSALE】]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1528426.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1528426.html"/>
-        <updated>2023-09-02T06:55:21.000Z</updated>
-        <summary type="html"><![CDATA[Amazon.co.jpの「季節先取りSALE」で、CIOの電源タップや充電器などがセール価格で販売されている。期間は9月4日まで。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ankerのイヤホンやモバイルバッテリーなどがセール【Amazon季節先取りSALE】]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1528424.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1528424.html"/>
-        <updated>2023-09-02T06:55:01.000Z</updated>
-        <summary type="html"><![CDATA[Amazon.co.jpの「季節先取りSALE」で、アンカー（Anker）のフルワイヤレスイヤホンやモバイルバッテリーなどがセール価格で販売されている。期間は9月4日まで。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[180Hz/1ms駆動で1.6万円は大満足では？Acerのゲーミングモニターが過去最安値ですよ！【Amazon季節先取りSALE】]]></title>
-        <id>https://www.gizmodo.jp/2023/09/amazon-timesale-2023-0902-2.html</id>
-        <link href="https://www.gizmodo.jp/2023/09/amazon-timesale-2023-0902-2.html"/>
-        <updated>2023-09-02T06:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon（アマゾン）では、2023年9月1日9時から9月4日23時59分までAmazonタイムセール祭りの特別版「Amazon季節先取りSALE」を開催中。 
-
-現在、Acerのゲーミングモニターが15%オフ、エレコムのゲーミングキーボードが13％オフなど、ゲーミングデバイスがお得に登場しています。]]></summary>
-        <author>
-            <name>お買いものサポーター</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Apple Watch Ultra」が1.6万円引き【Amazon季節先取りSALE】]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1528423.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1528423.html"/>
-        <updated>2023-09-02T06:22:16.000Z</updated>
-        <summary type="html"><![CDATA[Amazon.co.jpの「季節先取りSALE」で、アップル（Apple）の「Apple Watch Ultra」がセール価格で販売されている。期間は9月4日まで。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Fire」タブレットシリーズがセール価格に、22％オフも【Amazon季節先取りSALE】]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1528422.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1528422.html"/>
-        <updated>2023-09-02T05:37:04.000Z</updated>
-        <summary type="html"><![CDATA[Amazon.co.jpの「季節先取りSALE」で、「Fire」タブレットシリーズがセール価格になっている。期間は9月4日まで。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[キンキンに冷えたコーヒーが超ラクに作れる理由は、無印の「隠れた名品」にあるんです]]></title>
-        <id>https://www.gizmodo.jp/2023/09/muji-suito.html</id>
-        <link href="https://www.gizmodo.jp/2023/09/muji-suito.html"/>
-        <updated>2023-09-02T05:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:門岡明弥ROOMIE2023年7月7日掲載の記事より転載うなるような暑さの毎日、最近は家で水出しコーヒーを飲むことが増えました。そこで、コーヒーをはじめとした水出しドリンクを作る際、大活躍してくれる無印良品の逸品をご紹介します。無印良品のストレーナー付き冷水筒をお茶用とコーヒー用に2本買っちゃった無印良品「横置きできるストレーナー付き冷水筒1L」こちらは無印良品の「横置きできるストレー]]></summary>
-        <author>
-            <name>門岡 明弥</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電子書籍リーダー「Kindle」シリーズがセール、24％オフも【Amazon季節先取りSALE】]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1528421.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1528421.html"/>
-        <updated>2023-09-02T05:28:03.000Z</updated>
-        <summary type="html"><![CDATA[Amazon.co.jpの「季節先取りSALE」で、電子書籍リーダー「Kindle」シリーズがセール価格になっている。期間は9月4日まで。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ワークアウトの効率アップアイテム15選。Xiaomiのスマートウォッチだって2,000円台で過去最安値継続中！【Amazon季節先取りSALE】]]></title>
-        <id>https://www.gizmodo.jp/2023/09/amazon-timesale-2023-0902-1.html</id>
-        <link href="https://www.gizmodo.jp/2023/09/amazon-timesale-2023-0902-1.html"/>
-        <updated>2023-09-02T04:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon（アマゾン）では、2023年9月1日9時から9月4日23時59分までAmazonタイムセール祭りの特別版「Amazon季節先取りSALE」を開催中。 
-
-現在、Xiaomiのスマートウォッチが40%オフやAnker Eufyの「Smart Scale P2 Pro」が29％オフなど、ワークアウトアイテムがお買い得に登場しています。]]></summary>
-        <author>
-            <name>お買いものサポーター</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スマホの料金プランの「値上げ」が相次いでいる？　「セット割」への誘導も]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2309/02/news057.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2309/02/news057.html"/>
-        <updated>2023-09-02T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Y!mobileが新料金プラン「シンプル2」を発表しました。一見すると“値上げ”なのですが、他のサービスとのセット割を適用すると従来プランとほぼ同額になるという立て付けです。今後は、そのようなプランが増えるのでしょうか……？]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[熱気で溶けそう。 チロルチョコを奪いあうボードゲーム]]></title>
-        <id>https://www.gizmodo.jp/2023/09/takaratomy-choco-board-game.html</id>
-        <link href="https://www.gizmodo.jp/2023/09/takaratomy-choco-board-game.html"/>
-        <updated>2023-09-02T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[玩具メーカーのタカラトミーから、チロルチョコを最大限に活かしたボードゲーム「チロルチョコわくわく争奪戦」が登場します。]]></summary>
-        <author>
-            <name>岡本玄介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CASEPLAYが新幹線をモチーフにしたケースを発売、96機種に対応]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1527124.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1527124.html"/>
-        <updated>2023-09-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[FOXが運営する「CASEPLAY」は、JR東日本の新幹線をモチーフとしたスリムプロテクションケースを発売した。価格は4480円。8種類のデザインが用意され、iPhone、Androidを含めた96機種で展開する。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayStation Plusが価格改定。12ヶ月利用権が10％ちょい値上げ]]></title>
-        <id>https://www.gizmodo.jp/2023/09/playstation-plus-price-up.html</id>
-        <link href="https://www.gizmodo.jp/2023/09/playstation-plus-price-up.html"/>
-        <updated>2023-09-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:PlayStation.Blog日本語サブスク価格がジワジワと…。PS4やPS5で活用できるサブスクサービス「PlayStationPlus（PSPlus）」。オンラインマルチプレイや月ごとのフリープレイなどが享受できるサービスですが、2023年9月6日よりちょっぴり値上がりします。年額コースだけ1割ほど値上がりPSPlusには3つのプランがあり、それぞれ以下のように価格が改定されまし]]></summary>
-        <author>
-            <name>ヤマダユウス型</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[実現が見えてきた“スマホと衛星の直接通信”　国内最速はKDDIか楽天モバイルか？]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2309/02/news051.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2309/02/news051.html"/>
-        <updated>2023-09-02T02:24:00.000Z</updated>
-        <summary type="html"><![CDATA[KDDIがSpaceXのStarlinkを活用し、2024年内に衛星とスマートフォンの「直接通信」を開始することを宣言した。当初はSMSなどのメッセージングサービスに対応し、その後、時期は未定だが音声通話やデータ通信も利用可能になる。国内外のキャリア各社は衛星通信の採用に積極的だが、真価を発揮するには1年以上は時間がかかる。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone向け「Yahoo!乗換案内」、列車アイコンが地図上で動く新機能「トレインキャスト」]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1528375.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1528375.html"/>
-        <updated>2023-09-02T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ヤフーは、アプリ「Yahoo!乗換案内」のiOS版において、「路線図」を「公共交通マップ」としてリニューアルした。「公共交通マップ」では「トレインキャスト」機能が提供され、全国約700路線の列車の動きをアイコンで地図上から確認できる。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日焼け止めの「こまめな塗り直し」を叶えてくれるスティック、見つけました]]></title>
-        <id>https://www.gizmodo.jp/2023/09/sunprotection-siseido-stick.html</id>
-        <link href="https://www.gizmodo.jp/2023/09/sunprotection-siseido-stick.html"/>
-        <updated>2023-09-02T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:大平千沙紫外線が強いこの季節、日焼け止めの効果を保つためにはこまめな塗り直しが大切です。でも、外出先で塗り直そうとしたら手が汚れてしまったり、蓋が開いてカバンの中に中身が漏れてしまった……なんてことも。そんなときにおすすめしたいのがスティック型の日焼け止めなんです。セカンドにぴったりなスティック型資生堂「クリアサンケアスティック」資生堂から発売された、透明タイプのスティック型日焼け止め]]></summary>
-        <author>
-            <name>大平千沙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[収納時は110×147mmのコンパクトさ！急速充電可能なソーラーパネル「Bleaf」]]></title>
-        <id>https://www.gizmodo.jp/2023/09/machi-ya-bleaf3-start-689816.html</id>
-        <link href="https://www.gizmodo.jp/2023/09/machi-ya-bleaf3-start-689816.html"/>
-        <updated>2023-09-02T01:45:00.000Z</updated>
-        <summary type="html"><![CDATA[電気がない生活なんて、もはや考えられない現代。非常電源を確保して、不測の事態に備えておきたいもの。ポータブル電源を備蓄している人もいると思いますが、晴れてさえいればどこでも電気が確保できるソーラーパネルも、押さえておきたいアイテムのひとつ。machi-yaに登場している「Bleaf」は、モバイル性、タフさ、充電性能を兼ね備えた、要注目のソーラーパネルです。]]></summary>
-        <author>
-            <name>田中宏和</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d払い、dポイントのキャンペーンまとめ【9月2日最新版】　最大全額還元や20％還元あり]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2309/02/news033.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2309/02/news033.html"/>
-        <updated>2023-09-02T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA[9月になったが、まだまだ厳しい残暑が続く。更新されたキャンペーンも多く、お得にポイントをもらえる施策も多い。NTTドコモが9月に実施するd払い、dポイントのキャンペーンをまとめた。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドコモ販売ランキング：iPhone 13が首位奪還、2年後返却で割安感【8月21日～8月27日】]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2309/02/news038.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2309/02/news038.html"/>
-        <updated>2023-09-02T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ドコモオンラインショップの「売れ筋ランキング」。8月21日～8月27日の期間は、iPhone 13（128GB）が1位を奪還した。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10月1日は「てんかいっぴんの日」、アプリで天下一品1杯無料のクーポンなど付与]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1528350.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1528350.html"/>
-        <updated>2023-09-02T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[全国の天下一品で、無料クーポンが付与される「アプリで天下一品祭り」が開催される。期間は10月1日～11月10日。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ノートPCに取り付けるだけでトリプルモニターが叶うデュアルサブモニター「PROMETHEUS DUAL」]]></title>
-        <id>https://www.gizmodo.jp/2023/09/machi-ya-promethesu-review2-681839.html</id>
-        <link href="https://www.gizmodo.jp/2023/09/machi-ya-promethesu-review2-681839.html"/>
-        <updated>2023-09-02T00:45:00.000Z</updated>
-        <summary type="html"><![CDATA[「PROMETHEUS DUAL」は、11.6インチのドッキング型デュアルモニター。ノートPCに簡単にドッキング可能で、USB Type-Cケーブル1本で使用できます。折り畳んで持ち運べて、どこでもマルチモニター環境を構築可能です。]]></summary>
-        <author>
-            <name>山科拓郎</name>
         </author>
     </entry>
 </feed>
