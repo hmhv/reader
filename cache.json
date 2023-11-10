@@ -6,6 +6,56 @@
       "siteUrl": "https://gori.me",
       "articles": [
         {
+          "id": "https://gori.me/?p=150684",
+          "author": "g.O.R.i",
+          "description": "iPhone SEの次期モデル（第4世代モデル）は、iPhone 14の筐体を再利用する可能性がある。MacRumorsが入手した情報によると、「iPhone SE（第4世代）」は機種IDが「D59」、コードネームが「Ghost」と付けられており、筐体寸法はiPhone 14と完全に一致しているが、…\nThe post 次期iPhone SEはiPhone 14の筐体でアクションボタンとUSB-C搭載、2025年発表か first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone/iphone-news/150684",
+          "publishedOn": "2023-11-10T07:53:29.000Z",
+          "wordCount": 1604,
+          "title": "次期iPhone SEはiPhone 14の筐体でアクションボタンとUSB-C搭載、2025年発表か",
+          "imageUrl": "https://gori.me/uploads/2023/09/iphone-se-4-new-rumors-2-800x500.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=150682",
+          "author": "g.O.R.i",
+          "description": "Appleは11月10日、「iOS 17.2 beta 2」「iPadOS 17.2 beta 2」「watchOS 10.2 beta 2」「macOS 14.2 beta 2」「tvOS 17.2 beta 2」を開発者向けに配信開始した。 AppleはiOS 17.1を初めとした最新OSを10…\nThe post iOS/iPadOS 17.2やwatchOS 10.2などのBeta 2、開発者向けに配信開始 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ios/ios17/150682",
+          "publishedOn": "2023-11-10T07:31:54.000Z",
+          "wordCount": 1641,
+          "title": "iOS/iPadOS 17.2やwatchOS 10.2などのBeta 2、開発者向けに配信開始",
+          "imageUrl": "https://gori.me/uploads/2023/06/han-wen-bT4IwD6IWSA-unsplash-800x500.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=150679",
+          "author": "g.O.R.i",
+          "description": "Max Techよりキャプチャ Appleによると、M3 MacBook Proのメモリ8GBは「Windows PCの16GBに相当する」という。YouTubeチャンネル「Max Tech」が検証した結果、M3チップのポテンシャルを引き出すためには16GBのほうが望ましい、と結論づけている。 以下…\nThe post 「メモリ8GBは不十分」ーーM3 MacBook Proの検証動画が公開 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macbookpro/150679",
+          "publishedOn": "2023-11-09T21:45:20.000Z",
+          "wordCount": 1584,
+          "title": "「メモリ8GBは不十分」ーーM3 MacBook Proの検証動画が公開",
+          "imageUrl": "https://gori.me/uploads/2023/11/Memory-Pressure-on-8gb-macbookpro-800x449.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=150676",
+          "author": "g.O.R.i",
+          "description": "Google Chromeに各タブのメモリ消費量が簡単に確認できる新機能が実装された。9to5Googleによると、Mac、Windows、Chrome OSなど各種デスクトップ版ブラウザに実装されており「Chrome 119」から利用できるという。 使い方は簡単。メモリ使用量を確認したいタブの上に…\nThe post Google Chrome、メモリを消費しまくっているタブの特定が容易に first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/google/google-chrome/150676",
+          "publishedOn": "2023-11-09T21:30:54.000Z",
+          "wordCount": 1487,
+          "title": "Google Chrome、メモリを消費しまくっているタブの特定が容易に",
+          "imageUrl": "https://gori.me/uploads/2023/11/Chrome-Memory-Tab-800x428.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=150681",
+          "author": "g.O.R.i",
+          "description": "Appleは11月10日、LightningおよびUSB-Cポート搭載のAirPods Pro（第2世代）向けに最新ファームウェアを配信開始した。最新バージョンは「6A305」。旧バージョンは10月に配信された「6A305」だった。 最新ファームウェアの詳細は不明。サポートページには「バグ修正やその…\nThe post AirPods Pro（第2世代）、最新ファームウェアが配信開始（6B32） first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/music-accessories/airpods/150681",
+          "publishedOn": "2023-11-09T21:27:35.000Z",
+          "wordCount": 1466,
+          "title": "AirPods Pro（第2世代）、最新ファームウェアが配信開始（6B32）",
+          "imageUrl": "https://gori.me/uploads/2022/11/AirPods-Pro-Firmware-Update-800x500.jpg"
+        },
+        {
           "id": "https://gori.me/?p=150673",
           "author": "g.O.R.i",
           "description": "M3 ProまたはM3 Maxチップを搭載した16インチMacBook Proは、USB-Cポート（Thunderbolt 4ポート）を使った140W高速充電に対応している。Appleが公式サポートドキュメント「Fast charge your MacBook Air or MacBook Pro」…\nThe post 16インチM3 Pro/Max MacBook Pro限定。高速充電が改良されたよ first appeared on ゴリミー.\n\n 【もっと読む】",
@@ -314,76 +364,6 @@
           "wordCount": 1471,
           "title": "MacのUSB-Cポート、液体検出機能に対応か",
           "imageUrl": "https://gori.me/uploads/2023/11/Apple-MacBook-Pro-side-view-231030-800x533.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=150572",
-          "author": "g.O.R.i",
-          "description": "Ankerは11月1日、開催したイベント「Anker Power Conference 2023 Fall」にて、Anker独自の毛がらみ除去システムを搭載した自動ゴミ収集ステーション付きロボット掃除機「Eufy Clean X8 Pro with Self-Empty Station」を発表した。…\nThe post Anker、最高吸引力＆毛絡み除去システム搭載ロボット掃除機を発売 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/consumer-electronics/150572",
-          "publishedOn": "2023-11-03T23:25:26.000Z",
-          "wordCount": 1503,
-          "title": "Anker、最高吸引力＆毛絡み除去システム搭載ロボット掃除機を発売",
-          "imageUrl": "https://gori.me/uploads/2023/11/Anker-Power-Conference-2023-Fall-New-Products-93-800x534.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=150567",
-          "author": "g.O.R.i",
-          "description": "Threadsのウェブ版に4つの新機能が実装された。メディアファイルのドラッグアンドドロップに対応したため、写真とともにリアルタイム更新をしたい人にとって使い勝手の良いプラットフォームになるだろう。 対応した新機能は以下のとおり。 投稿した写真や動画のaltテキストをウェブから調整可能に メディアフ…\nThe post Threadsのウェブ版、画像や動画のドラッグアンドドロップに対応 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/facebook/threads/150567",
-          "publishedOn": "2023-11-03T22:35:13.000Z",
-          "wordCount": 1446,
-          "title": "Threadsのウェブ版、画像や動画のドラッグアンドドロップに対応",
-          "imageUrl": "https://gori.me/uploads/2023/11/boliviainteligente-Tt05ShiYW_A-unsplash-800x500.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=150565",
-          "author": "g.O.R.i",
-          "description": "ある朝、僕のApple Watch Ultraに見慣れない通知が出た。 「心房細動　心臓のリズムに心房細動を示唆する不規則な心拍がみられます　意思による心房細動の診断を受けたことがない場合、ぜひ医師に相談してください。」 いわゆる不規則な心拍の警告だ。高心拍数の表示は見たことがあるが、不規則な心拍の…\nThe post Apple Watchに「不規則な心拍」が検知。やるべきことは「心電図取れ」「医者行け」 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/apple-watch/watch-ultra/150565",
-          "publishedOn": "2023-11-03T22:00:48.000Z",
-          "wordCount": 1662,
-          "title": "Apple Watchに「不規則な心拍」が検知。やるべきことは「心電図取れ」「医者行け」",
-          "imageUrl": "https://gori.me/uploads/2023/11/Your-heart-is-in-danger-of-stroke-800x500.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=150560",
-          "author": "g.O.R.i",
-          "description": "Appleが、毎年恒例となるクリスマスおよびホリデーシーズン向けの取り組みをスタートした。例年はギフト特集ページが用意されているが、今年は現時点では用意されない代わりにオンラインストア全体がクリスマス仕様になった。 クリスマス仕様になった公式ストア ホリデーシーズンの取り組みといえば、無料の返品期間…\nThe post Apple、クリスマスに向けて無料の返品期間を延長。じっくり試そう first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/apple/apple-news/150560",
-          "publishedOn": "2023-11-03T21:30:55.000Z",
-          "wordCount": 1471,
-          "title": "Apple、クリスマスに向けて無料の返品期間を延長。じっくり試そう",
-          "imageUrl": "https://gori.me/uploads/2023/11/Xmas-designed-apple-800x512.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=150563",
-          "author": "g.O.R.i",
-          "description": "2024年の新型Apple Watchは、血圧をモニタリングできる機能と睡眠時無呼吸症候群を検知できる機能をサポートする可能性がある。Bloombergが明らかにした。 新型Apple Watchは血圧上昇を検知可能なセンサーを搭載しており、高血圧の状況を記録できる。ジャーナルアプリと連係し、ユーザ…\nThe post 2024年の新型Apple Watch、血圧管理や睡眠時無呼吸症候群の検知に対応か first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/apple-watch/watch-news/150563",
-          "publishedOn": "2023-11-03T21:20:07.000Z",
-          "wordCount": 1540,
-          "title": "2024年の新型Apple Watch、血圧管理や睡眠時無呼吸症候群の検知に対応か",
-          "imageUrl": "https://gori.me/uploads/2022/05/solen-feyissa-15v6smjHVHQ-unsplash-800x534.jpeg"
-        },
-        {
-          "id": "https://gori.me/?p=150558",
-          "author": "g.O.R.i",
-          "description": "Satechiが、4つのUSB-Cポートを搭載した高出力USB-C充電器「165W GaN 充電器 USB C PD充電器」を20％オフで購入できるクーポンを配布中。通常価格は16,199円だが、11月5日までの3日間限定で12,959円で購入できる。 4つのUSB-C PDポートは接続されたポート…\nThe post 4つのUSB-Cポートを搭載したSatechiの165W充電器、20％オフセール中 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/sale/peripheral-sale/150558",
-          "publishedOn": "2023-11-03T11:01:03.000Z",
-          "wordCount": 1485,
-          "title": "4つのUSB-Cポートを搭載したSatechiの165W充電器、20％オフセール中",
-          "imageUrl": "https://gori.me/uploads/2023/11/Satechi-hub-sale-800x577.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=150555",
-          "author": "g.O.R.i",
-          "description": "Appleは現地時間11月2日、2023年度第4四半期（2023年7月〜9月期）の決算を発表した。売上高は901億ドル、純利益は207億ドル。昨年同時期比で売上高は2％減、純利益は2％増。 iPhoneの売上はiPhone 15の影響により微増だったが、iPadは10％ダウン、Macは34％ダウンと…\nThe post Macの売上高、前年比で34％減。M3 Macで挽回できるか first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/apple/apple-news/150555",
-          "publishedOn": "2023-11-03T04:14:17.000Z",
-          "wordCount": 1496,
-          "title": "Macの売上高、前年比で34％減。M3 Macで挽回できるか",
-          "imageUrl": "https://gori.me/uploads/2018/10/Apple-Shibuya-Before-Renewal-Open-09-723x542.jpg"
         }
       ]
     },
@@ -392,6 +372,106 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/mobile.xml",
       "siteUrl": "https://www.itmedia.co.jp/mobile/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2311/10/news174.html",
+          "author": null,
+          "description": "日本Xrealは、11月18日から「XREALブラックフライデー」を開催。XREAL Air、XREAL Adapterをセール価格で販売し、XREAL Air 2／2 Proの購入でのXREAL Kaleido Kitのプレゼントなども行う。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2311/10/news174.html",
+          "publishedOn": "2023-11-10T09:56:00.000Z",
+          "wordCount": 2936,
+          "title": "XREAL AirやXREAL Adapterが特別価格になる「XREALブラックフライデー」　11月18日から",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2311/10/l_asa_XREALBLACKF_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2311/10/news162.html",
+          "author": null,
+          "description": "楽天モバイルは、楽天カードへ新規入会し「Rakuten最強プラン」を初めて申し込みしたユーザーへ2万ポイントを還元。楽天カードに新規入会＋利用で最大1万ポイント還元キャンペーンと併用可能だ。期間は11月20日まで。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2311/10/news162.html",
+          "publishedOn": "2023-11-10T08:53:00.000Z",
+          "wordCount": 2884,
+          "title": "楽天カード＋Rakuten最強プランへ新規入会で最大3万ポイント還元　11月20日まで",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2311/10/l_asa_raku20000_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2311/10/news167.html",
+          "author": null,
+          "description": "OPPOは、スウェーデンのカメラメーカーであるHasselbladと共同で開発した次世代のカメラシステム「HyperTone」を発表した。OPPOの次期主力スマートフォンに搭載される見込み。コンピュテーショナルフォトグラフィーの新時代を切り開く新たなシステムだという。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2311/10/news167.html",
+          "publishedOn": "2023-11-10T08:23:00.000Z",
+          "wordCount": 2918,
+          "title": "OPPOとHasselblad、新カメラシステム「HyperTone」発表　次期主力モデルに搭載予定",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2311/10/l_rk1640414_OPPO-01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2311/10/news155.html",
+          "author": null,
+          "description": "ゲオは、11月27日まで「リユーススマホ♪iPhone大感謝祭」を実施。UQ mobile音声SIMとの同時購入で中古iPhoneを割引販売する。iPhone 11（64GB）は1980円（税込み、以下同）、iPhone 12 mini（128GB）は1万9800円など。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2311/10/news155.html",
+          "publishedOn": "2023-11-10T07:56:00.000Z",
+          "wordCount": 2922,
+          "title": "中古iPhone 11が1980円に　ゲオがUQ mobileのMNPキャンペーン",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2311/10/l_asa_geoUQiPhone1127_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2311/10/news143.html",
+          "author": null,
+          "description": "月額880円（税込み）からのMVNOサービス「livedoor MOBILE」が提供開始。K-POPのイベント優先権などをはじめ、さまざまな特典を受けられるSIM型ファンクラブ「推しパス」に加入できる。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2311/10/news143.html",
+          "publishedOn": "2023-11-10T05:34:00.000Z",
+          "wordCount": 2902,
+          "title": "MVNOサービス「livedoor MOBILE」提供開始　音楽やお笑いの「推し活」特典あり",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2311/10/l_asa_livedoorMOBILE_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2311/10/news121.html",
+          "author": null,
+          "description": "NTTメディアサプライは、4月に海外旅行用eSIMサービスの「Lesimo（ルシモ）」を提供開始。NTTグループにはご存じのようにドコモもあり、国際ローミングサービスを提供しているが、海外向けeSIMはこことも競合する恐れがある。なぜ同社はあえて海外向けeSIMサービスの提供に踏み切ったのか。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2311/10/news121.html",
+          "publishedOn": "2023-11-10T02:49:00.000Z",
+          "wordCount": 2903,
+          "title": "「ドコモが取れていないユーザーを取る」　NTTメディアサプライが海外eSIMサービス「Lesimo」を始めたワケ",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2311/10/cover_news121.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2311/10/news118.html",
+          "author": null,
+          "description": "GNオーディオジャパンは、11月9日にワイヤレスイヤフォン2モデルを発売。Dolby Atmos 空間サウンドに最適化した「Jabra Elite 10」、米国MIL規格に準拠する耐久性を備えた「Jabra Elite 8 Active」を展開する。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2311/10/news118.html",
+          "publishedOn": "2023-11-10T02:45:00.000Z",
+          "wordCount": 2940,
+          "title": "Dolby Atmos対応ワイヤレスイヤフォン「Jabra Elite 10」発売　防水＋MIL規格対応「Jabra Elite 8 Active」も",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2311/10/l_asa_JabraElite108Active_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2311/10/news054.html",
+          "author": null,
+          "description": "ドコモのサブブランドirumo、ソフトバンクのサブブランドY!mobileと、auのサブブランドUQ mobileでは、メインブランドに劣らないキャンペーンを実施している。大手MNOのブランドでもあるため、PayPayポイントやau PAY残高でのポイント還元特典が多い。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2311/10/news054.html",
+          "publishedOn": "2023-11-10T02:00:00.000Z",
+          "wordCount": 2913,
+          "title": "irumo、Y!mobile、UQ mobileのキャンペーンまとめ【11月10日最新版】　お得なポイント還元や端末セール多数",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2311/10/cover_news054.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2311/10/news105.html",
+          "author": null,
+          "description": "日本通信は11月10日、「合理的30GBプラン」を発表した。27日から提供する。月額2178円（税込み、以下同）で月間30GBのデータ容量に5分以内なら何度でもかけ放題になる国内通話定額が付く。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2311/10/news105.html",
+          "publishedOn": "2023-11-10T01:54:00.000Z",
+          "wordCount": 2883,
+          "title": "日本通信が月額2178円の「合理的30GBプラン」発表　20GBから10GB増量、5分かけ放題付き",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2311/10/l_rk1640414_jcom-01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2311/09/news190.html",
+          "author": null,
+          "description": "楽天モバイルは赤字が続いているが、営業利益は改善している。700MHz帯の獲得や新ローミング契約でネットワークの品質も改善していく。契約者数と売上アップのためには、「楽天グループのエコシステムのベネフィットを最大に活用していく」（三木谷氏）という。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2311/09/news190.html",
+          "publishedOn": "2023-11-09T14:42:00.000Z",
+          "wordCount": 2903,
+          "title": "楽天モバイル、2024年末までに800万回線突破で黒字化を目指す　SPUは「多くの方々にはアップグレードになる」と三木谷氏",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2311/09/cover_news190.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/mobile/articles/2311/09/news144.html",
           "author": null,
@@ -891,36 +971,6 @@
           "wordCount": 2935,
           "title": "楽天ペイと楽天ポイントのキャンペーンまとめ【11月4日最新版】　最大10万ポイント還元やマクドナルドの施策に注目",
           "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2311/04/cover_news032.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2311/03/news066.html",
-          "author": null,
-          "description": "格安SIMを選ぶ際に重要なのが通信速度です。10月もオンライン専用プラン、サブブランド、MVNOを含む格安SIMの8サービスについて、4Gの通信速度を測定しました。9月の測定ではau回線のキャリアがいずれも不安定になったため、10月は異なる場所で2回に分けて測定しました。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2311/03/news066.html",
-          "publishedOn": "2023-11-03T03:00:00.000Z",
-          "wordCount": 2911,
-          "title": "格安SIM主要8サービスの通信速度を測定【2023年10月】：2カ所で想定した結果、傾向に変化は？",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2311/03/cover_news066.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2311/03/news011.html",
-          "author": null,
-          "description": "iOS 17では「天気」アプリも大きくアップデートされた。注目したいのは「過去の傾向」と「月の情報」だ。旅行の計画を立てる際に役立ちそうな過去の気温や降水状況を確認できる機能と月の満ち欠けを確認できる機能で、この他に今後10日間の天気予報を確認したり、風向きを地図でアニメーションで確認できるようになっている。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2311/03/news011.html",
-          "publishedOn": "2023-11-03T02:00:00.000Z",
-          "wordCount": 2910,
-          "title": "iOS 17では「天気」アプリも進化　降水状況や気温を過去のデータと比較できるように",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2311/03/cover_news011.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2311/03/news030.html",
-          "author": null,
-          "description": "11月が始まり、さまざまなキャンペーンが更新されている。KDDIなどが実施している、au PAYやPontaでのポイント還元施策やキャンペーンをまとめた。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2311/03/news030.html",
-          "publishedOn": "2023-11-03T01:30:00.000Z",
-          "wordCount": 2966,
-          "title": "au PAYとPontaのキャンペーンまとめ【11月3日最新版】　12日まで毎日最大3000ポイント還元！",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2311/03/cover_news030.jpg"
         }
       ]
     },
@@ -956,6 +1006,256 @@
       "feedUrl": "https://k-tai.watch.impress.co.jp/data/rss/1.0/ktw/feed.rdf",
       "siteUrl": "https://k-tai.watch.impress.co.jp",
       "articles": [
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1546195.html",
+          "author": null,
+          "description": "ミンカブ・ジ・インフォノイドはMVNOサービス「livedoor MOBILE」と、“推し活”を支援するプライムパス「推しパス」の提供を開始した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1546195.html",
+          "publishedOn": "2023-11-10T11:42:19.000Z",
+          "wordCount": 4810,
+          "title": "MVNOサービス「livedoor MOBILE」登場、“推し活”サポートも",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1546/195/top.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1546167.html",
+          "author": null,
+          "description": "ソフトバンクは、ワイモバイルの公式オンラインストアで、条件を満たすと「iPhone 12」（64GB）を9936円で販売する。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1546167.html",
+          "publishedOn": "2023-11-10T11:05:04.000Z",
+          "wordCount": 4797,
+          "title": "iPhone 12（64GB）が9936円に、ワイモバイルオンラインストアのMNP＆「シンプル2 M/L」契約で",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1546/167/main_iPhone12.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/1546187.html",
+          "author": null,
+          "description": "「NTTの話は詭弁だ」",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/1546187.html",
+          "publishedOn": "2023-11-10T10:36:32.000Z",
+          "wordCount": 4819,
+          "title": "[石川温の「スマホ業界 Watch」]「NTT法」見直し論はボトルネック設備めぐり沸騰、“ニッポンの未来”につなげるべきだ",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1546/187/00.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1546103.html",
+          "author": null,
+          "description": "10日、シャープの同社初の大型技術展示イベント「SHARP Tech-Day」が開幕した。オートフォーカス速度が10倍になる新型レンズや次世代太陽電池として期待される「ペロブスカイト太陽電池」など最新のテクノロジーが展示される。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1546103.html",
+          "publishedOn": "2023-11-10T09:55:51.000Z",
+          "wordCount": 4806,
+          "title": "スマホにも載せられるAF速度10倍を実現するカメラレンズ、ペロブスカイト太陽電池」などシャープ「Tech-Day」で披露",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1546/103/sub.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1546126.html",
+          "author": null,
+          "description": "ドコモ・バイクシェアはClewに出資し、業務提携により11月11日より京都市でシェアサイクル「Clew」を開始する。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1546126.html",
+          "publishedOn": "2023-11-10T09:13:45.000Z",
+          "wordCount": 4802,
+          "title": "ドコモ・バイクシェアがClewと資本業務提携、京都市でシェアサイクル展開",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1546/126/main.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1546079.html",
+          "author": null,
+          "description": "鈴木淳司総務大臣は10日、閣議後記者会見の質疑応答で、顔認証マイナンバーカードの準備状況についてコメントした。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1546079.html",
+          "publishedOn": "2023-11-10T07:38:19.000Z",
+          "wordCount": 4794,
+          "title": "暗証番号を使わない「顔認証マイナンバーカード」は現在準備中、鈴木大臣がコメント",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1546/079/main.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1546055.html",
+          "author": null,
+          "description": "KDDI、沖縄セルラーは、ミスタードーナツ ギフトチケット300円分とpovo2.0のデータ通信量0.5GBがセットになったトッピングを、11月10日～16日までの期間限定で提供する。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1546055.html",
+          "publishedOn": "2023-11-10T06:46:45.000Z",
+          "wordCount": 4792,
+          "title": "povo2.0、データ通信量0.5GBとミスドの300円ギフト券つきトッピングを期間限定提供",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1546/055/main.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1546056.html",
+          "author": null,
+          "description": "KDDIと沖縄セルラーは、オンライン専用料金ブランド「povo2.0」において、期間限定トッピング「データ使い放題（24時間）3回分」の提供を開始した。利用料は660円で、期間は11月16日まで。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1546056.html",
+          "publishedOn": "2023-11-10T06:04:03.000Z",
+          "wordCount": 4795,
+          "title": "povo「データ使い放題」2回→3回になる期間限定トッピング、16日まで",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1546/056/01.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1546044.html",
+          "author": null,
+          "description": "KDDIと沖縄セルラーは、オンライン専用料金ブランド「povo2.0」の新規加入者向けに、トッピング「エントリーセット」（480円）が実質無料になるキャンペーンを開始した。期間は11月30日まで。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1546044.html",
+          "publishedOn": "2023-11-10T05:39:14.000Z",
+          "wordCount": 4799,
+          "title": "povo、新規加入で480円の「エントリーセット」が実質無料に",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1546/044/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1546006.html",
+          "author": null,
+          "description": "デジタル庁は、マイナポータル実証ベータ版向けに、手続き検索や行政機関の間で情報提供履歴が確認できる機能を追加した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1546006.html",
+          "publishedOn": "2023-11-10T04:29:26.000Z",
+          "wordCount": 4790,
+          "title": "マイナポータル実証ベータ版、手続き検索や行政機関間の情報提供履歴を確認する機能を追加",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1546/006/main.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1546001.html",
+          "author": null,
+          "description": "楽天モバイルと楽天カードは、「楽天カード新規入会＋楽天モバイルを初めてお申し込みで30,000ポイントプレゼントキャンペーン」を開始した。期間は11月20日10時まで。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1546001.html",
+          "publishedOn": "2023-11-10T04:11:30.000Z",
+          "wordCount": 4796,
+          "title": "楽天モバイル×楽天カードで最大3万ポイント還元、新規利用者向け",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1546/001/1000.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1545973.html",
+          "author": null,
+          "description": "MM総研は、2023年度上期の国内携帯電話端末の出荷台数を調査し、結果を公表した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1545973.html",
+          "publishedOn": "2023-11-10T03:51:05.000Z",
+          "wordCount": 4804,
+          "title": "スマホ出荷が大幅減、携帯電話全体の総出荷数が過去最低――23年度上期",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1545/973/main.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1545990.html",
+          "author": null,
+          "description": "NTTドコモは、ドコモオンラインショップにおいて、グーグル（Google）製Androidスマートフォン「Pixel 8」の実質負担額を値下げした。端末購入補助プログラム「いつでもカエドキプログラム＋」を利用し、12カ月目に端末を返却する場合の負担額が、2万3309円→1万7798円に値下げされた。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1545990.html",
+          "publishedOn": "2023-11-10T03:47:27.000Z",
+          "wordCount": 4820,
+          "title": "ドコモ「Pixel 8」実質負担額値下げで1.8万円に、オンラインショップで",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1545/990/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1545922.html",
+          "author": null,
+          "description": "シャープは10日、イベント「SHARP Tech-Day」でXRグラスのコンセプトモデルを公開した。製品名や価格は未定で、2024年夏の発売を予定している。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1545922.html",
+          "publishedOn": "2023-11-10T03:28:59.000Z",
+          "wordCount": 4793,
+          "title": "シャープ、XRグラスのコンセプトモデルを公開――24年夏発売へ",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1545/922/04.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1545967.html",
+          "author": null,
+          "description": "NTTドコモは、全国の自治体と連携して実施する「街のお店を応援！　d払いであんしんキャッシュレス」キャンペーンについて、12月から新たに5件のキャンペーンを実施する。「d払い」による支払いで、dポイントの還元を受けられる。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1545967.html",
+          "publishedOn": "2023-11-10T03:18:02.000Z",
+          "wordCount": 4796,
+          "title": "ドコモ「d払い」自治体キャンペーン、12月開始分は最大25％還元",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1545/967/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1545957.html",
+          "author": null,
+          "description": "日本通信は、個人向けMVNOサービスの新たな料金プラン「合理的30GBプラン」を、11月27日から提供する。従来の「合理的20GBプラン」の名称と内容が、料金据え置きで変更されるかたち。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1545957.html",
+          "publishedOn": "2023-11-10T03:05:13.000Z",
+          "wordCount": 4793,
+          "title": "日本通信「合理的20GBプラン」が料金そのまま「合理的30GBプラン」に、27日から",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1545/957/nihon.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1545950.html",
+          "author": null,
+          "description": "グーグル（Google）は、直販サイト「Google ストア」において、「ブラックフライデー」のセールが11月17日に始まることを予告している。あわせて、セールの内容の一部が予告されている。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1545950.html",
+          "publishedOn": "2023-11-10T02:50:12.000Z",
+          "wordCount": 4863,
+          "title": "Google ストアで「ブラックフライデー」予告、11月17日スタートのセール内容は？",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1545/950/100.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1545806.html",
+          "author": null,
+          "description": "GNオーディオジャパンは、Jabraブランドからフルワイヤレスイヤホン「Jabra Elite 10」と「Jabra Elite 8 Active」を発売した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1545806.html",
+          "publishedOn": "2023-11-09T21:00:00.000Z",
+          "wordCount": 4856,
+          "title": "Jabra「Jabra Elite 10」と「Jabra Elite 8 Active」発売",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1545/806/main.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/review/1545497.html",
+          "author": null,
+          "description": "ソフトバンクのオンライン専用ブランド「LINEMO」。LINEMOでは、PayPayポイントの還元やオプションの割引などのキャンペーンを実施している。今回は2023年11月に利用できるキャンペーンを紹介する。本稿に掲載の情報はすべて11月9日時点のものとなっている。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/review/1545497.html",
+          "publishedOn": "2023-11-09T21:00:00.000Z",
+          "wordCount": 4729,
+          "title": "「LINEMO」のキャンペーンまとめ【2023年11月号】",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1545/497/03.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/review/1545484.html",
+          "author": null,
+          "description": "KDDIのオンライン専用ブランド「povo2.0」。povo2.0では“ギガ”がプレゼントされるプロモコードの付与などさまざまなキャンペーンを実施している。今回は2023年11月に利用できるキャンペーンを紹介する。本稿に掲載の情報はすべて11月8日時点のもの。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/review/1545484.html",
+          "publishedOn": "2023-11-09T21:00:00.000Z",
+          "wordCount": 4728,
+          "title": "「povo2.0」のキャンペーンまとめ【2023年11月号】",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1545/484/02.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/review/1545471.html",
+          "author": null,
+          "description": "NTTドコモのオンライン専用ブランド「ahamo」。ahamoでは、さまざまなプレゼントやサービスをお得に使える割引などのキャンペーンを実施している。今回は2023年11月に利用できるキャンペーンを紹介する。本稿に掲載の情報はすべて11月8日時点のものとなっている。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/review/1545471.html",
+          "publishedOn": "2023-11-09T21:00:00.000Z",
+          "wordCount": 4728,
+          "title": "「ahamo」のキャンペーンまとめ【2023年11月号】",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1545/471/01.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/review/1543139.html",
+          "author": null,
+          "description": "シンプルな料金プランを特長とする第4のMNO「楽天モバイル」。同社ではスマートフォン本体の割引や還元などたくさんの魅力的なキャンペーンを開催中だ。本稿では、そんな楽天モバイルのキャンペーンの一部を紹介する。掲載されている情報はすべて11月8日時点のもの。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/review/1543139.html",
+          "publishedOn": "2023-11-09T21:00:00.000Z",
+          "wordCount": 4844,
+          "title": "「楽天モバイル」のキャンペーンまとめ【2023年11月号】",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1543/139/04.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/minna/1545868.html",
+          "author": null,
+          "description": "Nothing Phone（2）には、将来的に追加予定の機能を事前に試せる「テスト機能」があります。その中に「AirPodsのサポート」という機能があったので試してみました。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/1545868.html",
+          "publishedOn": "2023-11-09T15:00:00.000Z",
+          "wordCount": 4835,
+          "title": "[みんなのケータイ]AirPods Proは「Nothing Phone（2）」でも快適に使えました",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1545/868/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1545858.html",
+          "author": null,
+          "description": "楽天グループは9日、2023年度第3四半期の決算を発表した。同日の決算説明会には三木谷浩史代表取締役会長が登壇し、楽天モバイルを含む事業の見通しなどを語った。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1545858.html",
+          "publishedOn": "2023-11-09T15:00:00.000Z",
+          "wordCount": 4850,
+          "title": "解約率改善の楽天モバイル、「安さとポイントで2倍美味しい」三木谷氏が見せた自信とは",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1545/858/1000.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/teppan/1544774.html",
+          "author": null,
+          "description": "スマホを、もっと楽しく快適に使うには、アプリを活用しよう。本コーナーでは、続々登場する旬なアプリの中から編集部が厳選した、スマホユーザー必携の“てっぱん”アプリをご紹介します！",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/teppan/1544774.html",
+          "publishedOn": "2023-11-09T15:00:00.000Z",
+          "wordCount": 4861,
+          "title": "[てっぱんアプリ！] 続々と登場する画像生成AIツール、スマホで使えるものは？",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1544/774/thumbnail.jpg"
+        },
         {
           "id": "https://k-tai.watch.impress.co.jp/docs/news/1545836.html",
           "author": null,
@@ -1895,36 +2195,6 @@
           "wordCount": 4916,
           "title": "KDDIのビデオ会議サービス「空間自在コネクター」に3拠点を接続できる新機能",
           "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1543/706/01.png"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1543903.html",
-          "author": null,
-          "description": "ソフトバンクは、生成AI開発向けの計算基盤の稼働を開始した。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1543903.html",
-          "publishedOn": "2023-11-03T23:00:00.000Z",
-          "wordCount": 4928,
-          "title": "ソフトバンクとSB Intuitions、国産生成AI開発向けの計算基盤稼働",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1543/903/main.png"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/column/mca/1543926.html",
-          "author": null,
-          "description": "MCAは、今年8月から10月にかけて国内通信キャリア各社の「キャリアショップ」に関する調査を実施し、その結果を調査資料「キャリアショップの展開状況と店舗一覧 2023秋」として取りまとめた。同資料をもとに、国内におけるキャリアショップの最新動向を探ってみたい。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/column/mca/1543926.html",
-          "publishedOn": "2023-11-03T22:00:00.000Z",
-          "wordCount": 4934,
-          "title": "[DATAで見るケータイ業界] キャリアショップ数は半年前から220店減少し全国7574店舗に",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1543/926/1.png"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1544174.html",
-          "author": null,
-          "description": "KDDIは、愛知県の「ジブリパーク」で高精度位置測位とイヤホンを組み合わせて映画の世界に没入できる体験「ジブリパークの音響世界」の体験会を実施する。期間は11月29日～12月3日。体験者を専用Webサイトで募集している。募集期間は11月5日まで。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1544174.html",
-          "publishedOn": "2023-11-03T21:00:00.000Z",
-          "wordCount": 4917,
-          "title": "「音」でジブリ作品に入り込む、KDDIがジブリパークで体験会",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1544/174/01.jpg"
         }
       ]
     },
@@ -1933,6 +2203,321 @@
       "feedUrl": "https://www.gizmodo.jp/index.xml",
       "siteUrl": "https://www.gizmodo.jp",
       "articles": [
+        {
+          "id": "https://www.gizmodo.jp/2023/11/daye-tampon-can-test-for-stis-jpn.html",
+          "author": "そうこ",
+          "description": "Image:Shutterstock一般的なタンポン近年、急速な進化と大きな注目を集めるフェムテック業界。今、イギリスで開発／試験されているのが次世代タンポン。従来の体内で経血を吸収する役割ではなく、性感染症のチェックに使用します。次世代タンポン、使い方は？次世代タンポンの開発を行なうのは、2017年創業のイギリスに拠点を置くスタートアップ企業、Daye。婦人科系プロダクトを手掛けており、CBD（",
+          "link": "https://www.gizmodo.jp/2023/11/daye-tampon-can-test-for-stis-jpn.html",
+          "publishedOn": "2023-11-10T12:00:00.000Z",
+          "wordCount": 360,
+          "title": "“次世代タンポン”で性感染症チェック。無自覚の人にもアプローチ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/11/10/2b842c6e4fd7797dc8e7960ba345542f.jpeg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/11/10/2b842c6e4fd7797dc8e7960ba345542f.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/11/sharp-tech-day-vr.html",
+          "author": "武者良太",
+          "description": "Photo:武者良太水中ゴーグルくらいのサイズ感。持ち運びもしやすそう。11月10日から12日まで東京ビッグサイトで開催されているSHARPTech-Dayにやってきましたよ。右を見ても左を見てもシャープのロゴ。シャープだらけのテックフェスです。グローバル企業としての道を爆走しているシャープゆえに、展示されている製品や技術はバリエーション豊か！　高効率な太陽光発電パネルもあるし、鮮やかで低ノイズな",
+          "link": "https://www.gizmodo.jp/2023/11/sharp-tech-day-vr.html",
+          "publishedOn": "2023-11-10T11:00:00.000Z",
+          "wordCount": 358,
+          "title": "期待度大、シャープが作る国産VRヘッドセット",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/11/10/IMG_4447.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/11/10/IMG_4447.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/11/humane-ai-pin.html",
+          "author": "そうこ",
+          "description": "Screenshot:Humane以前から噂＆ティザーがでていたHumaneAIPin、予定通り発表されました。元Apple社員の夫婦が作った次世代端末は、キーボードもディスプレイもないスマホに代わるAI端末です。目指したのはポスト・スマートフォンスマホに代わる次世代端末として、スマートグラスやヘッドセットがその役目を狙う中、Humaneが提案するのは、AIを活用したバッジのような小さな端末。スマ",
+          "link": "https://www.gizmodo.jp/2023/11/humane-ai-pin.html",
+          "publishedOn": "2023-11-10T11:00:00.000Z",
+          "wordCount": 383,
+          "title": "手をかざせば情報が。スマホに代わる次世代端末「Humane AI Pin」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/11/10/231110humaneaipin.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/11/10/231110humaneaipin.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/11/ps5-disassemble-heat-pipe.html",
+          "author": "ヤマダユウス型",
+          "description": "Image:Shutterstock進化し続けるゲーム機。ついに発売された、小型化された新しいPS5（CFI-2000）。小型化前のモデルとの比較写真も出てきましたが、明らかに小さい！これは設置しやすくなるねぇ。そんな小型化PS5、テック系チャンネルのDave2Dによってさっそく分解されています。ダイエットに成功しただけでなく、強化されてる部分もあるみたい。排熱性能アップ！ドライブ着脱もスマートに",
+          "link": "https://www.gizmodo.jp/2023/11/ps5-disassemble-heat-pipe.html",
+          "publishedOn": "2023-11-10T10:00:00.000Z",
+          "wordCount": 351,
+          "title": "早速分解された小型PS5。ヒートパイプが増えて冷却性能が上がってた",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/11/10/shutterstock_2167000321.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/11/10/shutterstock_2167000321.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/11/study-social-media-detox-positive-and-negative-feelings.html",
+          "author": "そうこ",
+          "description": "メンタルヘルスを整えるため、SNS断ちやデジタルデトックスする人の話をよく耳にする今日この頃。どれほど効果があるのでしょう。イギリスのダラム大学による最新の研究によると、SNSを断てばいいというわけでもないようです。",
+          "link": "https://www.gizmodo.jp/2023/11/study-social-media-detox-positive-and-negative-feelings.html",
+          "publishedOn": "2023-11-10T09:00:00.000Z",
+          "wordCount": 351,
+          "title": "SNS断ち、メンタルヘルスに効果なし？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/11/10/231110Digitaldetox.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/11/10/231110Digitaldetox.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/11/google-maps-dangerous-non-existent-trail.html",
+          "author": "ヨコヤマコム",
+          "description": "Image:shutterstockGoogleマップは地図アプリとして非常に優秀ですし、ますます賢くなっていますが、すべてを把握する万能なアプリとはいえません。まさにそれを示すようなケースが起こりました。Googleマップを頼りにハイキングをして立ち往生Image:shutterstock先日、Googleマップに表示されたトレイル（山道）を辿ってハイキングをしていた人が途中の崖で立ち往生してし",
+          "link": "https://www.gizmodo.jp/2023/11/google-maps-dangerous-non-existent-trail.html",
+          "publishedOn": "2023-11-10T08:00:00.000Z",
+          "wordCount": 356,
+          "title": "ハイキングや登山のナビにGoogleマップを使うのはやめましょう。危険です",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/11/10/shutterstock_1792837255.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/11/10/shutterstock_1792837255.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/11/your-cat-knows-when-youre-using-your-cat-talk-voice-1.html",
+          "author": "岩田リョウコ",
+          "description": "Photo:Shutterstock2022年10月29日の記事を編集して再掲載しています。猫に話しかける時って、声高くなっちゃいますよね。最新の研究で、猫は飼い主の声と知らない人の声をちゃんと聞き分けていること、そして飼い主が自分に話しかける時の声までも聞き分けていることがわかりました。猫を飼っている人からすると「やっぱりね！」とうれしいニュースですね。知らない人の声への反応は薄いパリ・ナンテー",
+          "link": "https://www.gizmodo.jp/2023/11/your-cat-knows-when-youre-using-your-cat-talk-voice-1.html",
+          "publishedOn": "2023-11-10T07:35:00.000Z",
+          "wordCount": 353,
+          "title": "猫は飼い主が自分に話しかけているのがわかっているという研究結果",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2022/10/28/shutterstock_1526963033.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2022/10/28/shutterstock_1526963033.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/11/ghostbusters-frozen-empire-trailer-follow-up-afterlife.html",
+          "author": "ヨコヤマコム",
+          "description": "1980年代に大ヒットした『ゴーストバスターズ』シリーズの最新作『ゴーストバスターズ／フローズン・サマー』（原題：Ghostbusters: Frozen Empire）が2024年に公開されます。さらに第一弾となる予告編映像も公開されました。",
+          "link": "https://www.gizmodo.jp/2023/11/ghostbusters-frozen-empire-trailer-follow-up-afterlife.html",
+          "publishedOn": "2023-11-10T07:00:00.000Z",
+          "wordCount": 357,
+          "title": "ゴーストバスターズ最新作の予告編が公開されました",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/11/09/ghostbusters-frozen-empire-trailer-000.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/11/09/ghostbusters-frozen-empire-trailer-000.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/11/braun-audio-le-reissue.html",
+          "author": "武者良太",
+          "description": "ディーター・ラムスが1959年にデザインしたBRAUNのスピーカー「Audio LE」が、現代的にアップデートされて復刻。",
+          "link": "https://www.gizmodo.jp/2023/11/braun-audio-le-reissue.html",
+          "publishedOn": "2023-11-10T06:00:00.000Z",
+          "wordCount": 401,
+          "title": "アップルのデザインにも通じるBRAUNのスピーカー。復刻です",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/11/10/braun-Trenner.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/11/10/braun-Trenner.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/11/kai-butterknife.html",
+          "author": "uco",
+          "description": "Photo:ucoROOMIE2022年10月2日掲載の記事より転載トーストにバターを塗ったり、ほくほくのじゃがいもにのせてじゃがバタにしたり、熱したフライパンにバターを落としてオムレツを作ったり……。バターは魅惑の食材です。バターを使うとき、レストランやホテルで出てくるような、四角くてきれいな形が理想です。でも、実際に家でバターを使うとき、なかなかきれいにすくえないことが多いんです。貝印から画期",
+          "link": "https://www.gizmodo.jp/2023/11/kai-butterknife.html",
+          "publishedOn": "2023-11-10T05:35:00.000Z",
+          "wordCount": 378,
+          "title": "貝印の名品。あの固い食材がス〜ッと切れてストレスゼロに",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/11/07/top_butter_00a.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/11/07/top_butter_00a.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/11/rego-supermario-flower.html",
+          "author": "ヤマダユウス型",
+          "description": "マリオ作品ではおなじみのキャラクター「パックンフラワー」が、レゴになって登場しました。価格は8,910円ですでに発売中。あれ、レゴマリオよりお高くない…？",
+          "link": "https://www.gizmodo.jp/2023/11/rego-supermario-flower.html",
+          "publishedOn": "2023-11-10T05:00:00.000Z",
+          "wordCount": 349,
+          "title": "レゴで作れるパックンフラワー、意外と大きいぞ…",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/11/10/231110legopakkun_01-1.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/11/10/231110legopakkun_01-1.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/11/chatgpt-down.html",
+          "author": "satomi",
+          "description": "OpenAI社のChatGPTとAPIが、米時間水曜午前にいきなりダウンして利用数百万人のアクセスに影響が出ました。",
+          "link": "https://www.gizmodo.jp/2023/11/chatgpt-down.html",
+          "publishedOn": "2023-11-10T04:00:00.000Z",
+          "wordCount": 353,
+          "title": "ChatGPTがダウン。アクセス急増＆DDoSのダブルパンチ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/11/09/20231109ChatGPTOutage_sama.png"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/11/09/20231109ChatGPTOutage_sama.png"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/11/honda-motocompacto-hands-on.html",
+          "author": "福田ミホ",
+          "description": "ホンダの折りたたみ電動バイク「Motocompo」試乗記。",
+          "link": "https://www.gizmodo.jp/2023/11/honda-motocompacto-hands-on.html",
+          "publishedOn": "2023-11-10T04:00:00.000Z",
+          "wordCount": 361,
+          "title": "ホンダのたためる電動スクーター「Motocompacto」に乗ってみた",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/11/09/231108_motocompacto1.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/11/09/231108_motocompacto1.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/11/udb-dac-ka13.html",
+          "author": "武者良太",
+          "description": "ワイヤレスのらくちんさを知っていても、有線イヤホンやヘッドホンを使いたい。なぜなら音がいいから！という皆さまに朗報かもしれません。FIIOのUSBヘッドホンアンプである「KA13」のコスパが高いんです。",
+          "link": "https://www.gizmodo.jp/2023/11/udb-dac-ka13.html",
+          "publishedOn": "2023-11-10T03:30:00.000Z",
+          "wordCount": 359,
+          "title": "指先サイズだけど駆動力バツグンなUSB DAC",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/11/09/KA13-002-1.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/11/09/KA13-002-1.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/11/278001.html",
+          "author": "そうこ",
+          "description": "サムスン印のVRヘッドセット来年リリースを報じたのは、韓国メディアのJoongAng。いわく、コードネーム「Infinite」の下で絶賛開発中。来年後半には発表される見込みだそう。",
+          "link": "https://www.gizmodo.jp/2023/11/278001.html",
+          "publishedOn": "2023-11-10T03:00:00.000Z",
+          "wordCount": 355,
+          "title": "サムスンも来年後半VRヘッドセット発表、かも",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/11/10/shutterstock_530010547.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/11/10/shutterstock_530010547.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/11/samsung-new-ai-gauss.html",
+          "author": "湯木進悟",
+          "description": "Samsungが韓国のソウルで開催した「Samsung AI Forum 2023」で新AI「Gauss」発表。来年のGalaxy S24に搭載される模様。",
+          "link": "https://www.gizmodo.jp/2023/11/samsung-new-ai-gauss.html",
+          "publishedOn": "2023-11-10T02:00:00.000Z",
+          "wordCount": 384,
+          "title": "新AIのGauss搭載。Galaxy S24はサムスン初のAIスマホになるらしい",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/11/10/231108titaniums24.jpeg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/11/10/231108titaniums24.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/11/apple-iphone-os-delayed-ios-17-4-ios-18-watchos-11.html",
+          "author": "そうこ",
+          "description": "Apple（アップル）のソフトウェア開発に遅れが出ているという話が聞こえてきました。",
+          "link": "https://www.gizmodo.jp/2023/11/apple-iphone-os-delayed-ios-17-4-ios-18-watchos-11.html",
+          "publishedOn": "2023-11-10T01:00:00.000Z",
+          "wordCount": 368,
+          "title": "今あるバグ対応優先。2024年のAppleはOS開発をあえて遅らせる",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/11/09/231109ios2024.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/11/09/231109ios2024.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/11/kontex-moku.html",
+          "author": "かいサポ",
+          "description": "「Light Towel」は、Lサイズの大判バスタオル。薄くて軽量で吸水性や速乾性に優れているのが特徴で、体をすっぽり覆えるほどの大きさなので子供のお昼寝用ケットとしても使用できますよ。",
+          "link": "https://www.gizmodo.jp/2023/11/kontex-moku.html",
+          "publishedOn": "2023-11-09T23:45:00.000Z",
+          "wordCount": 363,
+          "title": "軽くて薄くて、すぐ乾く！ バスタオル代わりに使えるMOKUの「Light Towel」Lサイズが有能すぎる",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/10/30/37969729-6fb8-473b-889d-4f9176cbdf41.jpeg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/10/30/37969729-6fb8-473b-889d-4f9176cbdf41.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/11/machi-ya-moyu-review-709805.html",
+          "author": "にしやまあやか",
+          "description": "容量7Lコンパクト洗濯機「MOYU」を使ってみた。1日分の下着を洗うのにちょうど良い容量だから、洗濯物を溜めずに、しかも必要以上の水を使うことなくお洗濯ができた。給水から排水まで全部自動でやってくれるから楽チンだよ。",
+          "link": "https://www.gizmodo.jp/2023/11/machi-ya-moyu-review-709805.html",
+          "publishedOn": "2023-11-09T22:45:00.000Z",
+          "wordCount": 358,
+          "title": "容量7Lのコンパクトな全自動洗濯機「MOYU」を使ってみた",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/10/29/MOYUreview00.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/10/29/MOYUreview00.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/11/joint-research-virgin-galactic-and-nasa.html",
+          "author": "そうこ",
+          "description": "NASAの科学者がVirgin Galacticのスペースプレーンに乗り込み、微重力空間での研究を敢行。",
+          "link": "https://www.gizmodo.jp/2023/11/joint-research-virgin-galactic-and-nasa.html",
+          "publishedOn": "2023-11-09T14:00:00.000Z",
+          "wordCount": 369,
+          "title": "弾道飛行で微重力研究所を作る！ NASAとVirginの共同最先端ラボ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/11/08/231108suborbitalflightreserch.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/11/08/231108suborbitalflightreserch.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/11/space-related-topics-october.html",
+          "author": "たもり",
+          "description": "小惑星サンプルの開封や活火山のある衛星へのフライバイなど、2023年10月の宇宙関連ニュースを写真で振り返る。",
+          "link": "https://www.gizmodo.jp/2023/11/space-related-topics-october.html",
+          "publishedOn": "2023-11-09T13:00:00.000Z",
+          "wordCount": 396,
+          "title": "宇宙関連のトピックが多かった10月を画像で振り返ってみましょう",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/11/08/231108October.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/11/08/231108October.jpg"
+        },
         {
           "id": "https://www.gizmodo.jp/2023/11/277989.html",
           "author": "そうこ",
@@ -3522,336 +4107,6 @@
             "url": "https://media.loom-app.com/gizmodo/dist/images/2023/10/29/ER2000.jpg"
           },
           "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/10/29/ER2000.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/11/machi-ya-arolatl-review-667912.html",
-          "author": "山田洋路",
-          "description": "お札入れと小銭入れが分離できるミニ財布「Arola TL」。接合部分に違和感がなくフルサイズでも薄型コンパクトです。カギやレシートが入れておける小物ポケットが便利。分離した時には臨時の小銭入れにもなります。複数カラーを組み合わせることも可能で生活シーンや気分に応じて使い分けられます。",
-          "link": "https://www.gizmodo.jp/2023/11/machi-ya-arolatl-review-667912.html",
-          "publishedOn": "2023-11-03T23:45:00.000Z",
-          "wordCount": 357,
-          "title": "お札入れと小銭入れが分離できるミニ財布「Arola TL」を使ってみた",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/10/29/AROLATLreview00.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/10/29/AROLATLreview00.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/11/googles-latest-updates-helps-root-out-ai-deepfakes.html",
-          "author": "福田ミホ",
-          "description": "Google（グーグル）が、検索結果のなかの画像の信頼性をユーザー自身で確認するための機能「この画像について」を発表しました。ディープフェイクっぽいな、あやしいなと思う画像があったら、ユーザーがそれを検証できるようなツールです。",
-          "link": "https://www.gizmodo.jp/2023/11/googles-latest-updates-helps-root-out-ai-deepfakes.html",
-          "publishedOn": "2023-11-03T23:00:00.000Z",
-          "wordCount": 355,
-          "title": "フェイク画像の検証、グーグルがやってくれるよ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/10/27/231026_googleaboutthisimg1.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/10/27/231026_googleaboutthisimg1.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/11/machi-ya-danmin-review2-649905.html",
-          "author": "山田洋路",
-          "description": "独自開発の人工羽毛「MICRO FLAKE®」を採用の「ウルトラ暖睡コンフォーター」は空気を多く含んで弾力性が高いのが特長。保温率93％の素材と立体キルト構造で体温を逃がしません。生地表面に薄起毛を施し肌触りも快適。洗濯と乾燥が気軽にできるのでいつも衛生的に使えます。",
-          "link": "https://www.gizmodo.jp/2023/11/machi-ya-danmin-review2-649905.html",
-          "publishedOn": "2023-11-03T22:45:00.000Z",
-          "wordCount": 347,
-          "title": "保温率93％の素材を採用！丸洗いできる掛け布団「ウルトラ暖睡コンフォーター」",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/10/28/%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E6%9A%96%E7%9D%A1%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BCreview200.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/10/28/%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E6%9A%96%E7%9D%A1%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BCreview200.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/11/scientists-grow-mouse-embryos-space-first-time-iss-jpn.html",
-          "author": "岩田リョウコ",
-          "description": "Image:Westend61（GettyImages）地球外でも妊娠、出産は可能になる？地球以外の星に住むことになる将来がやってくる可能性、ありますよね。空気とか水とかそういう心配は最初に浮かびますが、ちょっと考えたいのは、宇宙で子供って産めるのかなってことです。マウスの受精卵で実験そんな実験が国際宇宙ステーションで行なわれました。実験ではまず、地球上でマウスの胚を受精させ、二細胞期まで発育させ",
-          "link": "https://www.gizmodo.jp/2023/11/scientists-grow-mouse-embryos-space-first-time-iss-jpn.html",
-          "publishedOn": "2023-11-03T13:30:00.000Z",
-          "wordCount": 351,
-          "title": "宇宙で子孫をどう残す？ マウスの実験からわかったこと",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/10/31/8242e6d83c755c9d2a547e9c2881ab30.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/10/31/8242e6d83c755c9d2a547e9c2881ab30.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/11/machi-ya-abelfit-start-713561.html",
-          "author": "shunny",
-          "description": "「ABELFIT」は韓国発の肺活トレーニンググッズ。一日たったの5分で肺活量UPのためのトレーニングができる上に、ながら作業をしながらでもOKなので日常に取り入れやすいアイテムです。アプリでゲーム感覚でプレイすることもできるので、飽き性な方でもこれなら続くかも。",
-          "link": "https://www.gizmodo.jp/2023/11/machi-ya-abelfit-start-713561.html",
-          "publishedOn": "2023-11-03T12:45:00.000Z",
-          "wordCount": 361,
-          "title": "1日5分から始められる肺活量UPトレーニングガジェット「ABELFIT」",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/10/27/image22.jpeg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/10/27/image22.jpeg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/11/hp-spectre-foldable-17-review.html",
-          "author": "そうこ",
-          "description": "ラップトップ＆デスクトップ＆折り畳みタブレットが一体化した3-in-1単末「HP Spectre Foldable 17」レビュー。",
-          "link": "https://www.gizmodo.jp/2023/11/hp-spectre-foldable-17-review.html",
-          "publishedOn": "2023-11-03T12:00:00.000Z",
-          "wordCount": 419,
-          "title": "タブレット＆ラップトップ＆デスクトップ、3-in-1端末の目指すものは？",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/10/30/231030spectrefold.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/10/30/231030spectrefold.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/11/amazon-timesale-fes-2023-1103-2.html",
-          "author": "お買いものサポーター",
-          "description": "Amazon（アマゾン）では、2023年10月31日9時から11月5日23時59分まで「Amazon Fashion×HOMEタイムセール祭り」を開催中。 \n\n現在、自宅で美容エステ級ケアができるVTCOSMETICSの「リードルショット300」が5％オフなど、コスメアイテムがお買い得に登場しています。",
-          "link": "https://www.gizmodo.jp/2023/11/amazon-timesale-fes-2023-1103-2.html",
-          "publishedOn": "2023-11-03T11:45:00.000Z",
-          "wordCount": 464,
-          "title": "針とCICAが入ったVTCOSMETICSの「リードルショット300」で自宅エステ始めてみない？【Amazonタイムセール祭り】",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/11/03/GIZ2.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/11/03/GIZ2.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/11/afterburner-glow-ring-review.html",
-          "author": "かくれい",
-          "description": "Photo:かくれい暗いところでカバンのファスナーや鍵やスマホなどといった小さなものを探すのは大変。このリングをつけておけば、長時間光り続けてくれるので暗いところでもすぐに見つけることができます。とっても明るいリングCountyCommのAfterburnerGlowRingは、SAR（捜索救助部隊）からの要望により開発されたアイテム。他の蓄光アイテムよりも優れた点がいっぱいあるのが特徴です。まず",
-          "link": "https://www.gizmodo.jp/2023/11/afterburner-glow-ring-review.html",
-          "publishedOn": "2023-11-03T11:00:00.000Z",
-          "wordCount": 353,
-          "title": "捜索救助部隊もご用達。鍵がすぐに見つかるようになるリングキーホルダー",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/10/30/20231030_Afterburner_GlowRing_thumbnail-1.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/10/30/20231030_Afterburner_GlowRing_thumbnail-1.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/11/machi-ya-carbonthirteen-start-699812.html",
-          "author": "kotoha ozawa",
-          "description": "ガラス製ボード「carbon thirteen」は、ホワイトボードのように思いついた際にさっとメモができるデスクボードです。付属のクロスを使用することで何度も書き直せるため、経済的。ノートのように開く手間もありません。付属するボード用のスタンドはカーボン製でスタイリッシュ。こだわりのデスクにも馴染む美しいアイテムです。",
-          "link": "https://www.gizmodo.jp/2023/11/machi-ya-carbonthirteen-start-699812.html",
-          "publishedOn": "2023-11-03T10:45:00.000Z",
-          "wordCount": 373,
-          "title": "オシャレなガラスボードでメモもサッとね！ PC作業とも相性よさげな「carbon thirteen」",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/10/22/detail_32999_16786809632462.jpg.png"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/10/22/detail_32999_16786809632462.jpg.png"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/11/worst-moments-of-elon-musks-twitter-takeover.html",
-          "author": "satomi",
-          "description": "イーロン・マスクがTwitterを買収して早1年。悪夢の連続の1年のなかでも最悪だった出来事を米Gizmodoが特集しています。",
-          "link": "https://www.gizmodo.jp/2023/11/worst-moments-of-elon-musks-twitter-takeover.html",
-          "publishedOn": "2023-11-03T10:00:00.000Z",
-          "wordCount": 390,
-          "title": "ツイッター買収から1年。ワーストな出来事12",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/11/02/shutterstock_2336648615.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/11/02/shutterstock_2336648615.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/11/amazon-timesale-fes-2023-1031-3.html",
-          "author": "お買いものサポーター",
-          "description": "Amazon（アマゾン）では、2023年10月31日9時から11月5日23時59分まで「Amazon Fashion×HOMEタイムセール祭り」を開催中。\n\n現在、11月16日のボジョレー・ヌーボーが事前予約で11%オフ、東洋佐々木ガラスのワイングラスが27%オフなど、2023年度産のボジョレー・ヌーボーやワインの周辺アイテムがお得に登場しています。",
-          "link": "https://www.gizmodo.jp/2023/11/amazon-timesale-fes-2023-1031-3.html",
-          "publishedOn": "2023-11-03T09:45:00.000Z",
-          "wordCount": 469,
-          "title": "11月16日解禁のボジョレー・ヌーボー2023は事前予約でお得に楽しもう！鬼コスパのおすすめ7選【Amazonタイムセール祭り】",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/11/01/GIZ3.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/11/01/GIZ3.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/11/japanmoblityshow-camping-car.html",
-          "author": "mio",
-          "description": "Photo:mio｢JAPANMOBILITYSHOW2023（ジャパンモビリティショー）｣の新たなエリア、キャンピングカーエリアには、計35台ものキャンピングカーが集結。リビングごと移動しているかのような快適空間の車ぞろいで、どれも大人の秘密基地のよう。ロマンを感じずにはいられないキャンピングカーを3台紹介します。家庭用エアコン装備の「SOLAN（ソラン）」レクビィ「SOLAN」本体価格737万",
-          "link": "https://www.gizmodo.jp/2023/11/japanmoblityshow-camping-car.html",
-          "publishedOn": "2023-11-03T09:00:00.000Z",
-          "wordCount": 365,
-          "title": "ロマンあふれる。大人の秘密基地的「キャンピングカー」3選 #JapanMobilityShow",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/11/01/20231101-japanmoblityshow-canping-car-01.JPEG"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/11/01/20231101-japanmoblityshow-canping-car-01.JPEG"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/11/rakuten-sale-2023-1103-1.html",
-          "author": "お買いものサポーター",
-          "description": "楽天市場では、最大50％と高ポイント還元イベント｢楽天スーパーDEAL｣を開催中。\n\n現在、Word、Excel、PowerPoint、Outlookなどがインストール可能なマイクロソフトの｢Microsoft 365 Personal｣や2021版のWord、Excel、Outlookがダウンロード可能な｢Office Personal 2021｣など、Microsoft Office（マイクロ",
-          "link": "https://www.gizmodo.jp/2023/11/rakuten-sale-2023-1103-1.html",
-          "publishedOn": "2023-11-03T08:45:00.000Z",
-          "wordCount": 447,
-          "title": "Microsoft 365やOfficeが実質10%オフになってるよ！ストックもありだから駆け込みでゲットしとこう【楽天セール】",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/11/03/GIZr.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/11/03/GIZr.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/11/chernobyl-tree-frogs-turn-black-1.html",
-          "author": "岡本玄介",
-          "description": "チェルノブイリ原子力発電所事故のエリアでは、黒く変色したアマガエルが発見されている。被曝に対抗するための独自の進化か。",
-          "link": "https://www.gizmodo.jp/2023/11/chernobyl-tree-frogs-turn-black-1.html",
-          "publishedOn": "2023-11-03T07:35:00.000Z",
-          "wordCount": 355,
-          "title": "チェルノブイリのアマガエル、放射線濃度に応じて黒く進化している",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2022/10/04/221005_blackfrog1.jpeg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2022/10/04/221005_blackfrog1.jpeg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/11/sun-star-tsumekake.html",
-          "author": "良品生活",
-          "description": "Photo:良品生活ROOMIE2022年9月26日掲載の記事より転載ノートや手帳で、いつも目的のページ探してませんか？付箋を貼ったりするけど、すぐ剥がれるし見た目も気になっちゃう。最新のページにビューンと一瞬で飛べればいいのに〜って思ったことはありませんか？その願い、叶います。サンスター文具のInstagramで見つけたコレがすごかった！サンスター文具の「ツメカケ」サンスター文具TUMEKAKE",
-          "link": "https://www.gizmodo.jp/2023/11/sun-star-tsumekake.html",
-          "publishedOn": "2023-11-03T05:35:00.000Z",
-          "wordCount": 362,
-          "title": "“ツメカケ”のおかげで、スッキリ美ノートが作れるようになった",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/10/30/top_1-22.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/10/30/top_1-22.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/11/amazon-timesale-fes-2023-1103-1.html",
-          "author": "お買いものサポーター",
-          "description": "Amazon（アマゾン）では、2023年10月31日9時から11月5日23時59分まで「Amazon Fashion×HOMEタイムセール祭り」を開催中。 \n\n現在、チャンピオン（Champion）のワンポイントロゴトレーナーやヘインズ（Hanes）のインナー「赤ラベルクルーネックTシャツ」など、メンズのインナーやスウェット、トレーニングウェアがお買い得に登場しています。",
-          "link": "https://www.gizmodo.jp/2023/11/amazon-timesale-fes-2023-1103-1.html",
-          "publishedOn": "2023-11-03T04:45:00.000Z",
-          "wordCount": 508,
-          "title": "チャンピオンやヘインズ、アンダーアーマーも。この季節に揃えたいメンズウェアおすすめ15選【Amazonタイムセール祭り】",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/11/03/GIZ1.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/11/03/GIZ1.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/11/microsoft-releases-windows-11-ai-update.html",
-          "author": "湯木進悟",
-          "description": "Windows 11は、昨年に「22H2」なる大型アップデートで進化を遂げました。今年も「23H2」バージョンの配信が開始され、またいろいろとビッグな更新がなされました。",
-          "link": "https://www.gizmodo.jp/2023/11/microsoft-releases-windows-11-ai-update.html",
-          "publishedOn": "2023-11-03T04:00:00.000Z",
-          "wordCount": 360,
-          "title": "Windows 11ユーザーの皆さん、大型アップデートがきてますよ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/11/02/231102windows.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/11/02/231102windows.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/11/just-how-slim-is-that-new-skinny-playstation-5-1850979786.html",
-          "author": "岩田リョウコ",
-          "description": "Image:Shutterstockいよいよ来週発売だけど、リーク画像出てきました。新型PlayStation5が来週発売ですが、スリムになったそのお姿のリーク写真がネットにアップされています。これが本当かどうかはあと1週間待てばわかるんですが、どんな画像なのか見ていきましょう。Xで@phantompainssという方が、現行モデルにDbrandで着せ替えをしたPS5と、新型と見られるモデルを並べ",
-          "link": "https://www.gizmodo.jp/2023/11/just-how-slim-is-that-new-skinny-playstation-5-1850979786.html",
-          "publishedOn": "2023-11-03T03:00:00.000Z",
-          "wordCount": 365,
-          "title": "新旧のPS5並べてみた画像が流出。かなりコンパクトになってる？",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/11/02/shutterstock_1860838951.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/11/02/shutterstock_1860838951.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/11/moft-snapfloat-folio-2023.html",
-          "author": "かいサポ",
-          "description": "直感的に扱え、軽量で持ち運びがしやすく、仕事から遊びまで大活躍してくれるiPad。キーボードなどの周辺機器を利用すれば簡単な作業などはiPadのみで完結できるので重宝しますね。\n\n今回はそんなiPadの使い勝手を最大限に引き伸ばしてくれて、省スペースでの作業を実現してくれる「Snap フロートフォリオ2023」を紹介します。",
-          "link": "https://www.gizmodo.jp/2023/11/moft-snapfloat-folio-2023.html",
-          "publishedOn": "2023-11-03T02:45:00.000Z",
-          "wordCount": 467,
-          "title": "iPadの高さを自由自在に！ MOFTの最新カバー＆スタンドでグッと使いやすくなりそうだ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/gif",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/10/25/02_GIF_540x.gif"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/10/25/02_GIF_540x.gif"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/11/souvenir-japanmobilityshow.html",
-          "author": "三浦一紀",
-          "description": "Photo:三浦一紀買い物、楽しい。ジャパンモビリティーショーでは、前回開催時から各メーカーのブースで物販が行なえるようになりました。物欲まみれで生きているギズモードスタッフとしては、買わねばならぬ！ということで、僕たちが自腹で購入したグッズをご紹介したいと思います。ダットサンTシャツ、かっこいいぜ！（三浦）購入したのはブルーのほうPhoto:武者良太日産のブースで購入したのは、ダットサンTシャツ",
-          "link": "https://www.gizmodo.jp/2023/11/souvenir-japanmobilityshow.html",
-          "publishedOn": "2023-11-03T02:00:00.000Z",
-          "wordCount": 352,
-          "title": "モビリティーショー来場の思い出にグッズをいろいろ買いました #JapanMobilityShow",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/10/31/DSC_2412.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/10/31/DSC_2412.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/11/thermos-souplunchset.html",
-          "author": "かいサポ",
-          "description": "魔法瓶や調理用品などで有名なTHERMOS（サーモス）から「真空断熱スープランチセット」をご紹介します。スープジャーが一つと弁当箱が二つセットになっているので、ご飯とおかずを分けられて、味噌汁やスープなどの汁物も楽しむことができます。\n\n全部を一つにまとめて収納できる専用ポーチも付いているので、持ち運びも簡単ですよ。",
-          "link": "https://www.gizmodo.jp/2023/11/thermos-souplunchset.html",
-          "publishedOn": "2023-11-03T01:45:00.000Z",
-          "wordCount": 346,
-          "title": "スープジャーとお弁当箱がセットになった、サーモスの最強スープランチセット",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/10/24/81CIdLqCocL._AC_SL1500_-1.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/10/24/81CIdLqCocL._AC_SL1500_-1.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/11/machi-ya-ariel2-review-689220.html",
-          "author": "田中宏和",
-          "description": "デスクワーカーにとっての永遠の悩みとは、座っている時間の長さからくる、身体の不調。もちろん、“健康のためにときどき立ち上がって軽い運動をしましょう” というようなお話は、耳にタコができるくらいは聞いているわけですが、ついつい…。machi-yaでプロジェクトが公開されている「アリエル 2.0」は、この問題を効果的に解決してくれそうなスツールです。",
-          "link": "https://www.gizmodo.jp/2023/11/machi-ya-ariel2-review-689220.html",
-          "publishedOn": "2023-11-03T00:45:00.000Z",
-          "wordCount": 366,
-          "title": "座ったまま体幹トレーニングできる「アリエル 2.0」を試してみた",
-          "enclosure": {
-            "length": "0",
-            "type": "image/gif",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/10/29/%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB2.0review00.gif"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/10/29/%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB2.0review00.gif"
         }
       ]
     }
