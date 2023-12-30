@@ -6,6 +6,16 @@
       "siteUrl": "https://gori.me",
       "articles": [
         {
+          "id": "https://gori.me/?p=151343",
+          "author": "g.O.R.i",
+          "description": "CIOの製品が、2024年1月3日よりスタートする「Amazon初売り2024」に参戦が決定した。GaN対応急速充電器や、大容量モバイルバッテリー、シリコン充電ケーブル、片手で接続可能なシリコンマグネットケーブルなど、人気商品を最大43％オフで販売する。 【関連】新年から散財だ。Amazonの初売り…\nThe post CIO製品を買うならAmazon初売り2024で。対象商品が最大43％オフ first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/peripheral-sale/151343",
+          "publishedOn": "2023-12-29T21:30:15.000Z",
+          "wordCount": 1755,
+          "title": "CIO製品を買うならAmazon初売り2024で。対象商品が最大43％オフ",
+          "imageUrl": "https://gori.me/uploads/2023/12/CIO-Amazon-New-Years-Sale-2024-01-800x352.jpg"
+        },
+        {
           "id": "https://gori.me/?p=151299",
           "author": "CamTrip",
           "description": "前回の、ファーストクラスで1日4レグのように、純粋な修行日もあれば、普通の旅行も織り交ぜつつ、4ヶ月強の30レグで49,324FOPを貯めた。 2023年までのJGC入会条件は、サファイアステイタスに到達することだけ。50回以上の搭乗と15,000FOP、もしくは搭乗回数に関係なく50,000FOP…\nThe post JGC修行、ついに完了。掛かった費用も公開します【JGC修行シリーズ】 first appeared on ゴリミー.\n\n 【もっと読む】",
@@ -124,16 +134,6 @@
           "wordCount": 1452,
           "title": "最後のクリスマスツリー",
           "imageUrl": "https://gori.me/uploads/2023/12/My-xmas-tree-at-home-800x500.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=151268",
-          "author": "g.O.R.i",
-          "description": "みなさんは、amity_senseiを知っているだろうか。iPadが好きな人、iPadの活用方法などを調べていたら必ず通る道といっても過言ではない、iPad系YouTuberの1人だ。 活動範囲は広く、その中でも約200名の子どもを抱える「iPadmate kids」京都を2022年にスタート。「関…\nThe post クラファン1,000万円を突破したamity_senseiに聞く30の質問。……で、彼氏はいるの？ first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/lifestyle/151268",
-          "publishedOn": "2023-12-23T23:26:12.000Z",
-          "wordCount": 1670,
-          "title": "クラファン1,000万円を突破したamity_senseiに聞く30の質問。……で、彼氏はいるの？",
-          "imageUrl": "https://gori.me/uploads/2023/12/30-questions-with-amity_sensei-800x534.jpg"
         }
       ]
     },
@@ -142,6 +142,56 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/mobile.xml",
       "siteUrl": "https://www.itmedia.co.jp/mobile/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2312/30/news085.html",
+          "author": null,
+          "description": "12月27日、「電気通信事業法第27条の3」に関わる改正総務省令が施行されました。施行直前の日が対象だったせいか、今回のアクセスランキングではこの改正に絡む記事が複数読まれました。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2312/30/news085.html",
+          "publishedOn": "2023-12-30T10:00:00.000Z",
+          "wordCount": 2918,
+          "title": "省令改正で「原則4万円まで」となる端末値引き　駆け込み需要はどうだったのか？",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2312/30/cover_news085.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2312/30/news028.html",
+          "author": null,
+          "description": "「Xiaomi 13T Pro」は、フィーチャーされている充電機能だけでなく、カメラ機能も優秀。トリプルカメラを持つ本製品を本気で試してみた。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2312/30/news028.html",
+          "publishedOn": "2023-12-30T06:00:00.000Z",
+          "wordCount": 2958,
+          "title": "ジューデンだけでなくカメラ機能にも注目！　「Xiaomi 13T Pro」でどれだけ撮れるのか試してみた",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2312/30/cover_news028.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2312/30/news020.html",
+          "author": null,
+          "description": "100円ショップで購入できるデバイスを実際に購入して試す連載。今回は、キャンドゥで110円で購入できる「マイクロUSB→タイプC変換アダプタ」を試す。最大5V／3Aの充電にも対応しており、データ転送も行える。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2312/30/news020.html",
+          "publishedOn": "2023-12-30T01:00:00.000Z",
+          "wordCount": 2899,
+          "title": "キャンドゥで110円の「micro USB→Type-C変換アダプター」が意外と便利！　家で留守番していたケーブルが復活",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2312/30/cover_news020.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2312/30/news056.html",
+          "author": null,
+          "description": "2023年のスマートフォンは出荷台数が大きく低下。その反面、フォルダブルスマホのラインアップが広がったことに加え、より手に取りやすい価格帯のハイエンドモデルのラインアップが徐々に増えた。機能面では、IT業界のトレンドともいえる生成AIをデバイス上の処理で実現する動きも健在化している。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2312/30/news056.html",
+          "publishedOn": "2023-12-30T00:00:00.000Z",
+          "wordCount": 2962,
+          "title": "Pixelの大躍進、折りたたみスマホの民主化、安ハイエンドの台頭――2023年のスマホ動向を振り返る",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2312/30/cover_news056.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2312/29/news117.html",
+          "author": null,
+          "description": "1年間でよく読まれた記事を月単位で振り返る「Mobile Monthly Top10」。11月はオウガ・ジャパン（OPPO JAPAN）の河野謙三専務へのインタビュー記事が一番よく読まれました。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2312/29/news117.html",
+          "publishedOn": "2023-12-29T21:00:00.000Z",
+          "wordCount": 2955,
+          "title": "スマホは「4年使う」が前提になってきた予感【2023年を振り返る（11月編）】",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2312/29/cover_news117.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/mobile/articles/2312/29/news012.html",
           "author": null,
@@ -701,46 +751,6 @@
           "wordCount": 2889,
           "title": "キャンドゥで売っている「スマホスタンド＆スピーカー」を試す　特徴的な形状だがとても便利！",
           "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2312/24/cover_news027.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2312/24/news048.html",
-          "author": null,
-          "description": "Androidから青いフキダシで「iMessage」に参加できるアプリ「Beeper Mini」の開発元が、“Appleとのいたちごっこ”から抜けると宣言した。米連邦取引委員会はこの発表直後、「プライバシーやセキュリティを反競争的行為の口実にすることは拒否する」と語った。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2312/24/news048.html",
-          "publishedOn": "2023-12-23T22:48:00.000Z",
-          "wordCount": 2912,
-          "title": "Beeper、“Appleとのいたちごっこ”からの降板宣言　FTCは「精査する予定」",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2312/24/cover_news048.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2312/23/news069.html",
-          "author": null,
-          "description": "JR東日本が、首都圏で運行している「普通列車グリーン車」のグリーン料金の体系を見直すことになりました。休日に乗車する人や、101km以上乗車する人にとっては値上げとなることがポイントなのですが、私（ランキングをまとめる人）的にはもっと気になることが……。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2312/23/news069.html",
-          "publishedOn": "2023-12-23T05:00:00.000Z",
-          "wordCount": 2932,
-          "title": "JRの首都圏「普通列車用グリーン券」の料金が2024年3月に改定　長距離乗ると高くなることも気になるが……",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2312/23/cover_news069.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2312/23/news045.html",
-          "author": null,
-          "description": "ドコモオンラインショップの「売れ筋ランキング」。12月11日～12月17日の期間は、「iPhone 15（128GB）が1位を維持した。2位は「AQUOS sense8」がキープしている。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2312/23/news045.html",
-          "publishedOn": "2023-12-23T01:00:00.000Z",
-          "wordCount": 3002,
-          "title": "ドコモ販売ランキング：iPhone 15が1位をキープ、Xperia 5 IVが3位に急上昇【12月11日～12月17日】",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2312/23/cover_news045.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2312/23/news038.html",
-          "author": null,
-          "description": "100円ショップで販売されているガジェットを実際に購入し、試してみる。今回はキャンドゥで110円で販売している「導電繊維タッチペン」だ。通常のスワイプやタッチ操作は難なく行えるものの、細かいボタンが並ぶWebサイトだと少し操作しにくい。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2312/23/news038.html",
-          "publishedOn": "2023-12-23T01:00:00.000Z",
-          "wordCount": 2890,
-          "title": "キャンドゥの「導電繊維タッチペン」を試す　通常操作は難なく行える一方、細かな作業は苦手",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2312/23/cover_news038.jpg"
         }
       ]
     },
@@ -766,6 +776,66 @@
       "feedUrl": "https://k-tai.watch.impress.co.jp/data/rss/1.0/ktw/feed.rdf",
       "siteUrl": "https://k-tai.watch.impress.co.jp",
       "articles": [
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1556312.html",
+          "author": null,
+          "description": "TikTokが公開した特設サイト「Year on TikTok 2023：みんなと一緒に振り返ろう」は、2023年のTikTokにおけるトレンドをまとめたもの。2023年最も印象に残った」TikTokのトレンド、クリエイター、ムーブメント、コミュニティが紹介されている。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1556312.html",
+          "publishedOn": "2023-12-30T01:00:00.000Z",
+          "wordCount": 4977,
+          "title": "2023年のTikTok、人気のショート動画、音楽・アーティストは？　「Year on TikTok 2023」",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1556/312/main.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/sim/1558330.html",
+          "author": null,
+          "description": "年末年始恒例企画の「MVNOの中の人に聞く『ここがイチオシ！』」。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/sim/1558330.html",
+          "publishedOn": "2023-12-29T23:00:00.000Z",
+          "wordCount": 4774,
+          "title": "[格安スマホ＆SIMトレンドチェック！] MVNOの中の人に聞く「ここがイチオシ！」2023～24――「J:COM MOBILE」編",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1558/330/cont1600.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/fujioka/1558037.html",
+          "author": null,
+          "description": "NTT法改正や廃止に関わる議論が進んでいます。この中で特に、NTTグループが保有する局舎や光伝送ネットワーク用設備などの資産の位置づけが話題となっています。そこで、モバイルネットワークにおける通信局舎設備や光回線の役割と、実際にそれらがどのように使われているのか、今後のモバイルネットワークの進化の中での光ファイバネットワークへの期待などについて解説します。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/fujioka/1558037.html",
+          "publishedOn": "2023-12-29T21:00:00.000Z",
+          "wordCount": 4997,
+          "title": "[藤岡雅宣の「モバイル技術百景」] モバイルネットワークにおける光回線設備の役割",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1558/037/04.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/review/1556630.html",
+          "author": null,
+          "description": "本稿では、「OPPO Pad 2」のクイックフォトレビューをお届けする。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/review/1556630.html",
+          "publishedOn": "2023-12-29T21:00:00.000Z",
+          "wordCount": 4905,
+          "title": "「OPPO Pad 2」クイックフォトレビュー",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1556/630/100.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1556284.html",
+          "author": null,
+          "description": "筆者は2023年、12月半ばまでに23個のアイテムを「本日の一品」で紹介してきたのだけれども、そのなかでほぼ毎日必ず使っているのがここで挙げる3つ。どれも買って本当に良かったなあと思うし、生活の質が上がったことも実感する。マジでおすすめのアイテムたちである。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1556284.html",
+          "publishedOn": "2023-12-29T15:01:00.000Z",
+          "wordCount": 4978,
+          "title": "[本日の一品]日々の生活の質が間違いなく向上した、ヘビーユースな3アイテム",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1556/284/001.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/mobile_catchup/1558445.html",
+          "author": null,
+          "description": "2023年も終わりに近づき、あと数日で新しい年を迎える。2023年は各社から新製品や新サービス、新しい料金プランなどが発表される一方、ネットワークや販売方法などに多くの課題が指摘され、モバイル業界や通信業界の根幹に関わる話題も注目を集めた。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/mobile_catchup/1558445.html",
+          "publishedOn": "2023-12-29T15:00:00.000Z",
+          "wordCount": 5390,
+          "title": "[法林岳之の「週刊モバイルCATCH UP」]2023年のモバイル業界を振り返る――携帯電話会社4社、MVNO各社、主要メーカーの2023年はどうだったか？",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1558/445/ntt.jpg"
+        },
         {
           "id": "https://k-tai.watch.impress.co.jp/docs/news/1558286.html",
           "author": null,
@@ -1605,36 +1675,6 @@
           "wordCount": 4923,
           "title": "「M-1グランプリ2023」はTVerでリアルタイム配信、ドコモの「Lemino」で見逃し配信や反省会も",
           "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1557/181/01.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1557127.html",
-          "author": null,
-          "description": "NTTドコモ、KDDI、ソフトバンクはそれぞれ、大雪の影響を受け、石川県の一部で通信障害が発生していると発表した。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1557127.html",
-          "publishedOn": "2023-12-23T02:59:51.000Z",
-          "wordCount": 4928,
-          "title": "携帯大手3社、石川県の一部で大雪による通信障害",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1557/127/3carrier.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1557031.html",
-          "author": null,
-          "description": "楽天ペイメントは、山形県西川町が1月1日～1月31日まで実施する「西川町の冬がアツい！キャッシュレスで最大30%戻ってくるキャンペーン」に参加する。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1557031.html",
-          "publishedOn": "2023-12-23T02:00:00.000Z",
-          "wordCount": 4907,
-          "title": "山形県西川町で楽天ペイが最大30%還元、上限1万5000ポイントまで",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1557/031/main.jpeg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1556941.html",
-          "author": null,
-          "description": "NTTドコモは、定額制動画配信サービス「dアニメストア」において電子書籍を購入した人に向け、「1億円分dポイント山分けキャンペーン」を開始した。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1556941.html",
-          "publishedOn": "2023-12-23T01:00:00.000Z",
-          "wordCount": 4926,
-          "title": "「dアニメストア」、電子書籍購入でdポイント1億円分山分け還元",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1556/941/main.png"
         }
       ]
     },
@@ -1643,6 +1683,186 @@
       "feedUrl": "https://www.gizmodo.jp/index.xml",
       "siteUrl": "https://www.gizmodo.jp",
       "articles": [
+        {
+          "id": "https://www.gizmodo.jp/2023/12/httpswww-gizmodo-jp202311jumping-jacks-gadget-38.html",
+          "author": "和田ラヂヲ",
+          "description": "Image:radiowada続きます。和田ラヂヲの火の鳥(TCコミックス)1,045円Source:和田ラヂヲ",
+          "link": "https://www.gizmodo.jp/2023/12/httpswww-gizmodo-jp202311jumping-jacks-gadget-38.html",
+          "publishedOn": "2023-12-30T12:00:00.000Z",
+          "wordCount": 156,
+          "title": "【和田ラヂヲ】よく当たる占い［ジャンピン ジャック ガジェット ep.38］",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/12/28/%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC2.png"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/12/28/%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC2.png"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/12/fuze-music-ai-2023.html",
+          "author": "編集部,トダサチコ",
+          "description": "Image:Elf.Tech:GrimesAI-1Voiceprint2023年は、AIチャットボットの「ChatGPT」や、画像生成AIの「Midjourney」といったツールが注目を集めましたが、音楽の分野においても、AIに関するさまざまな動きが。ギズモードでも、これらのニュースを日々お届けしてきましたが、ギズモード・ジャパン編集部が制作するオルタナティブ・テックメディア「FUZE」でも、音楽",
+          "link": "https://www.gizmodo.jp/2023/12/fuze-music-ai-2023.html",
+          "publishedOn": "2023-12-30T11:00:00.000Z",
+          "wordCount": 350,
+          "title": "【FUZE公論】2023年、音楽における生成AIの動向を考える",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/12/29/1.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/12/29/1.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/12/packing-leather-compact-wallet.html",
+          "author": "もぎひでみ",
+          "description": "Photo:もぎひでみいろんなところに引っかけたい｡帰省というと大きな荷物をイメージしますが､私の帰省スタイルは｢ほぼ手ぶら｣です｡私も妻も実家が近県で､宿泊しないので荷物が少ないというのはあるんですが､子供が小さいため特に手には荷物を持たないように心がけています｡そんな私が今年購入した､手ぶら帰省に便利なアイテムをご紹介します｡とにかく便利なカラビナ帰省はいつもクルマ移動なんですが､これまで地味",
+          "link": "https://www.gizmodo.jp/2023/12/packing-leather-compact-wallet.html",
+          "publishedOn": "2023-12-30T10:00:00.000Z",
+          "wordCount": 373,
+          "title": "手ぶら帰省の味方｡カラビナつきコンパクト財布",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/12/13/IMG_0047_01.JPG"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/12/13/IMG_0047_01.JPG"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/12/doshisha-circulight-2.html",
+          "author": "岡本玄介",
+          "description": "DOSHISHAが天井から下げるLEDライト「CIRCULIGHT」発売。温風暖房としても使える。",
+          "link": "https://www.gizmodo.jp/2023/12/doshisha-circulight-2.html",
+          "publishedOn": "2023-12-30T09:00:00.000Z",
+          "wordCount": 349,
+          "title": "トイレや脱衣場が寒いなら、温風暖房機にもなるLEDライトが省スペースで便利",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2022/11/02/221102_doshisha.jpeg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2022/11/02/221102_doshisha.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/12/manga-selected.html",
+          "author": "編集部",
+          "description": "Image:Aberu.Go/Shutterstock.com年末年始にちょっと時間を潰したい。そんなときにはマンガでも読むのがいいかもしれません。いろんな作品を追いかけるのが趣味の筆者が、個人的に好きな作品から何点かご紹介します。BADDUCKS（全4巻）BADDUCKS(1)(webアクション)770Amazonで見る!function(t,e){if(!t.getElementById(e)",
+          "link": "https://www.gizmodo.jp/2023/12/manga-selected.html",
+          "publishedOn": "2023-12-30T08:00:00.000Z",
+          "wordCount": 357,
+          "title": "ザクッと刺さって疲れた心が癒える「何気にすごいマンガ」5選",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/12/27/shutterstock_776002834_.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/12/27/shutterstock_776002834_.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/12/buffalo-ssdsmall.html",
+          "author": "舟津カナ",
+          "description": "Photo:舟津カナROOMIE2023年12月14日掲載の記事より転載今年の汚れ今年のうちに～。といいますが、家の掃除だけでなく、今年撮って保存した写真などパソコンの中でごちゃごちゃしているデータも大掃除しませんか？SSDって知ってる？BUFFALO「SSD-SCT2.0U3-BA2TB」いままでのデータ保存は外付けのハードディスクにしていましたが、ハードディスクは衝撃による故障リスクがあり、動",
+          "link": "https://www.gizmodo.jp/2023/12/buffalo-ssdsmall.html",
+          "publishedOn": "2023-12-30T06:00:00.000Z",
+          "wordCount": 381,
+          "title": "今年の内に、パソコンのデータも大掃除。直挿しだから手軽です",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/12/26/top_SSD8.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/12/26/top_SSD8.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/12/90-min-movie-recommend-paprika.html",
+          "author": "ヨコヤマコム",
+          "description": "Image:©2023SONYPICTURESENTERTAINMENT(JAPAN)INC.ALLRIGHTSRESERVED年末年始ははカオスの世界へ。時間があり余る年末年始のお休み期間。面白い映画を探している方にオススメしたいのが『パプリカ』です。しかも、1時間半でサクッと観られる名作なのです！「夢と現実」をテーマに描くサスペンス映画本作は、『PERFECTBLUE』や『東京ゴッドファーザー",
+          "link": "https://www.gizmodo.jp/2023/12/90-min-movie-recommend-paprika.html",
+          "publishedOn": "2023-12-30T04:00:00.000Z",
+          "wordCount": 359,
+          "title": "【90分で見れる】夢か、現実か。圧倒的なビジュアルで描かれるサスペンス映画『パプリカ』",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/12/28/815804_photo_1.jpeg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/12/28/815804_photo_1.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/12/nature-remo-review.html",
+          "author": "小暮ひさのり",
+          "description": "Photo:小暮ひさのり「いや、自分でやるし」なんて思ってた頃が僕にもあったのですが、わりとすぐに「もうこれ無しでは生きられぬ…」に変わりました。そのくらい意識が180度変わったのが、スマートリモコン「NatureRemo」との出会いです。これが何か？というと、1．オールインワンリモコン：機器ごとに別々のリモコンを使う必要がなく、NatureRemoのアプリで操作できる。2．Wi-Fiでどこからで",
+          "link": "https://www.gizmodo.jp/2023/12/nature-remo-review.html",
+          "publishedOn": "2023-12-30T03:00:00.000Z",
+          "wordCount": 390,
+          "title": "古の生活、2023年に置いてこ。スマートリモコン導入して遠隔操作生活へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/12/13/2023-12-13rek00.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/12/13/2023-12-13rek00.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/12/8-movies-2023-watch-streaming.html",
+          "author": "ヨコヤマコム",
+          "description": "Image:(C)2023NintendoandUniversalStudios2023年ももうおしまい！年末年始のお休みには、2023年に公開された新作映画の中から今ストリーミング動画配信サービスで観られる作品を観ましょう！もう配信しているの？といった感じの作品からストリーミングオリジナル作品、今年話題となった映画などなど8作品を紹介します。＜目次＞1.エブリシング・エブリウェア・オール・アット",
+          "link": "https://www.gizmodo.jp/2023/12/8-movies-2023-watch-streaming.html",
+          "publishedOn": "2023-12-30T02:00:00.000Z",
+          "wordCount": 392,
+          "title": "いまストリーミングで観られる、2023年に話題になった映画8選",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/12/28/movie_list_top.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/12/28/movie_list_top.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/12/burger-king-giving-discounts-if-facial-recognition-thin-jpn.html",
+          "author": "岩田リョウコ",
+          "description": "Screenshot:YouTube/Gizmodo二日酔い度に合わせたコンボの提案。クリスマスから新年と飲酒の増える時期ですが、ブラジルのバーガーキングでは「ハングオーバー・ワッパー」とという二日酔いさん向けの企画が登場しました。顔認識技術を使用して二日酔いだと診断されると、割引クーポンがもらえるというもの。クーポンをもらえるのはうれしいですけど、二日酔いです！って断言されるのは辛いかも...。",
+          "link": "https://www.gizmodo.jp/2023/12/burger-king-giving-discounts-if-facial-recognition-thin-jpn.html",
+          "publishedOn": "2023-12-30T01:00:00.000Z",
+          "wordCount": 356,
+          "title": "酔っ払いなら割引。 バーガーキングが顔認証で二日酔い度チェック",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/12/27/da8531a3622c7d3557943df8cfac3e46.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/12/27/da8531a3622c7d3557943df8cfac3e46.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/12/paypay-widget-lockscreen-2.html",
+          "author": "amito",
+          "description": "PayPayの決済画面へのショートカットをロック画面に置くことができるようになりました。",
+          "link": "https://www.gizmodo.jp/2023/12/paypay-widget-lockscreen-2.html",
+          "publishedOn": "2023-12-30T00:00:00.000Z",
+          "wordCount": 342,
+          "title": "ペイするための最短ルート。PayPayのロック画面ウィジェットがスムーズすぎた",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2022/10/07/20221007_OSCF9049.jpeg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2022/10/07/20221007_OSCF9049.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2023/12/langchain-work.html",
+          "author": "大野恭希",
+          "description": "Image:LangChainこれまで、ハード大好きでいろいろ触ってきましたが、iPhoneの登場と同等以上にイノベーションを実感するのがChatGPTを含む生成AIです。2022年のChatGPT登場から1年が経ち、AIエコシステムが勃興し、今のところ勢いが衰えるようには見えません。GoogleのGemini、AnthropicのClaudeと多くのAIモデルが登場し、本屋では「ChatGPT大",
+          "link": "https://www.gizmodo.jp/2023/12/langchain-work.html",
+          "publishedOn": "2023-12-29T13:00:00.000Z",
+          "wordCount": 423,
+          "title": "はじめてiPhoneを触ったときと同じ。AIで世界が変わったことを感じました",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/12/26/202312langchain.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/12/26/202312langchain.jpg"
+        },
         {
           "id": "https://www.gizmodo.jp/2023/12/the-north-face-winter-accessories.html",
           "author": "mio",
@@ -3262,201 +3482,6 @@
             "url": "https://media.loom-app.com/gizmodo/dist/images/2023/12/22/231223_toy3.jpg"
           },
           "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/12/22/231223_toy3.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/12/noble-audio-mems.html",
-          "author": "ヤマダユウス型",
-          "description": "Image:Amazonどんな音がするんだろうか。音の魔術師（ウィザード）の異名をもつジョン・モールトン博士率いるNobleAudioから、新しいワイヤレスイヤホン「FALCONMAX」が登場します。Amazonでは年内12月30日発送とのこと。NobleAudioFALCONMAXNOB-FALCONMAX-B【日本正規品】ワイヤレスイヤホンBlueoothブルートゥースMEMSドライバー防水ア",
-          "link": "https://www.gizmodo.jp/2023/12/noble-audio-mems.html",
-          "publishedOn": "2023-12-24T00:00:00.000Z",
-          "wordCount": 395,
-          "title": "いままでとまったく違う技術で音が鳴るイヤホン",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/12/22/231211falconmax_01.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/12/22/231211falconmax_01.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/12/fluctuating-light-panasonic.html",
-          "author": "そうこ",
-          "description": "Image:Panasonic揺らいでますか？揺らぎ肌とか、気持ちが揺らいでいるなんて言うと、あまりいい印象を持ちません。が、照明は揺らいでいいんです。むしろ、揺らいでいる方が好きな人も少なくないはず！パナソニックが、ゆらぐ光を演出できるLEDランプを発表しました。ゆらぎに癒されるゆらぐ光とは、その名の通りユラユラっとする光。ろうそくやランタンの光のような、光の強弱が変化するライトです。パナソニッ",
-          "link": "https://www.gizmodo.jp/2023/12/fluctuating-light-panasonic.html",
-          "publishedOn": "2023-12-23T23:00:00.000Z",
-          "wordCount": 349,
-          "title": "癒される上に節約もできる「ゆらぎ照明」って何？",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/12/22/231222yuragi.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/12/22/231222yuragi.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/12/matsuya-sale.html",
-          "author": "三浦一紀",
-          "description": "Photo:三浦もーういーくつねーるーとー。そろそろ2023年も終わろうとしています。おお怖い。お正月といえばおせち。数の子大好き。紅白のかまぼこも好き。栗きんとんや伊達巻き、黒豆…。でも、毎日おせちだと飽きてしまいます。かといって、料理作るのも面倒。だってお正月だからだらだらしたいじゃないですか。そんなとき、手軽に食べられる牛めしや豚めし、カレーがあるといいと思いませんこと？【松屋セレクト】福袋",
-          "link": "https://www.gizmodo.jp/2023/12/matsuya-sale.html",
-          "publishedOn": "2023-12-23T22:00:00.000Z",
-          "wordCount": 370,
-          "title": "おせちに飽きたときぜったい重宝する。松屋のセットがほぼ半額",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/12/22/221201matsuya-01.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/12/22/221201matsuya-01.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/12/280239.html",
-          "author": "小暮ひさのり",
-          "description": "Image:アイ・オー・データ機器ガタッ！ついに来るか！来るぞ、来るぞ…？と注目はされつつ、じゃあいつ来るのよ？と焦らされ続けていたWi-Fiの次世代規格「Wi-Fi7」がついにやってきそうです。12月22日に総務省より発表された電波法改正を受けて、ルーターメーカー各社から一斉にWi-Fi7対応ルーター開発のお知らせが発表されています。◤￣￣￣￣￣￣￣￣￣￣最新規格「Wi-Fi7」対応Wi-Fiル",
-          "link": "https://www.gizmodo.jp/2023/12/280239.html",
-          "publishedOn": "2023-12-23T13:30:00.000Z",
-          "wordCount": 405,
-          "title": "Wi-Fiの次世代規格「Wi-Fi 7」がついにキタ。ゲーム、無線でできるかも？",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/12/22/2023-12-22wik00.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/12/22/2023-12-22wik00.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/12/marna_cleaning-_cloth.html",
-          "author": "OGMAX",
-          "description": "Photo:OGMAX年末の恒例行事と言えば大掃除。重い腰をあげて掃除をはじめるために、お掃除グッズを多く手掛ける生活雑貨メーカー「マーナ」の商品をチェックしてみると気になるものが！拭くだけでガラス、鏡などがピカピカになるクロス...これは試してみるしかない。繊維が落ちないマイクロファイバークロスマーナ「ガラス・鏡ピカッとクロス（グレー）2枚入り」780円（税込）ガラスや鏡、蛇口の水アカ、曇り向け",
-          "link": "https://www.gizmodo.jp/2023/12/marna_cleaning-_cloth.html",
-          "publishedOn": "2023-12-23T12:00:00.000Z",
-          "wordCount": 376,
-          "title": "クルマも蛇口も風呂の鏡も洗剤いらず。フキン1枚でピッカピカ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/12/22/marna_main.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/12/22/marna_main.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/12/pearl-metal-mochi-ami.html",
-          "author": "小暮ひさのり",
-          "description": "Photo:小暮ひさのりMOL（モチオブライフ）がダダ上がり。僕、モチはレンチン派。トースターもあるんですけど、レンジの方が加熱が速いんですよね。その分焼き目はつかないけど、どっちかと言うと焼き目いらない派なので、もっぱらレンジです。そんなレンチン派にぜひオススメなのが、パール金属のレンジモチアミ。パール金属しかくいレンジモチアミ【日本製】C-1854747Amazonで見る!function(t",
-          "link": "https://www.gizmodo.jp/2023/12/pearl-metal-mochi-ami.html",
-          "publishedOn": "2023-12-23T11:00:00.000Z",
-          "wordCount": 358,
-          "title": "レンチンしたモチがシュポン！と取れる、このプレートすごすぎる…",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/12/22/2023-12-22mok03.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/12/22/2023-12-22mok03.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/12/mcdonalds-godzilla.html",
-          "author": "mio",
-          "description": "Image:MEDICOMTOY「数量限定」に弱いんです。2024年に70周年を迎える『ゴジラ』と、マクドナルドのコラボアイテム、題して「ゴジラVSマクドナルドBE@RBRICK」の販売が決定。2024年1月15日から全国のマクドナルド店舗にて販売が開始されます。事前抽選の応募受付が、すでに始まっているみたいですよ〜。ゴジラとマクドの仲間たちがベアブリックにImage:日本マクドナルド株式会社今回",
-          "link": "https://www.gizmodo.jp/2023/12/mcdonalds-godzilla.html",
-          "publishedOn": "2023-12-23T10:00:00.000Z",
-          "wordCount": 382,
-          "title": "マクドにこんなキャラいたっけ…？ なんか欲しくなる「限定ベアブリック」",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/12/22/20231222-mcdonalds-godzilla-01.jpeg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/12/22/20231222-mcdonalds-godzilla-01.jpeg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/12/elon-musk-mark-zuckerberg-fight-meta-stock-x-twitter.html",
-          "author": "岩田リョウコ",
-          "description": "Image:ssi77/Shutterstock.comみなさん、覚えていますか？この二人の対決話。マーク・ザッカーバーグとイーロン・マスク。ケージファイトをやる、やらない、やっぱりやる、やっぱやらない…と、とにかくネットを騒がせました。そもそもなんでケージファイトをやるっていう話になったかというと、Xに対抗してマークが「Threads」を立ち上げたから。この対立の解決策として観客の前で殴り合おう",
-          "link": "https://www.gizmodo.jp/2023/12/elon-musk-mark-zuckerberg-fight-meta-stock-x-twitter.html",
-          "publishedOn": "2023-12-23T09:00:00.000Z",
-          "wordCount": 355,
-          "title": "マスク対ザッカーバーグ｡2023年の勝者はザッカーバーグ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/12/20/shutterstock_2327994947.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/12/20/shutterstock_2327994947.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/12/elon-musk-billionaire-tesla-wealth-twitter-spacex-1.html",
-          "author": "岩田リョウコ",
-          "description": "Image:Shutterstock2022年11月24日の記事を編集して再掲載していますそれでも世界一のお金持ちの座は死守。Tesla、SpaceX、TwitterのCEOであるイーロン・マスク。今年は総資産が1000億ドル（約14兆2000億円）ほど下がってしまうとされています。しかし、たとえ14兆円下がっても、1700億ドル〜1820億ドルの間（25兆円くらい）の資産を持っていて、世界一のお",
-          "link": "https://www.gizmodo.jp/2023/12/elon-musk-billionaire-tesla-wealth-twitter-spacex-1.html",
-          "publishedOn": "2023-12-23T07:35:00.000Z",
-          "wordCount": 354,
-          "title": "たった一日で資産86億ドルを失ったイーロン・マスク",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2022/11/24/shutterstock_2149752819.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2022/11/24/shutterstock_2149752819.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/12/cainz-kagami.html",
-          "author": "大平千沙",
-          "description": "Photo:大平千沙ROOMIE2022年12月13日掲載の記事より転載毎日使っているからこそ日々の変化に気づきにくい鏡の汚れ。いつの間にか鏡がウロコだらけ……！そんな経験ありますよね。お風呂洗剤を使ってもなかなか落ちない頑固なウロコ汚れを取ってくれるというアイテムを見つけたので、実際に使ってみました。カインズの「鏡のウロコ取り」カインズ「鏡のウロコ取り60g」酸性のクエン酸と研磨剤のダブルパワー",
-          "link": "https://www.gizmodo.jp/2023/12/cainz-kagami.html",
-          "publishedOn": "2023-12-23T05:35:00.000Z",
-          "wordCount": 362,
-          "title": "新年はピッカピカの鏡で。カインズの“鏡のウロコ取り”で新品同様に",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/12/14/top_kagami.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/12/14/top_kagami.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/12/gaming-headset-elecom-vh300.html",
-          "author": "小暮ひさのり",
-          "description": "Image:エレコムははぁ〜ん、この足音は…。そこだ！みたいなことができたらワクワクもんじゃない？実際できるかどうかはさておき、複数人が入り乱れてバトルするFPSゲームでは、足音から敵が来る方向を悟ったり、足音を頼りに追跡するなど、足音へ意識も大事。人によってはイコライザで足音の音域を強調しているケースもあると聞きますが、ゲーミングモデルには周囲の「足音」が聞きやすいとされるヘッドセットもあります",
-          "link": "https://www.gizmodo.jp/2023/12/gaming-headset-elecom-vh300.html",
-          "publishedOn": "2023-12-23T04:00:00.000Z",
-          "wordCount": 360,
-          "title": "FPS特化ゲーミングヘッドホン。足音を捉える専用ドライバーとな!?",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/12/21/2023-12-21ak00.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/12/21/2023-12-21ak00.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/12/lego-2023.html",
-          "author": "岡本玄介",
-          "description": "Image:Ancient/YouTube何を作るかではなく、何をするか？「エア・ジョーダン11」や、としまえんの「フリュームライド」などなど、アイディア次第で何でも再現できてしまうブロック玩具LEGO（レゴ）。2023年もいろんなレゴのお話がありましたよね。今回は公式が発売したキットではなく、レゴを使ってちょっと変わったことを成し遂げた3つの記事をセレクトしてみました。弦がないのに演奏できるエレ",
-          "link": "https://www.gizmodo.jp/2023/12/lego-2023.html",
-          "publishedOn": "2023-12-23T03:00:00.000Z",
-          "wordCount": 372,
-          "title": "今年レゴで成し遂げられた「偉業」3選 #ギズライターまとめ2023",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/12/21/231222_lego3.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/12/21/231222_lego3.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2023/12/kioxia_sdcard.html",
-          "author": "小暮ひさのり",
-          "description": "Image:キオクシアみなさんSDカードって何GBモデル使ってます？僕は最近コスパのいい128GBモデルをよく買ってるんですけど、指先サイズのmicroSDカードに何本もゲームが入ったり、写真や動画が保存されるって、テクノロジーの素晴らしさとちょっとした恐ろしさを感じません？その凄さと恐ろしさが凝縮されたものがついに出ます。キオクシアが2TBのmicroSDXCカードを2024年1月から発売すると",
-          "link": "https://www.gizmodo.jp/2023/12/kioxia_sdcard.html",
-          "publishedOn": "2023-12-23T02:00:00.000Z",
-          "wordCount": 372,
-          "title": "小が大を兼ねる時代に。2TBのSDカードが1月に登場",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/12/21/2023-12-21gejak03.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/12/21/2023-12-21gejak03.jpg"
         }
       ]
     }
