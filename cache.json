@@ -6,6 +6,16 @@
       "siteUrl": "https://gori.me",
       "articles": [
         {
+          "id": "https://gori.me/?p=151941",
+          "author": "g.O.R.i",
+          "description": "@MajinBuOfficialより 2024年の新型iPhone（iPhone 16）用と見られる金型の写真が流出した。リーカーのMajin Bu氏は「流出した図面と一致している」と指摘。iPhone 15 Proを彷彿させる巨大なカメラレンズが縦並びで配置されている。 「iPhone 16」用背…\nThe post iPhone 16の金型が流出か first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone/iphone-news/151941",
+          "publishedOn": "2024-02-18T21:35:06.000Z",
+          "wordCount": 1619,
+          "title": "iPhone 16の金型が流出か",
+          "imageUrl": "https://gori.me/uploads/2024/02/Majin-bu-iphone16-mockup-761x800.jpeg"
+        },
+        {
           "id": "https://gori.me/?p=151919",
           "author": "g.O.R.i",
           "description": "2024年の新型iPhone（iPhone 16シリーズ）の背面パネルと見られる写真がWeiboに投稿された。先に流出していたカメラシャシーの写真と道央に2つのレンズが縦並びに配置されたiPhone 12に似たデザインが採用されている。 Mac OTAKARAはTrue Toneフラッシュは2つのレ…\nThe post iPhone 16のパネルが流出。LiDARスキャナ用の穴も？ first appeared on ゴリミー.\n\n 【もっと読む】",
@@ -254,16 +264,6 @@
           "wordCount": 1448,
           "title": "Threads、待望のトレンド機能を実装。まずは米国からテスト開始",
           "imageUrl": "https://gori.me/uploads/2024/02/Trends-on-Threads-800x500.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=151865",
-          "author": "g.O.R.i",
-          "description": "Appleは2024年の新型iPhone（iPhone 16シリーズ）として新型iPhone SEをラインアップにくわえ、「iPhone 16 Plus」を「iPhone 16 Plus SE」として発表する可能性がある。中国発と見られる情報をリーカーのMajin Bu氏が紹介している。 事実だとす…\nThe post iPhone 16シリーズ、SEが統合され5機種展開か。色々と謎が多い噂 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/iphone/iphone-news/151865",
-          "publishedOn": "2024-02-12T22:02:04.000Z",
-          "wordCount": 1685,
-          "title": "iPhone 16シリーズ、SEが統合され5機種展開か。色々と謎が多い噂",
-          "imageUrl": "https://gori.me/uploads/2024/02/iphone16se-and-iphone16plusse-800x600.jpeg"
         }
       ]
     },
@@ -272,6 +272,116 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/mobile.xml",
       "siteUrl": "https://www.itmedia.co.jp/mobile/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2402/19/news155.html",
+          "author": null,
+          "description": "issinは、心拍数連動の無料エクササイズアプリ「Smart 5min」で「スイカゲーム エクササイズ版」を提供開始。スマホの内蔵カメラでユーザー自身を映し出し、全身運動で操作することができる。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2402/19/news155.html",
+          "publishedOn": "2024-02-19T10:44:00.000Z",
+          "wordCount": 2889,
+          "title": "「スイカゲーム エクササイズ版」配信　スマホカメラ＋全身運動で操作",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2402/19/l_asa_suikaissin_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2402/19/news156.html",
+          "author": null,
+          "description": "携帯電話市場において、1年において一番盛り上がるのが「春商戦」だ。しかし、2024年の春商戦は、今までと異なる様子が見受けられる。どういう状況なのか、現役のショップスタッフに聞いてみた。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2402/19/news156.html",
+          "publishedOn": "2024-02-19T09:00:00.000Z",
+          "wordCount": 2894,
+          "title": "“学割”がない2024年の春商戦、その影響は？　法令改正のあおりも",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2402/19/cover_news156.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2402/19/news145.html",
+          "author": null,
+          "description": "ドコモオンラインショップは「スマホアクセサリー購入で最大20％ポイント還元キャンペーン」を開催。「docomo select」メールマガジンへの登録が条件で、ポイント進呈上限は2000ポイント。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2402/19/news145.html",
+          "publishedOn": "2024-02-19T07:34:00.000Z",
+          "wordCount": 2868,
+          "title": "ドコモオンラインショップ、スマホアクセサリー購入で最大20％ポイント還元　4月3日まで",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2402/19/l_asa_dShop20_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2402/19/news133.html",
+          "author": null,
+          "description": "楽天カードは、2月に「楽天カードアプリ」を全面リニューアル。カラーやヘッダーのカスタマイズ機能、利用明細のメモ機能などを搭載する。iOS版は2月19日から段階的に公開し、Android版はiOS版公開完了後に公開する予定。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2402/19/news133.html",
+          "publishedOn": "2024-02-19T06:54:00.000Z",
+          "wordCount": 2851,
+          "title": "「楽天カードアプリ」刷新　テーマカラーやアイコンを選択可能に",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2402/19/l_asa_rakucardapp_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2402/19/news128.html",
+          "author": null,
+          "description": "KDDIとauペイメントは、25歳以下のau＆UQ mobileユーザー限定「【U25限定】au PAY 抽選キャンペーン」を開催。対象店舗の中から3つの店舗を選択してau PAY（コード支払い）で支払うと、最大1000ポイントが当たる抽選に参加できる。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2402/19/news128.html",
+          "publishedOn": "2024-02-19T06:07:00.000Z",
+          "wordCount": 2891,
+          "title": "au PAY、3店舗の買い物で最大1000ポイント当たるキャンペーン　25歳以下のau＆UQ mobile限定",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2402/19/l_asa_auPAYU251000_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2402/19/news125.html",
+          "author": null,
+          "description": "ソフトバンクは2月19日、Y!mobileで「Google Pixel 7a」を取り扱うと発表した。Y!mobileによるPixelの販売は今回が初めて。既に予約受付が始まっており、22日に発売される。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2402/19/news125.html",
+          "publishedOn": "2024-02-19T05:01:00.000Z",
+          "wordCount": 2902,
+          "title": "Y!mobileで「Pixel 7a」発売　一括5万5440円、MNPなどで3万1320円",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2402/19/l_rk1640414_YmobilePixel7a-01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2402/19/news073.html",
+          "author": null,
+          "description": "KDDIと沖縄セルラーは、新たな国際ローミングサービス「au 海外放題」を発表した。使い放題型の料金で、海外でも容量上限を気にせずデータ通信できる。3月15日から提供する。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2402/19/news073.html",
+          "publishedOn": "2024-02-19T05:00:00.000Z",
+          "wordCount": 2899,
+          "title": "1日800円～の「au 海外放題」発表　海外でもデータ無制限で使い放題、レンタルWi-Fiに対抗",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2402/19/cover_news073.png"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2402/19/news116.html",
+          "author": null,
+          "description": "フリービットは、3月上旬に5Gサービス「freebit mobile Biz」を提供開始。プライベート端末にeSIMを挿入し、ビジネス専用SIMとして利用できるようになる。まずは見積り可能なサービスページを先行オープンする。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2402/19/news116.html",
+          "publishedOn": "2024-02-19T04:03:00.000Z",
+          "wordCount": 2909,
+          "title": "フリービット、法人向け5Gサービス「freebit mobile Biz」を3月上旬に提供　月額528円／3GBから",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2402/19/l_asa_freebitmobileBiz_01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2402/19/news095.html",
+          "author": null,
+          "description": "Amazonは、3月31日までY!mobileスマートフォンの期間限定セールを実施。「Libero 5G IV」「OPPO A79 5G」「moto g53y 5G」「AQUOS wish2」を1円販売し、「AQUOS wish3」「Xperia Ace III」「OPPO Reno9 A」も対象となる。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2402/19/news095.html",
+          "publishedOn": "2024-02-19T02:14:00.000Z",
+          "wordCount": 2911,
+          "title": "Y!mobile、Amazonで期間限定セール　「OPPO A79 5G」「AQUOS wish2」など最安1円販売",
+          "imageUrl": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_mobile.gif"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2402/19/news087.html",
+          "author": null,
+          "description": "ソフトバンクは2月19日、Y!mobile初の折りたたみスマートフォン「Libero Flip」を発表した。Y!mobileオンラインショップ価格は6万3000円（税込み）。国内MNOとして29日から独占販売する。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2402/19/news087.html",
+          "publishedOn": "2024-02-19T01:54:00.000Z",
+          "wordCount": 2920,
+          "title": "Y!mobile初の縦折りスマホ「Libero Flip」発表　一括6万3000円で国内MNO最安値うたう",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2402/19/l_rk1640414_LiberoFlipYmobile-01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2402/19/news033.html",
+          "author": null,
+          "description": "ZTEから「nubia Z60 Ultra」が登場した。カメラ性能重視のスマートフォンとして仕上がっており、メインカメラは35mm画角を採用。ゆがみが少ない写真を撮影できる。本記事ではnubia Z60 Ultraの作例を交えて紹介する。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2402/19/news033.html",
+          "publishedOn": "2024-02-19T01:00:00.000Z",
+          "wordCount": 2946,
+          "title": "ZTEの最上位スマホ「nubia Z60 Ultra」を試す　Snapdragon 8 Gen 3搭載で9万円台～の実力は？",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2402/19/cover_news033.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/mobile/articles/2402/11/news002.html",
           "author": null,
@@ -761,26 +871,6 @@
           "wordCount": 2922,
           "title": "NECPCが「LAVIE Tab」のハイスペックな新モデルを発売　外部ディスプレイとしても使える14.5型とゲーミング重視の8.8型",
           "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2402/13/cover_news085.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2402/13/news074.html",
-          "author": null,
-          "description": "人気のメモアプリEvernoteが2023年12月4日、無料アカウントのサービス内容を大幅に改訂しました。今回の変更により他のサービスへの乗り換えを検討しているユーザーも多いようです。今回は、Evernoteの移行先として有力なサービスをいくつか紹介します。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2402/13/news074.html",
-          "publishedOn": "2024-02-13T00:00:00.000Z",
-          "wordCount": 2885,
-          "title": "Evernoteからの乗り換えでオススメのメモアプリ5選　無料で使うならどれがいい？",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2402/13/cover_news074.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2402/12/news022.html",
-          "author": null,
-          "description": "2月となり、MVNO各ブランドも多数のキャンペーンを実施しているが、特に多いのがオプションの無料提供だ。今回はIIJmio、mineo、NUROモバイル、イオンモバイルで実施しているキャンペーンをまとめた。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2402/12/news022.html",
-          "publishedOn": "2024-02-12T01:00:00.000Z",
-          "wordCount": 2903,
-          "title": "IIJmio、mineo、NUROモバイル、イオンモバイルのキャンペーンまとめ【2月12日最新版】　スマホ大特価や基本料金大幅割引を見逃すな",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2402/12/cover_news022.jpg"
         }
       ]
     },
@@ -826,6 +916,176 @@
       "feedUrl": "https://k-tai.watch.impress.co.jp/data/rss/1.0/ktw/feed.rdf",
       "siteUrl": "https://k-tai.watch.impress.co.jp",
       "articles": [
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1570017.html",
+          "author": null,
+          "description": "KDDIは、auとUQ mobileのオンラインショップにおけるサービスとして、2月16日から「サクッと機種変更」を提供している。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1570017.html",
+          "publishedOn": "2024-02-19T11:18:20.000Z",
+          "wordCount": 5305,
+          "title": "au／UQ mobileで「サクッと機種変更」はじまる、オンラインで機種変更のステップを短縮",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1570/017/01.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1570014.html",
+          "author": null,
+          "description": "シャオミ（Xiaomi）は、独ライカカメラ（Leica Camera AG）と共同で、「Xiaomi×Leica光学研究所」（Xiaomi×Leica Optical Institute）の設立を発表した。光学技術を中心に、スマートフォンのカメラ技術に関する研究を進めていく。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1570014.html",
+          "publishedOn": "2024-02-19T11:04:29.000Z",
+          "wordCount": 5327,
+          "title": "シャオミとライカが「Xiaomi×Leica光学研究所」共同設立、スマホカメラのさらなる進化へ",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1570/014/01.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1570009.html",
+          "author": null,
+          "description": "アンカー・ジャパンは、「ポタ電ウィーク」として、ポータブル電源などが最大40％オフになるセールを実施している。期間は2月22日20時まで。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1570009.html",
+          "publishedOn": "2024-02-19T10:38:35.000Z",
+          "wordCount": 5315,
+          "title": "Ankerの「ポタ電ウィーク」、ポータブル電源などが22日まで最大40％オフ",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1570/009/01.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1570005.html",
+          "author": null,
+          "description": "Amazon.co.jpでワイモバイルの回線を新たに契約すると、対象のスマートフォンが特別価格で購入できるキャンペーンが実施されている。期間は3月31日まで。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1570005.html",
+          "publishedOn": "2024-02-19T10:28:30.000Z",
+          "wordCount": 5332,
+          "title": "Amazonで「OPPO A79 5G」「moto g53y 5G」などが1円、ワイモバイルへのMNPで",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1570/005/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1570002.html",
+          "author": null,
+          "description": "ソフトバンクの衛星電話サービスで、19日16時54分ごろから障害が発生している。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1570002.html",
+          "publishedOn": "2024-02-19T10:17:57.000Z",
+          "wordCount": 5298,
+          "title": "ソフトバンクの衛星電話サービスで障害、19日夕～",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1570/002/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1569976.html",
+          "author": null,
+          "description": "セコムは、高齢者など家族の見守りに活用できるサービス「セコムみまもりホン2」の提供を開始した。安否確認ツールとしてのほか、セコムへの救急信号の発報と駆けつけサービスが利用できる。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1569976.html",
+          "publishedOn": "2024-02-19T09:52:15.000Z",
+          "wordCount": 5303,
+          "title": "「セコムみまもりホン2」登場、自動再起動や電源オフ通知などの便利機能",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1569/976/cont1001.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1569940.html",
+          "author": null,
+          "description": "動画配信サービスの「DAZN」では、プロサッカーリーグ「Jリーグ」の2024年シーズンを、2月23日の開幕戦から全試合をライブ配信する。今シーズンでは、J1、J2、J3の一部試合を登録するだけで無料視聴できる「DAZN Freemium」でもライブ配信される。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1569940.html",
+          "publishedOn": "2024-02-19T08:23:45.000Z",
+          "wordCount": 5330,
+          "title": "DAZNでJリーグ、2024年シーズンも全試合ライブ配信――無料で視聴できるコンテンツも配信",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1569/940/comt0.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1569907.html",
+          "author": null,
+          "description": "グーグル（Google）は、Androidの次期バージョンとなる「Android 15」の開発者向けプレビューを発表した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1569907.html",
+          "publishedOn": "2024-02-19T07:09:46.000Z",
+          "wordCount": 5343,
+          "title": "「Android 15」、開発者向けに最初のプレビュー版登場",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1569/907/100.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1569837.html",
+          "author": null,
+          "description": "KDDIとauペイメントは「au PAY」で、25歳以下のau/UQ mobileユーザーを対象にPontaポイントが最大1000ポイント当たる「【U25限定】au PAY 抽選キャンペーン」を開始した。期間は3月10日まで。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1569837.html",
+          "publishedOn": "2024-02-19T05:07:41.000Z",
+          "wordCount": 5316,
+          "title": "「au PAY」利用で1等1000ポイントの抽選、25歳以下のau/UQ mobileユーザー対象",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1569/837/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1569592.html",
+          "author": null,
+          "description": "KDDIと沖縄セルラーは、海外渡航時にデータ通信が24時間使い放題になる新サービス「au海外放題」を3月15日に開始する。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1569592.html",
+          "publishedOn": "2024-02-19T05:05:48.000Z",
+          "wordCount": 5308,
+          "title": "au、海外でデータ使い放題「au海外放題」3月15日スタート",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1569/592/08.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1569808.html",
+          "author": null,
+          "description": "NTTドコモは、ドコモオンラインショップにおいて、「スマホアクセサリー購入で最大20％ポイント還元キャンペーン」を開催する。期間は2月20日11時～4月3日まで。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1569808.html",
+          "publishedOn": "2024-02-19T03:28:54.000Z",
+          "wordCount": 5311,
+          "title": "ドコモオンラインショップ、スマホアクセサリー購入で20％還元",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1569/808/01.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1569781.html",
+          "author": null,
+          "description": "KDDIと沖縄セルラーは、オンライン専用ブランドのpovo2.0でケンタッキーフライドチキンで利用できる特典がセットのデータトッピングの提供を開始した。利用料金は1回500円で、2月29日までの期間限定。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1569781.html",
+          "publishedOn": "2024-02-19T03:21:25.000Z",
+          "wordCount": 5297,
+          "title": "povo2.0で「ケンタッキーフライドチキン」500円分付きの限定トッピング",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1569/781/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1569780.html",
+          "author": null,
+          "description": "ソフトバンクは、“ワイモバイル”の新商品として、ZTE製の5G対応フォルダブルスマートフォン「Libero Flip」を29日に発売する。価格は6万3000円。予約はすでに受け付けている。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1569780.html",
+          "publishedOn": "2024-02-19T02:58:55.000Z",
+          "wordCount": 5351,
+          "title": "ワイモバイル初の折りたたみスマホ「Libero Flip」、6.3万円で29日発売",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1569/780/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1569746.html",
+          "author": null,
+          "description": "ソフトバンクは、ワイモバイルからグーグルのスマートフォン「Google Pixel 7a」を2月22日に発売する。価格は5万5440円で予約はすでに受け付けている。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1569746.html",
+          "publishedOn": "2024-02-19T02:29:42.000Z",
+          "wordCount": 5316,
+          "title": "ワイモバイルから「Google Pixel 7a」、22日発売",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1569/746/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1569531.html",
+          "author": null,
+          "description": "もう数年前に発売されたモノのようだが行きつけの近所のステーショナリーショップで売っているのを見つけて速攻で衝動買いした「CLIPEN」SLIDY（クリッペン・スライディー）という名のボールペンがある。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1569531.html",
+          "publishedOn": "2024-02-18T15:00:00.000Z",
+          "wordCount": 5311,
+          "title": "[本日の一品]お気に入りの手帳やノートの表紙をクリップできる「CLIPEN（クリッペン）」",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1569/531/1.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/minna/1569529.html",
+          "author": null,
+          "description": "高級感あふれる背面仕上げとして、ヴィーガンレザーを大々的にアピールした最初のモデルは2019年に発売されたファーウェイの「Mate 30 Pro」だったように思います。今や多くのメーカーがヴィーガンレザーを採用していますが、そのデザインも大きく進化しています。2024年2月に中国・深センを訪問したときに各メーカーの店舗や家電量販店を回ってみましたが、革の肌触りが味わえるヴィーガンレザーモデルは現地でも人気でした。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/1569529.html",
+          "publishedOn": "2024-02-18T15:00:00.000Z",
+          "wordCount": 5342,
+          "title": "[みんなのケータイ]本革を超える高級デザイン、中華スマホのヴィーガンレザーモデル",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1569/529/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/stapa/1569477.html",
+          "author": null,
+          "description": "モバイル小物をまとめて携行するのに便利なガジェットポーチの類。俺の場合は「このポーチを持って出かければ何とかなる」という感じで、ポーチの中に必要な品を一式入れていたりする。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/1569477.html",
+          "publishedOn": "2024-02-18T15:00:00.000Z",
+          "wordCount": 5353,
+          "title": "[スタパ齋藤の「スタパトロニクスMobile」]iPad miniも入る180°全開構造ガジェットポーチが便利だョ!!!",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1569/477/thumbnail.jpg"
+        },
         {
           "id": "https://k-tai.watch.impress.co.jp/docs/news/1568469.html",
           "author": null,
@@ -1645,96 +1905,6 @@
           "wordCount": 5453,
           "title": "NECPCから「ペン入力対応大画面」「コンパクトでハイエンド」なタブレット、15日発売",
           "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1564/979/cont1156.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1568157.html",
-          "author": null,
-          "description": "元恋人や昔の夢にまつわる「想い出の品」を工事用の重機で破壊する、それもモバイル通信経由のリモート操作で――",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1568157.html",
-          "publishedOn": "2024-02-12T21:00:00.000Z",
-          "wordCount": 5302,
-          "title": "リモート操作のショベルカーで“想い出の品”を破壊せよ！　mineoのユーザー参加イベントを見てきた",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1568/157/03.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1567955.html",
-          "author": null,
-          "description": "アマゾン（Amazon）は、プライム会員向けサービス「Prime Video（プライム・ビデオ）」において、3月22日からAmazon Originalドラマ「僕の愛しい妖怪ガールフレンド」を独占配信する。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1567955.html",
-          "publishedOn": "2024-02-12T20:00:00.000Z",
-          "wordCount": 5296,
-          "title": "プライムビデオ、「僕の愛しい妖怪ガールフレンド」を3月22日から独占配信",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1567/955/01.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/review/1567965.html",
-          "author": null,
-          "description": "サムスン電子が、Androidスマートフォンの新製品として1月にグローバルで発表した「Galaxy S24」シリーズ。「Galaxy AI」を搭載し、AI（人工知能）によってユーザーを強力にサポートするとアピールされている。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/review/1567965.html",
-          "publishedOn": "2024-02-12T15:00:00.000Z",
-          "wordCount": 4890,
-          "title": "「Galaxy S24 Ultra」の“AI要約・翻訳”機能を試してみる",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1567/965/01.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/column/minna/1567953.html",
-          "author": null,
-          "description": "鉄道のIC乗車券（SuicaやICOCAなど）が地方まで普及し、切符を買う経験を久しくしていない、あるいは買ったことがない方も多いと思います。特に首都圏のJRでは、Suicaエリアの目安とされる大都市近郊区間が長野県の松本駅や福島県の浪江駅といった範囲まで広がっています。また、在来線の特急であれば、特急券を買うだけで、しかもその特急券もオンラインで購入すればチケットレスで乗れるものもあります。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/1567953.html",
-          "publishedOn": "2024-02-12T15:00:00.000Z",
-          "wordCount": 5315,
-          "title": "[みんなのケータイ]“JREポイントでポイ活”には「えきねっと」＆「ビューゴールドカード」がオススメ！　ただし朝5時の壁にはご注意",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1567/953/cont1.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/column/stapa/1567897.html",
-          "author": null,
-          "description": "USB-Cケーブルでスマートフォンなどデバイスを充電。「電力表示機能付き」のUSB-Cケーブルを使うと、現在何ワットで充電されているかなどが可視化されて楽しい。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/1567897.html",
-          "publishedOn": "2024-02-12T15:00:00.000Z",
-          "wordCount": 5360,
-          "title": "[スタパ齋藤の「スタパトロニクスMobile」]スマホへの充電状態を調べる方法は？　アダプターや“光るケーブル”などをマトメてご紹介!!!",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1567/897/thumbnail.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1567866.html",
-          "author": null,
-          "description": "昨今は昭和なレトロデザインの腕時計が若い人にも人気だ。スマートフォンさえあれば今更腕時計なんていらない世の中だが、サブスクの時代にレガシーなアナログLPレコードやカセットテープが売れるのと同じような感覚なのかもしれない。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1567866.html",
-          "publishedOn": "2024-02-12T15:00:00.000Z",
-          "wordCount": 5311,
-          "title": "[本日の一品]懐かしいCASIOアナデジウォッチを超廉価で手に入れた",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1567/866/20.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/topic/special/1566482.html",
-          "author": null,
-          "description": "NTTドコモの「irumo」は、データ容量が3GB／6GB／9GBという、比較的小容量な3つのプランが主軸になった割安な料金プランだ。3つとは別に0.5GBプランも選べるようになっている。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/topic/special/1566482.html",
-          "publishedOn": "2024-02-12T15:00:00.000Z",
-          "wordCount": 4942,
-          "title": "少ないデータ量でドコモをおトクに使える「irumo」ってネットで申し込めるって知ってた？　カンタン手続きを一挙紹介[Sponsored]",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1566/482/100.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1567904.html",
-          "author": null,
-          "description": "アンカー・ストアは、16日に「Anker Store アミュプラザくまもと」をオープンする。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1567904.html",
-          "publishedOn": "2024-02-12T03:00:00.000Z",
-          "wordCount": 5301,
-          "title": "アンカー直営店が「アミュプラザくまもと」に16日オープン",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1567/904/20240209001.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1567833.html",
-          "author": null,
-          "description": "KDDIは、原宿において、期間限定で「#ビジュ盛れスタジオ by Google Pixel｜au」をオープンする。期間は2月23日～28日まで。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1567833.html",
-          "publishedOn": "2024-02-12T01:00:00.000Z",
-          "wordCount": 5347,
-          "title": "原宿で「#ビジュ盛れスタジオ by Google Pixel｜au」が期間限定オープン",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1567/833/main.jpg"
         }
       ]
     },
@@ -1743,6 +1913,276 @@
       "feedUrl": "https://www.gizmodo.jp/index.xml",
       "siteUrl": "https://www.gizmodo.jp",
       "articles": [
+        {
+          "id": "https://www.gizmodo.jp/2024/02/ymobile-libero-flip.html",
+          "author": "小暮ひさのり",
+          "description": "Image:ソフトバンクどう使おうか？なんてのは、買ってから考えればいいじゃん。そんな邪悪…否！しごく真っ当な結論へとたどり着いたのですが、僕間違っていないと思っています。そんな僕の心をギュンと動かしてくれたのが、ワイモバイルからの新端末の発表です。ワイモバイルでは2月29日からZTE製の折りたたみスマホ「LiberoFlip（A304ZT）」の取り扱い開始を発表。びっくりなのがその価格です。なん",
+          "link": "https://www.gizmodo.jp/2024/02/ymobile-libero-flip.html",
+          "publishedOn": "2024-02-19T12:00:00.000Z",
+          "wordCount": 362,
+          "title": "折りたたみスマホを3万9800円で売るとか、ワイモバイルは正気なの？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/02/19/2024-02-19ymk00-1.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/02/19/2024-02-19ymk00-1.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/02/oakley_mars_x-metal_leather.html",
+          "author": "隅田敦之",
+          "description": "Image:Oakleyスポーツサングラスのトップブランド、オークリーが「MarsX-MetalLeather」を2024年2月21日に復刻発売します。これがいかにビッグニュースなのか？それは1998年の発売当時、このアイウエアが瞬く間に話題になったからです。どう凄かったのか。列記します。X-Metalで作られていることマイケル・ジョーダンが開発映画『ファイト・クラブ』でブラッド・ピッドが着用ブラ",
+          "link": "https://www.gizmodo.jp/2024/02/oakley_mars_x-metal_leather.html",
+          "publishedOn": "2024-02-19T10:30:00.000Z",
+          "wordCount": 353,
+          "title": "映画『ファイト・クラブ』で着用された90年代の意欲作をオークリーが復刻",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/02/19/OAK23_MUZM_MARS_Packaging_SQ_main.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/02/19/OAK23_MUZM_MARS_Packaging_SQ_main.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/02/fmushrooms-grow-on-frogs.html",
+          "author": "岡本玄介",
+          "description": "キノコは暗くて湿った場所で育つというイメージですが、なんと生きたカエルを苗床として生えるキノコが発見されました。",
+          "link": "https://www.gizmodo.jp/2024/02/fmushrooms-grow-on-frogs.html",
+          "publishedOn": "2024-02-19T10:00:00.000Z",
+          "wordCount": 397,
+          "title": "大自然のフシギ。カエルにキノコが生えちゃった",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/02/16/240219_frog.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/02/16/240219_frog.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/02/pyzone-rgb-gaming-chair.html",
+          "author": "岡本玄介",
+          "description": "Image:サンコーRGBチェアマットと合わせると完璧。マウスもキーボードも、ゲーミング機器はなんでもカラフルに光るのがお約束。当然チェアだって光るものが多数存在します。この値段なら衝動買いしちゃうサンコーが立ち上げたゲーミングブランド「PYZONE」から、LED内蔵の「RGBゲーミングチェア」がお目見えしました。他社製品は安くても2万円台ですが、こちらは1万9800円ともう少し手が出しやすいお値",
+          "link": "https://www.gizmodo.jp/2024/02/pyzone-rgb-gaming-chair.html",
+          "publishedOn": "2024-02-19T09:00:00.000Z",
+          "wordCount": 349,
+          "title": "アンダー2万円。衝動買いできる「光るゲーミングチェア」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/02/19/20240219_63250_01_16x9.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/02/19/20240219_63250_01_16x9.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/02/apple-ai-spotlight.html",
+          "author": "小暮ひさのり",
+          "description": "最近Apple（アップル）もAIを開発中。年内には大規模な発表があるといったウワサも聞こえています。じゃあどんなことをしようとしているの？というと、現在のところSpotlight検索の強化の可能性が囁かれています。",
+          "link": "https://www.gizmodo.jp/2024/02/apple-ai-spotlight.html",
+          "publishedOn": "2024-02-19T08:00:00.000Z",
+          "wordCount": 335,
+          "title": "アップルはAIで何を強化したいのか？ ひとつの可能性が見えてきた",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/02/17/2024-02-17spl00.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/02/17/2024-02-17spl00.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/02/apple-airtags-stalking-tracking-1.html",
+          "author": "岩田リョウコ",
+          "description": "ストーカーがAirTagを使ってターゲットの位置を把握して追跡するという事例がたくさん起こっています。Appleはこの便利な機能をそのままに､ストーカーに悪用されないようにファームウェアのアップデートを続けています。先日また新しいアップデートがありました。",
+          "link": "https://www.gizmodo.jp/2024/02/apple-airtags-stalking-tracking-1.html",
+          "publishedOn": "2024-02-19T07:35:00.000Z",
+          "wordCount": 352,
+          "title": "AirTag、ストーカー対策がちゃんと強化されてる",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/01/04/shutterstock_1972511798.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/01/04/shutterstock_1972511798.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/02/hoka_mach6.html",
+          "author": "カネコヒデシ（BonVoyage）",
+          "description": "Image:HOKA®上旬は雪模様だったにもかかわらず、すっかりホカホカ陽気の小春日和を通り越して急な夏日？に早変わりの2月中旬。暖かくなると、「外に出たい！」欲求にかられてしまうは、やはり生き物の性（サガ）というものでしょうね。今回は、そんなホカホカ陽気の日に、外で走ったり、散歩したりするのに最適な、ちょっと良さげなランニングモデルのスニーカーをピックアップ。史上最速のモデルと呼ばれる理",
+          "link": "https://www.gizmodo.jp/2024/02/hoka_mach6.html",
+          "publishedOn": "2024-02-19T07:00:00.000Z",
+          "wordCount": 346,
+          "title": "フカフカの感触は抜群の履き心地。ランもウォーキングもこれ1足で",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/02/17/240217_hoka000.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/02/17/240217_hoka000.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/02/audio-technica-atumx3.html",
+          "author": "武者良太",
+          "description": "オーディオテクニカから、同社のコンデンサーマイクの性能をフルに引き出す配信用ミキサーAT-UMX3発売。",
+          "link": "https://www.gizmodo.jp/2024/02/audio-technica-atumx3.html",
+          "publishedOn": "2024-02-19T06:00:00.000Z",
+          "wordCount": 336,
+          "title": "定番マイクと本気マリアージュしちゃう配信用USBミキサー来た",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/02/19/product_image_1706518942.jpeg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/02/19/product_image_1706518942.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/02/jansport_liminal_series.html",
+          "author": "隅田敦之",
+          "description": "Image:JANSPORTアウトドアのバックパックブランドとして50年以上の歴史を持つジャンスポーツ（通称ジャンスポ）。近年はカジュアルなデイパックが人気でタウンユースでもお馴染みの存在になっています。そのジャンスポがビジネス仕様とも思えるような新シリーズをスタートしました。Image:JANSPORTリミナルシリーズと名付けられた高機能リュックのシリーズ。外側からアクセスできるライナー付きのP",
+          "link": "https://www.gizmodo.jp/2024/02/jansport_liminal_series.html",
+          "publishedOn": "2024-02-19T06:00:00.000Z",
+          "wordCount": 343,
+          "title": "必要な機能だけを装備したバックパック。通勤にちょうど良さそうだ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/02/17/INBOUND%281%29.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/02/17/INBOUND%281%29.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/02/jbl-wireless-mic.html",
+          "author": "武者良太",
+          "description": "Image:JBL声あり動画撮影のブーム、まだまだ続いているんだなあ。DJIやRODEだけではありません。気がつけば独自方式のワイヤレスで声が録れる、クリップオンタイプのワイヤレスマイクが大量に出揃ってきました。ZhiyunやUlanziといったカメラ機材メーカーもこの分野に乗り込んできているんですよね、いま。そしてオーディオメーカーのJBLすらも、「JBLQuantumStreamWireles",
+          "link": "https://www.gizmodo.jp/2024/02/jbl-wireless-mic.html",
+          "publishedOn": "2024-02-19T05:00:00.000Z",
+          "wordCount": 351,
+          "title": "ケースがコンパクト。ありがとう。「JBL」のひとり用ワイヤレスマイク",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/02/19/jbl.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/02/19/jbl.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/02/moondrop_discdream.html",
+          "author": "武者良太",
+          "description": "Image:MOONDROP音系同人即売会、M3のお供に持っていきたい。CDが売れない時代とはいえ、音楽を頒布するのに適したメディアといえばやっぱCD。味気ないダウンロード＆USBメモリはさておき、ジャケットがデカいレコードや、Lo-Fiな音質のコンパクトカセットテープにもメリットはあるんだけど、記念品としての側面が強すぎちゃうところがあるのよね。だから音楽系のイベントやバンド＆アイドルのライブで",
+          "link": "https://www.gizmodo.jp/2024/02/moondrop_discdream.html",
+          "publishedOn": "2024-02-19T04:00:00.000Z",
+          "wordCount": 337,
+          "title": "モダンでミニマル、それでいて多機能。CDを堪能できるプレーヤー",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/02/14/650a558d0eca140b92e0c8df_DISCDREAM_09.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/02/14/650a558d0eca140b92e0c8df_DISCDREAM_09.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/02/chatgpt-supports-vision-pro.html",
+          "author": "宮城圭介",
+          "description": "Apple Vision ProのChatGPTネイティブアプリがローンチされる。視覚を使えることで生成AIが飛躍的に便利になる予感。",
+          "link": "https://www.gizmodo.jp/2024/02/chatgpt-supports-vision-pro.html",
+          "publishedOn": "2024-02-19T03:30:00.000Z",
+          "wordCount": 390,
+          "title": "ChatGPTとApple Vision Proがタッグ結成。これはめちゃ便利になるかも",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/02/17/673ebffb-901b-42ce-bde2-94a08e852602-cover.png"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/02/17/673ebffb-901b-42ce-bde2-94a08e852602-cover.png"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/02/development-of-foldable-iphone-canceled.html",
+          "author": "はらいさん",
+          "description": "折りたたみiPhoneの開発中にディスプレイが壊れてしまったため、新たなディスプレイができるまで、開発は延期されているとの噂。",
+          "link": "https://www.gizmodo.jp/2024/02/development-of-foldable-iphone-canceled.html",
+          "publishedOn": "2024-02-19T03:00:00.000Z",
+          "wordCount": 335,
+          "title": "ディスプレイが弱い…Appleが折りたたみiPhoneの開発を中断した？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/02/19/foldable-iPhone-concept-feature.jpeg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/02/19/foldable-iPhone-concept-feature.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/02/iphone-16-camera-module-leaked.html",
+          "author": "はらいさん",
+          "description": "カメラ配置が変わるという噂のiPhone16。カメラパーツの写真がリークされるも、やはり縦型配置の模様。",
+          "link": "https://www.gizmodo.jp/2024/02/iphone-16-camera-module-leaked.html",
+          "publishedOn": "2024-02-19T02:00:00.000Z",
+          "wordCount": 391,
+          "title": "iPhone 16のカメラパーツがリーク。やっぱり次は縦型だ...",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/02/19/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%882024-02-191.23.14.png"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/02/19/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%882024-02-191.23.14.png"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/02/tangara.html",
+          "author": "巽英俊",
+          "description": "Image:CrowdSupply2001年に登場して、多くの人の音楽リスニング環境を変えたApple（アップル）のiPod。当時としては大容量の5GBストレージで、大量の音楽を持ち運べるのが画期的でした。今や音楽はスマホで聴く時代で、iPodシリーズも2022年に販売終了しましたが、リスニングに特化したデバイスにまだ魅力を感じる人は少なくない…はず。ってことで、ポータブル音楽プレーヤー「Tang",
+          "link": "https://www.gizmodo.jp/2024/02/tangara.html",
+          "publishedOn": "2024-02-19T01:00:00.000Z",
+          "wordCount": 349,
+          "title": "初代iPodそっくりの音楽プレーヤーで、Y2Kにワープ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/02/16/tangara-outside.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/02/16/tangara-outside.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/02/casiotron-qw02.html",
+          "author": "巽英俊",
+          "description": "Image:CASIOゼンマイやモーターといった駆動パーツを使わず、針ではなくディスプレイに直接数字を表示するデジタルウォッチは1970年に生まれました。初期にはハミルトン、ジラール・ペルゴ、ゼニスといった名門時計ブランドから、ヒューレット・パッカードのような電子機器メーカーまでがデジタル時計を開発していましたが、そこに参入したのが日本のカシオ。正式社名が「カシオ計算機」というだけあって、当時は電",
+          "link": "https://www.gizmodo.jp/2024/02/casiotron-qw02.html",
+          "publishedOn": "2024-02-18T23:00:00.000Z",
+          "wordCount": 344,
+          "title": "50年前のデザインに最新機能をつめこんだカシオの腕時計が即完売",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/02/16/img01.jpeg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/02/16/img01.jpeg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/02/pormedtec-pig.html",
+          "author": "宮城圭介",
+          "description": "Image:LubosK/Shutterstock.com※写真はイメージですブタは人類を救う。クローンといえば、一昔前話題になったクローン羊ドリーが思い浮かびます。ドリーの誕生は1996年のことでした。あれから28年が過ぎ、現在のクローン技術最先端は、臓器移植用のブタを誕生させるところまで到達しました。国内では初の誕生Image:PorMedTec明治大学発のベンチャー企業などのグループが、クロ",
+          "link": "https://www.gizmodo.jp/2024/02/pormedtec-pig.html",
+          "publishedOn": "2024-02-18T22:00:00.000Z",
+          "wordCount": 353,
+          "title": "ヒトへの「臓器移植用」ブタが国内で誕生。ブタに救われる日が来るかも",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/02/16/20240216_76301_01.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/02/16/20240216_76301_01.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/02/gizmodo-commars-eclipses-phobos-deimos-perseverance-nasa.html",
+          "author": "たもり",
+          "description": "日食の際、太陽の前を横切るフォボスGif:NASA/JPL-Caltech/ASU/MSSS/SSI/Gizmodo見上げると、そこには。現在、NASAの探査車｢パーサヴィアランス｣は、遥か昔の火星の様子を紐解く材料となる、岩石のサンプルを探索しています。普段は下を向き岩石を探索しているパーサヴィアランス。しかしこの数週間のうちに、空を見上げ、太陽の手前を通過する火星の2つの衛星｢フォボス｣と「ダ",
+          "link": "https://www.gizmodo.jp/2024/02/gizmodo-commars-eclipses-phobos-deimos-perseverance-nasa.html",
+          "publishedOn": "2024-02-18T13:30:00.000Z",
+          "wordCount": 350,
+          "title": "火星の衛星「フォボス」と「ダイモス」による太陽食のようす",
+          "enclosure": {
+            "length": "0",
+            "type": "image/gif",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/02/16/9af3bdd30c52b24431ebf474059e0e01.gif"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/02/16/9af3bdd30c52b24431ebf474059e0e01.gif"
+        },
         {
           "id": "https://www.gizmodo.jp/2024/02/elon-musk-x-give-blue-checks-anyone-terrorist-leaders-jpn.html",
           "author": "岩田リョウコ",
@@ -3257,171 +3697,6 @@
             "url": "https://media.loom-app.com/gizmodo/dist/images/2024/02/13/2048.jpeg"
           },
           "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/02/13/2048.jpeg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/02/zinn-lab-event-based-gaze-tracking.html",
-          "author": "武者良太",
-          "description": "Image:ZinnLabs6DoFセンサーも入れば、歩きながらの空間コンピューティングも可能になるかも。AppleVisionProの登場でひときわ注目されている機能の1つがアイトラッキング（視線追跡システム）。・視線の動きを検知して仮想空間内のアイコンをトラッキング・アバターの目を動す・視野の中心以外を荒目に描画してSoCの負荷を下げる（中心窩レンダリング）などなど、さまざまな用途に使えます。",
-          "link": "https://www.gizmodo.jp/2024/02/zinn-lab-event-based-gaze-tracking.html",
-          "publishedOn": "2024-02-12T23:00:00.000Z",
-          "wordCount": 353,
-          "title": "ARは「小さくて軽いメガネ」で楽しむのが当たり前になるかもね",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/02/09/front_frames_bright.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/02/09/front_frames_bright.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/02/sanwa-200-inpk1bk.html",
-          "author": "岡本玄介",
-          "description": "Image:SANWADIRECT画面の裏なら使用時に気にならないし？ノートPCは薄くて持ち運びやすい反面、いろんな周辺接続で機能を拡張しないと使い勝手が良くなかったりします。SDカードリーダーやUSBハブ、マウスにモバイルバッテリーなど、大きくはないけど必要な小道具がたくさんなのですが…それらはどうやってまとめていますか？ノートPCに収納機能を追加サンワダイレクトの「200-INPK1BK」は、",
-          "link": "https://www.gizmodo.jp/2024/02/sanwa-200-inpk1bk.html",
-          "publishedOn": "2024-02-12T22:00:00.000Z",
-          "wordCount": 356,
-          "title": "「アレどこだ？」が減る。ノートPCを収納スペースにするオーガナイザー",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/02/09/2402012_sanwa_.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/02/09/2402012_sanwa_.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/02/sierra-space-burst-test-life-space-station-module.html",
-          "author": "そうこ",
-          "description": "Gif:SierraSpace民間宇宙企業のシエラ・スペースは、AmazOnのジェフ・ベゾス氏設立のBlueOriginとタッグを組み、地球低軌道上に民間宇宙ステーションを飛ばすのをミッションの1つにあげています。その研究開発の途中で、なんと大爆発が発生。YouTubeでその様子が公開されています。…が、なんだか大歓声があがり、開発チームが笑顔でハイタッチしていますね。爆発したのに？実はこれ、NA",
-          "link": "https://www.gizmodo.jp/2024/02/sierra-space-burst-test-life-space-station-module.html",
-          "publishedOn": "2024-02-12T13:30:00.000Z",
-          "wordCount": 373,
-          "title": "大爆発した宇宙船に歓声が上がった理由とは？",
-          "enclosure": {
-            "length": "0",
-            "type": "image/gif",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/02/09/f0f488df229299bd412c91bcd1264501-ezgif.com-video-to-gif-converter%281%29.gif"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/02/09/f0f488df229299bd412c91bcd1264501-ezgif.com-video-to-gif-converter%281%29.gif"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/02/tinder-chatgpt.html",
-          "author": "そうこ",
-          "description": "Photo:AleksandrZhadanマッチングアプリの有名どころ、Tinder。使ったことありますか？右へ左へと相手を振り分ける直感的な動作は、現代の恋の始まりです。恋人探しの場としてマッチングアプリは当たり前ですが、いい出会いがないと言う人はリアルでもマッチングアプリでも同じ。リアルの出会いは運命に頼るしかありませんが、アプリでの出会いはテクノロジーに頼ればある程度は効率をアップできるのか",
-          "link": "https://www.gizmodo.jp/2024/02/tinder-chatgpt.html",
-          "publishedOn": "2024-02-12T12:00:00.000Z",
-          "wordCount": 346,
-          "title": "連絡5000人、デート100回。ChatGPTでマッチングアプリを最適化した男が見つけた運命の人",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/02/09/240209youaretheone.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/02/09/240209youaretheone.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/02/nasa-juno-io-volcanic-moon-double-plumes-jupiter.html",
-          "author": "たもり",
-          "description": "Image:NASA/SWRIひとつの巨大な火山？NASAの探査機ジュノーが今月に入って実施した木星の衛星｢イオ｣へのフライバイ*の画像が公開されました。これで同探査機は、2カ月の間に2度も太陽系で最も火山活動が活発な天体のそばを飛行したことになります。また今回の近接通過では、衛星の地表から噴煙（プルーム）のようなものを2つ観測していました。フライバイ：宇宙探査機が観測やデータ収集のために天体や衛",
-          "link": "https://www.gizmodo.jp/2024/02/nasa-juno-io-volcanic-moon-double-plumes-jupiter.html",
-          "publishedOn": "2024-02-12T11:00:00.000Z",
-          "wordCount": 376,
-          "title": "探査機ジュノー、衛星「イオ」の表面から噴き上がる2つの煙を観測",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/02/09/240209DoublePlumes.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/02/09/240209DoublePlumes.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/02/how-to-choose-powerbank.html",
-          "author": "宮城圭介",
-          "description": "Image:alexgo.photography/Shutterstock.comいつも使うからこそご注意を。2月7日、JR山手線の池袋駅の車内でモバイルバッテリーから発火する事故が発生しました。ケガ人は出なかったものの、一歩間違えば大惨事につながっていたかもしれません。モバイルバッテリーは取り扱いや商品選びを間違ってしまうと、自身や周囲の人を傷つけてしまう可能性があります。今回はそんなモバイルバ",
-          "link": "https://www.gizmodo.jp/2024/02/how-to-choose-powerbank.html",
-          "publishedOn": "2024-02-12T10:00:00.000Z",
-          "wordCount": 349,
-          "title": "「危ないモバイルバッテリー」の見分け方",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/02/09/20240209_80009_01.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/02/09/20240209_80009_01.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/02/the-music-store-music-keyholdercd.html",
-          "author": "岡本玄介",
-          "description": "Image:TheMusicStoreちっちゃなCDケースがカワイイ。今の時代の音楽鑑賞は、スマートフォンの中に取り込んだり、各サービスにアクセスするのが当たり前ですよね。なので音楽CDは置き場所も占有してしまうし経年劣化で読み取り面が剥がれる恐れもあるので、処分してしまった人もおられるかと思います。お気に入りの音楽を文字通り持ち歩くTheMusicStoreの「ミュージックキーホルダーCD」は、",
-          "link": "https://www.gizmodo.jp/2024/02/the-music-store-music-keyholdercd.html",
-          "publishedOn": "2024-02-12T09:00:00.000Z",
-          "wordCount": 357,
-          "title": "こんなに小さなCD。スマホにかざせばちゃんと聴ける",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/02/09/2402012_minicd_.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/02/09/2402012_minicd_.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/02/doshisha-atatame-2.html",
-          "author": "岡本玄介",
-          "description": "ドウシシャより足元を温める「薄型足元ヒーターA・Ta・Ta・Me」発売。冷え性の人に。",
-          "link": "https://www.gizmodo.jp/2024/02/doshisha-atatame-2.html",
-          "publishedOn": "2024-02-12T07:35:00.000Z",
-          "wordCount": 342,
-          "title": "見た目はエコバッグ？ ペッタンコにたためる薄型足元ヒーター",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2022/10/04/221005_doshisha.jpeg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2022/10/04/221005_doshisha.jpeg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/02/giz-yatai-singularity-tshirt-3.html",
-          "author": "カネコヒデシ（BonVoyage）",
-          "description": "Photo:カネコヒデシ立春にもかかわらず、ひさびさの大雪だった先日。その後も厳しい寒さが続いている、まさに余寒の候ですね。こんな寒い日々は、ナゼだか長袖Tシャツ…いわゆるロンTを着たくなるのはボクだけでしょうか？今回は、ギズモード・ジャパンによるECショップ「ギズ屋台」が制作した、特製ロンTをご紹介しましょう。ブラックホールを着るこちらは、「ギズ屋台」限定で、ギズモード編集部員発案による現在受注",
-          "link": "https://www.gizmodo.jp/2024/02/giz-yatai-singularity-tshirt-3.html",
-          "publishedOn": "2024-02-12T03:00:00.000Z",
-          "wordCount": 341,
-          "title": "着るだけでアカデミックさUP。ギズ編集部員が発案した“特異点”なロンT",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/02/09/240208_T_giz000.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/02/09/240208_T_giz000.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/02/hp-envy-move-all-in-one.html",
-          "author": "そうこ",
-          "description": "Gif:ArtemGolub/GizmodoUSHPの新商品「HPEnvyMoveAll-in-One」（以下、HPAIO）は、新しいデスクトップパソコンの形を提案していると思います。ハンドルとポケットがついて、持ち運ぶことを前提にデザインされたデスクトップです。ラップトップとはまた別持ち運ぶならラップトップで、タブレットでよくないですか？…と、最初に見たときは思ったのですが、前提に「みんなで使う",
-          "link": "https://www.gizmodo.jp/2024/02/hp-envy-move-all-in-one.html",
-          "publishedOn": "2024-02-12T02:00:00.000Z",
-          "wordCount": 415,
-          "title": "ハンドルとポケットつきパソコン、家で使うのに便利すぎた",
-          "enclosure": {
-            "length": "0",
-            "type": "image/gif",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/02/09/HPEnvyMove.gif"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/02/09/HPEnvyMove.gif"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/02/brian-eno-led-light-turntable-2.html",
-          "author": "ヨコヤマコム",
-          "description": "ブライアン・イーノがアート作品のようなレコードプレーヤー「Turntable II」を制作。LEDライトで色味を変えながら光る。",
-          "link": "https://www.gizmodo.jp/2024/02/brian-eno-led-light-turntable-2.html",
-          "publishedOn": "2024-02-12T01:00:00.000Z",
-          "wordCount": 356,
-          "title": "まるでアート。ブライアン・イーノ制作の妖しく光るレコードプレーヤー",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/02/09/brian-eno-turntable-2-000.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/02/09/brian-eno-turntable-2-000.jpg"
         }
       ]
     }
