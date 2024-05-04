@@ -6,6 +6,26 @@
       "siteUrl": "https://gori.me",
       "articles": [
         {
+          "id": "https://gori.me/?p=152852",
+          "author": "g.O.R.i",
+          "description": "ShopSystemより 2024年の新型iPhone（iPhone 16シリーズ）と見られるモックアップの写真がフランスメディアで公開された。すでに金属製モックやダミーモデルの写真が公開されており、アクションボタンや「キャプチャー」ボタンの共通仕様化、標準モデル（iPhone 16とiPhone …\nThe post iPhone 16はMagSafe用マグネットが変わるらしい。どう変わるかというと… first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone/iphone-news/152852",
+          "publishedOn": "2024-05-03T22:13:28.000Z",
+          "wordCount": 1603,
+          "title": "iPhone 16はMagSafe用マグネットが変わるらしい。どう変わるかというと…",
+          "imageUrl": "https://gori.me/uploads/2024/05/iphone16pro-vs-iphone15pro_shopsystems-2-800x600.jpeg"
+        },
+        {
+          "id": "https://gori.me/?p=152848",
+          "author": "g.O.R.i",
+          "description": "Amazonで特選タイムセール「Apple製品がお買い得」が開催されており、iPad（第9世代）が6,500円オフに値下げされた。セール開始当初は約5,000円オフで販売されていた。 本記事は、記事執筆時点におけるセール情報となっている。価格の変更や売り切れの可能性もあるため、気になる製品があれば販…\nThe post 10.2インチの”最安iPad”がさらに値下げ。今なら4.3万円【Amazonセール】 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/peripheral-sale/152848",
+          "publishedOn": "2024-05-03T21:47:27.000Z",
+          "wordCount": 1469,
+          "title": "10.2インチの”最安iPad”がさらに値下げ。今なら4.3万円【Amazonセール】",
+          "imageUrl": "https://gori.me/uploads/2024/05/ipad-sale-has-even-lowered-800x500.jpg"
+        },
+        {
           "id": "https://gori.me/?p=152837",
           "author": "g.O.R.i",
           "description": "Beatsは4月30日、Beats Solo 4と同時に完全ワイヤレスイヤホン「Beats Solo Buds」を発表した。価格は12,800円。発表は6月が予定されており、詳細は明らかにしていないが、一部情報によると6月6日と見られる。 特徴は極小サイズと音楽のためにデザインされた独自のアコーステ…\nThe post Beats Solo Budsはケースにバッテリー非搭載。約1.3万円で6月発売 first appeared on ゴリミー.\n\n 【もっと読む】",
@@ -104,26 +124,6 @@
           "wordCount": 1506,
           "title": "新型iPad Proは”AIに最適化”されたM4チップを搭載か",
           "imageUrl": "https://gori.me/uploads/2023/10/ipadpro2018-2-29_TP_V-800x532.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=152805",
-          "author": "g.O.R.i",
-          "description": "Appleは、日本時間5月7日に開催するスペシャルイベント「Let loose」のあとに、ロンドンで別のイベントを開催する可能性がある。MacRumorsのJoe Rossignol氏によると、複数日にわたって開催され、複数国からのジャーナリスト、ブロガー、有名ソーシャルメディアクリエイターが招待さ…\nThe post Apple、5月7日のイベント開催後にロンドンで別イベントを開催か first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/apple/special-event/152805",
-          "publishedOn": "2024-04-27T23:50:40.000Z",
-          "wordCount": 1474,
-          "title": "Apple、5月7日のイベント開催後にロンドンで別イベントを開催か",
-          "imageUrl": "https://gori.me/uploads/2024/04/Apple-and-London-800x542.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=152803",
-          "author": "g.O.R.i",
-          "description": "Appleは、OpenAIと「iOS 18」の生成AI新機能に向けた協議を再開した可能性がある。OpenAIとの話し合いは今年初頭に行われていたが、合意には至らなかった。現在はOpenAIの生成AIの機能をどのように活かせるかなどが話し合われているという。 AppleはGoogleとも話し合いを行っ…\nThe post Apple、OpenAIと協議を再開か。iOS 18用の生成AI機能向け first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/ios/ios-news/152803",
-          "publishedOn": "2024-04-27T23:48:49.000Z",
-          "wordCount": 1479,
-          "title": "Apple、OpenAIと協議を再開か。iOS 18用の生成AI機能向け",
-          "imageUrl": "https://gori.me/uploads/2024/04/ios18-logo-image-800x500.jpg"
         }
       ]
     },
@@ -132,6 +132,56 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/mobile.xml",
       "siteUrl": "https://www.itmedia.co.jp/mobile/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2405/03/news016.html",
+          "author": null,
+          "description": "スマホがあれば、自分の予定も含めた必要な情報にいつどこからでもアクセスできます。とはいえ、予定があることを忘れてしまっては元も子もありません。「書いた」という実感の持てる手書きスケジュール帳をクラウドカレンダーにアップする新しいタイプのデジアナ文具を紹介します。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2405/03/news016.html",
+          "publishedOn": "2024-05-04T06:00:00.000Z",
+          "wordCount": 2893,
+          "title": "最新デジアナ文具でスケジュールも手書きしてアップ!?　サラサラ書き心地の良いゲルインキタイプも登場──NeoLAB「Neo smartpen A1」",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2405/03/cover_news016.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2405/04/news043.html",
+          "author": null,
+          "description": "いわゆる「100円ショップ」では、ガジェット用の周辺機器類がたくさん売られています。皆さんは、買って使ってみたことはあるでしょうか。最近は、ガラスコーティング液もあるんですよ。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2405/04/news043.html",
+          "publishedOn": "2024-05-04T04:15:00.000Z",
+          "wordCount": 2867,
+          "title": "皆さんは「スマホにガラスコーティング」してますか？　私はしていません",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2405/04/cover_news043.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2405/04/news034.html",
+          "author": null,
+          "description": "ドコモオンラインショップの「売れ筋ランキング」。4月22日～4月28日の期間は、上位3機種の順位は変わらず、「iPhone 14（128GB）」が1位、「iPhone 15（128GB）」が2位、「Google Pixel 7a」が3位を維持した。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2405/04/news034.html",
+          "publishedOn": "2024-05-04T01:00:00.000Z",
+          "wordCount": 2948,
+          "title": "ドコモ販売ランキング：「Pixel 7a」人気がじわり再燃、「Galaxy S24」は10位に後退",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2405/04/cover_news034.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2405/04/news027.html",
+          "author": null,
+          "description": "5月となり、楽天ペイでもさまざまなキャンペーンが更新された。5月ははじめて楽天ペイ内ポイントカードを使用した場合ポイント付与額が10倍になる他、「はじめてシリーズ」も継続して実施している点に注目したい。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2405/04/news027.html",
+          "publishedOn": "2024-05-04T01:00:00.000Z",
+          "wordCount": 2903,
+          "title": "楽天ペイと楽天ポイントのキャンペーンまとめ【5月4日最新版】　1万ポイント還元や最大20％還元などの施策が充実",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2405/04/cover_news027.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2405/04/news039.html",
+          "author": null,
+          "description": "ポケモンGOで「マスターボール」が再び登場する。マスターボールは、野生のポケモンを必ず捕まえられるボール。5月14日に開始する「続行リサーチ」をクリアすると入手できる。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2405/04/news039.html",
+          "publishedOn": "2024-05-03T23:34:00.000Z",
+          "wordCount": 2851,
+          "title": "ポケモンGOで「マスターボール」が再び登場　5月14日開始の「続行リサーチ」クリアで",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2405/04/cover_news039.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/mobile/articles/2405/03/news046.html",
           "author": null,
@@ -541,46 +591,6 @@
           "wordCount": 2837,
           "title": "ダイソーで売っているMFi認証付き「充電・同期ライトニングケーブル」は破格の880円　その実力は？",
           "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2404/21/cover_news028.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2404/27/news070.html",
-          "author": null,
-          "description": "",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2404/27/news070.html",
-          "publishedOn": "2024-04-27T06:00:00.000Z",
-          "wordCount": 2863,
-          "title": "楽天系の支払い・ポイントサービスのスマホアプリが統合へ　「スマホ決済」が再び熱くなる？",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2404/27/cover_news070.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2404/27/news048.html",
-          "author": null,
-          "description": "ドコモオンラインショップの「売れ筋ランキング」。4月15日～4月21日の期間は、「iPhone 14（128GB）」が1位を奪還。Galaxy S24 Ultraはランク外に沈んだ。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2404/27/news048.html",
-          "publishedOn": "2024-04-27T01:00:00.000Z",
-          "wordCount": 2946,
-          "title": "ドコモ販売ランキング：「iPhone 14」が首位奪還、発売2週目の「Galaxy S24」は8位に【4月15日～4月21日】",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2404/27/cover_news048.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2404/27/news031.html",
-          "author": null,
-          "description": "「モバイルSuica」で改札を通れない理由の1つに「スマートフォンなどのバッテリー切れ」が挙がるが、実際はどうなのだろうか。端末のバッテリーが全く空になるとモバイルSuicaで改札を通過できないが、端末によってはわずかに余った電力で、起動せずとも改札を通過できる場合がある。条件や使い方を確かめた。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2404/27/news031.html",
-          "publishedOn": "2024-04-27T01:00:00.000Z",
-          "wordCount": 2878,
-          "title": "スマホのバッテリー切れでもSuicaで改札通過できる？　iPhoneで検証してみた",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2404/27/cover_news031.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2404/20/news032.html",
-          "author": null,
-          "description": "100円ショップなどで安価に購入できるガジェットを実際に購入し、試してみる連載。今回は、ダイソーで550円（税込み）で販売されている「AC充電器 自動判別機能付 USBポート２口、合計最大3.4A出力」を試してみる。2つのUSB Standard-Aポートを備え、2.4Aと1.0Aの同時給電に対応していて、意外と便利だ。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2404/20/news032.html",
-          "publishedOn": "2024-04-27T01:00:00.000Z",
-          "wordCount": 2838,
-          "title": "ダイソーで550円で売っている「2.4A＋1A」充電可能なAC充電器が意外と優秀だった",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2404/20/cover_news032.jpg"
         }
       ]
     },
@@ -1152,6 +1162,156 @@
       "feedUrl": "https://www.gizmodo.jp/index.xml",
       "siteUrl": "https://www.gizmodo.jp",
       "articles": [
+        {
+          "id": "https://www.gizmodo.jp/2024/05/iphone-home-lock-screen.html",
+          "author": "chisato kuroda",
+          "description": "Image:sdx15/Shutterstock.com各々のこだわりが詰まったiPhoneのロック画面&ホーム画面。今回はギズモード編集部員の綱藤さん／花﨑さん／谷田貝さん／代田さんの4人に、お気に入りの壁紙や活用している便利ウィジェットなどを教えてもらいました。綱藤さんImage:amito・ロック画面ウェザーニュースの天気ウィジェットを置いています。暑がりなので、この季節の外の撮影や取材は外",
+          "link": "https://www.gizmodo.jp/2024/05/iphone-home-lock-screen.html",
+          "publishedOn": "2024-05-04T11:00:00.000Z",
+          "wordCount": 386,
+          "title": "iPhoneのロック＆ホーム画面ってどんな感じ？ 編集部員4人に聞いてみた",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/05/04/202405_thum_iphone.png"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/05/04/202405_thum_iphone.png"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/bag-hanger-clipa.html",
+          "author": "mio",
+          "description": "Image:Amazon荷物カゴがないなら、ハンガーをカバンにつけておけばいい。特に飲食店なんかで困るのが、カバンの置き場所。使わないときはカバンの持ち手につけておけて、荷物をかけるときにはサッとかけられる。そんなスマートなバッグハンガーを見つけました。大切な荷物をテーブルや椅子にかけておけるImage:Amazonリングの形の「clipa」は、開くだけで使えるバッグハンガー。リングのヒンジ部分に",
+          "link": "https://www.gizmodo.jp/2024/05/bag-hanger-clipa.html",
+          "publishedOn": "2024-05-04T10:00:00.000Z",
+          "wordCount": 386,
+          "title": "カバンを浮かせるハンガー。「clipa」で床置きをやめられる",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/25/2040425-bag-hanger-clipa-01.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/25/2040425-bag-hanger-clipa-01.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/elecom-tbapehs-pencil-holder-1.html",
+          "author": "三浦一紀",
+          "description": "エレコムから「TB-APEHS」シリーズ発売。Apple Pencilをしっかりホールドできる専用ホルダーで、iPadスタンドにもなる。",
+          "link": "https://www.gizmodo.jp/2024/05/elecom-tbapehs-pencil-holder-1.html",
+          "publishedOn": "2024-05-04T07:35:00.000Z",
+          "wordCount": 380,
+          "title": "エレコムの逸品があれば、もうApple Pencilを失くさない",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/02/08/220208ApplePencilholder-01.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/02/08/220208ApplePencilholder-01.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/bosai-goods-light.html",
+          "author": "カマタユキコ",
+          "description": "Photo:カマタユキコROOMIE2024年3月8日掲載の記事より転載わたしが被災した熊本地震から8年が経とうとしています。忘れてはいけないと思いながらも、当時の恐怖心は薄れつつあるように感じます。しかし、地鳴りや物が落ちて割れる音を耳にしながら、どうにか外に逃げ出したときのことは、今も鮮明に覚えています。立っていられないほどの強烈な揺れにより、家の中は一瞬で停電し、真っ暗闇になりました。そんな",
+          "link": "https://www.gizmodo.jp/2024/05/bosai-goods-light.html",
+          "publishedOn": "2024-05-04T05:35:00.000Z",
+          "wordCount": 400,
+          "title": "被災経験のある私が最も必要だと感じた防災グッズ、ソーラーウォールライト",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/22/top_light-06.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/22/top_light-06.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/volkswagen_remote_control_car.html",
+          "author": "Yohei Arai",
+          "description": "Image:RAYWOODこのラジコン、一緒に散歩すると楽しいかも。見てください、この愛くるしいワーゲンバス。初代T1のディテールを忠実に再現したラジコン（RC）モデルで、WPL社（ダブルピーエル）がフォルクスワーゲンの正式ライセンスを得てリリースした16/1スケールです。眺めているだけでも楽しいリアルな作りImage:RAYWOODディテールまでしっかりと作りこまれた、塗装済み完成モデル。195",
+          "link": "https://www.gizmodo.jp/2024/05/volkswagen_remote_control_car.html",
+          "publishedOn": "2024-05-04T03:00:00.000Z",
+          "wordCount": 398,
+          "title": "愛でたり、撮影したり。ラジコンの新しい遊び方が広がるワーゲンバス",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/28/240317_Ts_3023_1st_144ppi.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/28/240317_Ts_3023_1st_144ppi.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/ios-18-web-eraser.html",
+          "author": "小暮ひさのり",
+          "description": "iOS 18の「Safari」では、広告バナーなどWebページの不要な部分を消去できるAI機能「Web消しゴム」が搭載されそう。",
+          "link": "https://www.gizmodo.jp/2024/05/ios-18-web-eraser.html",
+          "publishedOn": "2024-05-04T02:00:00.000Z",
+          "wordCount": 380,
+          "title": "「サイトのいらない部分」を排除する消しゴムがiPhoneにやってきそう",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/05/01/2024-05-01sak00.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/05/01/2024-05-01sak00.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/how-to-take-a-screenshot-on-your-pixel-phone.html",
+          "author": "山田ちとら",
+          "description": "GIF:山田ちとらGooglePixelスマートフォンでは、画面を撮影する（スクリーンショットを撮る）方法が3つあるのをご存知でしたか？上は、Pixel6aでスクリーンショットを撮ったところを録画したもの。実際に撮影した画像はこちらです。スクリーンショットは、画像として保存したり、編集したり、ほかの人と共有したり、内容を翻訳したりできます。以下、Android11以降のOSを搭載したPixelスマ",
+          "link": "https://www.gizmodo.jp/2024/05/how-to-take-a-screenshot-on-your-pixel-phone.html",
+          "publishedOn": "2024-05-04T01:00:00.000Z",
+          "wordCount": 417,
+          "title": "Google Pixelでスクリーンキャプチャを撮る方法",
+          "enclosure": {
+            "length": "0",
+            "type": "image/gif",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/29/240429_screenshot_white.gif"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/29/240429_screenshot_white.gif"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/watch-matome.html",
+          "author": "mio",
+          "description": "Image:CASIOレトロがむしろ新鮮。1980年代前後の腕時計の復刻版から、当時のカード電卓をモチーフにしたものまで、昭和の雰囲気をまとった佇まいで個性全開。デザインセンスが光る、腕時計を3つ紹介します。70年代後半に考えられた｢未来っぽいデザイン｣を復刻Image:CASIO左からA1100D-1JF1万6500円（税込）、A1100B-1JF2万2000円（税込）、A1100G-5JF2万",
+          "link": "https://www.gizmodo.jp/2024/05/watch-matome.html",
+          "publishedOn": "2024-05-04T00:00:00.000Z",
+          "wordCount": 400,
+          "title": "レトロでポップ。デザインセンスが光る、カシオの腕時計3本",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/30/202040430-watch-matome-01.PNG"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/30/202040430-watch-matome-01.PNG"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/pixel-8a-leak.html",
+          "author": "小暮ひさのり",
+          "description": "Image:EvanBlass/Xあぁ、イメトレが捗る捗る…。Google（グーグル）スマートフォンのGooglePixelシリーズ。最新モデルはPixel8シリーズですが、5月14日に開催されるGoogleのデベロッパー向けカンファレンスGoogleI/Oで普及モデルとなる「Pixel8a」が、発表される見込み。…なんですが、先日は実機の写真まで公開されてどーなってんだ？な端末。さらに今度は質感",
+          "link": "https://www.gizmodo.jp/2024/05/pixel-8a-leak.html",
+          "publishedOn": "2024-05-03T23:00:00.000Z",
+          "wordCount": 393,
+          "title": "手触りが伝わりそうな「Pixel 8a」の高解像度画像にうっとり",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/05/01/2024-05-01gak00.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/05/01/2024-05-01gak00.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/earphone-spec.html",
+          "author": "巽英俊",
+          "description": "Image:巽英俊イヤホンやヘッドホンのカタログを見ていると、なんだかいろいろなスペックが掲載されています。実際にはスペック的に優れているイヤホンがそのまま「音がいい」とは限らないのですが、このスペックを読み取れると、ある程度はその製品が志向するサウンドの傾向がわかるかもしれません。その手助けとして、イヤホン＆ヘッドホンのスペックが何を意味しているのかを、ざっくり解説していきます。ドライバードライ",
+          "link": "https://www.gizmodo.jp/2024/05/earphone-spec.html",
+          "publishedOn": "2024-05-03T13:00:00.000Z",
+          "wordCount": 386,
+          "title": "“いい音”って数値化できるの？ イヤホンのスペックの読み方",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/27/IMG_5944.JPG"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/27/IMG_5944.JPG"
+        },
         {
           "id": "https://www.gizmodo.jp/2024/05/smart-ring-oversea.html",
           "author": "福田ミホ",
@@ -2096,141 +2256,6 @@
             "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/24/240425_babyg.jpg"
           },
           "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/24/240425_babyg.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/04/pixel-8a-2.html",
-          "author": "そうこ",
-          "description": "Photo:FlorenceIon/Gizmodoスマートフォンのスペックと価格の上昇とともに、注目度が増している気がするお手頃価格端末。最高スペックの最新機能がなくても、ほとんどの人は日常生活において何も困りません。そこで、「これくらいでちょうどいい」モデルを各メーカー揃えています。Googleのお手頃端末はPixelaシリーズ。今年は去年のフラッグシップPixel8をお手頃にしたPixel8a",
-          "link": "https://www.gizmodo.jp/2024/04/pixel-8a-2.html",
-          "publishedOn": "2024-04-28T00:00:00.000Z",
-          "wordCount": 440,
-          "title": "また値上がり？ Google Pixel 8aについてわかっていること",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/26/240426pixel8awhattoexpect-2.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/26/240426pixel8awhattoexpect-2.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/04/airpods-sale-2024-gw.html",
-          "author": "小暮ひさのり",
-          "description": "Image:Amazon説明がつかない。めったに安くならないから、買い時の難しいAppleガジェット。たとえばAirPodsも人気の反面、買い時の難しいアイテム。Amazonの大規模セールのタイミングでたま〜〜〜〜に安くなってるので、運良く気づけて在庫があれば大勝利！なんですけどね。はい、でもなぜかここでミラクル。大規模セールでもないのに、Amazonで最新のAirPods（第3世代）が安くなって",
-          "link": "https://www.gizmodo.jp/2024/04/airpods-sale-2024-gw.html",
-          "publishedOn": "2024-04-27T14:00:00.000Z",
-          "wordCount": 375,
-          "title": "第3世代AirPods、上位モデルの方が安いという怪現象。買いどき間違いないから急いで",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/27/2024-04-27Airk00.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/27/2024-04-27Airk00.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/04/kef-discount.html",
-          "author": "ヤマダユウス型",
-          "description": "Image:KEFなんてハッピーなニュースなんだ。高音質スピーカーを手掛けている老舗オーディオブランドのKEFが、なんと一部製品の値下げを発表しました。どこもかしこも値上げニュースのなか、あえての値下げ。カッコよすぎるムーブだ…！ワイヤレスFi-Hiが身近になりましたImage:KEF値下げ対象は上記の4製品（最下段のLSXIILTは価格据え置き）。これらの製品はいずれもワイヤレススピーカーであり",
-          "link": "https://www.gizmodo.jp/2024/04/kef-discount.html",
-          "publishedOn": "2024-04-27T13:00:00.000Z",
-          "wordCount": 385,
-          "title": "10万円も安くなる！高級オーディオのKEF、あえての値下げ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/26/240426kefpricedown_01.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/26/240426kefpricedown_01.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/04/google-pixel-live-caption.html",
-          "author": "山田ちとら",
-          "description": "Photo:山田ちとらみんなにやさしい機能。GoogleのPixelスマートフォンで使える「LiveCaption（自動字幕起こし）」は、話し声を自動的に文字に変換してくれる機能です。動画やポッドキャストなど、メディアを再生している時にライブ字幕を生成するほか、通話・ビデオ通話・音声メッセージを文字に変換します（※相手が一人の場合のみ）。LINEやZoomでの一対一の音声通話においても有効です。ま",
-          "link": "https://www.gizmodo.jp/2024/04/google-pixel-live-caption.html",
-          "publishedOn": "2024-04-27T11:00:00.000Z",
-          "wordCount": 422,
-          "title": "Google Pixelで自動字幕起こしする方法",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/18/240416_pixelsubtitles_top2.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/18/240416_pixelsubtitles_top2.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/04/io-data-wn-7t94xr.html",
-          "author": "小暮ひさのり",
-          "description": "アイ・オー・データ機器からWi-Fi 7のトライバンドルーター「WN-7T94XR」発売に。",
-          "link": "https://www.gizmodo.jp/2024/04/io-data-wn-7t94xr.html",
-          "publishedOn": "2024-04-27T10:00:00.000Z",
-          "wordCount": 396,
-          "title": "おとなしい顔してこのルーター、エグい速度出します",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/25/2024-04-25iok00.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/25/2024-04-25iok00.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/04/forever-corner-1.html",
-          "author": "岡本玄介",
-          "description": "Image:サンスター文具株式会社2023年2月7日の記事を編集して再掲載しています。ペンのように持って使う角消し。昔から消しゴムは親指大で小さいのがド定番でしたが、中にはペン型のノック式など使いやすさを求めた形状もあります。しかし小さいタイプは落として紛失しやすいし、短くても幅が広く、筆記用具と揃わないのがちょっとジャマ。ノック式だと筒状なので転がりやすく、使用済みになると筐体がゴミになるので非",
-          "link": "https://www.gizmodo.jp/2024/04/forever-corner-1.html",
-          "publishedOn": "2024-04-27T07:35:00.000Z",
-          "wordCount": 371,
-          "title": "ずーっと角が使えて広い範囲も一気に消せる「消しゴム」",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/02/07/1.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/02/07/1.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/04/wired-earphones.html",
-          "author": "Étoile",
-          "description": "Photo:ÉtoileROOMIE2024年3月18日掲載の記事より転載まわりを見渡してみると、“本当の長年の愛用品”は案外少ないものです。長く使っているように思えるお鍋や靴も、4年ものだったり、5年ものだったり。長く大切に使う、という観点からは“〇〇年選手”と呼ぶには気が早すぎるかもしれません。高らかに叫ぼう「11年選手」とApple「EarPods（Lightningコネクタ）」そんな中、私",
-          "link": "https://www.gizmodo.jp/2024/04/wired-earphones.html",
-          "publishedOn": "2024-04-27T05:35:00.000Z",
-          "wordCount": 401,
-          "title": "11年前から「Appleの有線イヤホン」を愛用している理由",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/11/top_EarPods-2-1.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/11/top_EarPods-2-1.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/04/audi-ev-charging-station-tokyo.html",
-          "author": "山田ちとら",
-          "description": "Photo:山田ちとら東京都千代田区麹町。4月26日、まさに東京のどまんなか！にまったく新しいコンセプトのEV（電気自動車）充電ステーションがオープンしました。その名は「Audicharginghub」。場所はAudiCity紀尾井町の真向かいです。「電気自動車って、充電に時間がかかるんでしょ？」「しかも、充電ステーションそのものが都市部では不足しているんでしょ？」そんなEV特有のふたつの課題に対",
-          "link": "https://www.gizmodo.jp/2024/04/audi-ev-charging-station-tokyo.html",
-          "publishedOn": "2024-04-27T03:00:00.000Z",
-          "wordCount": 408,
-          "title": "クルマが欲しくなる。EVの急速充電ステーションが東京のど真ん中にできました",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/26/240426_audicharginghub_top-1.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/26/240426_audicharginghub_top-1.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/04/anker-maggo-wireless-charging-station-maggo-wireless-charging-station.html",
-          "author": "小暮ひさのり",
-          "description": "Image:Amazonどちらも最新、Qi2対応ですぜ！iPhoneやAppleWatch、AirPodsなどAppleガジェットで統一している人も少なくないはず。僕もそのひとりでデスクにワイヤレス充電器を備えているんですけど、1台のワイヤレス充電器だとすべてを同時に充電できないのがストレス。デスクにそれぞれの充電器を用意するのはスペース的にも見た目的にもノイズだし、そもそもAppleWatchお",
-          "link": "https://www.gizmodo.jp/2024/04/anker-maggo-wireless-charging-station-maggo-wireless-charging-station.html",
-          "publishedOn": "2024-04-27T01:00:00.000Z",
-          "wordCount": 448,
-          "title": "すべての充電が叶う充電器たち、Ankerから15％OFFでやってきました",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/26/2024-04-26ank00.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/26/2024-04-26ank00.jpg"
         }
       ]
     }
