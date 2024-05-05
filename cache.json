@@ -6,6 +6,16 @@
       "siteUrl": "https://gori.me",
       "articles": [
         {
+          "id": "https://gori.me/?p=152860",
+          "author": "g.O.R.i",
+          "description": "復旧 10時53分頃、各サービスの復旧が確認できました。 AppleのiCloud Drive、iCloudバックアップ、iCloudリマインダー、写真などiCloudを利用するサービスに不具合が世界的に発生している。発生時刻は5月5日1時。10時間経った今も継続中だ。 Appleのシステム状況ペー…\nThe post 復旧：iCloudに障害発生。すでに10時間以上問題が継続中 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple/apple-news/152860",
+          "publishedOn": "2024-05-05T02:10:07.000Z",
+          "wordCount": 1467,
+          "title": "復旧：iCloudに障害発生。すでに10時間以上問題が継続中",
+          "imageUrl": "https://gori.me/uploads/2024/05/icloud-error-800x617.jpg"
+        },
+        {
           "id": "https://gori.me/?p=152852",
           "author": "g.O.R.i",
           "description": "ShopSystemより 2024年の新型iPhone（iPhone 16シリーズ）と見られるモックアップの写真がフランスメディアで公開された。すでに金属製モックやダミーモデルの写真が公開されており、アクションボタンや「キャプチャー」ボタンの共通仕様化、標準モデル（iPhone 16とiPhone …\nThe post iPhone 16はMagSafe用マグネットが変わるらしい。どう変わるかというと… first appeared on ゴリミー.\n\n 【もっと読む】",
@@ -104,26 +114,6 @@
           "wordCount": 1441,
           "title": "パパミーWeekly：親子一丸となって全力の運動会",
           "imageUrl": "https://gori.me/uploads/2024/04/anna-samoylova-w55SpMmoPgE-unsplash-800x534.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=152811",
-          "author": "g.O.R.i",
-          "description": "Appleは、「iOS 18」で純正アプリの多くを大幅刷新する可能性がある。Appleに詳しいBloombergの名物記者Mark Gurman氏の最新ニュースレターでは、具体的に改良されるアプリを指摘。メモアプリとiPad向け計算機アプリにくわえて、メール、写真、フィットネスなどのアプリが見直され…\nThe post iOS 18、純正アプリはAIに最適化され大幅刷新か first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/ios/ios-news/152811",
-          "publishedOn": "2024-04-28T15:01:26.000Z",
-          "wordCount": 1503,
-          "title": "iOS 18、純正アプリはAIに最適化され大幅刷新か",
-          "imageUrl": "https://gori.me/uploads/2024/04/iOS18-memo-app-updating-2-800x500.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=152809",
-          "author": "g.O.R.i",
-          "description": "Appleが日本時間5月7日に新製品発表イベント「Let Loost」で発表する新型iPad Proは「M4」チップを搭載する可能性が高い。Appleに詳しいBloombergの名物記者Mark Gurman氏の最新ニュースレターによると、「M4」チップは改良されたニューラルエンジンが特徴となってお…\nThe post 新型iPad Proは”AIに最適化”されたM4チップを搭載か first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/ipad/ipad-news/152809",
-          "publishedOn": "2024-04-28T14:48:38.000Z",
-          "wordCount": 1506,
-          "title": "新型iPad Proは”AIに最適化”されたM4チップを搭載か",
-          "imageUrl": "https://gori.me/uploads/2023/10/ipadpro2018-2-29_TP_V-800x532.jpg"
         }
       ]
     },
@@ -132,6 +122,46 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/mobile.xml",
       "siteUrl": "https://www.itmedia.co.jp/mobile/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2405/05/news047.html",
+          "author": null,
+          "description": "5月5日、ゴールデンウィークのUターンラッシュが本格的になった。身体の疲れがピークを迎えつつも、車や電車で帰宅する人は多いはずだ。そこで、高速道路の渋滞情報と、電車の混雑状況が確認できるアプリをまとめる。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2405/05/news047.html",
+          "publishedOn": "2024-05-05T10:15:00.000Z",
+          "wordCount": 2866,
+          "title": "GWのUターンラッシュでスマホを活用する技　道路の渋滞情報と、電車の混雑状況を確認しやすいアプリはどれ？",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2405/05/cover_news047.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2405/05/news045.html",
+          "author": null,
+          "description": "すかいらーくホールディングスはこのほど、ガストなどに導入している「テーブル決済サービス」で、新たに「楽天ペイ」を選択できるようにした。本サービスはガストやバーミヤンなどで、レジへ行かずに卓上タブレットから決済できるサービス。すかいらーくHDが2023年8月9日から提供している。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2405/05/news045.html",
+          "publishedOn": "2024-05-05T08:00:00.000Z",
+          "wordCount": 2841,
+          "title": "ガストやバーミヤンの「テーブル決済サービス」、楽天ペイも利用可能に　レジへ行かずに卓上会計",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2405/05/l_rk1640414_PayPay-01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2405/04/news015.html",
+          "author": null,
+          "description": "英Nothing Technologyによる最新のスマートフォン「Nothing Phone (2a)」。LEDの「Glyphインタフェース」を活用し、着信や通知などが視覚的に分かるのが大きな特徴だ。価格は4万9800円（税込み）からだが、実機を体験して分かったメリットや、今後に期待したいことを考える。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2405/04/news015.html",
+          "publishedOn": "2024-05-05T01:00:00.000Z",
+          "wordCount": 2917,
+          "title": "4万円台からの「Nothing Phone (2a)」は誰向けか　Phone (2)との比較で分かったこと",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2405/04/cover_news015.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2405/04/news047.html",
+          "author": null,
+          "description": "コミュニケーションアプリ「LINE」は、データ保管機能の「Keep」を8月28日で終了すると案内している。KeepはLINEで気になったトーク、写真、動画などを保存できる機能。同社はKeepのユーザーに対し、提供終了日までにデータをバックアップするよう呼びかけている。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2405/04/news047.html",
+          "publishedOn": "2024-05-04T12:40:00.000Z",
+          "wordCount": 2846,
+          "title": "LINEの気になるトークや写真などを「Keep」する機能、8月28日で終了　同社がバックアップを呼びかけ",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2405/04/l_rk1640414_LINEKeep-01.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/mobile/articles/2405/03/news016.html",
           "author": null,
@@ -571,26 +601,6 @@
           "wordCount": 2835,
           "title": "ダイソーで110円の「ガラスコーティング液」は本当に使える？　試してみた結果",
           "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2404/27/cover_news045.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2404/28/news056.html",
-          "author": null,
-          "description": "スマホ料金の見直しには、データ通信量だけでなく通話料金の確認も必要です。通話が多い人はかけ放題オプションを契約するより、他社のSIMを追加で契約し、通話専用回線として併用した方が料金が安くなる場合もあります。特にオススメなのが、楽天モバイルとpovo2.0です。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2404/28/news056.html",
-          "publishedOn": "2024-04-28T01:00:00.000Z",
-          "wordCount": 2853,
-          "title": "通話専用にオススメの通信サービス　楽天モバイルやpovo2.0を追加契約した方がお得？",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2404/28/cover_news056.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2404/21/news028.html",
-          "author": null,
-          "description": "100円ショップなどで安価に購入できるガジェットを実際に購入し、試してみる連載。今回はダイソーにおいて880円で売っている「MFi認証 充電・同期ライトニングケーブル」を試す。MFi認証を取得したLightningケーブルとしては手頃な部類の製品だが、その実力やいかに……？",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2404/21/news028.html",
-          "publishedOn": "2024-04-28T01:00:00.000Z",
-          "wordCount": 2837,
-          "title": "ダイソーで売っているMFi認証付き「充電・同期ライトニングケーブル」は破格の880円　その実力は？",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2404/21/cover_news028.jpg"
         }
       ]
     },
@@ -1162,6 +1172,156 @@
       "feedUrl": "https://www.gizmodo.jp/index.xml",
       "siteUrl": "https://www.gizmodo.jp",
       "articles": [
+        {
+          "id": "https://www.gizmodo.jp/2024/05/tayoreru-partner.html",
+          "author": "編集部",
+          "description": "Photo:三浦一紀,SUMA-KIYO,mio日々の生活のちょっとしたニーズに応える、ちびサイズのお役立ち品。こいつと一緒なら、ちょっと快適、ちょっと安心、ちょっと便利…なアイテムを集めてみました。1.ダイソーの「黒いボール」2.4gの“光るお守り”3.“よく使うアイテムぶらさげ用”キャップ4.｢飛行機のエンジン｣並みの音が出る防災ホイッスル1.ダイソーの「黒いボール」Photo:三浦一紀ダイソ",
+          "link": "https://www.gizmodo.jp/2024/05/tayoreru-partner.html",
+          "publishedOn": "2024-05-05T10:00:00.000Z",
+          "wordCount": 403,
+          "title": "きみと一緒ならちょっと安心。手のひらサイズの頼れる相棒たち",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/30/1.png"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/30/1.png"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/ai-homework-3d-printer-1.html",
+          "author": "岡本玄介",
+          "description": "一歩先をゆく学生は、最近話題のチャットボットAI「ChatGPT」を採り入れ、人工知能に宿題の代筆をさせ、3Dプリンターで出力しているようです。",
+          "link": "https://www.gizmodo.jp/2024/05/ai-homework-3d-printer-1.html",
+          "publishedOn": "2024-05-05T07:35:00.000Z",
+          "wordCount": 381,
+          "title": "AIに宿題やらせたらバレる？ 3Dプリンターで手書きすればOKさ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/02/08/230208_tiktok01.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/02/08/230208_tiktok01.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/eta-aquariids.html",
+          "author": "宮城圭介",
+          "description": "GWの終盤を彩る天体ショーがやってきます。今回近づくのは「みずがめ座η（エータ）流星群」さらに夜明け前の月が細い今年は観察に適した好条件のようです。",
+          "link": "https://www.gizmodo.jp/2024/05/eta-aquariids.html",
+          "publishedOn": "2024-05-05T07:00:00.000Z",
+          "wordCount": 383,
+          "title": "5日の深夜は東の空に注目。みずがめ座η（エータ）流星群が見られそうです",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/05/04/DALL%C2%B7E2024-05-0414.07.52-Aserenenightskydepictedina16_9aspectratio%2Cshowcasingasingleshootingstargracefullyarcingacrossthevastexpanse.Theskyisadeep%2Cda%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/05/04/DALL%C2%B7E2024-05-0414.07.52-Aserenenightskydepictedina16_9aspectratio%2Cshowcasingasingleshootingstargracefullyarcingacrossthevastexpanse.Theskyisadeep%2Cda%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/shupatto.html",
+          "author": "ROOMIE編集部",
+          "description": "Photo:hacoROOMIE2024年3月8日掲載の記事より転載傘を閉じてくるっとまるめてベルトを留めるとき、手が濡れるのってちょっとイヤじゃないですか？それだけでなく、ベルトを探すだけで手間取ることも……。たたまなくていい、留めなくていい傘マーナ「Shupattoアンブレラ62cm」傘をたたんで留める。そんな当たり前の行動をもうしなくていい傘がマーナから登場しました。マーナといえばキッチン用",
+          "link": "https://www.gizmodo.jp/2024/05/shupatto.html",
+          "publishedOn": "2024-05-05T05:35:00.000Z",
+          "wordCount": 435,
+          "title": "マーナの「ベルトで留めない傘」なら、もう手を濡らさない",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/22/top_61241d578-1.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/22/top_61241d578-1.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/netflix_anime_gw.html",
+          "author": "ヤタガイ",
+          "description": "Image:shutterstockみなさんゴールデンウィークはどのように過ごしてますか？どこに行っても混んでるし、結局家でゴロゴロしている方も多いのではないでしょうか。そんなまったり時間のお供に、今回は、1クールでサクッと一気見できるアニメを4つまとめて紹介します。どのアニメもNetflixで見られる、1話30分ほどの作品なので、気軽に楽しんでくださいね。リコリス・リコイル『リコリス・リコイル』",
+          "link": "https://www.gizmodo.jp/2024/05/netflix_anime_gw.html",
+          "publishedOn": "2024-05-05T04:00:00.000Z",
+          "wordCount": 370,
+          "title": "ネトフリで見られる。ハズレなし、一気見したい人におすすめのアニメ4選",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/05/05/shutterstock_449354410.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/05/05/shutterstock_449354410.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/rollei-35-af.html",
+          "author": "武者良太",
+          "description": "1967年に生まれた当時は世界最小の35mmフルサイズフィルムカメラだったローライ35が、AF搭載で現代に蘇ります。",
+          "link": "https://www.gizmodo.jp/2024/05/rollei-35-af.html",
+          "publishedOn": "2024-05-05T03:00:00.000Z",
+          "wordCount": 383,
+          "title": "現代に蘇るRollei 35はAFつきで全人類にやさしいフィルムカメラ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/05/02/2024-05-02094300.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/05/02/2024-05-02094300.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/smartphone-app.html",
+          "author": "編集部",
+          "description": "Image:Midjourney順番待ちしなくていいとか、調べなくていいとか、ちょっとお安くなるとか。日々の生活に密着したなかで、“あるとちょっと便利”なアプリの話、ギズモード編集部員に聞いてみました。あなたがよく使ってるお店にも、便利なアプリがあるかも？スターバックスジャパン公式モバイルアプリカスタムの種類が多いから？スタバってレジに列が並んでいること多い気が。アプリ経由でモバイルオーダーすれば",
+          "link": "https://www.gizmodo.jp/2024/05/smartphone-app.html",
+          "publishedOn": "2024-05-05T02:00:00.000Z",
+          "wordCount": 377,
+          "title": "スマホに入れとくとちょっといい“生活密着系アプリ”、なに使ってます？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/30/app.png"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/30/app.png"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/apple-pencil-haptic-feedback.html",
+          "author": "はらいさん",
+          "description": "Appleの内部情報に詳しいBloombergのMark Gurman（マーク・ガーマン）記者が、まもなく発表の新型Apple Pencilはシリーズ史上初めて触覚フィードバックに対応するモデルになると伝えています。",
+          "link": "https://www.gizmodo.jp/2024/05/apple-pencil-haptic-feedback.html",
+          "publishedOn": "2024-05-05T01:00:00.000Z",
+          "wordCount": 388,
+          "title": "まもなく発表の新型Apple Pencil、「書き心地」がリアルになるかも",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/30/ipad-pro_creative-sketch_10302018.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/30/ipad-pro_creative-sketch_10302018.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/g-chock-ga-2100mng.html",
+          "author": "岡本玄介",
+          "description": "G-SHOCKの「GA-2100MNG-7AJR」と「GA-2100MNG-2AJR」は、日本のマンガを意識して生まれた「MANGA THEME」シリーズです。",
+          "link": "https://www.gizmodo.jp/2024/05/g-chock-ga-2100mng.html",
+          "publishedOn": "2024-05-05T00:00:00.000Z",
+          "wordCount": 386,
+          "title": "これ、実写です。マンガ風になったG-SHOCK",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/05/01/240502_gshock.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/05/01/240502_gshock.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/scientific-sugoi-stories.html",
+          "author": "中川真知子,そうこ,かみやまたくみ,岩田リョウコ",
+          "description": "Image:ChristiaanStopforth,DroneFanaticsSA,Ttatty/Shutterstock.com,NASA,Shutterstock「えっ、なにそれ？」そんな風に思ってしまう、あまり聞いたこともないような話が科学の世界には転がっています。新しい発見を中心に、4つ、ご紹介します。1.古代エジプトのミイラは寄生虫だらけImage:Ttatty/Shutterstock",
+          "link": "https://www.gizmodo.jp/2024/05/scientific-sugoi-stories.html",
+          "publishedOn": "2024-05-04T13:00:00.000Z",
+          "wordCount": 409,
+          "title": "トンデモナイ感じがするけど科学的な話 4選",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/26/240426_scientific-sugoi-matome.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/26/240426_scientific-sugoi-matome.jpg"
+        },
         {
           "id": "https://www.gizmodo.jp/2024/05/iphone-home-lock-screen.html",
           "author": "chisato kuroda",
@@ -2136,126 +2296,6 @@
             "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/22/240423_qidi.jpg"
           },
           "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/22/240423_qidi.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/04/iphone-selfie-stand.html",
-          "author": "小暮ひさのり",
-          "description": "Image:Amazonずっとあなただけを。撮影でもライブ配信でも、なんならVTuberのモーショントラッキングにも。今さら言う事ではないかもしれませんが、iPhoneってもうすっかり「機材」。そんななかでもiPhone×撮影体験をさらにキモチよくさせてくれそうなのが、この「BelkinStandPro」。なんだか古のMacみもあるデザインですが、こちら自撮り用ジンバルスタンド（充電もできるよ）と",
-          "link": "https://www.gizmodo.jp/2024/04/iphone-selfie-stand.html",
-          "publishedOn": "2024-04-29T00:00:00.000Z",
-          "wordCount": 435,
-          "title": "iPhoneで自撮りしてるひと、みんなコレ買ったほうが良くない？",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/26/2024-04-26suk00.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/26/2024-04-26suk00.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/04/uchu-zatsugaku-matom.html",
-          "author": "編集部",
-          "description": "2012年にNASAのGalaxyEvolutionMapper（宇宙進化地図）が捉えたアンドロメダ星雲。Image:NASA/JPL-Caltech約465億光年の広さと言われている宇宙は、私たちの知らないことで溢れています。時間に余裕のあるゴールデンウィークの真っ只中、ちょっとだけ宇宙について学んでみませんか？誰かに話したくなっちゃうような、サクッと読めるおもしろい話をまとめてみました。惑星の",
-          "link": "https://www.gizmodo.jp/2024/04/uchu-zatsugaku-matom.html",
-          "publishedOn": "2024-04-28T13:00:00.000Z",
-          "wordCount": 404,
-          "title": "おもわず誰かに話したくなる。サクッと読める宇宙の雑学まとめ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/26/1ced41dd51c3bcaae2b32e3ea5760d04.jpeg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/26/1ced41dd51c3bcaae2b32e3ea5760d04.jpeg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/04/muji_matome.html",
-          "author": "編集部",
-          "description": "痒い所に手が届き、インテリアの邪魔もしない絶妙なアイテムの宝庫「無印良品」。そんな無印で見つけた、家の居心地をグッと良くしてくれるアイテムを3つまとめました。キッチンが居場所になるスツールPhoto:haco気付いたら居るのがキッチン。例えばある時は、煮物をコトコト煮込んでいる間にスマホで返信をしたり、音楽を楽しんだり。またある時は、カウンター越しに家族と話をしたり。手を動かしながら聞くこともあれ",
-          "link": "https://www.gizmodo.jp/2024/04/muji_matome.html",
-          "publishedOn": "2024-04-28T11:00:00.000Z",
-          "wordCount": 382,
-          "title": "圧倒的に家の居心地をよくする、無印のアイテムまとめ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/23/muji1.jpeg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/23/muji1.jpeg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/04/daiso-led-light.html",
-          "author": "oh!ga",
-          "description": "photoby:oh!gaトイレやクローゼットなど、ちょっとしたところに灯りが欲しいと思ったことは誰でもあるはず。お気に入りのランプや照明を置いてももちろん良いですが「とりあえず灯りがほしいな」とか、「そんなにかっちりとしたものでないくてもいいな」という人向けな、なんにも気にせずに使えるライトがダイソーにありましたよ。USB直挿しで光るシンプルなライトダイソーの「USBナイトライト」です。電球形も",
-          "link": "https://www.gizmodo.jp/2024/04/daiso-led-light.html",
-          "publishedOn": "2024-04-28T10:00:00.000Z",
-          "wordCount": 377,
-          "title": "USBポートに挿せば光るダイソーのLEDライト。常夜灯や非常用に",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/21/nightlight_20240420_4.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/21/nightlight_20240420_4.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/04/new-form-of-ice-1.html",
-          "author": "Mme.Valentin/Word Connection JAPAN",
-          "description": "氷の種類というと、クラッシュアイスやキューブアイスだけじゃつまらないと思っているなら、考えてみて。研究者たちは、固体でありながら液体の水のような無秩序な分子構造を持つ「氷」を発見したのです。",
-          "link": "https://www.gizmodo.jp/2024/04/new-form-of-ice-1.html",
-          "publishedOn": "2024-04-28T07:35:00.000Z",
-          "wordCount": 383,
-          "title": "水みたいな氷が発見されました",
-          "enclosure": {
-            "length": "0",
-            "type": "image/webp",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/02/17/d2d76ad9cf3b81e9332267b2c3f0c45a.png.webp"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/02/17/d2d76ad9cf3b81e9332267b2c3f0c45a.png.webp"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/04/muji-sticker.html",
-          "author": "良品生活",
-          "description": "Photo:良品生活ROOMIE2023年8月14日掲載の記事より転載次々と新作が登場する無印良品。今年もさまざまなアイテムが登場していますね。今回は、誰もが一度はイラッ！としたことのあるアレを解決するアイテムを紹介します。無印良品の「滑り止めシール」無印良品衣類すべり止めシール無印良品の「衣類すべり止めシール」です、洗濯コーナーで見つけました。きっと誰しもが一度は経験したことのある、これ。ハンガ",
-          "link": "https://www.gizmodo.jp/2024/04/muji-sticker.html",
-          "publishedOn": "2024-04-28T05:35:00.000Z",
-          "wordCount": 389,
-          "title": "無印良品のシールで「ただのハンガー」がこんなに使いやすくなるなんて…",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/23/4.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/23/4.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/04/sunglass-gw-2024.html",
-          "author": "編集部",
-          "description": "Image:Midjourney日差しの眩しい季節になってきました。過ごしやすく気分も良い陽気ですが、5月は紫外線UVAが最大といわれているので、紫外線対策は必須。ゴールデンウィーク中に、屋外でアクティヴに過ごす時間が長いなら、機能＆デザイン性を備えたサングラスをチョイスして。ZoffImage:Zoff老若男女から人気のZoff（ゾフ）ですが、今季はサングラスのラインナップもさらに豊富に。レンズ",
-          "link": "https://www.gizmodo.jp/2024/04/sunglass-gw-2024.html",
-          "publishedOn": "2024-04-28T03:00:00.000Z",
-          "wordCount": 382,
-          "title": "紫外線量増加シーズン到来の前に。サングラスメーカー3選",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/22/In_the_desert_under_the_strong_sunlight_a_black_92baa600-6877-45c4-a8eb-33693f2a5bc0_1-1.png"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/22/In_the_desert_under_the_strong_sunlight_a_black_92baa600-6877-45c4-a8eb-33693f2a5bc0_1-1.png"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/04/casio-baby-g-plus.html",
-          "author": "岡本玄介",
-          "description": "CASIOからベゼルとバンドを外してチャームとしても使える腕時計新シリーズ「BABY-G＋PLUS」発売。",
-          "link": "https://www.gizmodo.jp/2024/04/casio-baby-g-plus.html",
-          "publishedOn": "2024-04-28T01:00:00.000Z",
-          "wordCount": 386,
-          "title": "アレンジして遊んじゃお。ウォッチとチャームの2Way仕様BABY-G",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/24/240425_babyg.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/24/240425_babyg.jpg"
         }
       ]
     }
