@@ -2,10 +2,146 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hmhv.github.io/reader/index.html</id>
     <title>hmhv::news</title>
-    <updated>2024-05-05T12:24:32.817Z</updated>
+    <updated>2024-05-06T12:26:56.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hmhv.github.io/reader/index.html"/>
     <link rel="self" href="https://hmhv.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11のスタートメニューに表示される広告を消す方法]]></title>
+        <id>https://www.gizmodo.jp/2024/05/how-to-turn-off-start-menu-ads-in-windows-11.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/how-to-turn-off-start-menu-ads-in-windows-11.html"/>
+        <updated>2024-05-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft（マイクロソフト）が、Windows 11のスタートメニューに広告を表示するというアップデートをリリースしました。この広告を非表示にする方法を解説します。]]></summary>
+        <author>
+            <name>ヨコヤマコム</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[案外見逃しがち。節約のためにiPhoneのモバイル通信をチェックしよう]]></title>
+        <id>https://www.gizmodo.jp/2024/05/check-iphone-mobile-communication.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/check-iphone-mobile-communication.html"/>
+        <updated>2024-05-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[モバイル通信量の消費を抑えて節約するための方法。]]></summary>
+        <author>
+            <name>はらいさん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[氷が13日間溶けない。冗談みたいな高スペッククーラーボックスを見つけた]]></title>
+        <id>https://www.gizmodo.jp/2024/05/iris-ohyama-hugel-coolerbox.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/iris-ohyama-hugel-coolerbox.html"/>
+        <updated>2024-05-06T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アイリスオーヤマのクーラーボックス「HUGEL」は13日間という驚異的な保冷機能。アウトドアのお供に。]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[押入れで眠るCDを復活させられる逸品]]></title>
+        <id>https://www.gizmodo.jp/2024/05/syitren-cd-audio-player-1.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/syitren-cd-audio-player-1.html"/>
+        <updated>2024-05-06T07:35:00.000Z</updated>
+        <summary type="html"><![CDATA[カセットプレイヤーは素敵なモノがあるのに、CDとなるとなかなか良いのが見つからない....。そんなとき、海外のECサイトでおしゃれなCDプレイヤーを見つけました！]]></summary>
+        <author>
+            <name>武者良太</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[改札で困らないように　モバイルSuicaで「オートチャージ」を設定する方法]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2405/06/news039.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2405/06/news039.html"/>
+        <updated>2024-05-06T06:02:00.000Z</updated>
+        <summary type="html"><![CDATA[いちいちカードを取り出すことなく、手に持ったスマートフォンをかざすだけで改札を通れるモバイルSuica。たまに定期外の区間を乗ろうとしたら、残高不足で改札を通れないなんてことも起こりがち。モバイルSuicaでオートチャージを設定する方法を解説します。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ahamo、「機種割引キャンペーン」を利用者が22歳以下で適用可能に]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1588940.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1588940.html"/>
+        <updated>2024-05-06T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモは、オンライン専用料金ブランド「ahamo」において、「機種割引キャンペーン」の条件を、「購入時に契約者が22歳以下の場合」から、「購入時に利用者が22歳以下の場合」に変更した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[パケ節約にも役立つ「マップ」アプリをオフラインで使う方法]]></title>
+        <id>https://www.gizmodo.jp/2024/05/how-to-use-map-apps-offline.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/how-to-use-map-apps-offline.html"/>
+        <updated>2024-05-06T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple純正の「マップ」アプリと「Google（グーグル）マップ」アプリをオフラインで使う方法。]]></summary>
+        <author>
+            <name>はらいさん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ホラー映画ファンなら絶対欲しくなる生首型ポップコーンバケット]]></title>
+        <id>https://www.gizmodo.jp/2024/05/art-the-clown-head-shaped-popcorn-bucket.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/art-the-clown-head-shaped-popcorn-bucket.html"/>
+        <updated>2024-05-06T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[10月に続編が公開される『テリファー』のアート・ザ・クラウンの生首を模したポップコーンバケットが作られるかも。]]></summary>
+        <author>
+            <name>中川真知子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[まさか「写真」も？ iOS18ではお馴染みのアプリたちが刷新するかも]]></title>
+        <id>https://www.gizmodo.jp/2024/05/ios-18-application-renewal.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/ios-18-application-renewal.html"/>
+        <updated>2024-05-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[まだ開発段階でどんな機能が？は謎に包まれているiOS 18ですが、Appleの情報に詳しいBloombergのマーク・ガーマン記者は、複数の標準アプリが刷新されるとのこと。]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型iPadは”タブレット型ノートPC”を目指す？新型iPad AirはM2チップ搭載か]]></title>
+        <id>https://gori.me/?p=152862</id>
+        <link href="https://gori.me/ipad/ipadair/152862"/>
+        <updated>2024-05-05T21:50:49.000Z</updated>
+        <summary type="html"><![CDATA[Appleは、日本時間5月7日に開催する新製品発表イベント「Let Loose」（何でもあり）で披露する可能性が高い新型iPadシリーズでノートPCを置き換える存在になることを目論んでいる。Appleに詳しいBloombergの名物記者Mark Gurman氏の最新ニュースレターによると、iPadを…
+The post 新型iPadは”タブレット型ノートPC”を目指す？新型iPad AirはM2チップ搭載か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appleのハードウェア売上は下り坂、サービス売上は最高を更新。2024年度第2四半期業績発表]]></title>
+        <id>https://gori.me/?p=152861</id>
+        <link href="https://gori.me/apple/apple-news/152861"/>
+        <updated>2024-05-05T21:16:12.000Z</updated>
+        <summary type="html"><![CDATA[Appleは5月3日、2024年度第2四半期（2024年1月〜3月期）の決算を発表した。売上高は907億ドル、純利益は236億ドル。昨年同時期比で売上高は4.3％減、純利益は2.2％減となった。 ハードウェアの販売不振が原因と見られる。欧米以外では10％前後の売上減が見られており、中国におけるiPh…
+The post Appleのハードウェア売上は下り坂、サービス売上は最高を更新。2024年度第2四半期業績発表 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[DATAで見るケータイ業界] 2022年度は基地局工事の65%が全国系大手エンジニアリング会社3社に]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/mca/1588844.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/mca/1588844.html"/>
+        <updated>2024-05-05T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MCAは携帯電話基地局市場の調査を実施し、その結果を調査資料「携帯電話基地局及び周辺部材市場の現状と将来予測 2023年版」として取りまとめた。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モバイルバッテリー一体型なら懐中電灯を毎日持ち歩けます]]></title>
+        <id>https://www.gizmodo.jp/2024/05/de-m20l-3350.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/de-m20l-3350.html"/>
+        <updated>2024-05-05T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:小暮ひさのり「持っておいてもいい」理由があります。防災アイテムの中には、"防災バッグに突っ込んでおく"で終わりになってしまうモノもありますが、いくら防災と言えど、そのままではもったいなくないですか？そこで、普段から使える防災グッズとして、僕が使っているのがエレコムの「防災LED付モバイルバッテリーDE-M20L-3350シリーズ」。エレコムモバイルバッテリー3350mAh小型LED機能]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GWのUターンラッシュでスマホを活用する技　道路の渋滞情報と、電車の混雑状況を確認しやすいアプリはどれ？]]></title>
         <id>https://www.itmedia.co.jp/mobile/articles/2405/05/news047.html</id>
@@ -1738,195 +1874,6 @@ The post iOS/iPadOS 17.5やmacOS 14.5のbeta 4、開発者向けに配信開始 
         <summary type="html"><![CDATA[Image:THENORTHFACE通気性もバッチリで、靴擦れも防いでくれる靴下。この時期から出番の増える「サンダル」。長時間履いたり気温が上がってきたりすると、足裏にまで汗をかいてサンダルの上で足がすべる、なんてことも…。THENORTHFACEの新作「TNFストラップサンダルソックス（ユニセックス）」と「TNFフリップサンダルソックス（ユニセックス）」は通気性をそこなわず、足汗の不快感を軽減し]]></summary>
         <author>
             <name>mio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ぬるぬるにリアルなハンドトラッキングが可能なVRヘッドセット]]></title>
-        <id>https://www.gizmodo.jp/2024/04/dpvr-e4-arc.html</id>
-        <link href="https://www.gizmodo.jp/2024/04/dpvr-e4-arc.html"/>
-        <updated>2024-04-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DPVRからUltraleapのLeap2ことリープモーションコントローラー2を内蔵したVRヘッドセット「E4 Arc」発表。]]></summary>
-        <author>
-            <name>武者良太</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vision Proの次期モデル、2026年末より前に登場する可能性は低い]]></title>
-        <id>https://gori.me/?p=152827</id>
-        <link href="https://gori.me/apple-vision/vision-pro/152827"/>
-        <updated>2024-04-29T22:54:28.000Z</updated>
-        <summary type="html"><![CDATA[Apple Vision Proの第2世代モデルは、2026年末以前に登場する可能性は低い。Appleに詳しいBloombergの名物記者Mark Gurman氏の最新ニュースレターによると、Appleは低価格帯のモデル投入は検討しているものの、価格を下げる方法について戸惑っているという。 【関連】…
-The post Vision Proの次期モデル、2026年末より前に登場する可能性は低い first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 16 ProはiPhone 16よりちょっとだけ大きい。サイズの違いが分かるダミーモデルの写真が公開]]></title>
-        <id>https://gori.me/?p=152824</id>
-        <link href="https://gori.me/iphone/iphone-news/152824"/>
-        <updated>2024-04-29T22:36:11.000Z</updated>
-        <summary type="html"><![CDATA[@SonnyDicksonより 2024年の新型iPhone（iPhone 16シリーズ）全機種のダミーモデルと見られる写真が投稿された。iPhone 15は同じディスプレイサイズを持つ機種が標準モデルとProモデルで用意されていたが、「iPhone 16」シリーズはProモデルのほうがディスプレイ…
-The post iPhone 16 ProはiPhone 16よりちょっとだけ大きい。サイズの違いが分かるダミーモデルの写真が公開 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[充電器に載せたiPhoneがジンバルに早変わり　米Belkinによる“逆転の発想”は誰向けか]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2404/30/news075.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2404/30/news075.html"/>
-        <updated>2024-04-29T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[米Belkinの日本法人であるベルキン（東京・中央区）は2024年4月25日、充電器1台でiPhoneの充電とジンバル撮影の2役をこなせる新製品を発売した。価格は2万9900円（税込み）。充電器に設置したiPhoneのカメラで動く人を自動追尾し、充電しながら撮影／録画を行える。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[藤岡雅宣の「モバイル技術百景」] モバイル通信とネットワークにAI（人工知能）は何をもたらすのか]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/column/fujioka/1588195.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/column/fujioka/1588195.html"/>
-        <updated>2024-04-29T15:01:00.000Z</updated>
-        <summary type="html"><![CDATA[モバイル通信業界最大の見本市である「MWC」は、今年2024年も2月末にスペイン・バルセロナで開催されましたが、最もホットなテーマはモバイル通信にAIをどのように取り込んでいくかということでした。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[本日の一品]新しい「USB-Aポート付きクリップタップ」はレガシーデバイスにも対応できる万能タップ]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1587917.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1587917.html"/>
-        <updated>2024-04-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[新幹線や航空機の座席にACコンセントやUSBポートが備えられるようになってどのくらい経ったのか忘れてしまった。昔は上海行きのANAビジネスの機内にはひじ掛け下にイーサネットのポートがあったころもあったがWi-Fiの規格化、進化や安全面を考慮して昨今はほぼ全面的に無線LANが採用されている。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[みんなのケータイ]欧州サッカーや映画、ドラマをおトクに楽しめるMVNO？]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/column/minna/1587876.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/column/minna/1587876.html"/>
-        <updated>2024-04-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「いよいよ今シーズンも終盤に近づき……」って書いても人によっては、「いや、シーズンは開幕したばかりだけど……」なんて返されてしまうかもしれないけど、シーズン終盤を迎えつつあるのは欧州サッカーの話。筆者はサッカーが大好きで、海外のスタジアムにも何度か足を運び、試合を観戦してきた。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最近あった“スケール”がデカい発見 5選]]></title>
-        <id>https://www.gizmodo.jp/2024/04/big-scales-matome.html</id>
-        <link href="https://www.gizmodo.jp/2024/04/big-scales-matome.html"/>
-        <updated>2024-04-29T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:SchmidtOceanInsitute,Guoetal.,Front.CellDev.Biol.2024,AstonUniversity,NASA/JPL-Caltech/SwRI/MSSSImageprocessing:KevinM.Gill物理的な大きさ、規模感、量、タイムスケール。「スケール」にもいろいろあります。2024年前半、科学技術分野であった「いろんな意味で大きい発見」]]></summary>
-        <author>
-            <name>福田ミホ,湯木進悟,かみやまたくみ,岩田リョウコ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Pixelの画面の動きを｢キビキビ｣にする方法]]></title>
-        <id>https://www.gizmodo.jp/2024/04/google-pixel-124.html</id>
-        <link href="https://www.gizmodo.jp/2024/04/google-pixel-124.html"/>
-        <updated>2024-04-29T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:山田ちとらいろいろと動きがあって楽しいGooglePixelのスマートフォン。Android12OS以降から実装されているアニメーション機能が、操作をよりわかりやすく、より親しみやすくしています。ただし、ゆるやかな動きが多いため、アニメーション機能を無効化することで、Pixelスマホの操作性を劇的にスピードアップできますよ。アニメーション機能のいいところGIF:山田ちとらPixelスマ]]></summary>
-        <author>
-            <name>山田ちとら</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[背中に密着するバックパック。冷んやりする背あて部でグッと快適に]]></title>
-        <id>https://www.gizmodo.jp/2024/04/thanko_cool_bagpack2.html</id>
-        <link href="https://www.gizmodo.jp/2024/04/thanko_cool_bagpack2.html"/>
-        <updated>2024-04-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:THANKOむしろ密着していた方が涼しい。これから猛暑が訪れますが、いくら暑くても外出時に荷物を減らせないことがあるかと思います。手提げカバンならまだしも、バックパック類は隙間なく背中に密着しており、そこが汗でベッタリになります。不快な一方で、両手が使えるメリットもあるんですよね。見た目はシンプルなバッグなのに？サンコーの「クーリュック２」は、背中とくっつくバッグ背面に3枚の冷却プレー]]></summary>
-        <author>
-            <name>岡本玄介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[povo2.0の約1万円の使い放題、よく考えるとめっぽう安い]]></title>
-        <id>https://www.gizmodo.jp/2024/04/povo-2-9834.html</id>
-        <link href="https://www.gizmodo.jp/2024/04/povo-2-9834.html"/>
-        <updated>2024-04-29T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[auのオンラインブランド「povo2.0」から、新プラン「データ使い放題（7日間）×12回分 … 9,834円」が発表されました。]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「X（旧Twitter）」で障害か　29日夕]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1588158.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1588158.html"/>
-        <updated>2024-04-29T08:24:57.000Z</updated>
-        <summary type="html"><![CDATA[29日16時半過ぎから、SNSの「X」（旧Twitter）を利用しづらい状況となっている。障害が発生している可能性があるものの、X側の公式アカウントのひとつである「@Support」や、Xをリードするイーロン・マスク氏の投稿も参照できない。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソファのように快適なオフィスチェア、仕事も休憩も捗るよ]]></title>
-        <id>https://www.gizmodo.jp/2024/04/sanwa-direct-chair-150snc132-2.html</id>
-        <link href="https://www.gizmodo.jp/2024/04/sanwa-direct-chair-150snc132-2.html"/>
-        <updated>2024-04-29T07:35:00.000Z</updated>
-        <summary type="html"><![CDATA[サンワダイレクトからチェア「150-SNC132」発売。ソファのようなふあふあの座り心地。]]></summary>
-        <author>
-            <name>岡本玄介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無印から、最新遮熱システム搭載ハットまで。そろそろ準備したい帽子まとめ]]></title>
-        <id>https://www.gizmodo.jp/2024/04/hat-2024-gw.html</id>
-        <link href="https://www.gizmodo.jp/2024/04/hat-2024-gw.html"/>
-        <updated>2024-04-29T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:無印良品,karrimor,Photo:シラクマこれから日差しが強くなる時期に向けて、ハットは必須アイテム。日焼け対策ももちろん、直射日光の遮熱効果も期待できるので体感温度も下がります。ギズモードでとりあげてきたハットをおさらいしてみましょう。＊どのアイテムも執筆時点でまだ購入できます。無印良品Image:無印良品無印良品の新作「UVカット日陰を持ち歩く」シリーズは、UVカット率90％]]></summary>
-        <author>
-            <name>編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パパミーWeekly：親子一丸となって全力の運動会]]></title>
-        <id>https://gori.me/?p=152812</id>
-        <link href="https://gori.me/papa/fun-with-kids/152812"/>
-        <updated>2024-04-29T02:02:40.000Z</updated>
-        <summary type="html"><![CDATA[パパミー子育てWeeklyは、1週間の子育てを振り返るコーナー。様々な:”肩書き”がある中、子育ては1日の大部分を占める重要な要素であり、子ども達の成長を全力で支えるパパ視点のストーリーを定期更新している。 子どもの運動会に参加してきた。本来であれば運動会を「見てきた」というものだと思うが、娘の学校…
-The post パパミーWeekly：親子一丸となって全力の運動会 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ROG Phone 8（グローバル版）」を試す　“とがったゲーミングスマホ”から“普段使いに適したスマホ”へ変化]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2404/29/news030.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2404/29/news030.html"/>
-        <updated>2024-04-29T01:10:00.000Z</updated>
-        <summary type="html"><![CDATA[2024年1月のCESで発表され、デザインやコンセプトが一新された「ROG Phone 8」に注目が集まった。同社では「第3世代」と称するレベルの進化を遂げた。先行販売されている海外版を元にレビューしたい]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ダイソーで110円の「ガラスコーティング液」は本当に使える？　試してみた結果]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2404/27/news045.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2404/27/news045.html"/>
-        <updated>2024-04-29T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[100円ショップなどで安価に購入できるガジェットを実際に購入し、試してみる連載。今回はダイソーにおいて110円で売っている「ガラスコーティング液」を試してみた。傷や水ぬれを完全に防護することはできないものの、指紋の付着を防ぐ効果はある。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スポーツでの勝利をサポートしてくれるARグラス]]></title>
-        <id>https://www.gizmodo.jp/2024/04/ar-glass-vida.html</id>
-        <link href="https://www.gizmodo.jp/2024/04/ar-glass-vida.html"/>
-        <updated>2024-04-29T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:QIDISF映画のような視界が広がる！メガネの向こうに見える現実世界と、レンズに投影させた画像を重ねて見ることができるAR（オーグメンテッド・リアリティー）技術。手軽に体験できるのがARグラスなのですが、それをスポーツに特化させたのがQIDIのAI搭載「Vida」です。スポーツのアシストにARグラス眼前に表示されるのは、たとえばジョギングや自転車での心拍数やナビゲーション。登山時の標高]]></summary>
-        <author>
-            <name>岡本玄介</name>
         </author>
     </entry>
 </feed>
