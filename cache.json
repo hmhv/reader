@@ -6,6 +6,16 @@
       "siteUrl": "https://gori.me",
       "articles": [
         {
+          "id": "https://gori.me/?p=153178",
+          "author": "g.O.R.i",
+          "description": "デスク用の照明として、BenQ ScreenBar Haloを愛用してきたが、5月13日に最新モデル「BenQ ScreenBar Pro」が登場した。 主な特徴は、以下のとおり。 広範囲照明：ウルトラワイドからデュアルモニターまで対応。 高照度：中央照度が1000ルクスを超える。 リアルタイム自動…\nThe post BenQ ScreenBar Pro：史上最大の照明範囲、自動点灯・消灯機能付き first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/mac-accessories/mac-prepherial/153178",
+          "publishedOn": "2024-05-18T21:30:39.000Z",
+          "wordCount": 1608,
+          "title": "BenQ ScreenBar Pro：史上最大の照明範囲、自動点灯・消灯機能付き",
+          "imageUrl": "https://gori.me/uploads/2024/05/BenQ-ScreenBar-Pro-Review-06-1-800x534.jpg"
+        },
+        {
           "id": "https://gori.me/?p=153197",
           "author": "g.O.R.i",
           "description": "テレビアニメ「まんが日本昔ばなし」のエンディングテーマを様々な人気楽曲をマッシュアップするシリーズが最高に面白い。 KYSさん（YouTubeチャンネルは「KYS動画研究所」）の「『にんげんっていいな』だと思ったら○○だった」シリーズは、各所で話題になっているパロディー動画。「なんにも思い出せない『…\nThe post 「『にんげんっていいな』だと思ったら○○だった」シリーズが好きすぎる first appeared on ゴリミー.\n\n 【もっと読む】",
@@ -344,16 +354,6 @@
           "wordCount": 1512,
           "title": "Pixel 8aのカメラを夢の国で試す",
           "imageUrl": "https://gori.me/uploads/2024/05/This-is-the-Pixel-8a-04-800x533.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=153024",
-          "author": "g.O.R.i",
-          "description": "OpenAIが、マルチモーダルの音声AIアシスタントを発表する可能性がある。The Informationによるとすでに一部の顧客に対して披露しており、従来と比べて画像や音声をより速く、正確に認識できるという。 マルチモーダルとは、テキスト・画像・音声・動画など様々なデータをまとめて処理できるAI技…\nThe post OpenAI、マルチモーダルの音声AIアシスタントを発表か first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/it/153024",
-          "publishedOn": "2024-05-12T22:44:37.000Z",
-          "wordCount": 1509,
-          "title": "OpenAI、マルチモーダルの音声AIアシスタントを発表か",
-          "imageUrl": "https://gori.me/uploads/2023/05/OpenAI-ChatGPT-on-iPhone-800x500.jpg"
         }
       ]
     },
@@ -362,6 +362,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/mobile.xml",
       "siteUrl": "https://www.itmedia.co.jp/mobile/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2405/04/news002.html",
+          "author": null,
+          "description": "100円ショップでは、手頃な価格のガジェットが販売されている。果たして、実用に耐えうるものなのだろうか……？　今回はダイソーにおいて110円で販売されている「スマートフォンレンズセット」を試してみよう。半信半疑で使ってみたが、果たして……？",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2405/04/news002.html",
+          "publishedOn": "2024-05-19T02:30:00.000Z",
+          "wordCount": 2832,
+          "title": "ダイソーで110円の「スマートフォンレンズセット」を半信半疑で試してみる　「魚眼」は実用可能",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2405/04/cover_news002.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2405/19/news003.html",
+          "author": null,
+          "description": "「Apple Watch Series 9」（以下、Apple Watch）を紛失した。発見時、Apple Watchは予想もしない場所にあった。どうやって発見に至ったのか。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2405/19/news003.html",
+          "publishedOn": "2024-05-19T01:00:00.000Z",
+          "wordCount": 2883,
+          "title": "Apple Watchを外出時にほぼ持ち出さなくなった理由",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2405/19/l_rk1640414_AppleWatch-01.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/mobile/articles/2405/18/news064.html",
           "author": null,
@@ -1101,16 +1121,6 @@
           "wordCount": 2860,
           "title": "ドコモの「Xperia 1 V」「Xperia 5 V」、着信時などの不具合を解消するアップデート実施",
           "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2405/13/l_asa_dXperia1VSO51D_01.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2405/12/news029.html",
-          "author": null,
-          "description": "ドコモのサブブランドirumo、ソフトバンクのサブブランドY!mobileと、auのサブブランドUQ mobileでは、メインブランドに劣らないキャンペーンを実施している。大手MNOのブランドでもあるため、PayPayポイントやau PAY残高でのポイント還元特典が多い。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2405/12/news029.html",
-          "publishedOn": "2024-05-12T03:00:00.000Z",
-          "wordCount": 2885,
-          "title": "irumo、Y!mobile、UQ mobileのキャンペーンまとめ【5月12日最新版】　ミドルスマホ高額割引や最大10万ポイント還元など多数",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2405/12/cover_news029.jpg"
         }
       ]
     },
@@ -2275,36 +2285,6 @@
           "wordCount": 5339,
           "title": "楽天モバイル、法人ユーザーの「口座振替」払いをスタート",
           "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1590/833/cont0.png"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/column/minna/1590729.html",
-          "author": null,
-          "description": "今や日常にすっかり根付いたスマホ決済。筆者はケータイ Watch編集部員ということもあって、各社のサービスをそれぞれ利用するようにしています。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/1590729.html",
-          "publishedOn": "2024-05-12T15:01:00.000Z",
-          "wordCount": 5345,
-          "title": "[みんなのケータイ]PayPayの「ポイント運用」が大幅マイナスから逆転黒字化した",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1590/729/01.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1590669.html",
-          "author": null,
-          "description": "筆者が人生で初めて買ったプログラミング可能なセイコーの“腕コン”（腕時計コンピューター）の発売は1984年だった。その後もいろいろな会社から発売された腕コンやパソコン、ネットワークと連携する腕時計コンピューターを何十台も買い続け40年たった。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1590669.html",
-          "publishedOn": "2024-05-12T15:01:00.000Z",
-          "wordCount": 5394,
-          "title": "[本日の一品]ソニーの“wena 3”付き、「スピニカー」の腕時計を半額でゲット",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1590/669/21.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/column/stapa/1590744.html",
-          "author": null,
-          "description": "2024年3月27日に買ったM3 MacBook Air 13インチ。スペックは2TB SSDストレージ・24GBユニファイドメモリ・USキーボードで、ストレージとメモリーは最大容量とした。バッテリーのもちもよく画面も見やすくTouch IDでのログインもスムーズで、たいへん快適に利用できている。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/1590744.html",
-          "publishedOn": "2024-05-12T15:00:00.000Z",
-          "wordCount": 5468,
-          "title": "[スタパ齋藤の「スタパトロニクスMobile」]携帯性がいいモバイル向けマウスはどれだ！　M3 MacBook Airの相棒を探すッ!!!",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1590/744/stptncs2024-05-13thumbnail.jpg"
         }
       ]
     },
@@ -2313,6 +2293,201 @@
       "feedUrl": "https://www.gizmodo.jp/index.xml",
       "siteUrl": "https://www.gizmodo.jp",
       "articles": [
+        {
+          "id": "https://www.gizmodo.jp/2024/05/ios-18-voice-memo.html",
+          "author": "小暮ひさのり",
+          "description": "Image:AppStore仕事が楽になる未来が見える。毎年アップデートされるiPhoneのiOS。今秋には「iOS18」がリリース予定ですが、今年はどうやらAI機能と連動した大幅なアップデートが予感されています。そのひとつとしてまことしやかに語られているのが、「ボイスメモ」と「メモ」アプリの連携。AppleInsiderによると、これらのアプリの連携により音声録音からの文字起こし。そして、AIに",
+          "link": "https://www.gizmodo.jp/2024/05/ios-18-voice-memo.html",
+          "publishedOn": "2024-05-19T12:00:00.000Z",
+          "wordCount": 386,
+          "title": "iOS18は「メモ」で録音→文字起こし→AI要約までするらしい。最高では？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/05/17/2024-05-17mek00.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/05/17/2024-05-17mek00.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/iwatani-cbmsg1.html",
+          "author": "mio",
+          "description": "Image:Iwatani家焼肉のハードルをグンと下げてくれます。こちらの記事で紹介したイワタニの「やきまるII」。わが家にも導入してから半年が経ちました。さらにアップデートされた「マルチスモークレスグリル」は、やきまるの良さを引き継いださらに汎用性の高い1台なんです。煙をおさえつつ「おうち焼肉」Image:Iwataniやきまる同様にこのマルチスモークレスグリルがすごいのは、肉の脂が煙になるのを",
+          "link": "https://www.gizmodo.jp/2024/05/iwatani-cbmsg1.html",
+          "publishedOn": "2024-05-19T11:00:00.000Z",
+          "wordCount": 389,
+          "title": "油と熱をコントロール。煙を抑える焼肉グリル",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/05/07/20240507-iwatani-cbmsg1-01.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/05/07/20240507-iwatani-cbmsg1-01.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/mont-bell-u-l-stuff-bag.html",
+          "author": "OGMAX",
+          "description": "Photo:OGMAX季節の変わり目に活躍してくれるライトアウター。日中は半袖で過ごせる日も増えてきましたが朝晩はちょっと肌寒い今の時期にあると嬉しい一着ですよね。アウトドアブランドのライトアウターだとコンパクトに収納する為に専用の収納袋が付属していることも多いのですが、紛失してしまったりそもそも付属していないことも…。そんな持ち歩き用の収納袋がなくて困ってる方、モンベルに行けば解決しますよ。重量",
+          "link": "https://www.gizmodo.jp/2024/05/mont-bell-u-l-stuff-bag.html",
+          "publishedOn": "2024-05-19T10:00:00.000Z",
+          "wordCount": 393,
+          "title": "ライトアウターの持ち歩きは、6gのスタッフバッグで軽く＆コンパクトに",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/05/09/ogmax_202404mbs-9.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/05/09/ogmax_202404mbs-9.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/metamorph-poncho-ispa.html",
+          "author": "岡本玄介",
+          "description": "Image:NIKE何故このふたつをガッチャンコした!?アウトドアで使うアイテムで、あったら良いかも？というもののひとつがポンチョ。そしてテントほど密封しないけどサンシェイドも、荷物を置いて休憩する時に重宝します。どちらもちょっとかさばるのですが、もしふたつがフュージョンしたら？ウェアラブルな簡易テントスポーツウェアのNIKE（ナイキ）が展開する実験的なブランド「ISPA」が作ったのは、ポンチョと",
+          "link": "https://www.gizmodo.jp/2024/05/metamorph-poncho-ispa.html",
+          "publishedOn": "2024-05-19T09:00:00.000Z",
+          "wordCount": 396,
+          "title": "ナゼ？ ポンチョとして着られる簡易テント",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/05/07/240508_nike.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/05/07/240508_nike.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/work-using-starlink-1.html",
+          "author": "マエノケンタ",
+          "description": "Photo:ギズモード・ジャパン2023年3月13日の記事を編集して再掲載しています。どこにいても、インターネット。Starlink（スターリンク）は、イーロン・マスク率いる宇宙開発企業SpaceX（スペースエックス）社が提供する、衛星インターネットサービス。光ファイバーなどの物理的な回線を引かなくても、アンテナで上空の衛星と通信できさえすれば、誰でもどこでもインターネット環境がゲットできてしまう",
+          "link": "https://www.gizmodo.jp/2024/05/work-using-starlink-1.html",
+          "publishedOn": "2024-05-19T07:35:00.000Z",
+          "wordCount": 396,
+          "title": "イーロン・マスクの衛星通信「Starlink」で3日間生活してわかったこと",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/03/09/DSC00336.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/03/09/DSC00336.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/kinggim-set.html",
+          "author": "良品生活",
+          "description": "Photo:良品生活ROOMIE2024年2月17日掲載の記事より転載近年、災害が増えていますよね。車で立ち往生した、なんてニュースも目にします。車で待機しなければならない状況でも安心できるように、食料・水・トイレなど、生きるために最低限必要なものは車の中に入れておきたいですよね。何を用意すればいいかわからない、という皆さん。最初から必要なモノが揃ってる「非常用車載セット」で手軽に備えませんか？キ",
+          "link": "https://www.gizmodo.jp/2024/05/kinggim-set.html",
+          "publishedOn": "2024-05-19T05:35:00.000Z",
+          "wordCount": 402,
+          "title": "キングジムの非常用車載セットが「防災のはじめの一歩」に最適だった",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/05/07/top_9-2.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/05/07/top_9-2.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/kingjim_mini_stationery.html",
+          "author": "岡本玄介",
+          "description": "Image:KINGJIM小さいけど使い勝手も良し。文房具やオフィス用品で知られるKINGJIM（キングジム）から、オリジナル製品を手のひらサイズにした｢キングミニ｣シリーズが出たのが1年前。当時集めた人もいると思いますが、このたび第2弾が登場することになりました。ミニチュアサイズなのに実用的な文房具『キングミニ』シリーズに「キングファイルミニバインダー」「ミニデスクトレー」「ミニＧボックスＰP」",
+          "link": "https://www.gizmodo.jp/2024/05/kingjim_mini_stationery.html",
+          "publishedOn": "2024-05-19T04:00:00.000Z",
+          "wordCount": 406,
+          "title": "実用的なのがイイ。キングジム、話題のミニ文具第2弾",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/05/15/240516_kingjim.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/05/15/240516_kingjim.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/netflix-city-hunter-review.html",
+          "author": "中川真知子",
+          "description": "Image:NetflixJapanNetflix映画『シティーハンター』、みなさんはもう視聴しましたか。私は原作とアニメをこよなく愛し、是非とも自分でも『シティーハンター』を作ってみたいとアニメ業界の門戸を叩き、業界の端っこからレジェンドたち（『シティーハンター』のクリエイターたちのこと）に熱い眼差しを送っていたタイプのファンで、今回の日本初実写ドラマ化を期待半分不安半分で視聴しました。で、感動",
+          "link": "https://www.gizmodo.jp/2024/05/netflix-city-hunter-review.html",
+          "publishedOn": "2024-05-19T03:00:00.000Z",
+          "wordCount": 409,
+          "title": "Netflix映画『シティーハンター』ってなんでこんなにヒットしているの？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/05/17/CHJB9731_re_0416_FINAL.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/05/17/CHJB9731_re_0416_FINAL.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/steelseries-arctis-nova-5-wireless.html",
+          "author": "武者良太",
+          "description": "Image:amitoFPSで勝てるし、ゲームサウンドを心ゆくまで楽しめるヘッドセットでしょうコレ。SteelSeriesの新しいゲーミングヘッドセット「ArctisNova5ワイヤレス」がちょっと凄い。いや、かなり凄い。超高速ワイヤレス採用、バッテリーライフが60時間、15分充電で最大6時間駆動のUSB急速充電などの機能もあるけど、いちばん言いたいところはそこじゃない。フォートナイト、GTAV、",
+          "link": "https://www.gizmodo.jp/2024/05/steelseries-arctis-nova-5-wireless.html",
+          "publishedOn": "2024-05-19T02:00:00.000Z",
+          "wordCount": 407,
+          "title": "ゲームごとに\"最高の音\"をすぐに呼び出せるゲーミングヘッドセット",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/05/17/DSCF4157-1.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/05/17/DSCF4157-1.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/iphone_widget_news.html",
+          "author": "小暮ひさのり",
+          "description": "Image:AppStoreいまはもう、いません。iOS16から搭載されたiPhoneの「ウィジェット」機能。そのひとつ、ニュースのヘッドラインを表示する「News」ウィジェットが「いつの間にか機能が無くなっている」という報告が上がっています。僕のiPhoneでも確認したのですが、確かに…ない！redditの報告によると、この症状は日本だけではないみたい。どうやら定額制のニュースサービス「Appl",
+          "link": "https://www.gizmodo.jp/2024/05/iphone_widget_news.html",
+          "publishedOn": "2024-05-19T00:00:00.000Z",
+          "wordCount": 386,
+          "title": "iPhoneの「News」ウィジェット、別れも告げず居なくなるなんて…",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/05/17/2024-05-17nik00.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/05/17/2024-05-17nik00.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/star-wars-apple-mandalorian.html",
+          "author": "はらいさん",
+          "description": "Image:Apple/YouTubeマンダロリアンがiPhone15Proを使う理由とは？今年Apple（アップル）はiPhone15シリーズの最新機能を駆使するある1人の戦士に焦点をあてたショートムービーを公開しています。その名も「FindYourFriends」。マンダロリアンは基本マスクを被っているため、仲間を探すのに一苦労しているかもしれませんが、「最新のiPhoneを使えば特定の人物を",
+          "link": "https://www.gizmodo.jp/2024/05/star-wars-apple-mandalorian.html",
+          "publishedOn": "2024-05-18T23:00:00.000Z",
+          "wordCount": 400,
+          "title": "iPhoneを使いこなすマンダロリアンにニヤニヤが止まらない",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/05/17/iPhone15PrecisionFinding_FindYourFriends_Apple2-19screenshot.png"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/05/17/iPhone15PrecisionFinding_FindYourFriends_Apple2-19screenshot.png"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/sandisk-desk-drive.html",
+          "author": "ヤマダユウス型",
+          "description": "SanDiskからデスクトップ向け外付けSSDの最大容量記録を更新するやべぇ一台「SanDisk Desk Drive」が登場しました。その最大容量は……驚愕の、8TBッ！",
+          "link": "https://www.gizmodo.jp/2024/05/sandisk-desk-drive.html",
+          "publishedOn": "2024-05-18T22:00:00.000Z",
+          "wordCount": 405,
+          "title": "お弁当箱みたいなこれが、8TBの外付けSSDだって？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/05/08/240508sandiskdeskdrive_01.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/05/08/240508sandiskdeskdrive_01.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/05/thinkpad-p1-gen-7.html",
+          "author": "武者良太",
+          "description": "Image:Lenovoゲーミングノートにも採用してほしい！今までノートパソコンのメモリには、交換可能だけど今以上の転送速度が期待できないし消費電力も高いSO-DIMMか、高速なデータ転送が可能かつ低消費電力だけど基板に直付けしなければならないオンボード型のLPDDRが使われてきました。しかしレノボが発表した新型の「ThinkPadP1Gen7」は、SO-DIMMとLPDDRのいいとこどり。速いし",
+          "link": "https://www.gizmodo.jp/2024/05/thinkpad-p1-gen-7.html",
+          "publishedOn": "2024-05-18T13:30:00.000Z",
+          "wordCount": 399,
+          "title": "PCのメモリを重視する人へ。最新鋭メモリ採用のプロ向けマシン",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/05/09/02_ThinkPad_P1_Gen_7_Hero_Front_forward.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/05/09/02_ThinkPad_P1_Gen_7_Hero_Front_forward.jpg"
+        },
         {
           "id": "https://www.gizmodo.jp/2024/05/taiwan-plus-2024.html",
           "author": "シラクマ",
@@ -4007,186 +4182,6 @@
             "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/29/0003_MoFi_Electronics_Fender_PrecisionDeck_Sunburst_Left_High.jpeg"
           },
           "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/29/0003_MoFi_Electronics_Fender_PrecisionDeck_Sunburst_Left_High.jpeg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/05/how-to-stream-google-i-o.html",
-          "author": "ヨコヤマコム",
-          "description": "Image:GoogleGoogle（グーグル）が年に1度開催している開発者向けカンファレンスのGoogleI/Oが数日後に迫ってきました。Androidユーザーの方も、GoogleのエンジンやGeminiAIなどに興味がある方も、あるいはそのほかの方も、少しでも興味があればスケジュールを空けておくことをオススメします。基調講演は5月14日午前10時（日本時間5月15日深夜2時）からライブストリー",
-          "link": "https://www.gizmodo.jp/2024/05/how-to-stream-google-i-o.html",
-          "publishedOn": "2024-05-12T23:00:00.000Z",
-          "wordCount": 433,
-          "title": "Google I/Oは5月15日深夜2時から。リアルタイムで観る方法",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/05/10/20240510_78704_01.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/05/10/20240510_78704_01.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/05/bugatti-veyron-grand-sport-vitesse-transformers.html",
-          "author": "岡本玄介",
-          "description": "Image:Southeby's変形はしないけどね。クルマ好きならご存知であろう、ブガッティのハイパーカー「ヴェイロン」。いくつもの特別仕様車があり、最高時速410kmの「16.4グランスポーツヴィテッセ」もそのひとつ。2012年当時の価格は1億7200万円で、限定生産92台のレアモデルです。92台中の1台「ヴィテッセ」には、お金持ちの道楽により世界にたった1台の『トランスフォーマー』モデルが存在",
-          "link": "https://www.gizmodo.jp/2024/05/bugatti-veyron-grand-sport-vitesse-transformers.html",
-          "publishedOn": "2024-05-12T22:00:00.000Z",
-          "wordCount": 399,
-          "title": "『トランスフォーマー』風味のブガッティ・ヴェイロンが競売へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/30/240501_gugatti.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/30/240501_gugatti.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/05/explore-nasas-best-photos-of-the-yea.html",
-          "author": "そうこ",
-          "description": "Photo:NASA/BillIngallsNASAが公開する画像って本当に美しいですよね。宇宙の神秘的な美しさだけでなく、想像力を掻き立てるようなミッションの様子も公開されていて、見るだけでワクワクします。難しいことがわからなくても冒険心に火をつけてくれる、それがNASA。2023年に公開されたNASAの画像の中から選りすぐりの100枚がNASA公式Flickrアカウントでまとめて公開されていま",
-          "link": "https://www.gizmodo.jp/2024/05/explore-nasas-best-photos-of-the-yea.html",
-          "publishedOn": "2024-05-12T13:30:00.000Z",
-          "wordCount": 445,
-          "title": "ベストショット画像で振り返るNASAプロジェクト2023",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/30/240430nasa2023.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/30/240430nasa2023.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/05/android-smartphone.html",
-          "author": "そうこ",
-          "description": "Image:Shutterstock日本で最もシェアが高いスマホはiPhone。でも、世界に目を向けるとSamsung端末がシェアトップです。2024年上半期締めまであと少し。調査会社CounterpointResearchが、2024年第1四半期に最も売れたスマホランキングを発表しました。グローバルで見ると、最も売れたのはiPhone15ProMax。その後、iPhone15が続いて、Andro",
-          "link": "https://www.gizmodo.jp/2024/05/android-smartphone.html",
-          "publishedOn": "2024-05-12T12:00:00.000Z",
-          "wordCount": 407,
-          "title": "今世界で最も売れているスマホってなーんだ？",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/05/10/shutterstock_759928837%281%29.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/05/10/shutterstock_759928837%281%29.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/05/shokz-openfit-air-openswim-pro.html",
-          "author": "山田ちとら",
-          "description": "Photo:山田ちとらワイヤレスオープンイヤー型イヤホンのパイオニア・Shokzから待望の新モデルが発表されました。同時に2機種の発表です。かたやオープンイヤー型イヤホン「OpenFitAir」は、カジュアルに使えて日常に潤いを与えてくれる癒し系。かたや完全防水型の骨伝導イヤホン「OpenSwimPro」は、水の中でも山の中でも、どこでもどこまでも音楽を鳴らし続けてくれるタフなヤツ。まったく性格が",
-          "link": "https://www.gizmodo.jp/2024/05/shokz-openfit-air-openswim-pro.html",
-          "publishedOn": "2024-05-12T11:00:00.000Z",
-          "wordCount": 430,
-          "title": "Shokzから「耳をふさがないイヤホン」が2つも！カジュアルなオープンイヤー型と運動時にも使える骨伝導モデル",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/05/10/240510_shokz_top2.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/05/10/240510_shokz_top2.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/05/anker-soundcore-sleep-a20.html",
-          "author": "岡本玄介",
-          "description": "Image:soundcore前モデルより3倍のノイズ・ブロック！｢就寝から起床まで物音や騒音にジャマされず快眠したい｣と思っている人は多いですよね。すぐに寝付けて深く眠れる人はいいのですが、ちょっとした音で目覚めてしまう人は特に…ですよね。Ankerの寝ホンが刷新完全ワイヤレスイヤホンには、俗に「寝ホン」と呼ばれるモデルがいくつか存在しています。かつてAnkerが「soundcoreSleepA",
-          "link": "https://www.gizmodo.jp/2024/05/anker-soundcore-sleep-a20.html",
-          "publishedOn": "2024-05-12T10:00:00.000Z",
-          "wordCount": 398,
-          "title": "充電なしで14時間使えるAnkerの寝ホン。そろそろ出るぞ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/05/10/240513_sleepa20-1.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/05/10/240513_sleepa20-1.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/05/cleaner-matome.html",
-          "author": "mio",
-          "description": "Image:パナソニック楽に掃除をしたい。年が明けてからいつの間にか6カ月。過ごしやすい気候の今、しっかりめの掃除をしておくのがおすすめ。年末の大掃除の効力が切れてくる頃だしね。ということで、手入れが楽で軽い掃除機を3つ紹介します。ヘッドの向きを変えずともスイスイ進む、シロカの「スティック掃除機」Image:sirocaシロカ「らくらクリーナーSV-SK151」24,860円（税込）｢らくらクリー",
-          "link": "https://www.gizmodo.jp/2024/05/cleaner-matome.html",
-          "publishedOn": "2024-05-12T09:00:00.000Z",
-          "wordCount": 410,
-          "title": "手入れが楽で、とにかく軽い。ゴミ捨ても簡単な掃除機3つ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/05/09/20240509-cleaner-matome-01.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/05/09/20240509-cleaner-matome-01.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/05/android-xiamoi-oneplus-phones-personal-info-study-jpn-1.html",
-          "author": "禿頭帽子屋/Word Connection JAPAN",
-          "description": "中国国内で販売されているAndroidデバイスを使うと、至るところで個人情報を抜き取られてしまうという新たな研究結果が。そしてその対象となったのはXiaomiなどの中国で人気の高いスマホメーカーでした。",
-          "link": "https://www.gizmodo.jp/2024/05/android-xiamoi-oneplus-phones-personal-info-study-jpn-1.html",
-          "publishedOn": "2024-05-12T07:35:00.000Z",
-          "wordCount": 386,
-          "title": "中国で買ったAndroidスマホ、個人情報がダダ漏れだった…",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/03/01/ezgif-1-7ee286b3c8.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/03/01/ezgif-1-7ee286b3c8.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/05/kinto-to-go-bottle.html",
-          "author": "花輪えみ",
-          "description": "Photo:花輪えみROOMIE2024年3月26日掲載の記事より転載今年はたくさん散歩したいな～と考えている私が解決したかったのが「ドリンク」問題。毎回買うのはもったいないし、今ある直飲みタイプの水筒はちょっとイケてない＆いったん止まらないと飲めないのでストレスを感じていました。カラー展開が豊富なKINTO「トゥーゴーボトル」KINTO「TOGOBOTTLE（トゥーゴーボトル）360ml」KIN",
-          "link": "https://www.gizmodo.jp/2024/05/kinto-to-go-bottle.html",
-          "publishedOn": "2024-05-12T05:35:00.000Z",
-          "wordCount": 394,
-          "title": "KINTOの「トゥーゴーボトル」で水分補給の回数が増えました",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/23/top_240326_main.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/23/top_240326_main.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/05/iphone15pro-tilta-khronos-blackmagiccamera.html",
-          "author": "山﨑 拓実",
-          "description": "Image:TiltaProResによるAppleLog撮影が可能になったことで、本格的に薄型シネマカメラとして使われるようになってきたiPhone15Proシリーズ。先日公開された「ミッドナイト」はiPhoneのみで撮影されています。iPhoneのカメラがいくら優れているとはいえ、そのままで撮影に使う訳にはいかないので、iPhoneographerの自分は「リグ」と呼ばれるフレームをiPhone",
-          "link": "https://www.gizmodo.jp/2024/05/iphone15pro-tilta-khronos-blackmagiccamera.html",
-          "publishedOn": "2024-05-12T04:00:00.000Z",
-          "wordCount": 418,
-          "title": "iPhoneで映画は撮れる。でもiPhone「だけ」じゃ無理",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/30/sub7-1.png"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/30/sub7-1.png"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/05/moon-drop-android-phone.html",
-          "author": "武者良太",
-          "description": "Image:水月雨Japan音質第一主義の方にこそ手にしてほしいスマホ...じゃなくてプレーヤーです。キャリア使った音声通話ができるかどうかはまだ不明。可愛らしいパッケージに包みこまれた、リーズナブルで良音質なイヤホンを提供してきた水月雨（MoonDrop）が、今度はAndroidデバイスをリリースします。しかもオーディオメーカーらしく、4.4mmのバランス接続イヤホン用端子を備えたAndroid",
-          "link": "https://www.gizmodo.jp/2024/05/moon-drop-android-phone.html",
-          "publishedOn": "2024-05-12T03:00:00.000Z",
-          "wordCount": 410,
-          "title": "ふつうのイヤホンジャックじゃない。音質特化のAndroidデバイス",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/04/30/GL7AFPFasAAwF5L.jpeg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/04/30/GL7AFPFasAAwF5L.jpeg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/05/smaller-dynamic-island-for-iphone-17.html",
-          "author": "小暮ひさのり",
-          "description": "Image:Apple黒いアイツが、居なく…！…は、ならないみたい。だけど、小さくなるかも？な説が聞こえてきたのは、次のiPhone16…じゃなくて\"次の次\"となるiPhone17シリーズ。Apple関連に詳しいアナリスト、ジェフ・プー氏は、iPhone17ProMaxは、FaceIDに小型の「メタレンズ」を採用することで、画面内の埋め込みカメラ＆通知領域「DynamicIsland」が大幅に狭ま",
-          "link": "https://www.gizmodo.jp/2024/05/smaller-dynamic-island-for-iphone-17.html",
-          "publishedOn": "2024-05-12T01:00:00.000Z",
-          "wordCount": 398,
-          "title": "iPhone 17、「画面のおじゃま虫」が小さくなるかも？",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/05/07/2024-05-07dik00.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/05/07/2024-05-07dik00.jpg"
         }
       ]
     }
