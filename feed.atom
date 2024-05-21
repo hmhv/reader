@@ -2,10 +2,532 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hmhv.github.io/reader/index.html</id>
     <title>hmhv::news</title>
-    <updated>2024-05-20T12:29:13.517Z</updated>
+    <updated>2024-05-21T12:27:04.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hmhv.github.io/reader/index.html"/>
     <link rel="self" href="https://hmhv.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[20年ぶりの大きな「太陽フレア」、いったい何が起こっていたの？]]></title>
+        <id>https://www.gizmodo.jp/2024/05/not-just-auroras-heres-the-tech-that-got-hit-by-this-w-jpn.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/not-just-auroras-heres-the-tech-that-got-hit-by-this-w-jpn.html"/>
+        <updated>2024-05-21T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:Shutterstock5月10日、この20年で最も強い太陽フレアが発生しました。大規模な太陽フレアが生じ、地球に向けて高エネルギーの粒子などを放出したことで、地球の磁場を乱す「磁気嵐」が発生。その結果、電力網の障害や無線通信の途絶が起きたのです。20年ぶりの大きな磁気嵐アメリカ海洋大気庁（NOAA）の宇宙天気予報センターは現地時間の9日、激しい磁気嵐を生じさせるコロナ質量放出（CME]]></summary>
+        <author>
+            <name>たもり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新しいWindows PCに搭載。「AIでこんな便利になるんだ」って機能まとめ]]></title>
+        <id>https://www.gizmodo.jp/2024/05/copilot-plus-pc-ai.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/copilot-plus-pc-ai.html"/>
+        <updated>2024-05-21T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:Microsoft2024年5月21日、Microsoft（マイクロソフト）が新しいノートPCカテゴリ「Copilot+PC」を発表しました。高いAI処理性能を備えた最新PCに与えられる称号みたいなものですが、「AIをフル活用するPCスタイル」をまずハードウェアレベルで実現しにいっていて同社がAIに賭ける覚悟が伝わってきます。しかも、ハードだけAIに最適化したわけではなく、きちんと高性]]></summary>
+        <author>
+            <name>かみやまたくみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15日のPayPay障害、原因は「中継サーバーの高負荷」]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1593429.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1593429.html"/>
+        <updated>2024-05-21T11:00:03.000Z</updated>
+        <summary type="html"><![CDATA[PayPayは、5月15日12時15分～15時30分まで発生した「PayPay」の障害について、原因を明らかにした。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 16にChatGPT搭載？ アップルが他社製AIを載せてくるかも]]></title>
+        <id>https://www.gizmodo.jp/2024/05/apple-openai-chatbot-ios18.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/apple-openai-chatbot-ios18.html"/>
+        <updated>2024-05-21T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple通でお馴染みBlombergのマーク・ガーマン氏が、匿名内部ソースから得た情報として、AppleとOpenAIがついにiOSのAIモデル開発で手を組んだと語っています。]]></summary>
+        <author>
+            <name>そうこ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[つよつよ性能でAIにもガチ対応。これからやってくる「スナドラXエリートなPC」まとめ]]></title>
+        <id>https://www.gizmodo.jp/2024/05/snapdragon-x-elite-copilot-plus-pcs.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/snapdragon-x-elite-copilot-plus-pcs.html"/>
+        <updated>2024-05-21T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft同じCopilot+PCでも、PCメーカーの色が出るもんだなあ。全力AI時代をリードできる（かもしれない）、今後発売が予定されているSnapdragonXElite搭載のノートPCを集めてみました。SnapdragonXEliteは本日登場した強力な新型SoC。これだけたくさんのSnapdragonXElite搭載ノートPCが一気に発表されるとは。AppleM2～M3のMacBo]]></summary>
+        <author>
+            <name>武者良太</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPPOから予告状が届く　RenoAシリーズ新製品のヒントが？]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2405/21/news204.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2405/21/news204.html"/>
+        <updated>2024-05-21T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[OPPOの日本法人であるオウガ・ジャパンから、「OPPO RenoAシリーズ」最新機種」についての予告状が送られてきた。OPPO RenoAシリーズがさらに進化して最新モデルとして登場するという。進化したスペックとおぼしき要素が書かれている。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スポーツサンダルの新形態。“まるで下駄”な使いやすさが嬉しい]]></title>
+        <id>https://www.gizmodo.jp/2024/05/shaka-camp-bay-para-bf.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/shaka-camp-bay-para-bf.html"/>
+        <updated>2024-05-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:SHAKA浴衣のためのスポーツサンダルを見つけました。SHAKAから新発売された「CAMPBAYPARABF」は、ビーチサンダルに和風の鼻緒がついたスポーツサンダル。和風なおもむきを保ちながら、浴衣でも足元は歩きやすく。下駄の代わりに履いても足元に馴染む、新しいスポーツサンダルなんです。【2024春夏新作】SHAKAシャカスポーツサンダル鼻緒サンダルCAMPBAYPARABFキャンプベ]]></summary>
+        <author>
+            <name>mio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヤマト運輸を装った迷惑メール／電話が多発　「なりすましサイト」への誘導へ注意喚起]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2405/21/news199.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2405/21/news199.html"/>
+        <updated>2024-05-21T09:53:00.000Z</updated>
+        <summary type="html"><![CDATA[ヤマト運輸は、同社の名前を装った迷惑メール／電話が多発していると発表。個人情報の入力を要求するサイトへ誘導される可能性があり、とくにクレジットカード情報を入力させようとする手口が目立っているため注意を呼び掛けている。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XREALとRokidの“いいとこ取り”　新スマートグラス「VITURE Pro」は調光や視度調整に対応　GACKTコラボモデルも登場]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2405/21/news198.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2405/21/news198.html"/>
+        <updated>2024-05-21T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[米VITUREは5月21日12時（日本時間）にスマートグラス「VITURE Pro（ヴィチュアー・プロ）」の予約販売を開始した。直販サイトでの販売価格は7万4880円（税込み）。VITURE公式ストア、Amazon.co.jp、楽天市場、一部家電量販店などが取り扱う。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型Surface Proの実機をテスト。キーボードのアイデアがすごい]]></title>
+        <id>https://www.gizmodo.jp/2024/05/surface_pro_highlights.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/surface_pro_highlights.html"/>
+        <updated>2024-05-21T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:ギズモード・ジャパン編集部ノーマークだった方も、買いたくなりそう。Microsoft（マイクロソフト）から、発表された新型タブレットPCの「SurfacePro」がやばいっす。とある機能が搭載されたことで買いかも。遠隔操作が可能に。そのメリットは…SurfaceProはタブレットPCなわけですが、これまでのSurfaceのようにキーボードが着脱できる仕組み。ですが、本体と離してもキーボ]]></summary>
+        <author>
+            <name>編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“電気味覚”で料理のうま味と塩味を増強するスプーン。実際に使ってみた]]></title>
+        <id>https://www.gizmodo.jp/2024/05/electricsalt_kirin.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/electricsalt_kirin.html"/>
+        <updated>2024-05-21T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:山田ちとらスプーンに見えて、実は画期的な食器型デバイス。これを使えばなにを食べても塩味やうま味をよりダイレクトに味わえちゃう、そんな驚きの「エレキソルトスプーン」の予約・抽選販売がついに始まりました。電気のチカラでおいしさを引き出すエレキソルトスプーンは、キリンホールディングスと明治大学総合数理学部先端メディアサイエンス学科の宮下芳明研究室の長年の共同研究によって開発された“おいしさ増]]></summary>
+        <author>
+            <name>山田ちとら</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[35W出力ケーブル内蔵モバイルバッテリー「SMARTCOBY Pro SLIM CABLE」クラウドファンディングで登場]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2405/21/news192.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2405/21/news192.html"/>
+        <updated>2024-05-21T08:57:00.000Z</updated>
+        <summary type="html"><![CDATA[CIOは、35W出力ケーブル内蔵モバイルバッテリー「SMARTCOBY Pro SLIM CABLE」のクラウドファンディングを実施。厚さは1円玉程度の約18mmで、追加のケーブルを用意すれば2台同時充電も行える。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スターバックスのモバイルオーダー、会員登録やアプリ不要に　Apple「App Clip」導入で]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2405/21/news190.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2405/21/news190.html"/>
+        <updated>2024-05-21T08:50:00.000Z</updated>
+        <summary type="html"><![CDATA[スターバックス コーヒー ジャパンは5月22日から、会員登録などをせずに■https://www.itmedia.co.jp/mobile/articles/1906/25/news133.html□「Mobile Order & Pay」■（モバイルオーダー&ペイ）を利用できるようにする。従来は会員登録やアプリのインストールが必要だった。Appleの「App Clip」を導入することで、iPhoneのカメラで店舗のApp Clipコードを読み込むだけで注文可能になる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[これがMicrosoftの新作ノートPC「Surface Laptop」。洗練されたデザインに、強力すぎる「中身」]]></title>
+        <id>https://www.gizmodo.jp/2024/05/microsoft-surface-laptop-handson.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/microsoft-surface-laptop-handson.html"/>
+        <updated>2024-05-21T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:西谷茂リチャード実機を触れての感想は「洗練されている」。2024年5月21日、Microsoft（マイクロソフト）が新型ノートPC「SurfaceLaptop」を発表しました。超ハイスペで、AIを活用したかなり便利そうな機能を搭載してきていますが、「モノ」としての魅力もしっかりとあり。ベゼルが細くなって締まった印象に発表会場から送られてきた写真を見てまず印象的だったのが、色合いの美しさ]]></summary>
+        <author>
+            <name>西谷茂リチャード,かみやまたくみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI強化Surface登場。マイクロソフト発表「Copilot+ PC」まとめ]]></title>
+        <id>https://www.gizmodo.jp/2024/05/microsoft-copilot-surface-apple-ai.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/microsoft-copilot-surface-apple-ai.html"/>
+        <updated>2024-05-21T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフトいわく「これまでで最も速く、最もインテリジェントな Windows PC」、それがCopilot+ PCブランドです。]]></summary>
+        <author>
+            <name>そうこ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アップルがiPhone向け「iOS 17.5.1」配信開始、“消した写真が再表示”のバグ修正]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1593319.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1593319.html"/>
+        <updated>2024-05-21T07:48:56.000Z</updated>
+        <summary type="html"><![CDATA[米アップル（Apple）は、iPhone向けの最新ソフトウェア「iOS 17.5.1」、iPad向けの最新ソフトウェア「iPadOS 17.5.1」の提供を開始した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PCゲームで「エイム力」が爆上がりしそうなコントローラー]]></title>
+        <id>https://www.gizmodo.jp/2024/05/ifyoo-gtp01-gaming-controller-1.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/ifyoo-gtp01-gaming-controller-1.html"/>
+        <updated>2024-05-21T07:35:00.000Z</updated>
+        <summary type="html"><![CDATA[タッチパッドでマウスのように繊細なポインティングができるゲーミングコントローラーIFYOOの「GTP01」発売中。]]></summary>
+        <author>
+            <name>武者良太</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15WのMagSafe充電も可能なスマホクーラー発売　5月27日までの先行予約で15％オフ]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2405/21/news159.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2405/21/news159.html"/>
+        <updated>2024-05-21T06:25:00.000Z</updated>
+        <summary type="html"><![CDATA[ハンズインターナショナルは、背面ファンで冷却するスマホクーラーを発売。合金素材の放熱フラップで効果的に熱を放散でき、15WのMagSafe充電も対応する。5月27日までに同社オンラインストアで先行予約すると15％オフで購入できる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20,000mAhのソーラー充電器で「プチ節電生活」はじめました]]></title>
+        <id>https://www.gizmodo.jp/2024/05/solar-battery.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/solar-battery.html"/>
+        <updated>2024-05-21T05:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:新海美保ROOMIE2023年12月28日掲載の記事より転載電気代の値上がりが止まりません。少しでも節電したい今日この頃、小さな一歩から始めよう!と思い立ち、このたびソーラーバッテリーを購入。スマホをコンセントに（できる限り）つなげない生活を始めてみました。「20,000mAh」の大容量。太陽光だけで充電！太陽の力で電気をつくるソーラーバッテリー。電源がない場所でも太陽光さえあれば充電]]></summary>
+        <author>
+            <name>新海美保</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型Surface Pro用キーボード、8万円するが革新的だ！]]></title>
+        <id>https://www.gizmodo.jp/2024/05/surface-pro-keyboard-cover.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/surface-pro-keyboard-cover.html"/>
+        <updated>2024-05-21T05:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:マイクロソフト最新技術のオンパレードだな…。Microsoft（マイクロソフト）から、満を持して発表された新型タブレットPC「SurfacePro」。タブレットとラップトップの美味い所2in1というスタイルはそのままに、中身はなんとARMアーキテクチャのSoC「SnapdragonXElite」。しかもその性能はM3チップのMacBookAirを上回ると主張しているからさぁたいへん。も]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ペルチェ素子の冷却機能＋ワイヤレス充電対応の車載ホルダー発売　サンワから]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2405/21/news147.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2405/21/news147.html"/>
+        <updated>2024-05-21T04:27:00.000Z</updated>
+        <summary type="html"><![CDATA[サンワサプライは、3つの取り付け方から選べる車載ホルダーを発売。端末の温度上昇を制御するペルチェ素子を取り入れ、最大15Wのワイヤレス充電に対応する。耐荷重700gのマグネットも搭載し、価格は5980円（税込み）から。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スターバックス、iPhoneなら会員登録なしでモバイルオーダー可能に]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1593226.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1593226.html"/>
+        <updated>2024-05-21T04:00:22.000Z</updated>
+        <summary type="html"><![CDATA[スターバックス コーヒー ジャパンは、iPhoneであれば店頭にある2次元コードを読み取れば、会員登録なしでモバイルオーダーを利用できる新サービスを5月22日に開始する。まずは一部店舗で導入される。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HISモバイルの「キフスル」、新潟県加茂市で協定を締結――端末回収やサービス利用で自治体に寄付される]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1593225.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1593225.html"/>
+        <updated>2024-05-21T03:56:21.000Z</updated>
+        <summary type="html"><![CDATA[H.I.S.Mobile（HISモバイル）と新潟ふるさと組合、新潟県加茂市は20日、「三者間による連携協定」を締結した。HISモバイルの自治体応援プラットフォーム「キフスル」を通じ、加茂市へ基金として寄附する取り組みを実施する。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海上自衛隊、練習艦2隻に「Starlink」を導入]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1593211.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1593211.html"/>
+        <updated>2024-05-21T03:37:08.000Z</updated>
+        <summary type="html"><![CDATA[KDDIは、海上自衛隊の練習艦「かしま」と「しまかぜ」に海上でも高速インターネットが使える「Starlink Business マリタイムプラン」が導入されたと発表した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[これは便利そう。ロングバッテリーの充電式iPhone用スマートトラッカー]]></title>
+        <id>https://www.gizmodo.jp/2024/05/logitech-lgt-lwcstcw01db-tracker.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/logitech-lgt-lwcstcw01db-tracker.html"/>
+        <updated>2024-05-21T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ロジテックからiPhone用トラッカー「LGT-LWCSTCW01DB」発売。薄型＆充電式で便利。]]></summary>
+        <author>
+            <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[貼り付ければOK、配線不要の小型ドライブレコーダーを実際に試してみた　画質やWi-Fiスマホ連携の使い勝手を検証]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2405/21/news128.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2405/21/news128.html"/>
+        <updated>2024-05-21T03:25:00.000Z</updated>
+        <summary type="html"><![CDATA[車内で電源を取らなくていい。配線不要のドラレコ「MF-BDVR003C」の実力を試してみた。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「BASE」がYouTubeのショッピング機能に対応、商品の宣伝動画とネットショップを一元管理]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1593205.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1593205.html"/>
+        <updated>2024-05-21T03:17:55.000Z</updated>
+        <summary type="html"><![CDATA[グーグル（Google）は、同社の動画配信プラットフォーム「YouTube」で、ECプラットフォームの「BASE」がYouTubeのショッピング機能「YouTubeショッピング」に対応したと発表した。条件を満たしたユーザーが、BASEで開設したネットショップをYouTubeにリンクできるようになる。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイクロソフトが「Copilot+ PC」を発表、最先端のAI体験を実現するノートパソコン]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1593204.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1593204.html"/>
+        <updated>2024-05-21T03:12:03.000Z</updated>
+        <summary type="html"><![CDATA[米マイクロソフト（Microsoft）は、ノートパソコンにおける新たなカテゴリーの製品として「Copilot+ PC」を発表した。海外向けの発表で、6月18日以降、999ドル（約15.5万円）～で販売される。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クアルコムの「Snapdragon X Elite/X Plus」搭載のCopilot+ PCは20製品以上に]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1593172.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1593172.html"/>
+        <updated>2024-05-21T03:11:52.000Z</updated>
+        <summary type="html"><![CDATA[クアルコムのパソコン用チップセット「Snapdragon X」シリーズを搭載したノートパソコンが発売される。グローバルでは6月18日に店頭に並ぶ予定という。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ニューラリンクが2人目の脳チップ埋め込み被験者を募集中]]></title>
+        <id>https://www.gizmodo.jp/2024/05/neuralink-recruits-second-brain-chip-implant-subject.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/neuralink-recruits-second-brain-chip-implant-subject.html"/>
+        <updated>2024-05-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[イーロン・マスクが経営するNueralink（ニューラリンク）が、脳にチップを埋め込むインプラント手術の2人目の被験者を募集。]]></summary>
+        <author>
+            <name>そうこ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新世代Surface LaptopはM3 MacBook超えをうたうSnapdragon X Elite搭載]]></title>
+        <id>https://www.gizmodo.jp/2024/05/surface-laptop-snapdragon-x-elite.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/surface-laptop-snapdragon-x-elite.html"/>
+        <updated>2024-05-21T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:MicrosoftスナドラシリーズもAppleA/Mも、ARMアーキテクチャのSoC。ARMのSoC建築設計思想がどれだけ優れているか、というお話にもなりそう。数多の分野でAIを活用するようになったこの新時代に合わせ、マイクロソフトがAIアシスタント・Copilotをフル活用できるPC仕様「Copilot+PC」を発表しました。ChatGPTみたいにサーバー側でAIを働かせるだけではな]]></summary>
+        <author>
+            <name>武者良太</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモが「Pixel 8a」を3万2450円割引　MNP契約で5月22日から]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2405/21/news115.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2405/21/news115.html"/>
+        <updated>2024-05-21T02:21:00.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモは、5月15日以降にドコモオンラインショップで販売している「Google Pixel 8a」の割引内容を変更。MNPの際に3万2450円割引する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoftの新しい第11世代Surface Pro、15インチM3 MacBook Airに匹敵する性能]]></title>
+        <id>https://gori.me/?p=153235</id>
+        <link href="https://gori.me/microsoft/microsoft-news/153235"/>
+        <updated>2024-05-21T02:00:12.000Z</updated>
+        <summary type="html"><![CDATA[MicrosoftがCopilot+ PCとして発表した新型Surface Pro（第11世代）は、M3チップを搭載した15インチMacBook Airより高速に動作するという。Copilot+ PCを発表したプレスリリースの中には、マルチスレッドパフォーマンスを58％上回っており、電池持ちはウェブ…
+The post Microsoftの新しい第11世代Surface Pro、15インチM3 MacBook Airに匹敵する性能 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本でも売ってほしい。『スター・ウォーズ』オレオがかわいすぎ]]></title>
+        <id>https://www.gizmodo.jp/2024/05/starwars-oreo.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/starwars-oreo.html"/>
+        <updated>2024-05-21T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[『スターウォーズ』のオレオが全米で発売される。]]></summary>
+        <author>
+            <name>岩田リョウコ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[制御システムからカメラまで。ソニーの精密手術ロボは技術の集大成]]></title>
+        <id>https://www.gizmodo.jp/2024/05/sony-microsurgery-assistance-robot.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/sony-microsurgery-assistance-robot.html"/>
+        <updated>2024-05-21T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ソニーが手術用顕微鏡などで微細な人体組織に外科的処置を施す手術「マイクロサージャリー」用の支援ロボを開発。]]></summary>
+        <author>
+            <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「iOS 17.5.1」配信　削除した写真が表示されるバグを修正]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2405/21/news100.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2405/21/news100.html"/>
+        <updated>2024-05-21T00:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Appleが5月21日（日本時間）、iOS 17.5.1の配信を開始した。削除した写真がライブラリに表示される場合のあるバグを解消。更新ファイルのサイズは約1GB。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Galaxy A55 5G」のそっくりスマホ「Galaxy A35 5G」が海外で販売中　何が違う？]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2405/21/news097.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2405/21/news097.html"/>
+        <updated>2024-05-20T23:56:00.000Z</updated>
+        <summary type="html"><![CDATA[日本でも5月8日に発表されたサムスン電子のミドルレンジモデル「Galaxy A55 5G」は、Sシリーズの下位に位置付けられます。海外ではGalaxy A55 5Gとスペックの近い姉妹モデル「Galaxy A35 5G」が発表されています。その違いを見ていきましょう。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft、AIファーストのWindowsパソコン新カテゴリ「Copilot+ PC」を発表]]></title>
+        <id>https://gori.me/?p=153225</id>
+        <link href="https://gori.me/microsoft/microsoft-news/153225"/>
+        <updated>2024-05-20T23:40:19.000Z</updated>
+        <summary type="html"><![CDATA[Microsoftは5月21日、AIに最適化されたハードウェアを搭載したWindowsパソコンの新しいカテゴリ「Copilot+ PC」を発表した。史上最速かつ最もインテリジェントなWindows PCと謳う新カテゴリの製品は、1秒間に1兆回もの演算が可能なシリコンチップを採用し、1日中使えるバッテ…
+The post Microsoft、AIファーストのWindowsパソコン新カテゴリ「Copilot+ PC」を発表 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トラックみたいな6輪電動アシスト自転車。荷物も人も乗せられる]]></title>
+        <id>https://www.gizmodo.jp/2024/05/epack.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/epack.html"/>
+        <updated>2024-05-20T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:Cityshuttleモンスター級の6輪大型電アシ自転車。排気ガスを出さないよう移動する手段として、近年いろんな乗り物が電動になっています。電動アシスト自転車での配達は普通ですが、ロンドンではトラックのような見た目のeバイク「ePack」が稼働しています。細い道もスイスイ自転車部分は足漕ぎボートのようなリカンベント型。コンテナは4,000Lの容量で350kgもの荷物を安全に運ぶことがで]]></summary>
+        <author>
+            <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スイスアーミーナイフ、「ナイフぬき」メニューを開発中]]></title>
+        <id>https://www.gizmodo.jp/2024/05/swiss-army.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/swiss-army.html"/>
+        <updated>2024-05-20T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:XRISTOFOROV/Shutterstock.comマルチツールといえば、ビクトリノックス社のスイスアーミーナイフでしょう。栓抜きや爪やすり、小さなハサミ、ナイフなど、複数の道具がコンパクトにまとまっていて便利なんですよね。でも、ビクトリノックス社は、そんなポケットツールからナイフを省いたものを新たに開発中なんですって（すでに既存のツールからナイフを省いたバリエーションは存在してい]]></summary>
+        <author>
+            <name>中川真知子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型iPhone SEの価格、米国では据え置きまたは500ドル以下。日本は値上げの恐れ]]></title>
+        <id>https://gori.me/?p=153222</id>
+        <link href="https://gori.me/iphone/iphone-news/153222"/>
+        <updated>2024-05-20T21:30:36.000Z</updated>
+        <summary type="html"><![CDATA[新型iPhone SE（第4世代）は、米国では価格を据え置きまたは500ドル以下に抑える可能性がある。現行モデルは429ドルで販売されている。 iPhone SE 4 Price Rumors: – The US launch price will either remain at $4…
+The post 新型iPhone SEの価格、米国では据え置きまたは500ドル以下。日本は値上げの恐れ first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[電子書籍人気ランキング] 電子書籍人気ランキング（5月10日～5月16日）]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/1593082.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/1593082.html"/>
+        <updated>2024-05-20T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今週のコミックランキングトップは「MIX（22）」、秋季大会で明青ナインが奮起！　2位は「転生賢者の異世界ライフ 24巻」、最強の賢者同士が同じ魔法で激突！　3位に「黄泉のツガイ 7巻」、平穏を願うユル……。 書籍は2位に、敵対的な種族と直面「彷徨える艦隊 13 戦艦ウォースパイト」がランクインしました。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 17.5.1とiPadOS 17.5.1、正式リリース。「消した写真が復活する」バグを修正]]></title>
+        <id>https://gori.me/?p=153221</id>
+        <link href="https://gori.me/ios/ios17/153221"/>
+        <updated>2024-05-20T20:20:50.000Z</updated>
+        <summary type="html"><![CDATA[Appleは5月21日、iPhone向けの最新OSアップデート「iOS 17.5.1」とiPad向けの最新OSアップデート「iPadOS 17.5.1」を正式リリースした。最新バージョンは「消した写真が復活する」バグする不具合を修正。Appleは「データベース破損により削除した写真が写真ライブラリに…
+The post iOS 17.5.1とiPadOS 17.5.1、正式リリース。「消した写真が復活する」バグを修正 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[石川温の「スマホ業界 Watch」]「GoogleはAIに本気」、Google I/O取材で確信したこれからのGoogleの強み]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/ishikawa/1593028.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/ishikawa/1593028.html"/>
+        <updated>2024-05-20T15:01:00.000Z</updated>
+        <summary type="html"><![CDATA[2024年5月14日にアメリカ・サンフランシスコ州マウンテンビューで開催されたグーグルの開発者向けイベント「Google I/O 2024」を取材してきた。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Pixel 8a」のキャンペーンは本日21日まで、Google ストア]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1593083.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1593083.html"/>
+        <updated>2024-05-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google ストアで、Androidスマートフォン「Pixel 8a」などを対象としたキャンペーンが実施されている。期間は本日21日まで。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[本日の一品]スマホやタブレットと一緒に遊び・学べる地球儀「ほぼ日のアースボール」]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1593056.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1593056.html"/>
+        <updated>2024-05-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[子どもといっしょに野球を見ていると「この外国人選手はどこ出身？」「たしかプエルトリコ」「プエルトリコってどこ？」「中南米」「中南米ってどこ？」……などといった会話が発生し、最終的には「Google Earthとかで調べなさい」とGoogle先生に丸投げ。そして子どもは調べるのが面倒で放置してしまい、結局学びにつながらなかったりします。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple WatchとiPhoneでゴルフがもっと上手くなる！　ゴルフ初心者が新機能対応のアプリで試してみた]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/review/1593021.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/review/1593021.html"/>
+        <updated>2024-05-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「Apple Watchはゴルフの完璧なパートナー（Apple Watch is the perfect golfing companion）」――これは、米アップル（Apple）が15日に掲出したプレスリリースのタイトルだ。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[法林岳之の「週刊モバイルCATCH UP」]KDDIがGoogleメッセージを選んだワケ～『＋メッセージ』はどうなるの？]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/mobile_catchup/1592957.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/mobile_catchup/1592957.html"/>
+        <updated>2024-05-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先週、KDDIから「メッセージサービスの魅力向上に向け Googleメッセージを採用」というニュースリリースが発表された。国内ではLINEが広く利用される一方、各携帯電話会社が『＋メッセージ』を提供している。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[みんなのケータイ]LINEの新機能「スタンプアレンジ」使ってみた。スタンプへの苦手意識を克服できるかも？]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/minna/1592545.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/minna/1592545.html"/>
+        <updated>2024-05-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今やメッセージでのコミュニケーションに欠かせないのが、「スタンプ」ではないでしょうか？　返事をするのがちょっと面倒なときとか、何と言っていいか言葉が見つからないとき、会話を終わらせるタイミングが難しいときなんかにも、選んで送信するだけ。非常に便利なのですが、一方でその使い方にはかなりセンスが問われるような気がしています。一時、長文かつ絵文字を多用するおじさん構文が話題になりましたが、どんなときにどんなスタンプを使うかは、年齢とか世代というよりもコミュ力の高さというか、その人の持つセンスのように思います。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宇宙ゴミはこうして増える？ 行方不明の人工衛星、25年ぶりに見つかる]]></title>
+        <id>https://www.gizmodo.jp/2024/05/missing-satellite-found-after-25-years-lost-space.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/missing-satellite-found-after-25-years-lost-space.html"/>
+        <updated>2024-05-20T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:Inspiration41974年に打ち上げられた実験的人工衛星が、迷子だった25年を経て先日発見されました。迷子になった、つまり地球との通信が途絶えたのは1990年代のこと。行方不明の人工衛星＝通信・制御不可能な状態にある人工衛星は、昨今よく耳にする宇宙ゴミとなります。どんどん混み合ってきている地球の衛生軌道上で、他の衛星と衝突するリスクもあります。そもそも、なぜ行方不明に？今回25]]></summary>
+        <author>
+            <name>そうこ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『デッドプール&ウルヴァリン』7月26日公開。その前に『X-MEN』シリーズをおさらい]]></title>
+        <id>https://www.gizmodo.jp/2024/05/deadpool-3-wolverine-fox-x-men-timeline.html</id>
+        <link href="https://www.gizmodo.jp/2024/05/deadpool-3-wolverine-fox-x-men-timeline.html"/>
+        <updated>2024-05-20T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:(c)MARVEL2024アメコミのキャラクターやストーリーの年表というものは、設定の軌道修正や再調整が織り込まれているため、常に複雑です。特に、20世紀フォックス（以下FOX）によるX-MENの映画シリーズほど、時系列やストーリーの流れが複雑に入り組んだ作品はほとんどないでしょう。最初の作品から約25年が経過した今、最新作である『デッドプール&ウルヴァリン』がディズニー主導で製作され]]></summary>
+        <author>
+            <name>ヨコヤマコム</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サイバートラックを叩いてはいけないハンマー]]></title>
         <id>https://www.gizmodo.jp/2024/05/cyber-hammer.html</id>
@@ -2871,604 +3393,6 @@ The post AI時代のGoogle検索は「検索力」が低くても欲しい情報
         <summary type="html"><![CDATA[Image:ナカバヤシハブも小さくなったもんだねぇ。MacBookシリーズなど、USB-Cしかないラップトップの必需品たる、USB-Cハブ。こちらは「PD対応Type-Cポケットサイズドッキングステーション」というコンパクトながらもHDMI出力が付いたけっこういいハブです。メリットを並べますと…。Image:ナカバヤシ・約25gのコンパクトサイズ・HDMI（HDMI1.4a最大4K/30Hz）×1]]></summary>
         <author>
             <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ハンドパワーで人も動かせる。ディズニーの全方位トレッドミル]]></title>
-        <id>https://www.gizmodo.jp/2024/05/disney_treadmill_vr.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/disney_treadmill_vr.html"/>
-        <updated>2024-05-14T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:DisneyParksいつ！いつこの技術がディズニーランドに導入されるのですか！ウォルト・ディズニー・イマジニアリングのラニー・スムートさんは、スターウォーズに登場するBB-8などを作り続けている発明家。その彼がいま手掛けているのが、VR空間内を自由に歩ける全方位トレッドミルです。DisneyImagineerMakesHistory|DisneyParksJoinusaswestop]]></summary>
-        <author>
-            <name>武者良太</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Googleが“あなたの代わり”に検索。どんなワガママも叶えます #GoogleIO]]></title>
-        <id>https://www.gizmodo.jp/2024/05/google-io-ai-news.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/google-io-ai-news.html"/>
-        <updated>2024-05-14T22:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Googleいつもの検索窓がパワーアップ。Googleの検索窓に「AIOverview」という新機能が登場。検索したいこと＋要望を入力すると、それらをすべてまとめてGoogleのAIモデル「Gemini」が汲み取って検索してくれるようになりました。検索結果には、タブが現れてオリジナル／シンプル／詳細がタップできるようになり、自分の好みで結果を見比べることも可能に。さらなるカスタマイズも]]></summary>
-        <author>
-            <name>宮城圭介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SwitchBotの給水・排水も自動化した”ガチな全自動ロボット掃除機”、一般販売を開始]]></title>
-        <id>https://gori.me/?p=153104</id>
-        <link href="https://gori.me/consumer-electronics/153104"/>
-        <updated>2024-05-14T22:30:48.000Z</updated>
-        <summary type="html"><![CDATA[SwitchBotは5月15日、水道直結⤫リアルタイムモップ洗浄設計の全自動ロボット掃除機「SwitchBot お掃除ロボットS10」を一般販売開始した。価格は119,820円。 特徴は、世界初となるデュアルステーション設計。ゴミ収集ステーションとは別に水交換ステーションが用意されている。水交換ステ…
-The post SwitchBotの給水・排水も自動化した”ガチな全自動ロボット掃除機”、一般販売を開始 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「AIって何回言った？」＝120（＋α）。#GoogleIO でインパクトが強かった3つの数字]]></title>
-        <id>https://www.gizmodo.jp/2024/05/googleio-count.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/googleio-count.html"/>
-        <updated>2024-05-14T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Google／YouTubeこの数字、わかります？本日開催された「GoogleI/O2024」、まさに“デベロッパー向け”といった内容でかなり専門的な話題でしたね。まとめ記事を読むにも、ライブを見返すにもカロリーが必要になると思うので、箸休めとして印象に残った3つの数字を紹介します。121回Image:Google／YouTubeキーノートの最後に出てきた数字は、本日の「AI連呼カウン]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[整備済製品のM1 MacBook AirはiPad Proより6万円も安く購入できる]]></title>
-        <id>https://gori.me/?p=153102</id>
-        <link href="https://gori.me/sale/apple-refurbished/153102"/>
-        <updated>2024-05-14T22:15:16.000Z</updated>
-        <summary type="html"><![CDATA[通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する。 本日は多数の製品がラインアップされている。中でもM1 MacBook Airの費用対効果の高さを見てもらいたい。11インチiPad Proは最小…
-The post 整備済製品のM1 MacBook AirはiPad Proより6万円も安く購入できる first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[検索ワードがわからない→動画＋音声でAIに丸投げしよう #GoogleIO]]></title>
-        <id>https://www.gizmodo.jp/2024/05/ask-with-video-google-io-2024.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/ask-with-video-google-io-2024.html"/>
-        <updated>2024-05-14T22:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Google検索ワードがわからない…→スマホのカメラで映して質問するだけ。Google（グーグル）の開発者向けカンファレンス、GoogleI/Oにて、動画＋音声でAIに質問ができる新機能「askwithvideo」が紹介されました。これが何かわからなくても、AIが自動で検索してくれるImage:Google基調講演ではレコードプレイヤーの不具合の解決方法をGoogleのAIであるGem]]></summary>
-        <author>
-            <name>宮城圭介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新型iPad Pro/Airに最適なアクセサリが20％オフ。Satechiがセール開催中]]></title>
-        <id>https://gori.me/?p=153100</id>
-        <link href="https://gori.me/sale/peripheral-sale/153100"/>
-        <updated>2024-05-14T22:00:28.000Z</updated>
-        <summary type="html"><![CDATA[新型iPad ProとiPad Airの発売を記念して、SatechiがiPadにおすすめのアクセサリーを20％オフで購入できるセールを開催している。対象商品の決済時にクーポンコード「NEWIPAD20」を入力することで、提示されている価格より20％オフで購入できる。 対象商品は以下のとおり。セール…
-The post 新型iPad Pro/Airに最適なアクセサリが20％オフ。Satechiがセール開催中 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「かこって検索」で宿題ヘルプ。Geminiで来るAndroidの新機能たち]]></title>
-        <id>https://www.gizmodo.jp/2024/05/gemini-new-factor.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/gemini-new-factor.html"/>
-        <updated>2024-05-14T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:GoogleGeminiの賢さと、Androidの利便性が融合…！GoogleI/Oのキーノートでは、最近のAndroidのベストな機能「かこって検索」が主役のひとつになりました。Androidに搭載のAI、Geminiのアップデートが発表され、内容は予想より地味だったかもしれませんが、ちゃんと使える新機能がいろいろあります。Android関連では、GoogleI/Oの2日めとなる5月]]></summary>
-        <author>
-            <name>福田ミホ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Vision Pro、中国規制当局のデータベースに登場。発売間近か]]></title>
-        <id>https://gori.me/?p=153097</id>
-        <link href="https://gori.me/apple-vision/vision-pro/153097"/>
-        <updated>2024-05-14T21:45:40.000Z</updated>
-        <summary type="html"><![CDATA[Apple Vision Proが、中国の規制当局データベースに登録された。Vision Pro（A2117）およびバッテリーパック（A2697）が掲載されており、中国国内における発売間近であると示唆している。 Update: China’s Quality Certification Center…
-The post Apple Vision Pro、中国規制当局のデータベースに登場。発売間近か first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[画像・音楽・動画の生成AI、より高クオリティに #GoogleIO]]></title>
-        <id>https://www.gizmodo.jp/2024/05/google-gemini-ai-veo-music-ai-sandbox-imagen-3.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/google-gemini-ai-veo-music-ai-sandbox-imagen-3.html"/>
-        <updated>2024-05-14T21:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Screenshot:GoogleI/OGoogle（グーグル）が、開発者向けカンファレンス「GoogleI/O」にて新たな生成AIツールを発表しました。今回のGoogleI/Oでは“マルチモーダリティ”というキーワードを何度も使い、GoogleのGeminiAIにおいて、テキストだけでなく音声や画像、動画、コードなどさまざまなメディアでの入力、そして出力を強化していることを強調していました。そん]]></summary>
-        <author>
-            <name>ヨコヤマコム</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[悲報。13インチM4 iPad Pro＋Magic Keyboard、13インチM3 MacBook Airより重い]]></title>
-        <id>https://gori.me/?p=153095</id>
-        <link href="https://gori.me/ipad-accessories/ipad-keyboard/153095"/>
-        <updated>2024-05-14T21:30:45.000Z</updated>
-        <summary type="html"><![CDATA[13インチM4 iPad Proと新しくなったMagic Keyboardの組み合わせは、13インチM3 MacBook Airより重いと明らかになった。 Mac OTAKARAによると、13インチM4 iPad Pro用Magic Keyboardは668g。従来から販売されている12.9インチi…
-The post 悲報。13インチM4 iPad Pro＋Magic Keyboard、13インチM3 MacBook Airより重い first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIで「先生」を生成しました。YouTubeすら教材になる「LearnLM」 #GoogleIO]]></title>
-        <id>https://www.gizmodo.jp/2024/05/google_io_learnlm.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/google_io_learnlm.html"/>
-        <updated>2024-05-14T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Google／YouTube真に求められていた、学習ｘAIの姿かも。本日開催されたGoogle（グーグル）のデベロッパー向けカンファレンス「GoogleI/O2024」。メインはハードウェアじゃなくて、AIの話…。というか徹頭徹尾AIの話だけだったんですが、個人的にグッときたのが、Googleの大規模言語モデル「Gemini（ジェミニ）」を学習用にチューニングしたAIモデル「Learn]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Googleさん、AIの力で経費計算のお手伝いまでしてくれる #GoogleIO]]></title>
-        <id>https://www.gizmodo.jp/2024/05/google-io-ai.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/google-io-ai.html"/>
-        <updated>2024-05-14T21:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:GoogleGmailがより賢く。Google（グーグル）のビジネススイート「GoogleWorkspace」にも、本格的にAIが導入されます。その名も「GeminiforWorkspace」。今回のGoogleI/Oの発表では、Gmailの新機能が発表されました。長いスレッドを3行に要約まずは、サマライズという機能。つまり「要約」。Gmail内の長いスレッドを表示して、Googleの]]></summary>
-        <author>
-            <name>三浦一紀</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Androidに“Google AI”の新機能　OSにGeminiを統合、「かこって検索」で問題を解く機能など]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2405/15/news089.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2405/15/news089.html"/>
-        <updated>2024-05-14T21:09:00.000Z</updated>
-        <summary type="html"><![CDATA[米Googleが、Android向けに搭載するAI関連の新機能を発表した。特定の部分を丸で囲って検索ができる「かこって検索」を、学習に活用できるようにする。Androidに生成AIモデルの「Gemini」を統合し、アプリ上のオーバーレイ表示から、より簡単にGeminiを利用可能になる。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Googleフォトに保存した大量の写真から「欲しい1枚」をピンポイントで検索できるようになる #GoogleIO]]></title>
-        <id>https://www.gizmodo.jp/2024/05/google-io-2024-ask-photo.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/google-io-2024-ask-photo.html"/>
-        <updated>2024-05-14T20:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:GoogleAIって賢いな。2024年5月15日未明、Googleの開発者向けカンファレンスイベント「GoogleI/O」がスタート、基調講演が行なわれました。内容はほぼAI関連の発表だったのですが、そのなかで僕のようなごくごく一般的な小市民にもわかりやすい恩恵があるのが「AskPhoto」という新機能です。今夏にくるといわれていたこの機能がどんなものか、簡単にご紹介します。膨大な画像]]></summary>
-        <author>
-            <name>三浦一紀</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google フォト、Geminiを活用した「Ask Photos」機能　質問して写真を検索]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2405/15/news085.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2405/15/news085.html"/>
-        <updated>2024-05-14T20:02:00.000Z</updated>
-        <summary type="html"><![CDATA[米Googleが、Google フォトにAIモデル「Gemini」を活用した検索機能「Ask Photos」を発表した。試験的な機能として、今後数カ月にわたって提供する。Google フォトのチャット画面で問いかけることで、特定の思い出を探したり、写真や動画に含まれる情報を探したりできる。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Googleが「Gemini 1.5 Pro」をアップデート、軽量版「Gemini 1.5 Flash」もリリース]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2405/15/news083.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2405/15/news083.html"/>
-        <updated>2024-05-14T19:26:00.000Z</updated>
-        <summary type="html"><![CDATA[米Googleが5月14日（現地時間）、マルチモーダル生成AIモデル「Gemini」のアップデートについて発表した。「Gemini 1.5 Pro」のコンテキストウィンドウを100万トークンから200万トークンに拡張。高速な応答が可能な軽量モデル「Gemini 1.5 Flash」もリリースする。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[虹が見えた。溶けた鉄の雨が降る、灼熱の星で]]></title>
-        <id>https://www.gizmodo.jp/2024/05/are-glory-effect-spotted-on-chaotic-alien-world-that.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/are-glory-effect-spotted-on-chaotic-alien-world-that.html"/>
-        <updated>2024-05-14T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Illustration:ESA惑星WASP-76b。溶けた鉄の雨が降る灼熱で熱いガスの塊であるこの星に、最近の観測でとっても珍しい現象が起きていることがわかりました。それは、地球や金星でしか見られない、虹のような現象。太陽系の外では初観測したのは、欧州宇宙機関（ESA）の宇宙望遠鏡衛星Cheops。WASP-76bで虹のような光の輪っかを観測。虹の光の輪っか＝光輪現象は、雲や霧の水の粒を光が通過]]></summary>
-        <author>
-            <name>そうこ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[もう限界。Windows 11にやめてほしいこと8つ]]></title>
-        <id>https://www.gizmodo.jp/2024/05/8-things-i-wish-windows-11-would-stop-doing.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/8-things-i-wish-windows-11-would-stop-doing.html"/>
-        <updated>2024-05-14T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Windowsってこんなにうっとうしかったっけ…。Windows11のリリースから2年以上経ち、来年にはWindows10のサポート終了が迫ってるんですが、なかなか移行が進んでないと言われます。Windows11のどのへんが問題なのか…米GizmodoのKyleBarr記者がまとめてくれました。これ、多くのWindowsユーザーが経験したんじゃないでしょうか。新しいPCを買ってワクワクしながら立ち]]></summary>
-        <author>
-            <name>福田ミホ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「つながりやすさでもNo.1を目指す」、楽天モバイル三木谷氏が決算会見で見せた自信]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1591463.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1591463.html"/>
-        <updated>2024-05-14T11:56:01.000Z</updated>
-        <summary type="html"><![CDATA[楽天グループは14日、2024年度第1四半期の決算を発表した。決算説明会には、代表取締役会長兼社長最高執行役員の三木谷浩史氏らが登壇した。本稿では、モバイルセグメントを中心に、プレゼンテーションや質疑応答の内容をお届けする。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pixel 8aの対応ケースがCASEFINITEからもう出てるよ]]></title>
-        <id>https://www.gizmodo.jp/2024/05/casefinite-pixel-8a-case.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/casefinite-pixel-8a-case.html"/>
-        <updated>2024-05-14T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Casefinite予約していた人は、すでにケースも準備済みかも。今日発売のGooglePixel8a。発売されてから周りの様子みて買おうかなって人は、ケースどうしますか？CASEFINITEからPixel8a対応ケースが登場しています。AIRシリーズで2デザインCASEFINITEのPixel8aは、本体が発売になる前に発売。なので、もう買っといた！という用意周到な人もいるかもしれま]]></summary>
-        <author>
-            <name>そうこ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サイバートラック、ではなくMAD-TRUCKに乗ってみたらMADではなく堅実だった]]></title>
-        <id>https://www.gizmodo.jp/2024/05/mad_truck.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/mad_truck.html"/>
-        <updated>2024-05-14T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Makuake今欲しいのはサイバーよりもマッド。電動バイク、ずっと気になっていたんです。車で行くほど遠出じゃない時にさっと使えそうだし。ルックス的にもキャッチーな機種が続々と登場していて百花繚乱。ただ、こういうのがオシャレでしょ、みたいな感じで類型化しているような気もするし、お値段もそれなりのものが多いので、なんか決定打に欠けるような気もしていました。でも、このMAD-TRUCKの面構]]></summary>
-        <author>
-            <name>尾田和実</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[福島県会津若松市の火災、ドコモ回線や光回線に影響]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1591448.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1591448.html"/>
-        <updated>2024-05-14T10:53:32.000Z</updated>
-        <summary type="html"><![CDATA[福島県会津若松市で発生した火災の影響で、NTTドコモ回線や一部の固定回線に影響が発生している。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[みんなGPT-4oの声を聞いて。めっちゃ『her』のサマンサっぽい]]></title>
-        <id>https://www.gizmodo.jp/2024/05/gpt4-o-her.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/gpt4-o-her.html"/>
-        <updated>2024-05-14T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[GIF:ギズモード・ジャパン絶対寄せてきたな！と思いましたね。OpenAIが新たに発表した「GPT-4o」の話です。会話の理解力だけでなく、会話の流れそのものがより自然になったGPT-4o。デモを見て受け答えの内容に関心しましたが、ぶっちゃけそれどころじゃありませんでした。「これ、herだよね？」って、声に気持ちが持っていかれちゃってたので。『her/世界でひとつの彼女』GPT-4oが喋り出した瞬]]></summary>
-        <author>
-            <name>そうこ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[水難事故で素早い救助ができる「空飛ぶ浮き輪」]]></title>
-        <id>https://www.gizmodo.jp/2024/05/water-rescue-drone-ty-3r-flying-lifebuoy.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/water-rescue-drone-ty-3r-flying-lifebuoy.html"/>
-        <updated>2024-05-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[中国のDIDIOK MAKINGSが作っているのは、溺れた人のところまで直接空から急行する浮き輪。「Water Rescue Drone TY-3R Flying Lifebuoy」は、ドローンと浮き輪のハイブリッドなのです。]]></summary>
-        <author>
-            <name>岡本玄介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プラグ同士の干渉を防ぐ3方向トリプルタップ発売　エレコムより]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2405/14/news186.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2405/14/news186.html"/>
-        <updated>2024-05-14T09:40:00.000Z</updated>
-        <summary type="html"><![CDATA[エレコムは、1つのコンセントから3口に電源を分配できるトリプルタップを発売。落雷時の電子機器への被害を防ぐ雷サージ吸収素子を内蔵し、差込口には不使用時にホコリの侵入を防ぐシャッターを装備する。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドコモ、火災の影響で福島県の一部エリアで障害]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1591411.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1591411.html"/>
-        <updated>2024-05-14T09:15:05.000Z</updated>
-        <summary type="html"><![CDATA[NTTドコモは14日、福島県で発生した火災の影響で、福島県の一部エリアで障害が発生していると発表した。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ワンルームの丸見え玄関は「曲がるカーテンレール」で隠せる。部屋の仕切りにも]]></title>
-        <id>https://www.gizmodo.jp/2024/05/flexcurtainrail-review.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/flexcurtainrail-review.html"/>
-        <updated>2024-05-14T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:かくれいワンルームだと良くある、玄関が部屋に直結している間取り。我が家も同じような作りなのですが、ドアが目立ってインテリアが垢抜けないし、郵便屋さんからも部屋が丸見えだし、とてもストレスに感じていました。くねくね曲がるカーテンレールそこで、玄関部分を囲って見えないようにしてしまおうと思い、keihomeの「カーテンレール」を設置することにしました。これのすごいところは、自由自在に思い通]]></summary>
-        <author>
-            <name>かくれい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Pokemon GO Fest 2024: 仙台」の公式ルートやキャンペーン情報を公開　ピカチュウサンバイザー配布も]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2405/14/news181.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2405/14/news181.html"/>
-        <updated>2024-05-14T08:55:00.000Z</updated>
-        <summary type="html"><![CDATA[「Pokemon GO Fest 2024：仙台」に合わせたイベント情報が公開。仙台市に10の公式ルートが登場し、るーぷる仙台／仙台市営地下鉄にロゴを貼り付けた限定車両が運行するほかシールやサンバイザーがもらえるキャンペーンも行う。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スマホがなくなる日、何していたい？ Apple Vision Proが民主化した日の話]]></title>
-        <id>https://www.gizmodo.jp/2024/05/styly-gizmodo-talk-session-2024.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/styly-gizmodo-talk-session-2024.html"/>
-        <updated>2024-05-14T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:照沼健太「いよいよ日本上陸も秒読みか？」なんて噂もあるAppleVisionPro。そんなAppleVisionProが提唱する新ジャンル「空間コンピューティング」の第一人者にして、6月には著書『AppleVisionProが拓くミライの視界スマホがなくなる日』（幻冬舎）を発売するSTYLY取締役COO渡邊信彦氏と、ギズモード・ジャパン編集長尾田和実が、4月17日（水）にクロストークを]]></summary>
-        <author>
-            <name>照沼健太</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[チェルノブイリで暮らす犬たちはDNAに原発事故の影響が残っている]]></title>
-        <id>https://www.gizmodo.jp/2024/05/chernobyl-nuclear-disaster-dna-dogs-exclusion-zone-1.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/chernobyl-nuclear-disaster-dna-dogs-exclusion-zone-1.html"/>
-        <updated>2024-05-14T07:35:00.000Z</updated>
-        <summary type="html"><![CDATA[チェルノブイリの野犬を調査した結果、「原子力発電所の半径30km圏内のチェルノブイリ立入禁止区域で育った犬はDNAが世界のどの地域の犬とも違う」という鑑定結果が米サウスカロライナ大学から今月Science Advancesに発表され、問題の根深さを浮き彫りにしています。]]></summary>
-        <author>
-            <name>satomi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楽天モバイル、関東の5Gエリアを年内に最大1.6倍まで拡大へ]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1591357.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1591357.html"/>
-        <updated>2024-05-14T07:34:16.000Z</updated>
-        <summary type="html"><![CDATA[楽天モバイルは、関東地方の5G（Sub6）エリアについて、2024年内に最大1.6倍まで拡大する。14日の楽天グループ決算説明会の資料で示された。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple役員、タッチスクリーンMacについて「絶対出さないとは言えない」]]></title>
-        <id>https://gori.me/?p=153093</id>
-        <link href="https://gori.me/ipad/ipadpro/153093"/>
-        <updated>2024-05-14T07:18:34.000Z</updated>
-        <summary type="html"><![CDATA[新しいiPad ProはMacよりも先に最新のM4チップを搭載し、M3 Pro MacBook Proを凌駕するパフォーマンスを手に入れた。しかしハードウェアは何年も前から誰も不満に感じていない。ユーザーの多くはソフトウェアの様々な制約に不自由を感じており、M4 iPad Proになっても状況は全く…
-The post Apple役員、タッチスクリーンMacについて「絶対出さないとは言えない」 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楽天モバイル、プラチナバンドの商用サービスを6月開始へ]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2405/14/news161.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2405/14/news161.html"/>
-        <updated>2024-05-14T07:05:00.000Z</updated>
-        <summary type="html"><![CDATA[楽天モバイルが、プラチナバンドを用いた商用サービスを2024年6月ごろに開始する予定。2024年度第1四半期の決算会見で明かした。700MHz帯の通信サービスは、主要都市部などから順次、エリアを拡大していく予定。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソフトバンク、LINEで親子のコミュニケーションを円滑にする「ぶんタン通信」を発表]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1591337.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1591337.html"/>
-        <updated>2024-05-14T07:03:58.000Z</updated>
-        <summary type="html"><![CDATA[ソフトバンクは14日、SNSアプリ「LINE」を通じて親子のコミュニケーションを円滑にするサービス「ぶんタン通信」を、5月21日に提供を開始すると発表した。無料サービスと月額550円の有料サービスを用意している。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoogleのAIはスマホカメラの映像から状況を認識→解説までこなすっぽいぞ…！]]></title>
-        <id>https://www.gizmodo.jp/2024/05/google-io-movie.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/google-io-movie.html"/>
-        <updated>2024-05-14T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Google/X日本時間で今夜、2024年5月15日午前2時に始まるGoogleの開発者向けカンファレンスイベント「GoogleI/O2024」。今年何より期待されているのはAI関連の発表です。GoogleのAI「Gemini」が、どこまで賢くなるのか。どこまで自然になるのか。また、そんなGeminiをどの端末でどこまで利用できるのか…。カンファレンス目前に公式がチラ見せ動画を公開しま]]></summary>
-        <author>
-            <name>そうこ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楽天モバイルの回線契約数、5月13日時点で680万回線に]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1591321.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1591321.html"/>
-        <updated>2024-05-14T06:41:49.000Z</updated>
-        <summary type="html"><![CDATA[2024年5月13日時点での楽天モバイルの回線契約数が、680万回線になった。5月14日、楽天グループの業績発表で開示された。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楽天モバイル、“プラチナバンド”6月ごろにも商用サービス開始へ]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1591327.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1591327.html"/>
-        <updated>2024-05-14T06:39:51.000Z</updated>
-        <summary type="html"><![CDATA[楽天モバイルは、“プラチナバンド”と呼ばれる700MHz帯の商用サービスについて、6月ごろの開始を目指す。14日の楽天グループ決算説明会の資料で示された。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[防水やおサイフケータイ対応の「motorola edge 40 neo」5月24日発売　約5.5万円、PANTONEカラーを採用]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2405/14/news155.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2405/14/news155.html"/>
-        <updated>2024-05-14T06:35:00.000Z</updated>
-        <summary type="html"><![CDATA[モトローラ・モビリティ・ジャパンは、5月24日にAndroidスマホ「motorola edge 40 neo」を発売。防水性能やおサイフケータイを備え、手ブレ補正付き5000万画素カメラ、5000mAhバッテリーも搭載する。価格は5万4800円（税込み）。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バスケットボールのまんま。24秒ルール機能やベルトはボールの素材]]></title>
-        <id>https://www.gizmodo.jp/2024/05/tissot_bascketball_watch.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/tissot_bascketball_watch.html"/>
-        <updated>2024-05-14T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:TISSOTバンドだけでバスケ好きを主張できる。1946年に男子の全米バスケットボール協会（NBA）が発足してから50年後の1996年、女性のプロリーグWNBAが誕生しました。すでに28年が経っていますが、その成長と発展のお祝いにとおもしろい腕時計が作られました。ボールに使う本物の素材がバンドに1853年に創業したスイス時計TISSOT（ティソ）と、バスケのボールでお馴染みスポーツ用品]]></summary>
-        <author>
-            <name>岡本玄介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「LINE VOOM」の投稿動画を収益化できるプログラムが一般公開]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1591308.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1591308.html"/>
-        <updated>2024-05-14T05:57:49.000Z</updated>
-        <summary type="html"><![CDATA[LINEヤフーは14日、SNSアプリ「LINE」内の動画プラットフォーム「LINE VOOM」で、収益化できるプログラム「LINE VOOM Creator Program」を一般公開した。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コクヨの「本に寄り添う文鎮」を買ったら、売り切れ続出の理由がわかった]]></title>
-        <id>https://www.gizmodo.jp/2024/05/kokuyo-book.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/kokuyo-book.html"/>
-        <updated>2024-05-14T05:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:田中青紗ROOMIE2024年3月25日掲載の記事より転載仕事柄、本や辞書を開きながら作業することが多い私。ページが閉じないように、押さえてくれるアイテムを探していました。大人気商品「本に寄り添う文鎮」コクヨ「本に寄り添う文鎮」これはぴったり！と購入したのが、コクヨの「本に寄り添う文鎮」です。開いた本に沿った形をしている文鎮で、読みたいページに置くだけで状態を保持してくれます。こちらは]]></summary>
-        <author>
-            <name>田中 青紗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソフトバンク、LINEを活用した「ぶんタン通信」開始　離れて暮らす親子へコミュニケーションの話題を提供]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2405/14/news146.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2405/14/news146.html"/>
-        <updated>2024-05-14T05:26:00.000Z</updated>
-        <summary type="html"><![CDATA[ソフトバンクは、5月21日に離れて暮らす親子向けのサービス「ぶんタン通信」を提供開始。LINE公式アカウントを登録してグループを作ると、サービス内のキャラクターが親が住む地域のニュースを定期的に送る。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[侮れない快適さ。モチモチさも再現したうどんモチーフの布団]]></title>
-        <id>https://www.gizmodo.jp/2024/05/udon_-sleepinggoods.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/udon_-sleepinggoods.html"/>
-        <updated>2024-05-14T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:悟空のきもち分類は布団ではなく「うどん」。現代人は仕事で帰宅が遅くなったり、就寝前に見たスマホが明るいなど、なかなか快眠ができず悩んでいる人が多いことと思います。世の中にはいろんな寝具がありますが、実は布団より「うどん」の方がよく眠れるのだそうです。庶民派のうどんが実現Image:悟空のきもち「睡眠用うどんLite」は前作「睡眠用うどん」にあった付属品を付けず、製造工程などを大幅に見直]]></summary>
-        <author>
-            <name>岡本玄介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LINEで最大6個のスタンプを1度に送信できる意味は？　「スタンプアレンジ機能」の意義を広報に聞く]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2405/14/news144.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2405/14/news144.html"/>
-        <updated>2024-05-14T04:50:00.000Z</updated>
-        <summary type="html"><![CDATA[LINEヤフーが5月13日から、コミュニケーションアプリ「LINE」で、「スタンプアレンジ機能」を提供している。対象スタンプの大きさや角度、位置を自由に変更できることに加え、最大6個のスタンプを自由に組み合わせて送信できる。本機能の提供理由や利用する意義を広報に聞いた。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pokemon GO Fest 2024で登場の「ネクロズマ」、ソルガレオ＆ルナアーラと合体で別の姿に]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2405/14/news136.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2405/14/news136.html"/>
-        <updated>2024-05-14T04:44:00.000Z</updated>
-        <summary type="html"><![CDATA[「Pokemon GO Fest 2024」リアルイベントで「ネクロズマ（たそがれのたてがみ）」と「ネクロズマ（あかつきのつばさ）」が登場。エナジーを集めると、ポケモンが別の姿になる合体が行えるようになる。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドコモオンラインショップで「Pixel 7a」と「iPad（第10世代）」が値下げ、15日～]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1591247.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1591247.html"/>
-        <updated>2024-05-14T04:34:45.000Z</updated>
-        <summary type="html"><![CDATA[NTTドコモは、ドコモオンラインショップで15日以降に「iPad（第10世代、64GB）」と「Pixel 7a」を値下げする。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI、大規模言語モデル「GPT-4o」発表]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1591254.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1591254.html"/>
-        <updated>2024-05-14T04:20:25.000Z</updated>
-        <summary type="html"><![CDATA[米OpenAIは、最新の大規模言語モデル「GPT-4o」を発表した。AIチャットサービス「ChatGPT」に導入され、有料プランの加入者のほか、無料プランのユーザーも利用できる。有料プランの場合、送信できるメッセージ数の制限が緩和される。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古いiPhone/iPad向けに「iOS 16.7.8」「iPadOS 16.7.8」、脆弱性の解消]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1591219.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1591219.html"/>
-        <updated>2024-05-14T04:03:19.000Z</updated>
-        <summary type="html"><![CDATA[アップル（Apple）は、旧世代のiPhone向けに「iOS 16.7.8」、iPad向けに「iPadOS 16.7.8」の提供を開始した。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[いろんなゲーム機のソフトが30種類以上遊べる究極の携帯ゲーム機]]></title>
-        <id>https://www.gizmodo.jp/2024/05/anbernic-rg35xxsp.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/anbernic-rg35xxsp.html"/>
-        <updated>2024-05-14T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[携帯ゲーム機を作る中国深センのメーカーANBERNICが、そのGBASPにソックリな「ANBERNIC RG35XXSP」を発表しました。懐かしのゲームが30種類以上プレイできます。]]></summary>
-        <author>
-            <name>岡本玄介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サイバートラックのドアには注意しよう。足をケガする可能性]]></title>
-        <id>https://www.gizmodo.jp/2024/05/tesla-cybertruck-door-leaves-a-gash-in-owners-leg.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/tesla-cybertruck-door-leaves-a-gash-in-owners-leg.html"/>
-        <updated>2024-05-14T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[テスラのサイバートラックオーバーズクラブのフォーラムで、とあるオーナーが、車が傾斜地に駐車している際、車から降りた後に「ドアの角に足を引っ掛けた」と投稿。縫わなきゃいけないほどの傷を負ったそうです。]]></summary>
-        <author>
-            <name>mayumine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドコモが「iPad（第10世代）」「Pixel 7a」を値下げ　5月15日から]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2405/14/news121.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2405/14/news121.html"/>
-        <updated>2024-05-14T03:28:00.000Z</updated>
-        <summary type="html"><![CDATA[NTTドコモは、5月15日以降にドコモオンラインショップで販売している「iPad（第10世代）」「Google Pixel 7a」を値下げ。「いつでもカエドキプログラム」適用時のユーザー負担額も変更となる。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モトローラから「motorola edge 40 neo」発表、PANTONEカラー採用で24日発売]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1591206.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1591206.html"/>
-        <updated>2024-05-14T03:26:31.000Z</updated>
-        <summary type="html"><![CDATA[モトローラ・モビリティ・ジャパンは、Androidスマートフォン「motorola edge 40 neo」を5月24日に発売する。価格は5万4800円。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[80年代の青春かよ…曲に想いを込めてこのプレーヤーを贈ろう]]></title>
-        <id>https://www.gizmodo.jp/2024/05/ninm-lab-playdisc-player.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/ninm-lab-playdisc-player.html"/>
-        <updated>2024-05-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[NINM Labが1メディア1プレイリストの時代を彷彿とさせるプレーヤー「PLAYDISC」を開発。クラウドファンディングで出資募集中。]]></summary>
-        <author>
-            <name>武者良太</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アップルがiPhone向け「iOS 17.5」配信開始、追跡デバイスの悪用を防ぐ新機能など]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1591189.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1591189.html"/>
-        <updated>2024-05-14T02:38:56.000Z</updated>
-        <summary type="html"><![CDATA[米アップル（Apple）は、iPhone向けの最新ソフトウェア「iOS 17.5」、iPad向けの最新ソフトウェア「iPadOS 17.5」の提供を開始した。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IIJmio、mineo、NUROモバイル、イオンモバイルのキャンペーンまとめ【5月14日最新版】　110円スマホや基本料金割引などお得な施策が多数]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2405/14/news078.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2405/14/news078.html"/>
-        <updated>2024-05-14T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[5月となり、MVNO各ブランドも多数のキャンペーンを実施しているが、特に多いのがオプションの無料提供だ。今回はIIJmio、mineo、NUROモバイル、イオンモバイルで実施しているキャンペーンをまとめた。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[佇まいにうっとり。B&Oのタワー型CDチェンジャーが高級車価格で復活]]></title>
-        <id>https://www.gizmodo.jp/2024/05/bangandolfsen_beosystem_9000c.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/bangandolfsen_beosystem_9000c.html"/>
-        <updated>2024-05-14T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Bang&Olufsen公式によるレストモッドです。B&OことBang&Olufsenは、古き時代から常にスタイリッシュなオーディオを作り続けてきたメーカーです。その稀有なデザインはドラマの小道具やショールームを彩るハードウェアとしても珍重されてきました。うっとりする佇まいImage:Bang&OlufsenそんなBang&Olufsenを代表するアイテムの1つが、Beosound90]]></summary>
-        <author>
-            <name>武者良太</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[疲れた足の癒しから、普段使いも。THE NORTH FACEのサンダル]]></title>
-        <id>https://www.gizmodo.jp/2024/05/thenorthface_re-active_sandals.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/thenorthface_re-active_sandals.html"/>
-        <updated>2024-05-14T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:THENORTHFACEこの攻めたデザイン、実は機能美でした。THENORTHFACEのサンダルコレクション「RE-Activ（リアクティブ）」に、スライド型「RE-ActivSlide」とサンダルスニーカー型「RE-ActivSneaker」が加わりました。アクティビティ後の疲労回復をサポート「RE-Activ（リアクティブ）」は、アスリートやアクティビティを楽しむ人に向けた高機能サ]]></summary>
-        <author>
-            <name>Yohei Arai</name>
         </author>
     </entry>
 </feed>
