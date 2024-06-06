@@ -2,10 +2,617 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hmhv.github.io/reader/index.html</id>
     <title>hmhv::news</title>
-    <updated>2024-06-05T12:28:11.402Z</updated>
+    <updated>2024-06-06T12:28:07.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hmhv.github.io/reader/index.html"/>
     <link rel="self" href="https://hmhv.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[30年前の観測データから金星に新たな溶岩流が見つかる]]></title>
+        <id>https://www.gizmodo.jp/2024/06/venus-volcano-lava-flows-eruption-magellan-radar.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/venus-volcano-lava-flows-eruption-magellan-radar.html"/>
+        <updated>2024-06-06T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[金星にはいくつもの火山が点在しており、広範囲で活発に活動するものも存在する可能性があるといいます。今回、研究によって金星に新たな溶岩流が発見されました。]]></summary>
+        <author>
+            <name>ヨコヤマコム</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Google マップ」のタイムライン、Web版は廃止へ]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1598124.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1598124.html"/>
+        <updated>2024-06-06T11:38:13.000Z</updated>
+        <summary type="html"><![CDATA[グーグル（Google）は、「Google マップ」のタイムライン機能について、Web版を廃止する。データの保存場所がグーグルのサーバーから各モバイル端末になる変更に伴うもので、既存ユーザーにはメールや通知で案内されているという。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グーグルの生成AIサービス「NotebookLM」が日本でも一般公開、調査と制作を助けてくれるAIパートナー]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1597920.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1597920.html"/>
+        <updated>2024-06-06T11:37:45.000Z</updated>
+        <summary type="html"><![CDATA[米グーグル（Google）は、生成AIサービス「NotebookLM」について、日本を含む各国で一般提供を開始した。順次利用できるようになる。開始時点での利用料は無料。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[増えるトラックとの事故。義務化されているのに自動ブレーキ搭載車が増えない謎]]></title>
+        <id>https://www.gizmodo.jp/2024/06/traffic_accident_consideration.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/traffic_accident_consideration.html"/>
+        <updated>2024-06-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:Midjourney「なんでトラックには自動ブレーキついてないの？」って思っている人、多いはず。実は私もそのひとりでした。トラックに関連する痛ましい事故が相次いでいます。2024年5月6日に群馬・伊勢崎で対向車線に大型トラックがはみ出し、2歳の子どもをはじめとして一家3人が亡くなる死亡事故が起きました。その翌週には首都高5号線で大型トラックが渋滞中の乗用車に突っ込み、3人が亡くなる大事]]></summary>
+        <author>
+            <name>Yohei Arai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[このゲーミングPC、AIアシスタントになってくれます #Computex2024]]></title>
+        <id>https://www.gizmodo.jp/2024/06/gaming-pc-ai-assistant.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/gaming-pc-ai-assistant.html"/>
+        <updated>2024-06-06T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:ギズモード編集部ゲームもビジネスもこれ1台。COMPUTEX2024で展示されているMSIのゲーミングPC「MSIMegVisionXAI」。これ、ただのゲーミングPCじゃないんですよ。このマシン、AIアシスタント「MSIChat」を搭載。前面の大型パネルとマイクを通して、AIと会話することができるんです。画像の生成もできるんだとか。AI自体はローカルで動作するので、クラウドベースのA]]></summary>
+        <author>
+            <name>三浦一紀</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[J:COMの中期経営計画、モバイルは「クロスユースユーザー」を強化へ――同軸ケーブルから光ファイバー中心に転換も]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1598086.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1598086.html"/>
+        <updated>2024-06-06T10:18:44.000Z</updated>
+        <summary type="html"><![CDATA[JCOMは6日、2023年度の振り返りや中期経営計画などを発表した。2023年度の業績や、各サービスの加入者数のほか、今後の注力領域や新サービスなどが披露された。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイクロソフト“Copilot+”が描く、AI中心のパーソナルコンピューター革命]]></title>
+        <id>https://www.gizmodo.jp/2024/06/copilot_newstandard.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/copilot_newstandard.html"/>
+        <updated>2024-06-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[madebymidjourney毎年、5月から6月はテクノロジー業界で多くの新しい発表が行われるが、中でも今最も大きな話題になっているのがマイクロソフトの「Copilot+PC」だ。この時期は、いわゆる“プラットフォーマー”と呼ばれる技術基盤を提供している企業が、年末に向けて開発者たちの興味を惹きつけるため、予定している機能や近い将来のロードマップについて訴求する。6月10日からはアップルもWWD]]></summary>
+        <author>
+            <name>本田雅一</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber Eats「dポイント特別キャンペーン」、初めての利用でクーポンやポイント還元]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1598082.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1598082.html"/>
+        <updated>2024-06-06T09:39:14.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモは、「Uber Eats」において、「dポイント特別キャンペーン」を実施している。期間は、第1弾が6月16日まで、第2弾が6月17日～6月30日まで。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[J:COM MOBILEが70万契約突破　9割以上が「データ盛」利用]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/06/news174.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/06/news174.html"/>
+        <updated>2024-06-06T09:16:00.000Z</updated>
+        <summary type="html"><![CDATA[J:COMが提供しているMVNOサービス「J:COM MOBILE」の累計回線数が、2023年度に70万を突破した。J:COM MOBILE加入者の90％以上が、「データ盛」を適用しているという。「家族のスマホ保険」は半年で2万契約を突破した。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモとマネックス証券、「dカードのクレカ積立」提供開始へ]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1598053.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1598053.html"/>
+        <updated>2024-06-06T09:12:02.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモとマネックス証券は、「dカードのクレカ積立（dカード積立）」サービスを7月5日から開始する。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Y!mobileオンラインストアで「OPPO A79 5G」が1円に　MNP＆シンプル2 M／L契約で]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/06/news173.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/06/news173.html"/>
+        <updated>2024-06-06T09:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Y!mobileオンラインストアは、6月6日に「OPPO A79 5G」を1円で販売開始。MNPかつ「シンプル2 M／L」での契約が対象で、終了時期は未定。ソフトバンクなどからの乗り換えは対象外となる]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VICTORINOXのマルチツールは小指サイズ。“ナイフなし”が便利なんです]]></title>
+        <id>https://www.gizmodo.jp/2024/06/victorinox-tools-review.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/victorinox-tools-review.html"/>
+        <updated>2024-06-06T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:SUMA-KIYOいろいろな道具が1つになっている「マルチツール（十徳ナイフ）」。僕もいくつか持っているのですが、たくさん機能が付いていてもほとんど使っていないことに気がつきました。必要ない道具が付いていても重いだけなので、よく使うものだけが備わっているタイプが欲しい....。ナイフよりハサミそこで見つけたのが、マルチツールで有名なスイスのメーカーVICTORINOX（ビクトリノックス]]></summary>
+        <author>
+            <name>SUMA-KIYO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LINEMOの新料金プランに「10GBまで」を加えた理由　20GBは値上げだが「ほとんどのお客さんには値下げになる」]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/06/news167.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/06/news167.html"/>
+        <updated>2024-06-06T08:05:00.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクが、オンライン専用ブランド「LINEMO」の新料金プランを7月下旬以降に提供する。10GBまでの「LINEMOベストプラン」と30GBまでの「LINEMOベストプランV」の2つを用意。ソフトバンク 専務執行役員 コンシューマ事業推進統括の寺尾洋幸氏が、新料金プランの狙いを説明した。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ポケモンGO、色違いの「メラルバ」などが登場する「炎のステップ」　6月21日から開催]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/06/news166.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/06/news166.html"/>
+        <updated>2024-06-06T08:03:00.000Z</updated>
+        <summary type="html"><![CDATA[米Nianticの位置情報ゲーム「ポケモンGO」は、6月21日10時から「炎のステップ」を開催。初登場となる色違いの「メラルバ」がタマゴからかえる可能性がある他、色違いの「マグマッグ」「シシコ」とも出会える。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ソフトバンク/ワイモバイル/LINEMOはバランスを取りながら」――キーパーソンが語るブランド戦略]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1598004.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1598004.html"/>
+        <updated>2024-06-06T07:28:03.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクは6日、オンライン専用料金ブランドの「LINEMO」において、新たな料金プラン「ベストプラン」「ベストプランV」を発表した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[静岡-三重冲の地震観測機器に障害、緊急地震速報に遅延の可能性]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1597987.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1597987.html"/>
+        <updated>2024-06-06T07:16:46.000Z</updated>
+        <summary type="html"><![CDATA[気象庁は、東南海ケーブル式常時海底地震観測システムの障害の影響で、一部地域を震源とする緊急地震速報の発表が平常時より遅くなる可能性があるとした。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コーニング、低・中価格帯デバイス向けカバーガラス「Corning Gorilla Glass 7i」を発表]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1597970.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1597970.html"/>
+        <updated>2024-06-06T07:14:51.000Z</updated>
+        <summary type="html"><![CDATA[コーニングは、低・中価格帯モバイルデバイス向けのカバーガラス「Corning Gorilla Glass 7i」の発売を発表した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ホームボタン搭載iPhoneが依然として人気　にこスマの5月中古スマホランキング]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/06/news148.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/06/news148.html"/>
+        <updated>2024-06-06T06:13:00.000Z</updated>
+        <summary type="html"><![CDATA[にこスマは、2024年5月の中古スマホ販売／買い取り数ランキングを発表。販売ランキングではホームボタン搭載iPhoneの人気傾向は続き、トップ10のうち4機種（6モデル）がランクインしている。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グーグルのGemini用「AIプロンプトガイド」をAIにまとめてもらった]]></title>
+        <id>https://www.gizmodo.jp/2024/06/gemini_guideai.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/gemini_guideai.html"/>
+        <updated>2024-06-06T05:35:00.000Z</updated>
+        <summary type="html"><![CDATA[GoogleI/Oで講演するグーグルCEO、スンダー・ピチャイ（SundarPichai）。　Photo:GettyImagesTECHINSIDER2024年5月24日掲載の記事より転載・グーグルはGoogleI/Oで、Gemini用のAIプロンプトをうまく書く方法のガイドを無料で配布した。・この冊子には、GoogleWorkspaceの上手な使い方が網羅され、さまざまな職業で使える例が示されて]]></summary>
+        <author>
+            <name>Ana Altchek ［原文］ （翻訳：Ito Yasuko、編集：井上俊彦）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「J:COM MOBILE」累計回線数が70万回線を突破]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1597964.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1597964.html"/>
+        <updated>2024-06-06T05:30:39.000Z</updated>
+        <summary type="html"><![CDATA[JCOMは、MVNOサービス「J:COM MOBILE」について、2023年度の累計契約数が70万回線となったことを明らかにした。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JVCケンウッド、最大27時間再生＋手のひらサイズのワイヤレスイヤフォン「HA-A30T2」6月下旬に発売]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/06/news138.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/06/news138.html"/>
+        <updated>2024-06-06T05:06:00.000Z</updated>
+        <summary type="html"><![CDATA[JVCケンウッドは、6月下旬にVictorブランドからワイヤレスイヤフォン「HA-A30T2」を発売。最大27時間再生が可能で、充電ケースは手のひらサイズに小型化している。価格は税込み9900円前後。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[嘘だろ？ このゲーミングマウス食パン1枚より軽いなんて… #Computex2024]]></title>
+        <id>https://www.gizmodo.jp/2024/06/rog_gaming-mouse_asus_computex2024.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/rog_gaming-mouse_asus_computex2024.html"/>
+        <updated>2024-06-06T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:ギズモード・ジャパン脳がバグるぞ、この感覚！Computex2024で展示されていたこちら、ASUSのゲーミングブランド「ROG」から登場予定の超絶軽いマウス「ROGHARPEACEREXTREAM」です。どのくらい軽いか？というとタイトルにも書いたように食パン1枚（6枚切り,約60g）より軽い57g。光学センサーやスイッチ、バッテリー内蔵でこの重量に抑えているの異次元過ぎ。Photo]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LINEMOの新プラン、当月解約で990円の解除料、ソフトバンクやY!mobileへの導入も検討]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/06/news131.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/06/news131.html"/>
+        <updated>2024-06-06T04:41:00.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクは、7月下旬以降に提供するLINEMOの新料金プラン「LINEMOベストプラン」にて、加入当月に解約した場合、契約解除料として990円（税込み）を設定する。「意図しない形での契約が増えている」ため。ソフトバンクやY!mobileでも同様になるよう検討しているという。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[札幌市営地下鉄の全46駅で「タッチ決済」乗車、25年春から実証]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1597904.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1597904.html"/>
+        <updated>2024-06-06T04:33:55.000Z</updated>
+        <summary type="html"><![CDATA[ジェーシービーやビザ・ワールドワイド・ジャパンなど7者が、北海道札幌市の札幌市営地下鉄でクレジットカードなどのタッチ決済による鉄道乗車の実証実験を2025年春に開始する。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[長ーい車体が特徴的。傾きで曲がる3輪EVスクーター]]></title>
+        <id>https://www.gizmodo.jp/2024/06/sirems-association-kairos.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/sirems-association-kairos.html"/>
+        <updated>2024-06-06T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[フランスの非営利団体SIREMS ASSOCIATIONが開発している「KAIROS」は、妙に長くてなんだかダックスフントみたいな電動トライク（3輪車）です。]]></summary>
+        <author>
+            <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[povo、「からあげクン」のセットトッピング提供　0.3GBが実質無料に]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/06/news127.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/06/news127.html"/>
+        <updated>2024-06-06T03:56:00.000Z</updated>
+        <summary type="html"><![CDATA[KDDIは、ローソンの「からあげクン」1個とpovoのトッピング「0.3GB（24時間）」がセットになったトッピングを248円（税込み）で提供。6月13日まで期間限定トッピング「0.5GB（24時間）3回分」も販売する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「JAL Mall」でマイル10倍や全額ポイント還元など「1周年キャンペーン」]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1597911.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1597911.html"/>
+        <updated>2024-06-06T03:48:46.000Z</updated>
+        <summary type="html"><![CDATA[日本航空とJALUXは、運営するECサイト「JAL Mall」の開設1周年を記念したキャンペーンを実施している。期間は7月31日まで、特典の内容により期間は異なる。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[出そろった「Xperia 1 VI」の価格　ドコモ、au、ソフトバンク、ソニーストアでお得なのはどこか【6月6日最新版】]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/06/news124.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/06/news124.html"/>
+        <updated>2024-06-06T03:35:00.000Z</updated>
+        <summary type="html"><![CDATA[「Xperia 1 VI」の価格が出そろった。各社オンラインショップにおける1回払い／実質負担額を比較した。記事内は全て税込み。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ディスプレイなし。ARグラスと使うPC「Spacetop G1」を触ってきた]]></title>
+        <id>https://www.gizmodo.jp/2024/06/spacetop-g1-first-look-hands-on-ar-vr.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/spacetop-g1-first-look-hands-on-ar-vr.html"/>
+        <updated>2024-06-06T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:KyleBarr/Gizmodoパソコンが次世代に向けて形を変えようとしています。デスクトップ、ラップトップ（ノートPC）、Surfaceのようなタブレット＋PCの2-in-1端末、タブレットに外付けのキーボード、現代の人びとは様々なデバイスを使いこなしています。でも近い将来、画面もキーボードもなくなり、ヘッドセットを装着すれば目の前の空間すべてが「パソコン」になるかもしれません。Sp]]></summary>
+        <author>
+            <name>そうこ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アマゾンの「Ring Indoor Cam（第2世代）」に新色3種、「ブラッシュ」「チャコール」「スターライト」]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1597868.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1597868.html"/>
+        <updated>2024-06-06T03:01:03.000Z</updated>
+        <summary type="html"><![CDATA[アマゾンは、屋内用セキュリティカメラ「Ring Indoor Cam（第2世代）」に新色3種を追加した。既存カラーとあわせて全5色展開になる。価格は全色4980円。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Pixelスマホでふたつのアプリを同時に表示する方法]]></title>
+        <id>https://www.gizmodo.jp/2024/06/google-pixel-132.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/google-pixel-132.html"/>
+        <updated>2024-06-06T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:山田ちとら知っておくと、情報収集にもマルチタスキングにも便利。GooglePixelスマートフォンは、画面を分割してふたつのアプリを同時に使用することができます。タテ・ヨコ両方で使える表示はヨコ画面でも、タテ画面でも。上にChromeブラウザ、下にニュースアプリを分割して表示。表示面積の比率は必要に応じて変えられる分割した画面の表示面積は、中央の境界線をドラッグすることで比率を変えられ]]></summary>
+        <author>
+            <name>山田ちとら</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NothingのペイCEO、「来年発売のPhone (3)はAI端末に」]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/06/news108.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/06/news108.html"/>
+        <updated>2024-06-06T02:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Nothing Technologyのカール・ペイCEOはXへのポストで、“来年発売のPhone (3)”に搭載するAI機能について語った。パーソナライズされた情報ハブとしてのホーム画面やChatGPTアプリのようなコンパニオンの動画を披露した。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2万円台の価格で最上位機種を食う。｢JBL LIVE BEAM 3｣登場]]></title>
+        <id>https://www.gizmodo.jp/2024/06/jbllivebeam3.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/jbllivebeam3.html"/>
+        <updated>2024-06-06T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:照沼健太イヤホンの世界に、新たなスター誕生。ここ数年の主役級ガジェットである完全ワイヤレスイヤホン（TWS）は、2024年もその進化を止めません。「もうさすがに成熟期でしょ」と毎年思うのですが、各メーカーの努力と技術力には驚かされるばかりです。今回そんなサプライズを感じたのが、この「JBLLIVEBEAM3」です。価格を上回るフラッグシップ級の性能。これは新たなスタンダードJBLといえ]]></summary>
+        <author>
+            <name>照沼健太</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[セブンでAppleアカウントのキャンペーンがスタート。直接チャージ＆レシート登録で最大15%分の交通系電子マネープレゼント]]></title>
+        <id>https://gori.me/?p=153607</id>
+        <link href="https://gori.me/apple/apple-pay/153607"/>
+        <updated>2024-06-06T01:30:21.000Z</updated>
+        <summary type="html"><![CDATA[セブン-イレブンのレジで現金またはnanacoを使ってAppleアカウントに直接チャージすると、チャージ金額最大15％分の交通系電子マネーがもらえるキャンペーンがスタートした。 キャンペーン期間中、セブン‐イレブン各店舗のレジにて、Appleアカウントへ合計3,000円以上をチャージし、チャージ時の…
+The post セブンでAppleアカウントのキャンペーンがスタート。直接チャージ＆レシート登録で最大15%分の交通系電子マネープレゼント first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LINEMOの新料金プラン、短期解約で解除料990円]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1597840.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1597840.html"/>
+        <updated>2024-06-06T01:24:03.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクは6日、オンライン専用料金ブランド「LINEMO」の新料金プランとして、「LINEMOベストプラン」「LINEMOベストプランV」を発表した。7月下旬以降に提供される。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple、3年間無視していたペアレンタルコントロールのバグを修正へ]]></title>
+        <id>https://gori.me/?p=153603</id>
+        <link href="https://gori.me/apple/apple-news/153603"/>
+        <updated>2024-06-06T01:18:24.000Z</updated>
+        <summary type="html"><![CDATA[Appleは、特定の文字列をSafariのアドレスバーに入力することで、ペアレンタルコントロールによる閲覧制限を突破できてしまうバグを修正すると発表した。iOS/iPadOS 15、16、17およびmacOS Sonomaで再現が確認できた不具合だ。 The Wall Street Journalに…
+The post Apple、3年間無視していたペアレンタルコントロールのバグを修正へ first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LINEMOで新料金プラン、「LINEMOベストプラン」「LINEMOベストプランV」]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1597836.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1597836.html"/>
+        <updated>2024-06-06T01:04:38.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクは、オンライン専用料金ブランド「LINEMO」の新料金プランとして、「LINEMOベストプラン」「LINEMOベストプランV」を7月下旬以降に提供する。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモ、au、ソフトバンク、楽天モバイルの端末セールまとめ【6月6日最新版】　新発売「Xperia VI」「Xperia 10 VI」をお得に入手せよ]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/06/news064.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/06/news064.html"/>
+        <updated>2024-06-06T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[6月が始まり、各社がさまざまなキャンペーンを実施している。ドコモ、au、ソフトバンク、楽天モバイルが行っている、端末価格の割引キャンペーンを調べた。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ニコンが老眼鏡も「Z」化。カメラレンズと同じ評価基準を採用]]></title>
+        <id>https://www.gizmodo.jp/2024/06/nikon-essilor-z-series.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/nikon-essilor-z-series.html"/>
+        <updated>2024-06-06T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ニコンのグループ会社であり、メガネ用レンズを作っているニコン・エシロールが、新たにコントラスト性能を重視した老眼対策レンズ「Zシリーズ」を発表しました。]]></summary>
+        <author>
+            <name>武者良太</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LINEMOの新料金「ベストプラン」発表　3GB以下で990円、3～10GBで2090円　5分以内かけ放題とのセットプランも]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/06/news095.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/06/news095.html"/>
+        <updated>2024-06-06T00:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクは6月6日、オンライン専用ブランドLINEMO（ラインモ）の新料金プランとして、「LINEMO ベストプラン」と「LINEMO ベストプラン V」を発表した。7月下旬以降から提供する。ベストプランは、データ使用量が10GBまでの場合で、最安をうたう料金プランだ。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無印のラックみたいに自由に増改築できる自作PCケース #Computex2024]]></title>
+        <id>https://www.gizmodo.jp/2024/06/computex2024_inwin_modfree.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/computex2024_inwin_modfree.html"/>
+        <updated>2024-06-05T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:GizmodoJapanこの構造ならグラボの電源が超強大化する時代になってもケースを使い続けられるぜ...ほんとうに？意匠性にこだわり、機能性に勝負をかけ、独自性に磨きをかけ続けているPCケースメーカーのInWin。Computex2024のブースで目立つように展示されていたのがこちら、モジュール型自作PCケース「ModFree」です。Image:InWin大・中・小、さまざまなサイズ]]></summary>
+        <author>
+            <name>武者良太</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0.5ms/280Hzの24.5インチ型ゲーミングモニターが過去最安値になっています【Amazonセール】]]></title>
+        <id>https://gori.me/?p=153584</id>
+        <link href="https://gori.me/sale/peripheral-sale/153584"/>
+        <updated>2024-06-05T22:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Amazonで、Dellの24.5インチ型ゲーミングモニター「G2524H」が過去最安値で登場。通常価格の28％オフとなる28,800円で購入できる。 本記事は、記事執筆時点におけるセール情報となっている。価格の変更や売り切れの可能性もあるため、気になる製品があれば販売ページを確認の上、購入してもら…
+The post 0.5ms/280Hzの24.5インチ型ゲーミングモニターが過去最安値になっています【Amazonセール】 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ベストセラーのトラックボールマウス、Amazonセール終了後も価格戻さずセール継続【Amazonセール】]]></title>
+        <id>https://gori.me/?p=153582</id>
+        <link href="https://gori.me/sale/peripheral-sale/153582"/>
+        <updated>2024-06-05T22:00:43.000Z</updated>
+        <summary type="html"><![CDATA[ロジクールのトラックボールマウス「ERGO M575S」がAmazonスマイルSALE終了後も価格を戻さず、通常価格の19％オフとなる6,305円のセール価格で販売されている。 トラックボールの売れ筋ランキングで常に1位をキープしている人気製品をセールで買い逃してしまっていたら、今のうちに買っておこ…
+The post ベストセラーのトラックボールマウス、Amazonセール終了後も価格戻さずセール継続【Amazonセール】 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[植物界のマッチングアプリ？ パートナーをAIとドローンで探す]]></title>
+        <id>https://www.gizmodo.jp/2024/06/encephalartos-woodii.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/encephalartos-woodii.html"/>
+        <updated>2024-06-05T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:OlegKovtun/GettyImages出会いを求めてマッチングアプリを利用する人が増えていますが、植物もパートナー探しにテクノロジーを駆使する時代がやってきたみたい。ただ、こちらの方は「いい相手がいないかな」レベルではありません。探さないと絶滅しちゃうんです。ソテツ、ピンチIFLSによると、パートナーを探しているのは、1895年に南アフリカのンゴイェ・フォレストで発見されたEnc]]></summary>
+        <author>
+            <name>中川真知子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter、ブックマークを検索できる機能を準備中か]]></title>
+        <id>https://gori.me/?p=153594</id>
+        <link href="https://gori.me/twitter/twitter-news/153594"/>
+        <updated>2024-06-05T21:40:58.000Z</updated>
+        <summary type="html"><![CDATA[X（旧Twitter）は、ブックマークを検索する機能を準備している可能性がある。 X will soon let you search your bookmarks on iOS! pic.twitter.com/4bhqQrpOOh — Aaron (@aaronp613) June …
+The post Twitter、ブックマークを検索できる機能を準備中か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Vision Proの日本発売、6月半ばまでに実現か]]></title>
+        <id>https://gori.me/?p=153592</id>
+        <link href="https://gori.me/apple-vision/vision-pro/153592"/>
+        <updated>2024-06-05T21:30:37.000Z</updated>
+        <summary type="html"><![CDATA[Apple Vision Proの日本を含む米国以外の国での発売は、6月中旬までに行われる可能性がある。Apple情報に詳しいアナリストMing-Chi Kuo氏によると、イギリス、フランス、ドイツ、中国、日本、シンガポールが対象となっているという。 Vision Pro出貨調查更新：本月中旬前已開…
+The post Apple Vision Proの日本発売、6月半ばまでに実現か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バッドボーイズ最新作のガンアクション撮影の裏側：俳優がカメラマンとの1人2役と話題に]]></title>
+        <id>https://gori.me/?p=153600</id>
+        <link href="https://gori.me/news/entertainment/153600"/>
+        <updated>2024-06-05T21:13:45.000Z</updated>
+        <summary type="html"><![CDATA[ウィル・スミス主演の映画『バッドボーイズ RIDE OR DIE』を撮影している裏側が投稿され、話題となっている。え、ウィル・スミスが俳優しながらカメラマンもやってるの！？凄すぎ……。 Behind the scenes of ‘BAD BOYS: RIDE OR DIE’ Read our rev…
+The post バッドボーイズ最新作のガンアクション撮影の裏側：俳優がカメラマンとの1人2役と話題に first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソフトバンクが「テラヘルツ帯」通信の実証実験　クルマの通信が劇的に変わる？]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/05/news184.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/05/news184.html"/>
+        <updated>2024-06-05T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクが6月4日、未活用の周波数帯「テラヘルツ帯」を活用した無線通信の実証実験を公開。Beyond 5G/6G時代に向けた研究開発の進展を示した。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楽天モバイル、法人向けにMDMサービス提供開始]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1597649.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1597649.html"/>
+        <updated>2024-06-05T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[楽天モバイルは、法人に向け、MDMサービス「楽天モバイルあんしん管理 powered by LANSCOPE」の提供を開始した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA、時価総額Apple抜き世界2位に]]></title>
+        <id>https://gori.me/?p=153597</id>
+        <link href="https://gori.me/it/153597"/>
+        <updated>2024-06-05T20:50:02.000Z</updated>
+        <summary type="html"><![CDATA[Appleが時価総額3兆ドルを突破したが、脚光を浴びたのはAppleを抑えてMicrosoftに続き世界2位に浮上したNVIDIAだ。3兆ドルを突破した企業は史上3社目。生成AIの開発や処理に必要不可欠な半導体の需要拡大への期待が株価を引き上げ続けている。 Nvidia briefly passed…
+The post NVIDIA、時価総額Apple抜き世界2位に first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canon、待望の35mmのLレンズ「RF 35mm f/1.4 L VCM Lens」正式発表。重量550gの”ハイブリッド”レンズ]]></title>
+        <id>https://gori.me/?p=153589</id>
+        <link href="https://gori.me/camera/camera-news/153589"/>
+        <updated>2024-06-05T19:43:19.000Z</updated>
+        <summary type="html"><![CDATA[Canonは6月6日、「EOS Rシステム」の交換レンズ「RFレンズ」の新製品として「Canon RF 35mm f/1.4 L VCM」を正式発表した。 開放F値1.4と優れた光学設計により、静止画および動画にも活用できるハイブリッドレンズと位置づけられている。RF24-105mm F2.8 L …
+The post Canon、待望の35mmのLレンズ「RF 35mm f/1.4 L VCM Lens」正式発表。重量550gの”ハイブリッド”レンズ first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[みんなのケータイ]音声認識の精度は音響と取り込むマイクに左右されると思う日々]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/minna/1597698.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/minna/1597698.html"/>
+        <updated>2024-06-05T15:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Galaxy AIをプッシュしているGalaxy S24シリーズ。ですが、私はS24 Ultraを購入しようと決めたときからレコーダーアプリの文字起こし機能に注目していました。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[本日の一品]ありそうでなかった、AirTagを挟んで取り付けるBelkinのクリップ]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1597771.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1597771.html"/>
+        <updated>2024-06-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AirTagを身に付けておくためのアクセサリは数多く存在するが、そのほとんどはタグやストラップでぶら下げるタイプで、意外とかさばるのが難点だ。今回紹介するのはクリップを用いて、AirTagを任意の場所に挟んで取り付けられるアイテムだ。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IIJmio、6月のキャンペーンまとめ]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1597758.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1597758.html"/>
+        <updated>2024-06-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[インターネットイニシアティブ（IIJ）は、MVNOサービス「IIJmio」において、複数のキャンペーンを実施している。そこで本稿では、それらのキャンペーン情報をまとめた。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[石野純也の「スマホとお金」]「楽天ペイ」がポイント付与率変更、「楽天キャッシュ」優遇の新制度を解説]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/value/1597717.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/value/1597717.html"/>
+        <updated>2024-06-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[楽天ペイメントが運営する「楽天ペイ」のポイント付与率が、6月4日に変更になりました。新たな仕組みで優遇されるのが、現金や銀行口座などからチャージできる「楽天キャッシュ」です。その還元率は1.5%と、競合のコード決済サービスと比べても高い数値を誇ります。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夜空に浮かぶ謎の紫、オーロラではない“なにか”の正体]]></title>
+        <id>https://www.gizmodo.jp/2024/06/steve-twin-discovery-aurora-citizen-scientists-jpn.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/steve-twin-discovery-aurora-citizen-scientists-jpn.html"/>
+        <updated>2024-06-05T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ノルウェーのラムフィヨルドモーエン研究ステーションで捉えた、STEVEの双子。（Image:RamfjordmoenResearchStation）これも見てみたい！夜空にかかる紫や緑の光はオーロラだけかと思いきや、違うタイプの現象もあるみたいです。アマチュア観測グループが2016年、空に紫と緑の大きな帯が出現する現象を発見し、「STEVE（スティーヴ）」と名付けました。STEVEの成り立ちはまだ]]></summary>
+        <author>
+            <name>福田ミホ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[札幌市営地下鉄の全46駅でクレジットカードの「タッチ決済」乗車実験　2025年春に開始]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/05/news172.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/05/news172.html"/>
+        <updated>2024-06-05T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[札幌市営地下鉄の全46駅において、2025年春からタッチ決済対応のカードやスマートフォンなどを活用した乗車サービスの実証実験が開始始まる。専用リーダーを搭載した自動改札機を各改札口に1台設置するという。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[じつはロンドンより雨量が多い東京。雨との付き合い方も違う]]></title>
+        <id>https://www.gizmodo.jp/2024/06/precipitation_london_tokyo.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/precipitation_london_tokyo.html"/>
+        <updated>2024-06-05T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:福田ミホ東京って雨、多いんですね…。日本はそろそろ梅雨ですね。私は今たまたま、雨が多いと言われるイギリスに住んでいるため、日本の梅雨に役立つレイングッズがないかな…などとぼんやり考えておりました。が！調べてみたら、そもそもイギリスより日本のほうが雨が多いらしいことがわかってきました。もちろんイギリスも日本も場所によっていろんな気候なので、それぞれの首都であるロンドンと東京で比べてみると]]></summary>
+        <author>
+            <name>福田ミホ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マイナス10度くらいまで冷える。スケスケゲーミングPCに取り付けたいSSD #Computex2024]]></title>
         <id>https://www.gizmodo.jp/2024/06/computex2024_ssd_msi.html</id>
@@ -2961,557 +3568,6 @@ The post Googleの検索結果、1位と2位の間などに広告を差し込む
         <summary type="html"><![CDATA[31日9時にスタートしたAmazon.co.jpの「スマイルSALE」で、Fire TVシリーズがセール価格で販売されている。]]></summary>
         <author>
             <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[僕らガジェット好きがAmazonスマイルSALEでチェックするべきセールや目玉商品はこんな感じです]]></title>
-        <id>https://gori.me/?p=153440</id>
-        <link href="https://gori.me/amazon/amazon-sale/153440"/>
-        <updated>2024-05-31T00:00:40.000Z</updated>
-        <summary type="html"><![CDATA[Amazonが、AmazonスマイルSALEをスタートした。6月3日（月）23時59分までの開催だ。セール会場はこちらから。 最近はAmazonでセールが定期的に開催されるため「セール中に買っておかなきゃ」という焦りは良い意味でなくなったが、定期的に開催されるからこそ安くないときに買うことが勿体なく…
-The post 僕らガジェット好きがAmazonスマイルSALEでチェックするべきセールや目玉商品はこんな感じです first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今MNPするならドコモオンラインショップで。iPhone 15が4.4万円オフ、iPhone 15 Proが3.3万円オフ]]></title>
-        <id>https://gori.me/?p=153438</id>
-        <link href="https://gori.me/iphone/iphone15/153438"/>
-        <updated>2024-05-30T23:45:35.000Z</updated>
-        <summary type="html"><![CDATA[ドコモオンラインショップが5月31日、iPhone 15とiPhone 15 Proの割引内容を変更した。のりかえ（MNP）で購入した場合、iPhone 15は44,000円割引、iPhone 15 Proは33,000円割引が適用される。 新規購入の特典も用意されている。iPhone 15は、購入…
-The post 今MNPするならドコモオンラインショップで。iPhone 15が4.4万円オフ、iPhone 15 Proが3.3万円オフ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[眠っているイヤホンを再活用。ミニプラグをUSB-Cに接続する変換器]]></title>
-        <id>https://www.gizmodo.jp/2024/05/elecom_miniplug-to-usb-type-c.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/elecom_miniplug-to-usb-type-c.html"/>
-        <updated>2024-05-30T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:ELECOMうちにも3本くらいあったはず。USB接続が主流になってから、ミニプラグを使ったイヤホンやヘッドホンの出番がめっきり減った気がします。だけどまだ使う機会はたまにあるし、捨てるのは忍びないですよね。USB-C接続にしてしまおうどこかに現役のイヤホンが眠っているなら、エレコムのオーディオ端子USB変換アダプターでミニプラグからUSB-Cポートに繋いでみましょう。パソコンのステレオ]]></summary>
-        <author>
-            <name>岡本玄介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「めぐりズム蒸気でホットアイマスク」を着けて寝ると、翌朝目がスッキリする気がする]]></title>
-        <id>https://gori.me/?p=153429</id>
-        <link href="https://gori.me/lifestyle/153429"/>
-        <updated>2024-05-30T22:30:38.000Z</updated>
-        <summary type="html"><![CDATA[仕事柄ディスプレイを長時間見ていることが多いため、アイケアは大事にしている。ディスプレイとの距離や見る時の姿勢は基本として、何とかケアをしたいと思い「めぐりズム蒸気でホットアイマスク」を導入してみた。 最初のうちは昼食後、午後仕事を開始する前に使っていたが、あまりもの心地よさに「着けたまま寝落ちした…
-The post 「めぐりズム蒸気でホットアイマスク」を着けて寝ると、翌朝目がスッキリする気がする first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[家の中で｢スライムがあらわれた！｣ができるビッグクッション]]></title>
-        <id>https://www.gizmodo.jp/2024/05/287842.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/287842.html"/>
-        <updated>2024-05-30T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:SQUAREENIX『ドラゴンクエスト』をプレイしたことがない人ですら、ついつい欲しくなってしまう元祖かわいいキャラ、スライム。そんなスライムが、約65cm幅のビッグクッションになりました。実は過去にも販売されて大反響を呼んだのですが、今回再販されることに決まったんですよ。置いてよし、触れ合ってよしImage:SQUAREENIX『スマイルスライムビッグクッション』はスライムとメタルス]]></summary>
-        <author>
-            <name>中川真知子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhoneのロック画面をiPod化する壁紙を設定したら……スゲェ。もう完全にiPodじゃん]]></title>
-        <id>https://gori.me/?p=153446</id>
-        <link href="https://gori.me/iphone/iphone-news/153446"/>
-        <updated>2024-05-30T21:53:55.000Z</updated>
-        <summary type="html"><![CDATA[iPhoneのロック画面をゲームボーイ化する壁紙も最高だったが、iPod化する壁紙もかなり良い。ウィジェットとフォントを良い感じに指定すれば本当にiPodとして違和感が全くない。凄い！ 合計15種類以上の壁紙を配布している模様。これにEarPodsを繋いでたら完全にiPodだね！ This wall…
-The post iPhoneのロック画面をiPod化する壁紙を設定したら……スゲェ。もう完全にiPodじゃん first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大阪2店舗目のApple Storeはグランフロント大阪で決定か。夏以降にオープン予定]]></title>
-        <id>https://gori.me/?p=153436</id>
-        <link href="https://gori.me/apple/apple-news/153436"/>
-        <updated>2024-05-30T21:30:38.000Z</updated>
-        <summary type="html"><![CDATA[大阪2店舗目となるApple Storeが、JR大阪駅北側の大型複合施設「グランフロント大阪」内にオープンする可能性が高い。読売新聞が報じた。JR大阪駅と連絡通路で直結する南館2階にあるパナソニックホールディングスのショールーム跡地に入居するという。同エリアは2年以上空いたままだった。 すでに内装工…
-The post 大阪2店舗目のApple Storeはグランフロント大阪で決定か。夏以降にオープン予定 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ケータイ用語の基礎知識]【第1010回】スマホのバッテリー寿命に影響？　「ゲームしながら/動画見ながら充電はNG」の理由]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/column/keyword/1596069.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/column/keyword/1596069.html"/>
-        <updated>2024-05-30T15:01:00.000Z</updated>
-        <summary type="html"><![CDATA[ゲームをしたり動画を見たりと、高負荷な作業をスマートフォンに行わせながら充電を行うことは、あまり勧められません。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[藤岡雅宣の「モバイル技術百景」] 基地局をシェアして早急に5Gエリア拡充！　ーインフラシェアリングのメリットとはー]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/column/fujioka/1595801.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/column/fujioka/1595801.html"/>
-        <updated>2024-05-30T15:01:00.000Z</updated>
-        <summary type="html"><![CDATA[5月上旬、KDDIとソフトバンクがネットワーク共同構築の範囲を拡大するというアナウンスがありました。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[てっぱんアプリ！] 梅雨到来！　スマホアプリ「雨ですかい？」で降り始めをいち早く察知しよう]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/column/teppan/1596079.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/column/teppan/1596079.html"/>
-        <updated>2024-05-30T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[スマホを、もっと楽しく快適に使うには、アプリを活用しよう。本コーナーでは、続々登場する旬なアプリの中から編集部が厳選した、スマホユーザー必携の“てっぱん”アプリをご紹介します！]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[山根康宏の「言っチャイナよ」] ファーウェイ新カメラフォンが4機種登場、nubia格安折りたたみが中国でも発表]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/column/china/1596064.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/column/china/1596064.html"/>
-        <updated>2024-05-30T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[世界最大のスマートフォン市場、かつ最大の5G加入者数を誇る中国で毎月発売された5Gスマートフォンを香港在住の携帯電話研究家、山根康宏が紹介する。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[みんなのケータイ]家から出られない老父が、固定資産税を楽天ペイで払った]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/column/minna/1594545.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/column/minna/1594545.html"/>
-        <updated>2024-05-30T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[最近、実家の父母が年老いてあまり歩けなくなりました。400メートルほど離れたコンビニに行くのも辛いという有様。なので日々の買い物も、ネットスーパーに頼っている状態です。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モダンな限定色をまとったNothingのスマホ。「Phone (2a) Special Edition」が登場]]></title>
-        <id>https://www.gizmodo.jp/2024/05/phone-2a-special-edition.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/phone-2a-special-edition.html"/>
-        <updated>2024-05-30T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Nothingガンダムに見えた人もいるとかいないとか。Nothingの透明スマホに、色彩鮮やかな数量限定モデル「Phone(2a)SpecialEdition」が登場しました。透明感はそのままに、ややカラフルに。Phone(2a)SpecialEditionは私たちの最も力強くユニークなスマートフォンを通じて語られるカラーの物語です。Nothingのデザインのコアは透明性。不必要なもの]]></summary>
-        <author>
-            <name>ヤマダユウス型</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[映画『マッドマックス：フュリオサ』、新キャラ・ディメンタス将軍が激アツかもしれない]]></title>
-        <id>https://www.gizmodo.jp/2024/05/chris-hemsworth-furiosa-character-dementus-mad-max-bear.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/chris-hemsworth-furiosa-character-dementus-mad-max-bear.html"/>
-        <updated>2024-05-30T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:WarnerBros.明日5月31日（金）公開！『フュリオサ：マッドマックス』に登場するフュリオサ、イモータン・ジョー、ウォーボーイズなどのキャラクターは、すでにこれまでの作品を見ているみなさんならご存知の面々。しかし、今作で新たに加わったクリス・ヘムスワース演じるディメンタス将軍は、狂っていて血の気が多いだけでなく、撮影中にどんどん変化を遂げたキャラクターです。クリス・ヘムスワースが]]></summary>
-        <author>
-            <name>岩田リョウコ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[車用に傘型サンシェードを買ったら、使いづらくて絶望した。おすすめ製品があったら教えてほしい]]></title>
-        <id>https://gori.me/?p=153434</id>
-        <link href="https://gori.me/lifestyle/153434"/>
-        <updated>2024-05-30T11:30:21.000Z</updated>
-        <summary type="html"><![CDATA[これからの季節、車のフロントガラス用サンシェードは必須アイテム。我が家は車庫もなければ日除けもないため、無防備の状態で放置してしまうと乗る度にサウナ状態だ。 従来は折り畳めるタイプを使っていたが、傘型のほうが便利そうだと思い、Lamicall製のサンシェードを買ってみた。選んだ理由は思い出せない。セ…
-The post 車用に傘型サンシェードを買ったら、使いづらくて絶望した。おすすめ製品があったら教えてほしい first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソフトバンクが「Xperia 1 VI」を6月7日に発売　最大4万5000円相当が戻ってくるキャンペーンも]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2405/30/news186.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2405/30/news186.html"/>
-        <updated>2024-05-30T11:20:00.000Z</updated>
-        <summary type="html"><![CDATA[ソフトバンクは6月7日にソニー製のハイエンドモデル「Xperia 1 VI」を発売する。これに先立ち5月31日から予約を受け付ける。Xperia 1 VIはソニーが5月15日に発表した新製品で、同社は6月上旬以降の発売を予告していたが、発売日が決まった。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIOが「AmazonスマイルSALE」に参加　USB付き電源タップやアイマスクなどが最大50％オフに]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2405/30/news180.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2405/30/news180.html"/>
-        <updated>2024-05-30T11:10:00.000Z</updated>
-        <summary type="html"><![CDATA[CIOが、5月31日から6月3日まで「AmazonスマイルSALE」に参加する。モバイルバッテリーやGaN急速充電器をはじめ、新製品のUSB付き電源タップやアイマスクなどを最大50％オフで提供する。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[先代から結構変わったソニー「Xperia 1 VI」のカメラ　とっつきやすくなった面も]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2405/21/news029.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2405/21/news029.html"/>
-        <updated>2024-05-30T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ソニーのフラグシップ機「Xperia 1」シリーズの6代目が誕生する。「Xperia 1 VI」である。今回、カメラ機能を一足早く試せたので、サクッとチェックしていこう]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マウスなんていらない。そう思ってた自分が「高級マウス＆キーボード」にハマった話]]></title>
-        <id>https://www.gizmodo.jp/2024/05/logicoolmxseries.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/logicoolmxseries.html"/>
-        <updated>2024-05-30T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:照沼健太「高級なキーボードなんて、要る？」。SNSで高いキーボードが話題になるたび、そう思っていました。それはマウスも同じ。YouTubeで「このマウスがないと動画編集できない」なんて言ってる人をよく見かけるけど、ノートPCにはキーボードもトラックパッドもついてるじゃないですか。僕だって、会社支給の安いキーボードやマウスを使ったことはあります。でも、すぐに使わなくなってしまったんですよ]]></summary>
-        <author>
-            <name>編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゲオ、ポケットサイズのApple Watch用モバイルバッテリー発売　1628円]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2405/30/news182.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2405/30/news182.html"/>
-        <updated>2024-05-30T10:07:00.000Z</updated>
-        <summary type="html"><![CDATA[ゲオストアは、ゲオ限定「アップルウォッチ モバイルバッテリー1000mAh（CS-WPB848）」を発売。持ち運びに便利なポケットサイズで、マグネット式ワイヤレス充電に対応する。価格は1628円（税込み）。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スルッとKANSAIが二次元コード乗車券「スルッと QRtto」を開発　阪急や近鉄など7社が6月17日から運用開始]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2405/30/news170.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2405/30/news170.html"/>
-        <updated>2024-05-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[スルッとKANSAI協議会が、二次元コードを活用したデジタル乗車券「スルッとQRtto」を開発した。チケットレスでの鉄道乗車を目的としたもので、提携施設の入場にも利用できるという。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE NORTH FACEのシューズは雨も山もへっちゃら。防水透湿でフィット感もいい]]></title>
-        <id>https://www.gizmodo.jp/2024/05/the_north_face_townt_goretex_shoes.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/the_north_face_townt_goretex_shoes.html"/>
-        <updated>2024-05-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:カネコヒデシついに雨の多いシーズンに突入ですね。今回は、豪雨の街や山もなんのその。タフすぎる防水透湿アウトドアシューズをご紹介します。都市から山まで、全天候型のオールラウンドボクがピックアップしたのは、THENORTHFACE（ザ・ノース・フェイス）がリリースした、防水透湿アウトドアシューズ「TOWNTIIGORE-TEX（タウントIIゴアテックス）」です。名前の「TOWNT」とは、”]]></summary>
-        <author>
-            <name>カネコヒデシ（BonVoyage）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソフトバンクから「Xperia 1 VI」6月7日発売へ]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1596160.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1596160.html"/>
-        <updated>2024-05-30T09:52:32.000Z</updated>
-        <summary type="html"><![CDATA[ソフトバンクは、ソニー製Androidスマートフォン「Xperia 1 VI」を6月7日に発売する。予約受付は、5月31日に開始する。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自分にぴったりのイヤホンがわかる 「JBL Fit Checker」を試してみた]]></title>
-        <id>https://www.gizmodo.jp/2024/05/jbl-fit-checker.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/jbl-fit-checker.html"/>
-        <updated>2024-05-30T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:chisatokuroda先日行なわれたJBLのメディア向け体験会。新製品とは別に注目を集めたのが、ソフトを使って自分の耳に合うイヤホンの型を見つけられる「JBLFitChecker」。イヤホンにはカナル型やインナーイヤー型、さらには耳掛けスピーカー型までいろんな種類がありますが、結局自分にはどれが正解なんだ！ということで、試してみることに。「Buds」「Beam」「Flex」の3タイ]]></summary>
-        <author>
-            <name>chisato kuroda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドコモの「iPhone 15」が最大4.4万円引きに、31日～]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1596132.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1596132.html"/>
-        <updated>2024-05-30T08:48:12.000Z</updated>
-        <summary type="html"><![CDATA[NTTドコモは、ドコモオンラインショップにおいて、対象スマートフォンの割引額やポイント付与額を5月31日に変更する。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[昼も夜も楽しめる。ドローンとの共演が見どころの花火大会がお台場で]]></title>
-        <id>https://www.gizmodo.jp/2024/05/starisland_show_firework.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/starisland_show_firework.html"/>
-        <updated>2024-05-30T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:STARISLAND下から見るか？横から見るか？日本発の未来型花火エンターテインメント「STARISLAND2024」が、2024年6月1日(土)〜2日(日)の2日間、東京・お台場海浜公園で開催予定です。未来型花火エンターテインメント「STARISLAND」は、日本を代表する伝統文化である花火を次世代に継承する形でアップデートした、未来型の花火エンターテインメント。2017年から世界各]]></summary>
-        <author>
-            <name>シラクマ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スマホ画面を見ながら耳掃除できる「充電式電子耳かき」発売　ミスターカードから]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2405/30/news140.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2405/30/news140.html"/>
-        <updated>2024-05-30T07:55:00.000Z</updated>
-        <summary type="html"><![CDATA[ミスターカードが、スマホ画面を見て耳掃除ができる「充電スタンド式ワイヤレスカメラ電子耳かき」を発売する。ケーブル接続がない充電スタンド式で、光る3.5mm極細レンズで狭い耳の穴でも効率的に掃除できる。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[太陽探査機が捉えた、太陽の前を通過する水星]]></title>
-        <id>https://www.gizmodo.jp/2024/05/solar-orbiter-mercury-sun-silhouette-transit-jpn-1.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/solar-orbiter-mercury-sun-silhouette-transit-jpn-1.html"/>
-        <updated>2024-05-30T07:35:00.000Z</updated>
-        <summary type="html"><![CDATA[太陽の動きを観測する「ソーラー・オービター」が1月3日、太陽の前を通過する小さな黒い点を観測しました。この黒い点の正体、実は水星なんです。]]></summary>
-        <author>
-            <name>たもり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クマ肉を食べた家族が寄生虫に感染。ちゃんと加熱しないとキケン]]></title>
-        <id>https://www.gizmodo.jp/2024/05/parasitic-infection-from-bear-meat.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/parasitic-infection-from-bear-meat.html"/>
-        <updated>2024-05-30T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[カナダで狩ったクロクマの肉を食べた家族が旋毛虫症に感染。野生の肉はちゃんと加熱して食べること。]]></summary>
-        <author>
-            <name>中川真知子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30日昼にモバイルSuicaでチャージできない障害、現在は復旧]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1596043.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1596043.html"/>
-        <updated>2024-05-30T06:01:27.000Z</updated>
-        <summary type="html"><![CDATA[JR東日本の交通系ICカード「モバイルSuica」で30日、チャージや定期券の購入などがしづらい事象が発生していた。現在は、復旧している。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[和モダンを伝統工芸「木組」風ダイヤルで表現した65万円G-SHOCK]]></title>
-        <id>https://www.gizmodo.jp/2024/05/gshock-mrg-b2100b-1ajr.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/gshock-mrg-b2100b-1ajr.html"/>
-        <updated>2024-05-30T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[日本の伝統工芸「木組」を意識した文字盤を採用し、日本生まれの合金を各所に使ったG-SHOCK「MRG-B2100B-1AJR」が発売に。]]></summary>
-        <author>
-            <name>岡本玄介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「楽天ペイ」チャージ払いで最大20％還元、6月4日10時～]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1596027.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1596027.html"/>
-        <updated>2024-05-30T05:50:47.000Z</updated>
-        <summary type="html"><![CDATA[楽天ペイメントは、「楽天ペイ」アプリにおいて、「楽天キャッシュでのコード・QR払いで最大20％還元！」キャンペーンを実施する。期間は、6月4日10時～7月1日9時59分まで。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「『楽天市場』2024年夏のトレンド予測」を発表、進化系暑さ対策グッズやガチ世界グルメなど]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1596029.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1596029.html"/>
-        <updated>2024-05-30T05:40:55.000Z</updated>
-        <summary type="html"><![CDATA[楽天グループは30日、ECサイト「楽天市場」の購買データやアンケート調査などを元にした「『楽天市場』2024年夏のトレンド予測」を発表した。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無印良品の「携帯コップ」。防災グッズと併せて持っておくと頼りになる]]></title>
-        <id>https://www.gizmodo.jp/2024/05/muji_outdoor.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/muji_outdoor.html"/>
-        <updated>2024-05-30T05:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:SUMA-KIYOROOMIE2024年3月12日掲載の記事より転載登山やハイキングをしていると、よく出くわすのがおいしい湧き水。疲れたカラダによく冷えた天然水は格別ですよね。だけど毎回かさばるコップを持ち歩き、水場のたびにリュックから取り出すのはちょっと面倒じゃないですか？カードサイズの携帯コップ無印良品「携帯用シリコーンコップ」そんなときにオススメなのが、無印良品の「携帯用シリコー]]></summary>
-        <author>
-            <name>SUMA-KIYO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4口のスマートタップで、デスクまわりぜ〜んぶアプリ制御しちゃおうよ]]></title>
-        <id>https://www.gizmodo.jp/2024/05/tp-link-tapo-p300-1.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/tp-link-tapo-p300-1.html"/>
-        <updated>2024-05-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:TP-Link色んな部屋でIoT化が狙えそう。電源（コンセント）のオン・オフがアプリや音声アシスタントから操作できる「スマートコンセント」。制御できるのは「電源を入れる」「電源を消す」だけですけど…・アプリからスケジュールを設定して、時間でライトを点灯・消灯・スマートスピーカーと連携させて、声で遠くのサーキュレーターの電源を入れるといったように既存の家電を後付けで（無理やり）IoT化で]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「auウェルネス」で1日3000歩歩くと抽選で1000ポイント、6月1日～]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1596002.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1596002.html"/>
-        <updated>2024-05-30T04:55:51.000Z</updated>
-        <summary type="html"><![CDATA[KDDIは、トータルヘルスケアアプリ「auウェルネス」において「歩いてCO2削減に貢献！1,000Pontaポイントプレゼントキャンペーン」を実施する。期間は、6月1日～6月30日。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「iPhoneでマイナカード」ついに正式発表、対応機種やサポートされる機能はどうなる？]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1596011.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1596011.html"/>
-        <updated>2024-05-30T04:50:12.000Z</updated>
-        <summary type="html"><![CDATA[30日9時30分～45分、岸田文雄総理大臣と米アップル（Apple）CEOのティム・クック氏とのビデオ会談が実施され、マイナンバーカード機能をiPhoneに搭載することが確認された。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[集英社、縦読みマンガアプリ「ジャンプTOON」を開始　人気作品のフルカラーも]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1595982.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1595982.html"/>
-        <updated>2024-05-30T04:35:53.000Z</updated>
-        <summary type="html"><![CDATA[集英社は、スマートフォンおよびタブレット端末向けの縦読みマンガアプリ「ジャンプTOON」と、デビューにつながる縦読みマンガ投稿サービス「ジャンプTOON NEXT！」も開始した。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モバイルSuicaでチャージやグリーン券購入ができず　JR東日本が「券売機などでの現金チャージ」を推奨【追記あり】]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2405/30/news134.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2405/30/news134.html"/>
-        <updated>2024-05-30T04:05:00.000Z</updated>
-        <summary type="html"><![CDATA[5月30日12時30分から、スマートフォン向けの「モバイルSuica」アプリで、チャージやグリーン券等の購入時につながりにくい状態が続いている。東日本旅客鉄道（JR東日本）が案内している。同社は駅などでの現金チャージを行うよう呼びかけている。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仕事もオフの日も。ミニマルなスマート機能が心地良いハイブリッドウォッチ]]></title>
-        <id>https://www.gizmodo.jp/2024/05/tissot-t-touch-connect-sports-video.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/tissot-t-touch-connect-sports-video.html"/>
-        <updated>2024-05-30T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:ギズモード・ジャパンこのアナログさがちょうどいい。スイスのウォッチブランドTISSOT（ティソ）の新モデル「TISSOTT-タッチコネクトスポーツ」。本格的な時計の佇まいがありながら、ビジネスでもアクティブなシーンでも活躍できる機能をもった、ハイブリットウォッチです。製品名に「スポーツ」とあるように、運動時の身体トラッキングがこの製品の推しポイント。さっそくこの機能を試そうと走り出した]]></summary>
-        <author>
-            <name>編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDDI、宇宙共創プログラム「MUGENLABO UNIVERSE」スタート]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1595966.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1595966.html"/>
-        <updated>2024-05-30T03:28:44.000Z</updated>
-        <summary type="html"><![CDATA[KDDIは30日、宇宙に関する共創プログラム「MUGENLABO UNIVERSE」を開始した。宇宙事業に挑戦しやすい環境をスタートアップや大企業へ提供することで、地上での課題解決につなげる。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[18時間再生の新型ワイヤレスイヤフォン「Beats Solo Buds」6月20日発売　1万2800円]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2405/30/news126.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2405/30/news126.html"/>
-        <updated>2024-05-30T03:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Beatsは、6月20日に新型ワイヤレスイヤフォン「Beats Solo Buds」を発売。最大18時間の連続再生が可能で、スマートフォンからも充電できる。4色展開で、価格は1万2800円（税込み）。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[来春、iPhoneにマイナンバーカード機能搭載へ …って何が便利になるの？]]></title>
-        <id>https://www.gizmodo.jp/2024/05/iphone-my-number-card.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/iphone-my-number-card.html"/>
-        <updated>2024-05-30T03:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:yu_photo/Shutterstock.com僕らの生活はさらに身軽になりそう。本日、Apple（アップル）がデジタル庁との協力のもと、iPhoneからマイナンバーカードを利用できるよう対応を進めていることを、正式に発表しました。Image:Appleリリースによると、来春の後半からiPhoneの標準ウォレット機能「Appleウォレット」へ、マイナンバーカード機能を追加でき、各種サ]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI時代の音楽クリエイティブの正義はどこにあるのか？ ジャスティスに聞いてみた]]></title>
-        <id>https://www.gizmodo.jp/2024/05/justice-hyperdorama-interview.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/justice-hyperdorama-interview.html"/>
-        <updated>2024-05-30T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:VMG/UniversalMusicLLC誰もがAIで音楽を作れる時代にアーティストは何を思うのか？ChatGPTやMidjourneyに代表される生成AIの登場によって、私たちの日常生活にも大きな変化が訪れようとしています。音楽シーンでも、StableAudioなど音楽生成AIが登場したことで、楽器が弾けなくても自分の頭の中でイメージする音楽をテキストで指示するだけで簡単に作成できる]]></summary>
-        <author>
-            <name>Jun Fukunaga</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「iPhoneでマイナンバーカード」来春後半に開始、アップルが正式発表]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1595937.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1595937.html"/>
-        <updated>2024-05-30T02:31:46.000Z</updated>
-        <summary type="html"><![CDATA[アップル（Apple）は、日本のデジタル庁とともにApple Walletでマイナンバーカードを利用できるようにすると発表した。来春の後半、日本のユーザーはiPhoneで、マイナンバーカードを利用できるようになる。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhoneのウォレットアプリで「マイナンバーカード」　2025年春後半から予定]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2405/30/news116.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2405/30/news116.html"/>
-        <updated>2024-05-30T02:26:00.000Z</updated>
-        <summary type="html"><![CDATA[iPhoneの「ウォレット」アプリに、日本のマイナンバーカード（個人番号カード）を搭載可能となる。米国外では初の身分証明書対応で、2025年春の後半から利用できるようになる見通しだ。【追記】]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone、マイナンバーカード機能実装を正式発表。2025年春後半に対応へ]]></title>
-        <id>https://gori.me/?p=153423</id>
-        <link href="https://gori.me/iphone/iphone-news/153423"/>
-        <updated>2024-05-30T02:17:03.000Z</updated>
-        <summary type="html"><![CDATA[Appleは日本のデジタル庁と協力し、来春の後半からAppleウォレットでマイナンバーカードを利用できるよう準備を進めている。Appleウォレットの身分証明書機能を米国外で展開するのは日本が初めて。 この機能により、iPhoneのAppleウォレットにマイナンバーカードを追加し、物理的なカードと同じ…
-The post iPhone、マイナンバーカード機能実装を正式発表。2025年春後半に対応へ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[auから「Xperia 1 VI」6月7日発売、21.5万円]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1590441.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1590441.html"/>
-        <updated>2024-05-30T02:10:42.000Z</updated>
-        <summary type="html"><![CDATA[KDDIと沖縄セルラーは、auブランドの新製品としてソニー製Androidスマートフォン「Xperia 1 VI」を6月7日に発売する。auオンラインショップでの価格は21万4800円。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDDI、2028年をめどに月－地球間通信を構築　宇宙共創プログラム「MUGENLABO UNIVERSE」も]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2405/30/news111.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2405/30/news111.html"/>
-        <updated>2024-05-30T02:10:00.000Z</updated>
-        <summary type="html"><![CDATA[KDDIは5月30日、共創プログラム「MUGENLABO UNIVERSE」を開始した。極限環境の宇宙を活用し、地球上の課題解決を目指すとしている。合わせて、月面におけるモバイル通信の構築などに関して発表した。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[次のiOSは見た目一変。アプリのアイコン色を自分好みに変更可能に]]></title>
-        <id>https://www.gizmodo.jp/2024/05/customize-your-home-screen-ios-18.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/customize-your-home-screen-ios-18.html"/>
-        <updated>2024-05-30T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[iOS18では画面カスタマイズの自由度が上がり、アプリのアイコンの色を変えられるようになる。]]></summary>
-        <author>
-            <name>はらいさん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[au向けの「Xperia 1 VI」は6月7日に発売　一括21万4800円]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2405/30/news108.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2405/30/news108.html"/>
-        <updated>2024-05-30T01:45:00.000Z</updated>
-        <summary type="html"><![CDATA[KDDIと沖縄セルラー電話は6月7日にソニー製のハイエンドモデル「Xperia 1 VI」を発売する。ソニーが5月15日に発表した新製品で、KDDIが6月上旬以降の発売を予告していた。新たに発売日が決まった。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アマゾン「Prime Video」、6月の新着作品は「機動戦士ガンダムSEED FREEDOM」など]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1595781.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1595781.html"/>
-        <updated>2024-05-30T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アマゾン（Amazon）のプライム会員向けサービス「Prime Video（プライム・ビデオ）」において、6月に配信がスタートする作品が発表された。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自作PCの内蔵ファン方面からやってきたリッチな卓上扇風機]]></title>
-        <id>https://www.gizmodo.jp/2024/05/noctua-nv-fs1.html</id>
-        <link href="https://www.gizmodo.jp/2024/05/noctua-nv-fs1.html"/>
-        <updated>2024-05-30T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Noctuaたしかに彼らも気体力学の専門家だよなあ。自作PCのパーツのなかには、あまり目立たないけどプレミアムな製品もあります。それがNoctuaのケースファン。高精度なベアリングや超硬質素材のファンブレードなどを用いることで低騒音・低振動化。そして1サイズ上のファンに匹敵するほどの風量＝冷却効果も実現しています。そんなNoctuaが、自作PC界隈だけではなくご家庭やオフィスで使えるア]]></summary>
-        <author>
-            <name>武者良太</name>
         </author>
     </entry>
 </feed>
