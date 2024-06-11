@@ -2,10 +2,856 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hmhv.github.io/reader/index.html</id>
     <title>hmhv::news</title>
-    <updated>2024-06-10T12:28:54.103Z</updated>
+    <updated>2024-06-11T12:29:12.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hmhv.github.io/reader/index.html"/>
     <link rel="self" href="https://hmhv.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ワイヤレスイヤホンを選ぶときに気にすること8つ]]></title>
+        <id>https://www.gizmodo.jp/2024/06/what-to-look-for-when-buying-wireless-earbuds.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/what-to-look-for-when-buying-wireless-earbuds.html"/>
+        <updated>2024-06-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ワイヤレスイヤホン選びで最も大切な8つのポイントを以下にまとめたので、参考にどうぞ。]]></summary>
+        <author>
+            <name>そうこ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「VR界のAndroid」を目指すMeta、Horizon OSで実現できるか]]></title>
+        <id>https://www.gizmodo.jp/2024/06/meta-android-of-vr.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/meta-android-of-vr.html"/>
+        <updated>2024-06-11T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Quest 3のソフトウェアを開発する人たちに話を聞いたところ、彼らの希望はVRの世界でオープンで多様な何かを作ること、言わばVRにおけるAndroidみたいなものを作ること、なんです。]]></summary>
+        <author>
+            <name>福田ミホ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ノートPCやスマホを飾ろう。ギズ屋台オリジナルステッカー]]></title>
+        <id>https://www.gizmodo.jp/2024/06/giz-yatai-sticker.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/giz-yatai-sticker.html"/>
+        <updated>2024-06-11T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:ギズ屋台わかる人にはわかる、ニッチな科学ネタ。ギズモードの名物編集部員、リチャードがデザインしたオリジナルTシャツ。そのデザインをコンパクトに落とし込んだ「ギズやたステッカー」が登場しました。3種類のデザインがあるので、それぞれ見ていきましょう。シャコとBH（ブラックホール）からどうぞまずはTOP画像にもなっている「シャコステッカー」。シャコのパンチは生物界一とも言われるほど高速で、そ]]></summary>
+        <author>
+            <name>ヤマダユウス型</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カラー電子ペーパーAndroidタブレット「BOOX Go Color 7」発売、モノクロ電子ペーパー搭載「BOOX Go 10.3」も]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/11/news197.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/11/news197.html"/>
+        <updated>2024-06-11T10:03:00.000Z</updated>
+        <summary type="html"><![CDATA[SKTは、電子書籍リーダー「BOOX Go Color 7」「BOOX Go 10.3」を発売。カラー電子ペーパー搭載でAndroidアプリをインストールできるモデルと、モノクロで解像度2480×1860（300PPI）の電子ペーパーを備えたモデルを提供する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロックなイヤホンの最高傑作。マーシャル「MINOR IV」が30時間の長寿命に]]></title>
+        <id>https://www.gizmodo.jp/2024/06/marshall-minor-iv.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/marshall-minor-iv.html"/>
+        <updated>2024-06-11T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:MarshallHeadphones名前はマイナーでも存在はメジャー級。ロックやヘヴィメタルの演奏で、ギタリスト御用達のアンプメーカーであるMarshall（マーシャル）。ヘッドホンやイヤホンも作っており、今回、第4世代の完全無線イヤホン「MINORIV」が発売されました。より小さく長寿命に性能は前作の25時間再生から5時増して30時間と超長寿命。見た目はさらにコンパクトになり、サイズ]]></summary>
+        <author>
+            <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乗換案内に「AI音声入力」を導入　「今日、渋谷に夕方5時」で経路検索]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/11/news185.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/11/news185.html"/>
+        <updated>2024-06-11T08:58:00.000Z</updated>
+        <summary type="html"><![CDATA[ジョルダンは、経路検索アプリ「乗換案内」で「AI音声入力 乗換案内」を提供。これまで音声入力は出発地と目的地の入力に対応していたが、日時や利用する交通手段まで一度に入力できるようになった。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カメラのキタムラ10店舗で「IIJmio」の音声SIMを即時受け渡し、103店舗でパッケージ販売も]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/11/news179.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/11/news179.html"/>
+        <updated>2024-06-11T08:16:00.000Z</updated>
+        <summary type="html"><![CDATA[IIJは、カメラのキタムラ10店舗で「IIJmioモバイルサービス ギガプラン」音声SIM／eSIMの即日受け渡しを開始。また、103店舗でIIJmio ギガプランパッケージの販売に対応する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[約1.2万円のエントリースマートウォッチ「Amazfit Bip5 Unity」発売]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/11/news166.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/11/news166.html"/>
+        <updated>2024-06-11T07:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Zepp Health Corporationは、6月11日にスマートウォッチ「Amazfit Bip5 Unity」を発売。1.91型ディスプレイや100種類以上のウォッチフェイスを用意し、睡眠サポートサービスも利用できる。価格は1万1900円（税込み）。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Apple Vision Pro」、携帯4社は「取扱予定なし」]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1599222.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1599222.html"/>
+        <updated>2024-06-11T07:38:07.000Z</updated>
+        <summary type="html"><![CDATA[アップル（Apple）のゴーグル型デバイス「Apple Vision Pro」が、日本で6月28日に発売される。価格は59万9800円～。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無印良品の「グレーのスポンジ」で食器洗いのストレスがなくなった]]></title>
+        <id>https://www.gizmodo.jp/2024/06/muji-grey-sponge-2.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/muji-grey-sponge-2.html"/>
+        <updated>2024-06-11T07:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:小池田2023年3月25日の記事を編集して再掲載しています。キッチンで毎日使うもののひとつが、食器洗い用のスポンジ。使用頻度が高いからこそ消耗も激しく、常にストックしておくようにしています。わが家の定番は、無印良品の「ウレタンフォーム三層スポンジ」です。無印良品ウレタンフォーム三層スポンジ6×12×3.5cmグレー3個入り12975038299Amazonで購入する299楽天で見る!f]]></summary>
+        <author>
+            <name>小池田</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特殊詐欺のスマホ契約、偽造の運転免許証とマイナカードの割合は？　河野大臣がデータを紹介]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1599196.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1599196.html"/>
+        <updated>2024-06-11T06:58:23.000Z</updated>
+        <summary type="html"><![CDATA[河野太郎デジタル大臣は、自身の公式Webサイトにおいて、特殊詐欺の携帯電話回線の契約における“偽造カード”の割合を紹介している。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ジェットスター、「d払い」利用で1万ポイントが当たる]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1599177.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1599177.html"/>
+        <updated>2024-06-11T06:11:03.000Z</updated>
+        <summary type="html"><![CDATA[ジェットスターのWebサイトにおいて、「d払い」に関するキャンペーンが実施されている。期間は7月9日まで。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PayPay、自治会や町内会で利用可能に　横浜市の岩井町原第一町内会が導入]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/11/news156.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/11/news156.html"/>
+        <updated>2024-06-11T05:38:00.000Z</updated>
+        <summary type="html"><![CDATA[PayPayは、全国の自治会や町内会と契約を開始。自治会や町内会費の集金、自治会のお祭りなどでキャッシュレス決済「PayPay」を利用できるようになる。横浜市保土ケ谷区の「岩井町原第一町内会」へ導入が決定した。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Microsoft Copilot for Microsoft 365」で何ができる？ 使い方・利用料金・導入方法などを徹底解説]]></title>
+        <id>https://www.gizmodo.jp/2024/06/copilot_365.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/copilot_365.html"/>
+        <updated>2024-06-11T05:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:ライフハッカー編集部Lifehacker2024年5月21日掲載の記事より転載AIアシスタント機能「Copilot」を、Officeソフトと連動して使える「MicrosoftCopilotforMicrosoft365」。Microsoft製品間で横断的な利用が可能で、ビジネス文書・プレゼン資料・グラフ・スライドなどを効率的に作成ができます。また、大規模言語モデルのトレーニングに自社デ]]></summary>
+        <author>
+            <name>ライフハッカー・ジャパン編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[お尻と完全に一体化。ペダルをこぐ脚に連動する可動式サドル]]></title>
+        <id>https://www.gizmodo.jp/2024/06/ataraxybsc-vabsrider.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/ataraxybsc-vabsrider.html"/>
+        <updated>2024-06-11T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:ataraxyBSC足踏みマシーンみたい。上半身の体重を一点で支える自転車のサドルには、薄い／厚い、幅が細い／広いなど種類がたくさんありますよね。ですが、どのサドルも漕いでペダルを下げたときに太ももを下げまいとジャマされているような、不自然なぎこちなさを感じます。お尻の動きについてくるサドルataraxyBSCの「vabsRider」は、左右に2分割された健康器具ステッパーみたいなサド]]></summary>
+        <author>
+            <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーロン・マスク氏、アップルの生成AIに「社内でiPhone利用不可」]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1599147.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1599147.html"/>
+        <updated>2024-06-11T04:52:26.000Z</updated>
+        <summary type="html"><![CDATA[米国の実業家であるイーロン・マスク氏は、同氏の公式X（旧Twitter）アカウントで、アップル（Apple）による生成AI関連の方針について懸念を示した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イオン、マイナンバーカードを活用したクレカ申込受付を開始]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/11/news149.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/11/news149.html"/>
+        <updated>2024-06-11T04:32:00.000Z</updated>
+        <summary type="html"><![CDATA[イオンフィナンシャルサービスとイオン銀行は、マイナンバーカードを利用した公的個人認証サービスでのクレジットカードの受け付けを開始。本人確認書類や顔写真の撮影をせずに申し込めるようになる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appleが「tvOS 18」発表　視聴番組の俳優情報を表示する「InSight」や自動字幕など]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/11/news146.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/11/news146.html"/>
+        <updated>2024-06-11T04:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Appleは次期Apple TV OS「tvOS 18」の新機能を紹介した。再生中の映画や番組を一時停止すると登場人物やBGMの情報が表示される「InSight」や状況に応じて字幕を自動表示する機能などだ。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「tvOS 18」発表、新機能「InSight」など]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1599133.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1599133.html"/>
+        <updated>2024-06-11T04:12:26.000Z</updated>
+        <summary type="html"><![CDATA[アップル（Apple）は、Apple TV向けの新OS「tvOS 18」を発表した。開発者向けにベータ版の提供が始まっており、今秋に無料のソフトウェアアップデートとして提供が始まる予定。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT企業の域を超えた。クレイグ・フェデリギがいつも以上にやりたい放題 #WWDC24]]></title>
+        <id>https://www.gizmodo.jp/2024/06/wwdc-craig-federighi.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/wwdc-craig-federighi.html"/>
+        <updated>2024-06-11T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Screenshot:Apple/ギズモードジャパンさすがテック界のファンサ王。AppleのデベロッパカンファレンスWWDC。事前に噂されていた通り、AI関連で大きな発表がありました。が、一部の人にとってはWWDCはソフトウェアの最新情報の場ではなく、推しを愛でることができる数少ないステージ。発表内容よりも、発表の仕方、発表する人に注目する場です。そう、クレイグ・フェデリギApple上級副社長です]]></summary>
+        <author>
+            <name>そうこ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「AirPods Pro（第2世代）」にアップデート　首を振るだけでSiriに応答、通話品質の向上など]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/11/news133.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/11/news133.html"/>
+        <updated>2024-06-11T03:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Appleが6月11日、ワイヤレスイヤフォン「AirPods Pro（第2世代）」のアップデートについて発表した。Siriとやりとりをする際、「はい」と答えるときは首を縦に、「いいえ」と答えるときは横に振るだけで応答できるようになる。iPhone、iPad、Macのユーザーと通話する際に「声を分離」機能を導入する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「PayPay」が町内会費などの集金に対応]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1599084.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1599084.html"/>
+        <updated>2024-06-11T03:04:39.000Z</updated>
+        <summary type="html"><![CDATA[キャッシュレス決済サービス「PayPay」が、自治会や町内会でも導入できるようになった。町内会費の集金やイベントでPayPayによる支払いが可能になる。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[頷くだけで反応できる。AirPods Pro（第2世代）で使えるようになる便利機能3つ #WWDC24]]></title>
+        <id>https://www.gizmodo.jp/2024/06/airpods-pro-gen-2nd-this-autmn.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/airpods-pro-gen-2nd-this-autmn.html"/>
+        <updated>2024-06-11T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:Apple斜め上の発想でした。アップデートで新機能が追加されるのはiPhoneやMacだけではありません。今年の秋にはAirPodsPro（第2世代）にも毎日の生活で役立ちそうな便利機能がいくつか追加されますよ。「はい」なら頷く、「いいえ」なら首を振るだけでOKImage:AppleAirPodsPro（第2世代）向けに新しいハンズフリー機能が追加されます。たとえば、手が塞った状態や声]]></summary>
+        <author>
+            <name>はらいさん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhoneでホーム画面をカスタマイズできるようになりました #WWDC24]]></title>
+        <id>https://www.gizmodo.jp/2024/06/wwdc24-iphone-home-customization.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/wwdc24-iphone-home-customization.html"/>
+        <updated>2024-06-11T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Screenshot:Apple装いも新たに。こちらの記事でもご紹介しているとおり、ついに、やっと、iPhoneのホーム画面をカスタマイズできるようになるそうです。これをチェックすればOK。iOS18でiPhoneはこう変わる！新機能まとめ#WWDC24モリモリで、たくましい進化が訪れます。6月11日深夜から始まったApple（アップル）の開発者向けイベントWWDC24にて、iPhone向け基本ソ]]></summary>
+        <author>
+            <name>山田ちとら</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS Sequoiaの新機能：iPhoneミラーリングとは？機能の解説、対象デバイスまとめ]]></title>
+        <id>https://gori.me/?p=153781</id>
+        <link href="https://gori.me/ios/ios18/153781"/>
+        <updated>2024-06-11T02:18:37.000Z</updated>
+        <summary type="html"><![CDATA[macOS Sequoiaが動作するMacで利用できる新しい連係機能として、「iPhoneミラーリング」が発表された。一言でいえば、MacからiPhoneを完全に操作できる画期的な機能だ。 本記事では、現時点で分かっているiPhoneミラーリングの概要や対象機種などをまとめた。参考にしてもらいたい。…
+The post macOS Sequoiaの新機能：iPhoneミラーリングとは？機能の解説、対象デバイスまとめ first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今秋サポート「対象外」に。買い替えを検討すべきiPhoneたち #WWDC24]]></title>
+        <id>https://www.gizmodo.jp/2024/06/ios-18-not-available-iphones.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/ios-18-not-available-iphones.html"/>
+        <updated>2024-06-11T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:小暮ひさのり良く頑張ったと思うんだ。新しい機能への胸の高鳴りと、これまでありがとうの感謝の気持ちと。その両方が入り交じるのが、Apple（アップル）の開発者向けカンファレンス「WWDC」。今年の「WWDC24」でも、iPhoneの基本ソフトウェアiOSの最新版となる「iOS18」が発表されました。さまざまな新機能、今年はついにAI（=AppleIntelligence）まで搭載してボリ]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[iPhone駆け込み寺]11日のアップル「WWDC24」総まとめ――ついに発表されたアップルの独自生成AI「Apple Intelligence」など]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/review/iphonetips/1599032.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/review/iphonetips/1599032.html"/>
+        <updated>2024-06-11T01:34:53.000Z</updated>
+        <summary type="html"><![CDATA[11日（日本時間）、米アップル（Apple）は開発者向けイベント「WWDC24」を開催し、iPhone/iPad/Mac/Vision Pro/Apple Watch向けOSの次期バージョンを発表するとともに、一部モデルで利用できるようになるアップル独自の人工知能「Apple Intelligence」についても発表した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[visionOS 2、正式発表。注目の新機能まとめ]]></title>
+        <id>https://gori.me/?p=153776</id>
+        <link href="https://gori.me/visionos/153776"/>
+        <updated>2024-06-11T01:23:02.000Z</updated>
+        <summary type="html"><![CDATA[Appleは6月11日、WWDC24の基調講演でvisionOS 2を正式発表した。最新機能として空間写真の作成、新しいジェスチャー操作、強化されたデベロッパーツールなどが含まれる。 【関連】Apple Vision Proの国内価格は599,800円から。6月14日（金）午前10時より予約開始 本…
+The post visionOS 2、正式発表。注目の新機能まとめ first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS 15 Sequoia、正式発表。注目の新機能や改良点などまとめ]]></title>
+        <id>https://gori.me/?p=153763</id>
+        <link href="https://gori.me/macosx/macos-sequoia/153763"/>
+        <updated>2024-06-11T01:05:56.000Z</updated>
+        <summary type="html"><![CDATA[Appleは6月11日、WWDC24の基調講演でmacOS 15 “Sequoia”を発表した。読み方は「セコイア」。 新機能として、「iPhoneミラーリング」によりiPhoneを完全にコントロールできるようになる。Safariには新しいハイライト機能が追加され、情報検索が…
+The post macOS 15 Sequoia、正式発表。注目の新機能や改良点などまとめ first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[watchOS 11、正式発表。注目の新機能や改良点などまとめ]]></title>
+        <id>https://gori.me/?p=153761</id>
+        <link href="https://gori.me/watchos/watchos11/153761"/>
+        <updated>2024-06-11T00:05:02.000Z</updated>
+        <summary type="html"><![CDATA[Appleは6月11日、WWDC24の基調講演でwatchOS 11を正式発表した。ユーザーの健康とフィットネスに関するパワフルな洞察を提供する新機能を導入し、パーソナライズされた健康管理とフィットネスの追跡が可能になる。 本記事は、watchOS 11の正式リリース時期、対応機種、主要な新機能や変…
+The post watchOS 11、正式発表。注目の新機能や改良点などまとめ first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今秋、iPadに実装される「真面目に便利そうな新機能」まとめ #WWDC24]]></title>
+        <id>https://www.gizmodo.jp/2024/06/wwdc-24-announced-ipados-18-new-features.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/wwdc-24-announced-ipados-18-new-features.html"/>
+        <updated>2024-06-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Screenshot:Appleペンを使ったインターフェースとしては、iPadが最高かも！そう思えるほどに、目覚ましいアップデートが目白押しだった今回のWWDC24。iPadにも今秋、iPadOS18がやってきて、さまざまな新機能が実装されるとのこと。中でも特筆すべきは計算機アプリとSmartScript（スマートスクリプト）の2点です。もはや計算だけじゃない「計算機アプリ」Screenshot:]]></summary>
+        <author>
+            <name>山田ちとら</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今秋やってくる新macOS「Sequoia（セコイア）」で追加される新機能まとめ #WWDC24]]></title>
+        <id>https://www.gizmodo.jp/2024/06/apple-new-macos-sequoia-wwdc.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/apple-new-macos-sequoia-wwdc.html"/>
+        <updated>2024-06-10T23:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:Appleセコイア！本日WWDC24にて、Apple（アップル）が新たなmacOSを発表しました。その名も「macOSSequoia」です。このSequoia（セコイア）はヒノキ科の植物とのことで、高木として知られて大きいものは100mを超えるらしいです。さて、Appleの人工知能「AppleIntelligence」の登場により、より一層賢くなったというmacOSSequoiaの新機]]></summary>
+        <author>
+            <name>ヨコヤマコム</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Watchは“身につける健康デバイス”としてさらに進化する #WWDC24]]></title>
+        <id>https://www.gizmodo.jp/2024/06/wwdc-announced-watchos-11-new-features.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/wwdc-announced-watchos-11-new-features.html"/>
+        <updated>2024-06-10T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:Apple日々の生活に役立つ機能も盛りだくさん。AppleWatch向けの最新OS、watchOS11がついに発表されました。今年は特にヘルスケア向けの機能がとても充実していて、すぐにでも使いたくなる新機能がたくさん含まれていました。一目で健康状態が確認できる新アプリ『バイタル』が登場Image:AppleAppleWatchは腕に身に付ける健康管理デバイスといっても過言ではありません]]></summary>
+        <author>
+            <name>はらいさん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPadOS 18、正式発表。注目の新機能や改良点などまとめ]]></title>
+        <id>https://gori.me/?p=153751</id>
+        <link href="https://gori.me/ipados/ipados18/153751"/>
+        <updated>2024-06-10T23:22:29.000Z</updated>
+        <summary type="html"><![CDATA[Appleは6月11日、WWDC24の基調講演でiPadOS 18を正式発表した。 最新バージョンではApple Pencil対応の新しいアプリやインテリジェンス機能が導入され、より効率的に書き込み、メモの整理、ホーム画面のカスタマイズが可能になる。さらに写真アプリやメッセージ機能、Safariのブ…
+The post iPadOS 18、正式発表。注目の新機能や改良点などまとめ first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[これをチェックすればOK。iOS 18でiPhoneはこう変わる！ 新機能まとめ #WWDC24]]></title>
+        <id>https://www.gizmodo.jp/2024/06/wwdc-announced-ios-18-new-features.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/wwdc-announced-ios-18-new-features.html"/>
+        <updated>2024-06-10T23:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:Appleモリモリで、たくましい進化が訪れます。6月11日深夜から始まったApple（アップル）の開発者向けイベントWWDC24にて、iPhone向け基本ソフトウェアの最新版「iOS18」が正式に発表されました。さすが年イチのアップデート。しかも今回はAppleのAI、AppleIntelligenceとの連携もあって、機能モリモリだったり、インターフェース自体が刷新されたりとここ数年]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SiriにChatGPTが合体、だけじゃない。Apple Intelligence発表 #WWDC24]]></title>
+        <id>https://www.gizmodo.jp/2024/06/apple-intelligence.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/apple-intelligence.html"/>
+        <updated>2024-06-10T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:AppleApple自社開発のAIと、ChatGPTが融合。AppleがOpenAIとのパートナーシップを発表し、iPhoneにChatGPTが組み込まれることが判明しました。というかiPhoneだけじゃなく、iPadやMacなど、Apple製品全体に「AppleIntelligence」が搭載され、その機能の一貫としてChatGPTも統合されていきます。ChatGPTの開発元・Ope]]></summary>
+        <author>
+            <name>福田ミホ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple「WWDC24」本誌記事まとめ――今秋登場のiOS 18/iPadOS 18やAI/生成AI機能「Apple Intelligence」が発表]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1599007.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1599007.html"/>
+        <updated>2024-06-10T22:20:07.000Z</updated>
+        <summary type="html"><![CDATA[アップル（Apple）は日本時間11日に、開発者向けイベント「WWDC24」を開催した。11日未明に配信された基調講演では、今秋配信されるiOS 18/iPadOS 18/WatchOS 11など最新プラットフォームの情報や搭載される新機能などが紹介されたほか、ARグラス「Apple Vision Pro」の日本を含む発売情報、visionOS 2が紹介された。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アップル、Apple Watch向け最新OS「watchOS 11」はApple Watch 6以降に対応へ]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1599006.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1599006.html"/>
+        <updated>2024-06-10T22:07:47.000Z</updated>
+        <summary type="html"><![CDATA[アップルは、2024年6月11日（日本時間）に開催されたWWDC 2024で、Apple Watchシリーズ向けのOSであるwatchOSの最新バージョン「watchOS 11」を発表した。リリースは今秋を予定している。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AppleのAIシステム「Apple Intelligence」が正式発表。ChatGPT組み込みなど、注目の新機能まとめ]]></title>
+        <id>https://gori.me/?p=153732</id>
+        <link href="https://gori.me/apple/apple-news/153732"/>
+        <updated>2024-06-10T22:05:55.000Z</updated>
+        <summary type="html"><![CDATA[Appleは6月11日、WWDC24の基調講演でAIシステム「Apple Intelligence」を正式発表した。ユーザーのコミュニケーションと創作活動を強化する目的で、iOS 18、iPadOS 18、macOS Sequoiaの一部として提供される。言語や画像を理解して生成したり、複数のアプリ…
+The post AppleのAIシステム「Apple Intelligence」が正式発表。ChatGPT組み込みなど、注目の新機能まとめ first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Intelligenceでオリジナル絵文字を生成する「Genmoji」、「メッセージ」で利用可能に]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/11/news110.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/11/news110.html"/>
+        <updated>2024-06-10T22:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Appleは、新しいAIパーソナルアシスタント「Apple Intelligence」で生成するオリジナル絵文字「Genmoji」（ジェンモジ）を発表した。今秋リリースのOS上の「メッセージ」で利用できるようになる見込み。テキストで説明すると新しい絵文字を提示する。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appleの人工知能｢Apple Intelligence｣できることまとめ #WWDC24]]></title>
+        <id>https://www.gizmodo.jp/2024/06/wwdc-apple-intelligence-matome.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/wwdc-apple-intelligence-matome.html"/>
+        <updated>2024-06-10T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:Apple本日Apple（アップル）が開発者向け発表会「WWDC24」を開催。これまで期待されていたAppleの独自AIが満を持して発表されました。その名も「AppleIntelligence」です！今回発表されたAppleIntelligenceとはどんなものなのか、どんなことができるのかをまとめていきます。Appleが開発したAIImage:Apple「AppleIntellige]]></summary>
+        <author>
+            <name>ヨコヤマコム</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アップル、アクティビティやヘルスケア、スマートスタックに新機能を追加した「watchOS 11」を発表]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1599004.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1599004.html"/>
+        <updated>2024-06-10T21:41:12.000Z</updated>
+        <summary type="html"><![CDATA[アップルは、「WWDC 2024」で、2024年秋にリリースされるApple Watch向けOS「watchOS 11」を発表した。iOS 18を搭載するiPhone XS以降とペアリングされた、Apple Watch 6以降のモデルに提供される予定。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アップル、「iPadOS 18」の対応機種を発表]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1599003.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1599003.html"/>
+        <updated>2024-06-10T21:40:52.000Z</updated>
+        <summary type="html"><![CDATA[米Apple（アップル）は、iPad向けに今秋提供する次期「iPadOS 18」について対応機種を明かした。ソフトウェアアップデートにかかる料金は無料。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「iPadOS 18」発表、手書きの計算やデバイス遠隔操作に対応]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1598997.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1598997.html"/>
+        <updated>2024-06-10T21:27:06.000Z</updated>
+        <summary type="html"><![CDATA[米Apple（アップル）は、iPad向けの次期OS「iPadOS 18」を発表した。同OSは、24年秋に無料で公開される。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Intelligenceの対応機種：iPhoneは15 Pro/Maxのみ、iPadとMacはM1以降]]></title>
+        <id>https://gori.me/?p=153731</id>
+        <link href="https://gori.me/apple/apple-news/153731"/>
+        <updated>2024-06-10T21:01:28.000Z</updated>
+        <summary type="html"><![CDATA[Appleは6月11日、WWDC24の基調講演でAIシステム「Apple Intelligence」を正式発表した。iOS 18、iPadOS 18、macOS Sequoiaに組み込まれて提供されるが、利用可能なデバイスはそれぞれの対応OSよりも大幅に制限。iPhoneはiPhone 15 Pro…
+The post Apple Intelligenceの対応機種：iPhoneは15 Pro/Maxのみ、iPadとMacはM1以降 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPadOS 18、手書きで計算できる「計算メモ」が登場――筆算も関数にも対応]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1599001.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1599001.html"/>
+        <updated>2024-06-10T20:57:28.000Z</updated>
+        <summary type="html"><![CDATA[アップル（Apple）の開発者向けイベント「WWDC24」で、iPad向けの次世代プラットフォーム「iPadOS 18」に、計算機アプリと手書きのメモを自動で計算する「計算メモ（Math Notes）」が搭載されることが発表された。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[この秋「AirPods」が進化、「首振りジェスチャーでSiriと対話」やゲームでの空間オーディオなど]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1598999.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1598999.html"/>
+        <updated>2024-06-10T20:44:39.000Z</updated>
+        <summary type="html"><![CDATA[アップルは、今秋、「AirPods」の最新ソフトウェアで、新たな操作方法を導入する。また通話品質の向上、ゲームプレイ時の空間オーディオなども発表された。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アップル、macOS Sequoiaで利用できる新機能「iPhoneミラーリング」を発表]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1599000.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1599000.html"/>
+        <updated>2024-06-10T20:44:07.000Z</updated>
+        <summary type="html"><![CDATA[アップルは、WWDC 2024にて、Macシリーズに搭載される新OS「macOS Sequoia」を発表した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 18、正式発表。注目の新機能や改良点などまとめ]]></title>
+        <id>https://gori.me/?p=153729</id>
+        <link href="https://gori.me/ios/ios18/153729"/>
+        <updated>2024-06-10T20:36:33.000Z</updated>
+        <summary type="html"><![CDATA[Appleは6月11日、WWDC24の基調講演でiOS 18を正式発表した。iOS 18でiPhoneがさらにパーソナルで、有能で、賢くなり、カスタマイズ性、写真管理、メッセージ機能、そしてインテリジェンス機能が強化される。 本記事は、iOS 18の正式リリース時期、対応機種、主要な新機能や変更点を…
+The post iOS 18、正式発表。注目の新機能や改良点などまとめ first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「iPadOS 18」発表、手書き対応の「計算機」導入　Apple Intelligenceで文章作成もはかどる]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/11/news107.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/11/news107.html"/>
+        <updated>2024-06-10T20:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Appleは6月11日（日本時間）、「iPadOS 18」を発表した。iPadとして初めて計算機アプリが導入されたほか、新機能「Apple Intelligence」により文章作成や画像生成をアシストするAIが利用できるようになる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[次世代Siriで「ChatGPT」が無料で利用できるように、「Apple Intelligence」との統合利用も]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1598998.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1598998.html"/>
+        <updated>2024-06-10T20:23:25.000Z</updated>
+        <summary type="html"><![CDATA[アップル（Apple）のAI/生成AI「Apple Intelligence」で「ChatGPT」が利用できるようになる。「ChatGPT」機能の利用は無料で、年内に提供が開始される。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple製品にChatGPTが搭載。しかも無料で使えます #WWDC24]]></title>
+        <id>https://www.gizmodo.jp/2024/06/gpt4-o-apple.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/gpt4-o-apple.html"/>
+        <updated>2024-06-10T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Screenshot:Appleフェデリギさん熱弁。予想されていたとおり、Apple（アップル）がOpenAIと業務提携を結んだことが年に一度のデベロッパー向けカンファレンス「WWDC24」で正式に発表されました。iPhoneとMacのSiri、そして文章作成アプリ（Pagesなど）に導入されるそうです。オンデバイスで稼働するApple社独自の「AppleIntelligence」と併用できるよう]]></summary>
+        <author>
+            <name>山田ちとら</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appleの人工知能「Apple Intelligence」の発表で最も衝撃的だったこと #WWDC24]]></title>
+        <id>https://www.gizmodo.jp/2024/06/apple-intelligence-free-access.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/apple-intelligence-free-access.html"/>
+        <updated>2024-06-10T19:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:Appleこれ、無料ですか！ってのがとにかくすごかったと思うのです。本日のWWDC24で発表された人工知能「AppleIntelligence」。待ちに待ったApple（アップル）のAI機能で、とにかくできることが多彩！メールを要約したり、最適な返信を生成したり、ドキュメントに貼り付ける画像をラフや文書内容から生成したりもOK。詳しくは後ほどまとめますが、僕らが思わず拳を握ったのはこれ]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「iOS 18」発表　ホーム画面やコントロールセンターを刷新、アプリの非表示も可能に]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/11/news103.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/11/news103.html"/>
+        <updated>2024-06-10T19:55:00.000Z</updated>
+        <summary type="html"><![CDATA[AppleがWWDC24で「iOS 18」を発表。ホーム画面やコントロールセンターでより幅広いカスタマイズが可能になる。特定のアプリにロックを掛けたり非表示にしたりできる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アップルのAI機能「Apple Intelligence」がもたらす「Siri」の進化]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1598995.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1598995.html"/>
+        <updated>2024-06-10T19:54:05.000Z</updated>
+        <summary type="html"><![CDATA[アップルは、2024年6月11日（日本時間）に開催されたWWDC 2024で、AI機能「Apple Intelligence」を活用し、音声サポート機能として搭載されているSiriを使った体験の強化を発表した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS Sequoiaの対応機種：MacBook Airが一部脱落]]></title>
+        <id>https://gori.me/?p=153706</id>
+        <link href="https://gori.me/macosx/macos-sequoia/153706"/>
+        <updated>2024-06-10T19:45:32.000Z</updated>
+        <summary type="html"><![CDATA[Apple6月11日、WWDC24でMac向け最新OSの「macOS 15 Sequoia」を正式発表した。macOS 14 Sonomaにアップデートできていればアップデートできるが、MacBook Airの2018年モデルおよび2019年モデルはアップデート対象外に。2020年以降のモデルに限定…
+The post macOS Sequoiaの対応機種：MacBook Airが一部脱落 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[watchOS 11の対応機種：Series 4と5、初代SEはアップデート不可]]></title>
+        <id>https://gori.me/?p=153704</id>
+        <link href="https://gori.me/watchos/watchos11/153704"/>
+        <updated>2024-06-10T19:40:11.000Z</updated>
+        <summary type="html"><![CDATA[Appleは6月11日、WWDC24の基調講演でwatchOS 11を正式発表。Apple Watch Series 4、Apple Watch Series 5、Apple Watch SE（初代）の3機種がアップデート対象外となった。またすべての機能はすべての機種では利用できない。 watchO…
+The post watchOS 11の対応機種：Series 4と5、初代SEはアップデート不可 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPadOS 18の対応機種：一部モデルが脱落し、アップデート不可に]]></title>
+        <id>https://gori.me/?p=153702</id>
+        <link href="https://gori.me/ipados/ipados18/153702"/>
+        <updated>2024-06-10T19:34:33.000Z</updated>
+        <summary type="html"><![CDATA[Appleは6月11日、WWDC24の基調講演でiPadOS 18を正式発表。昨年iPadOS 17のアップデート対象機種だったモデルが一部外れている。iPad（第6世代）、10.5インチのiPad Pro、12.9インチのiPad Pro（第2世代）の3製品がアップデート対象外だ。 なおApple…
+The post iPadOS 18の対応機種：一部モデルが脱落し、アップデート不可に first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 18の対応機種：iOS 17にアップデートできていれば対象]]></title>
+        <id>https://gori.me/?p=153697</id>
+        <link href="https://gori.me/ios/ios18/153697"/>
+        <updated>2024-06-10T19:27:52.000Z</updated>
+        <summary type="html"><![CDATA[Appleは6月11日、WWDC24の基調講演でiOS 18を正式発表。アップデート可能な対応機種は、昨年のiOS 17と同じ。iPhone XSやiPhone XRはアップデート可能。iPhone X、iPhone 8、iPhone 8 Plusは対象外だ。 ただしOSにはアップデートできるものの…
+The post iOS 18の対応機種：iOS 17にアップデートできていれば対象 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アップル、「iOS 18」の対応機種を発表]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1598991.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1598991.html"/>
+        <updated>2024-06-10T19:21:16.000Z</updated>
+        <summary type="html"><![CDATA[米Apple（アップル）は、iPhone向けに今秋に提供開始する次期OS「iOS 18」について、2018年9月に発売された「iPhone XS」以降の機種を対応機種とし、アップデートにかかる料金は無料となることを発表した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone向け「iOS 18」発表、アップルのAI「Apple Intelligence」やアプリアイコンのカラーカスタマイズなど]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1598980.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1598980.html"/>
+        <updated>2024-06-10T19:17:52.000Z</updated>
+        <summary type="html"><![CDATA[米Apple（アップル）は、開発者向けイベント「WWDC24」で、iPhone向けの次期OS「iOS 18」について、その詳細を発表した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appleの人工知能「Apple Intelligence」が使える機種はこちら #WWDC24]]></title>
+        <id>https://www.gizmodo.jp/2024/06/apple-intelligence-iphone-mac.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/apple-intelligence-iphone-mac.html"/>
+        <updated>2024-06-10T19:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:Apple僕のiPhone、Macでも使えるの？が気になるよね！今秋リリースされるiOS18、iPadOS18、macOSSequoiaで利用できるようになる、AppleのAI（=AppleIntelligence）。さまざまな生成機能が追加される予定でワックワクですが、すべてのiPhone、すべてのiPad、すべてのMacではありません。ここMAX注意ね。WWDC24の基調講演での発]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AppleのAI「Apple Intelligence」、対応デバイスと提供時期は]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1598990.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1598990.html"/>
+        <updated>2024-06-10T19:10:14.000Z</updated>
+        <summary type="html"><![CDATA[アップル（Apple）が日本時間11日発表したAI/生成AI機能「Apple Intelligence」について、対応デバイスと提供時期が発表された。今秋登場する「iOS 18」「iPadOS 18」「macOS Sequoia」に統合されて提供される。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「iOS 18」の対応機種はiOS 17と同じ、iPhone XS／XRは今年も対応]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/11/news101.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/11/news101.html"/>
+        <updated>2024-06-10T19:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Appleは11日（日本時間）、「iOS 18」を発表した。最新のiPhone 15シリーズから、5世代前のiPhone XS/XRシリーズまでサポートする。iPhone SEは第2世代以降がバージョンアップの対象となる。iOS 17対応機種はすべてサポートされることとなった。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 18で「メッセージ」アプリがRCSに対応　Androidとも送受信可能に]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/11/news100.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/11/news100.html"/>
+        <updated>2024-06-10T19:04:00.000Z</updated>
+        <summary type="html"><![CDATA[米Appleが6月10日（現地時間）、iOS 18にて「メッセージ」アプリがRCS（Rich Communication Services）に対応することを発表した。RCSは、GSMAで世界的に標準化されているメッセージサービスの規格。長文のテキストや複数人でのグループチャット、画像や動画などを含むメッセージを送受信できる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「watchOS 11」が2024年秋に登場　ワークロードの負荷やバイタルデータの履歴確認が可能に]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/11/news097.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/11/news097.html"/>
+        <updated>2024-06-10T18:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple Watch向けの「watchOS」の最新バージョンが2024年秋に登場する。ワークロードの負荷やバイタルデータの履歴を記録する機能の実装など、使い勝手を向上する機能が実装される。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple、生成AI「Apple Intelligence」発表　オンデバイス処理でSiriも大幅進化、ChatGPTとも連携]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/11/news095.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/11/news095.html"/>
+        <updated>2024-06-10T18:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Appleが独自の生成AI「Apple Intelligence」を発表した。さまざまなデバイスやアプリで活用できる。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アップル、Apple Vision Pro向けOSのアップデート「visionOS 2」を発表]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1598986.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1598986.html"/>
+        <updated>2024-06-10T18:29:36.000Z</updated>
+        <summary type="html"><![CDATA[アップルは、2024年6月11日（日本時間）より開催された「WWDC 2024」で、Apple Vision Proに搭載されるソフトウェアのアップデート版「visionOS 2」を発表。Apple Vision Proの登場以降、初のアップデートとなる。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AppleがAI/生成AI「Apple Intelligence」を発表、アプリ横断でオンデバイス／クラウドのハイブリッドAIに]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1598985.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1598985.html"/>
+        <updated>2024-06-10T18:27:06.000Z</updated>
+        <summary type="html"><![CDATA[アップル（Apple）は、同社のプラットフォームに統合されるAI/生成AIの機能「Apple Intelligence」を発表した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appleが人工知能｢Apple Intelligence｣を発表。略してAI… #WWDC24]]></title>
+        <id>https://www.gizmodo.jp/2024/06/apple-intelligence-ai.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/apple-intelligence-ai.html"/>
+        <updated>2024-06-10T18:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:Appleこうくるか…！これまで頑なに「AI（人工知能：ArtificialIntelligence）」と言わなかったApple。機械学習（MachineLearning）は何度も言ってるけど、AIとは言えない呪いが書けられているの？と疑うレベルでしたが、答えはWWDC24。今日の日のためにAppleの新しい言い方を用意していたからでした。「AppleIntelligence」Appl]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple、「iOS 18」でRCSをサポート]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1598976.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1598976.html"/>
+        <updated>2024-06-10T17:49:04.000Z</updated>
+        <summary type="html"><![CDATA[米Apple（アップル）は、2024年に提供予定の「iOS 18」で、RCS（Rich Communication Services）メッセージをサポートすることを明かした。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Vision Pro向けOS「vision OS 2」が2024年秋に登場　Macの仮想画面機能を強化　一部機能はバージョンアップ後に提供へ]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/11/news093.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/11/news093.html"/>
+        <updated>2024-06-10T17:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple Vision Pro向けOS「vision OS」に初めてのメジャーアップデートが行われる。2024年秋に提供される予定だが、一部機能は2024年後半をめどに提供される。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Apple Vision Pro」、日本で6月28日に発売]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1598972.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1598972.html"/>
+        <updated>2024-06-10T17:35:27.000Z</updated>
+        <summary type="html"><![CDATA[アップル（Apple）のARデバイス「Vision Pro」が日本で6月28日に発売されることが発表された。価格は59万9800円～。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[速報！ Apple Vision Proが6/28に日本発売、59万9800円（税込）から #WWDC24]]></title>
+        <id>https://www.gizmodo.jp/2024/06/apple-vision-pro-japan.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/apple-vision-pro-japan.html"/>
+        <updated>2024-06-10T17:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:小暮ひさのり思ったより早かった！米国では2月に発売されたApple初の空間コンピュータことAppleVisionProですが、いよいよ日本での発売が決定しました！発売日は6月28日（金）。日本円の価格は59万9800円（税込）から。256GB、512GB、1TBのストレージ容量を選べます。visionOS2.0でさらにパワーアップしたAppleVisionPro、日本での発売まであと2]]></summary>
+        <author>
+            <name>はらいさん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appleの「Vision Pro」が日本上陸、6月28日に発売　59万9800円]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2406/11/news090.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2406/11/news090.html"/>
+        <updated>2024-06-10T17:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Appleが、XRヘッドセット製品「Apple Vision Pro」を日本で6月28日に発売することを告知した。Vision Proは、Appleが「空間コンピュータ」をうたうデバイス。2023年の開発者向けイベント「WWDC23」で発表され、2024年2月2日に米国にて発売された。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイナ救急実証事業、今後の開始時期が決定]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1598928.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1598928.html"/>
+        <updated>2024-06-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[マイナンバーカードを活用して救急活動の迅速化を図る実証事業について、今後の開始スケジュールが発表された。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[みんなのケータイ]自動車税を「ペイジー」で払う　めざせキャッシュバック]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/minna/1598883.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/minna/1598883.html"/>
+        <updated>2024-06-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[5月といえば自動車税を払わなくてはいけない月。大多数の人はもう支払い済みでしょう。筆者も支払いましたが、初めてPay-easy（ペイジー）を利用しました。キャンペーン目当てです。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[本日の一品]端子がどの角度にも曲がる！　サンワサプライの便利なUSB-Cケーブル]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1598870.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1598870.html"/>
+        <updated>2024-06-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ケータイの充電や周辺機器との接続に欠かせないUSB Type-C（USB-C）ケーブル。最近はノートパソコンへの充電・給電にもPD対応のUSB-Cケーブルが専ら使われるようになってきました。汎用性の高いUSB-Cケーブルは歓迎する一方、コネクターが直線的な形状のUSB-Cケーブルは、取り回しにちょっと気を遣うことがあります。机の上をケーブルが這い回らないよう、L字型コネクターのUSB-Cケーブル、あるいはL字型に変換するアダプターも何度か購入しました。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[法林岳之の「週刊モバイルCATCH UP」]「Google Pixel 8a」、AIによる多彩な機能で定番モデルへ進化する一台]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/mobile_catchup/1598827.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/mobile_catchup/1598827.html"/>
+        <updated>2024-06-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Googleは5月8日、同社のスマートフォン「Pixel」シリーズの最新モデル「Google 8a」を発表した。国内ではGoogleストアに加え、NTTドコモ、au、ソフトバンクの3社からも販売される。筆者も実機を試すことができたので、レポートをお送りしよう。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暑さが止まらない…世界平均気温が12カ月連続で過去最高更新]]></title>
+        <id>https://www.gizmodo.jp/2024/06/global-average-temperatures-breaking-records.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/global-average-temperatures-breaking-records.html"/>
+        <updated>2024-06-10T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[世界平均気温が昨年6月から12カ月連続で観測史上最高記録を更新中。温暖化に歯止めがかからない。]]></summary>
+        <author>
+            <name>Kenji P. Miyajima</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[食品パッケージに書いてあるカロリーって本当に信用していいの？]]></title>
+        <id>https://www.gizmodo.jp/2024/06/calorie-misrepresentation.html</id>
+        <link href="https://www.gizmodo.jp/2024/06/calorie-misrepresentation.html"/>
+        <updated>2024-06-10T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米スーパーでは食品パッケージのカロリーの誤表記によって訴訟に至ったケースも。]]></summary>
+        <author>
+            <name>そうこ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[知っておくと便利な無料オンラインツール14選]]></title>
         <id>https://www.gizmodo.jp/2024/06/14-free-online-tools-you-should-know-about.html</id>
@@ -2588,622 +3434,6 @@ The post アンカー・ジャパン、環境省とともにモバイルバッ�
         <summary type="html"><![CDATA[Image:株式会社タカラトミーアーツ気温が高くなってくると食べたくなるのがツルッとしたそうめん。シンプルだからこそアレンジは無限大（大袈裟？）。茹で時間も短くて済むし、美味しいし、夏の強い味方です。そして、そうめんは娯楽性が高いエンタメフードとしても人気。最近では流しそうめんのスライダーというのがあって、年々規模がデカくなってきているんです。今年はみずタイプのポケモンがテーマの『ビッグストリーム]]></summary>
         <author>
             <name>中川真知子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[朗報。M2 iPad Airのカメラ、f/2.4からf/2に改良]]></title>
-        <id>https://gori.me/?p=153574</id>
-        <link href="https://gori.me/ipad/ipadair/153574"/>
-        <updated>2024-06-04T23:07:23.000Z</updated>
-        <summary type="html"><![CDATA[M2 iPad Airのフロントカメラは「f/2.4」ではなく「f/2」であることが明らかになった。 M2 iPad AirのGPUコア数を密かに”ダウングレード”されていた問題について、Appleは「最初から9コアだった」と意味不明な言い訳を声明として発表したが、同時に”アップグレード”された仕様…
-The post 朗報。M2 iPad Airのカメラ、f/2.4からf/2に改良 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAIはコレで揉めた。「AIアライメント」ってそんなに大事なの？]]></title>
-        <id>https://www.gizmodo.jp/2024/06/openai-staffers-responsible-for-safety-are-jumping-ship.html</id>
-        <link href="https://www.gizmodo.jp/2024/06/openai-staffers-responsible-for-safety-are-jumping-ship.html"/>
-        <updated>2024-06-04T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:PatrickAssale/Shutterstock.comChatGPTで生成AIブームの火付け役となった、米スタートアップ企業のオープンAI（OpenAI）。ところが今、オープンAIのリスクに対する考え方を懸念する声が広がっています。Image:TadaImages/Shutterstock.comというのも、オープンAIが同社の安全対策を担う「スーパーアライメントチーム」を解消し]]></summary>
-        <author>
-            <name>山田ちとら</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[まるでレゴブロック。いらない樹脂をリサイクルした「プラレンガ」]]></title>
-        <id>https://www.gizmodo.jp/2024/06/plaex.html</id>
-        <link href="https://www.gizmodo.jp/2024/06/plaex.html"/>
-        <updated>2024-06-04T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:PLAEXレゴ感覚で家が建つ!?近年は廃棄プラスチックや、海に浮かぶ海洋ゴミを回収し、粉砕して新製品のボディーに混ぜたり再加工する動きが目立っています。以前にナイロビで廃プラ材と砂を混ぜ、ブロックを作る女性起業家を取りあげたことがありました。一方でレゴがペットボトルを再利用し、ブロックの試作品を開発したという話題も。ハイブリッドな廃プラ建材カナダ発のPLAEXが作るのは、それらふたつが]]></summary>
-        <author>
-            <name>岡本玄介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[起死回生のドロー4を腕に刻むUNOコラボのチープカシオ]]></title>
-        <id>https://www.gizmodo.jp/2024/06/uno-casio.html</id>
-        <link href="https://www.gizmodo.jp/2024/06/uno-casio.html"/>
-        <updated>2024-06-04T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:カシオドロー4カードの雰囲気、めっちゃある。ビンテージなデザインが人気のカシオA168と、世界中で人気のカードゲームUNOがコラボ。黒フェイスに赤、水色、緑、黄色のラインをあしらった遊び心たっぷりのウォッチになりました。Image:カシオブルーのELバックライトを光らせると「Wild」の文字が浮かんでくるあたりも、ユーモアを感じますね。しかもUNOやWildのロゴフォントは最初期のもの]]></summary>
-        <author>
-            <name>武者良太</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楽天スーパーSALEでCIO製品が最大50％オフ。新製品もセール対象]]></title>
-        <id>https://gori.me/?p=153568</id>
-        <link href="https://gori.me/sale/peripheral-sale/153568"/>
-        <updated>2024-06-04T21:50:54.000Z</updated>
-        <summary type="html"><![CDATA[CIO 楽天市場店が楽天スーパーSALEに登場。対象商品を最大50％オフで販売している。購入商品数に応じて最大8％オフになるクーポンが配布されているため、欲しい製品はまとめて買ったほうがお得だ。 セール対象商品には、5月24日に一般販売したばかりの「Polaris CUBE Built in CAB…
-The post 楽天スーパーSALEでCIO製品が最大50％オフ。新製品もセール対象 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 16シリーズのバッテリー容量増加、MagSafeモジュールの薄型化で実現か]]></title>
-        <id>https://gori.me/?p=153565</id>
-        <link href="https://gori.me/iphone/iphone-news/153565"/>
-        <updated>2024-06-04T21:40:44.000Z</updated>
-        <summary type="html"><![CDATA[2024年の新型iPhone（iPhone 16シリーズ）は、各機種のバッテリー容量が増加すると噂されている。リーカーのKosutami氏によると、MagSafeモジュールの薄型化で実現するという。詳細は明らかにしていないが、過去に流出した金属製モックではマグネットリングが細くなっていることが確認さ…
-The post iPhone 16シリーズのバッテリー容量増加、MagSafeモジュールの薄型化で実現か first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix、Apple TV（第2世代/第3世代）でサポートを終了]]></title>
-        <id>https://gori.me/?p=153563</id>
-        <link href="https://gori.me/it/153563"/>
-        <updated>2024-06-04T21:30:16.000Z</updated>
-        <summary type="html"><![CDATA[Netflixは、2024年7月31日をもってApple TV（第2世代）およびApple TV（第3世代）のサポートを終了すると発表した。サポート終了の理由として「Netflixでの視聴体験を最高の状態に保つため」としている。 Apple TV（第2世代）は2010年から2012年に販売されたモデ…
-The post Netflix、Apple TV（第2世代/第3世代）でサポートを終了 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[みんな大好き「ケンタッキー」をスマホで注文してみた　新アプリは便利だが残念な点も]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2406/04/news036.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2406/04/news036.html"/>
-        <updated>2024-06-04T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[疲れ果てて帰宅する途中で、夕食を買って帰りたいと思うことがある。ファストフードならサクッと食べられるが、並んでオーダーするのは時間がかかる。そんなときに便利なのがKFC公式アプリだ。並ばず店頭でサクッとテイクアウトできる。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube、いいねボタンを押すと消えるバグが発生中]]></title>
-        <id>https://gori.me/?p=153570</id>
-        <link href="https://gori.me/google/youtube/153570"/>
-        <updated>2024-06-04T20:34:52.000Z</updated>
-        <summary type="html"><![CDATA[YouTubeの「いいね」ボタンを押すとサムズアップのアイコンが消えてしまい、いいね数のみが残るバグがデスクトップで発生している。いいね自体は押すことができ、いいね数のカウントに影響はないが、影響範囲は広そうだ。 いいねを押す動画が思いつかなければ、一向に更新する時間が確保できなくてもがいているゴリ…
-The post YouTube、いいねボタンを押すと消えるバグが発生中 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[スタパ齋藤のApple野郎]ポップで愉快！　「初代INFOBAR型Apple Watch Case」を試してみる!!!]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/column/stapaapple/1597454.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/column/stapaapple/1597454.html"/>
-        <updated>2024-06-04T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[クラウドファンディングCAMPFIREで支援を募った「初代INFOBAR型Apple Watch Case」。「初代INFOBAR」は2003年10月に発売されたポップなデザインのフィーチャーフォンで、そのデザイン性から多くの「ガラケーユーザー」の憧れとなった。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[本日の一品]こだわりの改良でさらに進化した、リズムの3WAYハンディファン]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1597427.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/column/todays_goods/1597427.html"/>
-        <updated>2024-06-04T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[リズムの「Silky Wind Mobile 3.1」は、手で持って使える、いわゆるハンディファンに分類される製品だ。首の部分を折り曲げると据置でも利用できるほか、二重ファンの採用により、このサイズの製品にしては静音かつ風量が強いのが特徴だ。今回登場したのは従来モデルのリニューアル版である2024年モデルで、製品名の末尾が「3.1」になっている。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[みんなのケータイ]留守電・着信転送に対応したpovoとスマート留守電で、便利な「家電話」環境を構築]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/column/minna/1597423.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/column/minna/1597423.html"/>
-        <updated>2024-06-04T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[月額0円で運用でき、24時間データ使い放題など便利なトッピングも用意されているpovoが、新たに留守番電話と着信転送に対応しました。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ピザソースに接着剤」Google検索、新機能のAIがトンチンカンすぎると話題]]></title>
-        <id>https://www.gizmodo.jp/2024/06/google-explains-why-it-suggested-adding-glue-to-pizza-jpn.html</id>
-        <link href="https://www.gizmodo.jp/2024/06/google-explains-why-it-suggested-adding-glue-to-pizza-jpn.html"/>
-        <updated>2024-06-04T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Googleナンセンスな質問には、元になる答えがないから、と。Google検索にAIOverviewなるパーツが米国で登場してるんですが、その中身はまあまあ玉石混交です。「ピザソースに接着剤を入れましょう」とか「パラシュートは無意味」といった珍回答でも検索結果の一番上に出てきてしまうため、「要らなくない…？」という声も出ています。Google検索の責任者、LizReid氏の公式ブログで]]></summary>
-        <author>
-            <name>福田ミホ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anker製品の最大半額セール、次は楽天スーパーSALEのターン。人気アイテムの割引情報、集めました]]></title>
-        <id>https://gori.me/?p=153561</id>
-        <link href="https://gori.me/sale/peripheral-sale/153561"/>
-        <updated>2024-06-04T11:00:57.000Z</updated>
-        <summary type="html"><![CDATA[楽天市場が、楽天が3カ月ごとに開催しているビッグセール「楽天スーパーSALE」をスタート。Ankerも参加しており、対象商品が最大50％オフになるセールを開催している。セールは6月11日（火）1時59分まで。 本記事ではゴリミーとしておすすめのセール対象商品を紹介する。買い物の参考にしてもらいたい。…
-The post Anker製品の最大半額セール、次は楽天スーパーSALEのターン。人気アイテムの割引情報、集めました first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楽天モバイル、楽天スーパーSALEでAirPods Proの4,000円オフセールを開始]]></title>
-        <id>https://gori.me/?p=153542</id>
-        <link href="https://gori.me/sale/peripheral-sale/153542"/>
-        <updated>2024-06-04T11:00:53.000Z</updated>
-        <summary type="html"><![CDATA[楽天が3カ月ごとに開催している楽天スーパーSALEで、楽天モバイル公式楽天市場店がAirPods Pro（第2世代）のUSB-Cモデルを4,000円オフで販売開始した。通常価格は39,800円。セール期間中は35,800円で購入できる。 セールは6月11日（火）1時59分まで。AirTagのセールと…
-The post 楽天モバイル、楽天スーパーSALEでAirPods Proの4,000円オフセールを開始 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楽天モバイル、AirTagと対応アクセサリの最大14％オフセールをスタート]]></title>
-        <id>https://gori.me/?p=153540</id>
-        <link href="https://gori.me/sale/peripheral-sale/153540"/>
-        <updated>2024-06-04T11:00:31.000Z</updated>
-        <summary type="html"><![CDATA[楽天が3カ月ごとに開催している楽天スーパーSALEで、楽天モバイル公式楽天市場店がAirTag本体および対応するApple純正アクセサリを最大14％オフで販売するセールをスタートした。 セール対象の商品とセール価格は以下のとおり。 AirTag：4,980円 → 4,600円 AirTag（4個入り…
-The post 楽天モバイル、AirTagと対応アクセサリの最大14％オフセールをスタート first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Galaxy Watch FEの正体がリーク。ついに低価格版がくるかも]]></title>
-        <id>https://www.gizmodo.jp/2024/06/what-to-expect-for-samsung-smartwatch-jpn.html</id>
-        <link href="https://www.gizmodo.jp/2024/06/what-to-expect-for-samsung-smartwatch-jpn.html"/>
-        <updated>2024-06-04T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:FlorenceIon/GizmodoUSこれがもっとも待ち望まれていた…？Samsung（サムスン）が、新たなGalaxyWatchシリーズを正式発表するまで秒読み段階とされています。ハイエンドな「GalaxyWatchUltra」の存在も気になりますけど、低価格な「GalaxyWatchFE」で、手軽にデビューしてみようかなと楽しみにしている人は多いはず。GalaxyWatchFE]]></summary>
-        <author>
-            <name>湯木進悟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IIJmio、中古美品「iPhone 13」販売開始　のりかえ価格なら約6万円に]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2406/04/news183.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2406/04/news183.html"/>
-        <updated>2024-06-04T10:58:00.000Z</updated>
-        <summary type="html"><![CDATA[IIJmioサプライサービスは、中古美品「iPhone 13（128GB／256GB）」を販売開始。IIJmioモバイルサービス ギガプランをMNP転入かつ同時申し込みの場合、一括5万9800円（税込み）から購入できる。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楽天モバイルの下取りが一部増額、「iPhone XS」（64GB）なら最大1万2200円]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1597401.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1597401.html"/>
-        <updated>2024-06-04T10:39:49.000Z</updated>
-        <summary type="html"><![CDATA[楽天モバイルのスマホ下取りサービスで、一部の端末の買取価格がアップしている。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スマホは週に一回電源オフ。アメリカ国家安全保安局おすすめのセキュリティ対策]]></title>
-        <id>https://www.gizmodo.jp/2024/06/nsa-smart-phone-restart-cybersecurity.html</id>
-        <link href="https://www.gizmodo.jp/2024/06/nsa-smart-phone-restart-cybersecurity.html"/>
-        <updated>2024-06-04T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:FlorenceIon/GizmodoUSアメリカ国防総省の情報機関であるアメリカ国家安全保障局（NSA）が、モバイル端末の安心・安全な使い方ガイドを公開。週に1度は電源をオフにすることを推奨しています。NSAが電源オフを推奨するのは、メンタルヘルスや目の健康のためではなく、国家安全の観点から。週一オフ週に1度はモバイル端末の電源を落とし、再起動すること。そうすることで、個人情報収集を]]></summary>
-        <author>
-            <name>そうこ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ankerのセキュリティカメラは配線不要。だってソーラー充電ですもの！]]></title>
-        <id>https://www.gizmodo.jp/2024/06/eufy-solar-wall-light-cam-s120.html</id>
-        <link href="https://www.gizmodo.jp/2024/06/eufy-solar-wall-light-cam-s120.html"/>
-        <updated>2024-06-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:アンカー・ジャパンAnkerが1台でぜんぶ解決してくれました。モバイルバッテリーやイヤホンでおなじみのAnker。迷ったらコレ買っておけば間違いないよねー！なテッパンなメーカーですが、ロボット掃除機や掃除機や、セキュリティ系アイテムまで幅広く「生活の悩みを解決しちゃうよ」ガジェットも取り扱っています。Image:アンカー・ジャパン今回新発売された「EufySolarWallLightC]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソフトバンク、走行車両に向けたテラヘルツ無線の実証実験に成功――次世代通信6Gに向けて通信のボトルネックを解消へ]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1597402.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1597402.html"/>
-        <updated>2024-06-04T09:46:31.000Z</updated>
-        <summary type="html"><![CDATA[ソフトバンクは4日、現在の5G ミリ波よりも高い周波数帯の300GHz帯テラヘルツ無線を用いて、屋外を走行する車両向けの通信エリアを構築する実証実験に成功したと発表した。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IIJmioの料金プラン「2GB＋5分通話定額」が月500円に、最大3カ月割引キャンペーンはじまる]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1597399.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1597399.html"/>
-        <updated>2024-06-04T09:30:46.000Z</updated>
-        <summary type="html"><![CDATA[IIJは、MVNO型携帯電話サービス「IIJmio」で、最大3カ月の料金を割り引くキャンペーンを開始した。期間は9月2日まで。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モバイルSuicaやえきねっとのID統合へ　JR東日本が「新Suicaアプリ」構想を発表]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2406/04/news176.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2406/04/news176.html"/>
-        <updated>2024-06-04T09:11:00.000Z</updated>
-        <summary type="html"><![CDATA[JR東日本が中長期ビジネス成長戦略「Beyond the Border」を発表。「Suicaの進化」を軸として、新たなデジタルプラットフォームの構築を進めていく。2027年度までに、「えきねっと」「やモバイルSuica」「VIEWカード」などの各種IDを統合する。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ氏、規制撤廃に1570億円の献金を石油産業に要求]]></title>
-        <id>https://www.gizmodo.jp/2024/06/trump-asks-oil-industry-for-157-billion.html</id>
-        <link href="https://www.gizmodo.jp/2024/06/trump-asks-oil-industry-for-157-billion.html"/>
-        <updated>2024-06-04T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ドナルド・トランプ前大統領は、フロリダ州の私邸で4月に開催した晩さん会で、参加した石油産業の経営者らに対し、大統領再選後の環境規制撤廃の見返りとして10億ドルの献金を要求したとThe Washington Postが報じました。]]></summary>
-        <author>
-            <name>Kenji P. Miyajima</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドコモがIoT向け新料金プラン「ImoT」7月1日に提供　安価な低速から大容量まで3プラン]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2406/04/news170.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2406/04/news170.html"/>
-        <updated>2024-06-04T08:46:00.000Z</updated>
-        <summary type="html"><![CDATA[NTTドコモは、7月1日から新しいIoT向け料金プラン「ImoT」を提供開始。大容量データ通信向け「ImoT」からSMS利用なしで安価な「ImoT ミニ」まで3プランからニーズに合わせて利用できる。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JR東が「Suica」をスーパーアプリ化へ、28年度にリリース]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1597366.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1597366.html"/>
-        <updated>2024-06-04T08:34:39.000Z</updated>
-        <summary type="html"><![CDATA[JR東日本は、新たな成長戦略の一環として「Suica」をスーパーアプリ化する構想を明らかにした。2028年度にもリリース予定で、Suicaの経済圏を拡大させる狙い。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サイバートラックをピッカピカに磨くとめっちゃ危ない]]></title>
-        <id>https://www.gizmodo.jp/2024/06/cybertruck-tesla.html</id>
-        <link href="https://www.gizmodo.jp/2024/06/cybertruck-tesla.html"/>
-        <updated>2024-06-04T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:Xよくよく考えたらアウトなのです。電動自動車テスラの「サイバートラック」は、無塗装でアルミむき出しボディーが非常に特徴的です。映画『バック・トゥ・ザ・フューチャー』シリーズの車｢デロリアン｣と外見がソックリ。元を辿ると、同じ遺伝子だったりします。鏡面仕上げにしてみた金属は錆びたり曇ったりしているより、ピカピカの方が見栄えが良いもの。そこで「サイバートラック」を4人がかりで、1週間ほどの]]></summary>
-        <author>
-            <name>岡本玄介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドコモの「キッズケータイ コンパクト」7月中旬以降発売　予約は6月7日から]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2406/04/news161.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2406/04/news161.html"/>
-        <updated>2024-06-04T07:46:00.000Z</updated>
-        <summary type="html"><![CDATA[NTTドコモは、セイコーソリューションズ製「キッズケータイ コンパクト SK-41D」の発売時期を7月中旬以降に決定。予約は6月7日から受け付ける。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドコモ、IoT向けの新料金プラン「ImoT（アイモット）」]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1597342.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1597342.html"/>
-        <updated>2024-06-04T07:34:34.000Z</updated>
-        <summary type="html"><![CDATA[NTTドコモは、IoT機器向けの新料金プラン「ImoT（アイモット）」を発表した。7月1日に開始され、3つのプランがラインアップされる。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ギガプラン」契約でWi-Fiルーターなどが110円～、IIJmioで9月2日まで割引]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1597333.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1597333.html"/>
-        <updated>2024-06-04T07:27:16.000Z</updated>
-        <summary type="html"><![CDATA[インターネットイニシアティブ（IIJ）は、ギガプランの契約とセットで対象の端末が割引になる「サマーキャンペーン【回線セット特価】」を開始した。期間は9月2日21時59分まで。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[目指せ建築写真家。超広角もアオリ撮影もいける格安シフトレンズ]]></title>
-        <id>https://www.gizmodo.jp/2024/06/astrhori-18mm-f80-shift.html</id>
-        <link href="https://www.gizmodo.jp/2024/06/astrhori-18mm-f80-shift.html"/>
-        <updated>2024-06-04T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[フルサイズ対応18mmの超広角レンズとしても使えるシフトレンズ「AstrHori 18mm F8.0 Shift」発売。]]></summary>
-        <author>
-            <name>武者良太</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楽天モバイル新規申込＋楽天ペイのコード決済で最大3.5％ポイント還元　毎月開催]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2406/04/news139.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2406/04/news139.html"/>
-        <updated>2024-06-04T06:56:00.000Z</updated>
-        <summary type="html"><![CDATA[「楽天モバイル」を新規で申し込むこと、3カ月間「楽天ペイ」アプリでのコード決済金額から最大3.5％分の楽天ポイントを還元するキャンペーンを実施。「楽天キャッシュ」の最大1.5％還元と併用で最大5％還元となる。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドコモ、スマートウォッチ型「キッズケータイ コンパクト」発売時期が7月中旬以降に]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1597315.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1597315.html"/>
-        <updated>2024-06-04T06:38:19.000Z</updated>
-        <summary type="html"><![CDATA[NTTドコモは、スマートウォッチのように使える子供向けの「キッズケータイ コンパクト SK-41D」の発売時期が7月中旬以降になると発表した。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIがゲーム攻略Wikiになる時代がやってきた]]></title>
-        <id>https://www.gizmodo.jp/2024/06/project-g-assist.html</id>
-        <link href="https://www.gizmodo.jp/2024/06/project-g-assist.html"/>
-        <updated>2024-06-04T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[台湾で開催中のCOMPUTEX 2024にて、NVIDIAがAIアシスタントに関するいくつかの新機能を発表しました。そのうちのひとつ「Project G-Assist」は、なんとゲームの攻略情報を教えてくれるというもの。]]></summary>
-        <author>
-            <name>ヤマダユウス型</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「povo」で新規契約向け「ウェルカムトッピング」が登場、第1弾は“1GB/7日間が100円”に]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1597302.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1597302.html"/>
-        <updated>2024-06-04T05:55:12.000Z</updated>
-        <summary type="html"><![CDATA[KDDIと沖縄セルラーは、オンライン専用料金ブランド「povo2.0」で、新規契約者向けに「ウェルカムトッピング」の提供を開始した。新規契約から7日間に限り購入できる。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPTで文書作成の時間を短縮できる「プロンプト」3選]]></title>
-        <id>https://www.gizmodo.jp/2024/06/chatgpt_idea3-1.html</id>
-        <link href="https://www.gizmodo.jp/2024/06/chatgpt_idea3-1.html"/>
-        <updated>2024-06-04T05:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:重田信Lifehacker2024年5月22日掲載の記事より転載議事録や報告書、企画書からメールまで、日常の業務の文書作成では、様式や構成、書く順番があらかじめ決まっている場合が多いですよね。前提条件が決まっている文章の作成は、ChatGPTの得意分野です。この記事では、ChatGPTの最も汎用性の高い使い方である、文章作成の例をご紹介したいと思います。テンプレートを作れるプロンプト3]]></summary>
-        <author>
-            <name>重田信</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「irumo」で扇風機など5円で買えるクーポン当たる抽選、30日まで]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1597273.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1597273.html"/>
-        <updated>2024-06-04T05:24:20.000Z</updated>
-        <summary type="html"><![CDATA[NTTドコモの「irumo」の「毎月チャンス！　irumo抽選会」で、家電製品が5円で購入できるクーポンプレゼントの抽選が実施されている。エントリー期間は6月30日まで。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IIJmioで「スマホ大特価セール」、9月2日まで]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1597240.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1597240.html"/>
-        <updated>2024-06-04T05:03:42.000Z</updated>
-        <summary type="html"><![CDATA[インターネットイニシアティブ（IIJ）は、対象のスマートフォンが割引になる「サマーキャンペーン【スマホ大特価セール】」を開始した。期間は9月2日21時59分まで。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「マイナカードで避難所入り」は10倍早い――政府、防災のデジタル化加速へ]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1597283.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1597283.html"/>
-        <updated>2024-06-04T05:02:50.000Z</updated>
-        <summary type="html"><![CDATA[河野太郎デジタル大臣は4日、閣議後会見において、避難者支援業務のデジタル化についてコメントした。マイナンバーカードの利用によって避難所の入所手続きを約1/10の時間に短縮するなど、実証実験で成果が出ており、今後は横展開を図っていく。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[名機iLoudスピーカー最新モデルはスタジオのエミュレートが可能]]></title>
-        <id>https://www.gizmodo.jp/2024/06/iloud-mtm-mkii.html</id>
-        <link href="https://www.gizmodo.jp/2024/06/iloud-mtm-mkii.html"/>
-        <updated>2024-06-04T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[コンパクトで高音質で高精度。現代的DTMerから愛されているモニタースピーカーが、IK MultimediaのiLoudシリーズの最新作「iLoud MTM MKII」が発表されました。]]></summary>
-        <author>
-            <name>ヤマダユウス型</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「OPPO A79 5G」が一括110円に　IIJmioでスマホ大特価セール、9月2日まで]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2406/04/news125.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2406/04/news125.html"/>
-        <updated>2024-06-04T04:33:00.000Z</updated>
-        <summary type="html"><![CDATA[IIJは、9月2日まで「サマーキャンペーン【スマホ大特価セール】」を開催。条件を満たすと1契約者（mioID）あたり1台まで、対象端末をのりかえ価格で提供する。「OPPO A79 5G」は一括110円（税込み）で販売する。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhoneのコントロールセンターがちょっと便利に進化するかも]]></title>
-        <id>https://www.gizmodo.jp/2024/06/ios-18-control-center-imore-convenient.html</id>
-        <link href="https://www.gizmodo.jp/2024/06/ios-18-control-center-imore-convenient.html"/>
-        <updated>2024-06-04T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[iOS 18ではコントロールセンターの「ミュージック」のウィジェットと、ホームコントロールがアップデートされそう。]]></summary>
-        <author>
-            <name>はらいさん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIC SIMにMNPでiPhoneが1万5000円オフなどの還元、30日まで]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1597227.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1597227.html"/>
-        <updated>2024-06-04T03:56:01.000Z</updated>
-        <summary type="html"><![CDATA[ラネットは、MVNOサービス「BIC SIM」で最大1万4000ポイント還元などのキャンペーンを開始した。期間は6月30日まで。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重さ99g。マナーを守れば日本でも飛ばしやすいドローン]]></title>
-        <id>https://www.gizmodo.jp/2024/06/hoverair-x1-smart.html</id>
-        <link href="https://www.gizmodo.jp/2024/06/hoverair-x1-smart.html"/>
-        <updated>2024-06-04T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ドローンを飛ばすには向いていない国、ニッポン。しかしZERO ZERO ROBOTICSの「HOVERAir X1 Smart」は質量たったの99g。航空法による規制の外にあるドローン（一部を除く）なんですコイツ。]]></summary>
-        <author>
-            <name>武者良太</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mineoで10周年記念キャンペーン　1GBプレゼント、10周年を迎える他サービスのグッズプレゼントも]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2406/04/news114.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2406/04/news114.html"/>
-        <updated>2024-06-04T03:18:00.000Z</updated>
-        <summary type="html"><![CDATA[mineoはサービス開始10周年を記念して最大10カ月間、全ユーザーへ1GBのパケットを進呈。サービス契約者以外も対象に、応募者の中から抽選で100人に「10周年を迎えるモノやサービス」をプレゼントする。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楽天モバイル新規契約で「楽天ペイ」最大5％還元]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1597209.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1597209.html"/>
-        <updated>2024-06-04T03:03:20.000Z</updated>
-        <summary type="html"><![CDATA[楽天モバイルと楽天ペイメントは、新キャンペーン「【毎月開催】楽天モバイル初めてのお申し込みで楽天ペイのお支払い金額3.5%還元」を開始した。条件を満たせば最大5％の還元を受けられる。期間は7月1日8時59分まで。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WWDC 2024での新型ハードウェアお披露目はなさそう]]></title>
-        <id>https://www.gizmodo.jp/2024/06/no-new-hardware-announced-at-wwdc.html</id>
-        <link href="https://www.gizmodo.jp/2024/06/no-new-hardware-announced-at-wwdc.html"/>
-        <updated>2024-06-04T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今年のWWDCはAI関連の講演が中心で、新製品の発表は期待薄。]]></summary>
-        <author>
-            <name>はらいさん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IIJmioから中古美品「iPhone 13」が販売開始、MNPで割引]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1597200.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1597200.html"/>
-        <updated>2024-06-04T02:45:52.000Z</updated>
-        <summary type="html"><![CDATA[インターネットイニシアティブは、スマートフォン販売サイト「IIJmioサプライサービス」で、中古美品「iPhone 13」の販売を開始した。価格は7万4800円～。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界最大級の「日本発イチゴ」植物工場が稼働開始。農業の課題に最新技術で向き合う]]></title>
-        <id>https://gori.me/?p=153554</id>
-        <link href="https://gori.me/it/153554"/>
-        <updated>2024-06-04T02:33:02.000Z</updated>
-        <summary type="html"><![CDATA[米国を拠点にサステナブルな農業の実現を目指すOishii Farm Corporationは6月4日、サステナビリティと自動化を追求した、世界最大級の植物工場「メガファーム」をニュージャージー州にて稼働したと発表した。 Oishii Farmは日本人CEOが経営するニューヨーク発の植物工場スタートア…
-The post 世界最大級の「日本発イチゴ」植物工場が稼働開始。農業の課題に最新技術で向き合う first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USB-Cハブも可愛くたって良いじゃない！AnkerのUSB-Cハブに明るいカラバリが追加]]></title>
-        <id>https://gori.me/?p=153548</id>
-        <link href="https://gori.me/mac-accessories/mac-usbc/153548"/>
-        <updated>2024-06-04T02:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Ankerは6月3日、「Anker 332 USB-C ハブ (5-in-1)」の新しいカラーバリエーションとしてホワイト、グリーン、ブルー、グレーの4色を追加した。一般的にUSB-Cハブは黒い製品が多いが、ブルーやグリーンは爽やかで良い。 約50gの軽さと約12mmの薄さを実現した持ち運びに便利な…
-The post USB-Cハブも可愛くたって良いじゃない！AnkerのUSB-Cハブに明るいカラバリが追加 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anker、ソーラーパネル内蔵の屋外用セキュリティカメラを発売]]></title>
-        <id>https://gori.me/?p=153545</id>
-        <link href="https://gori.me/gadget/153545"/>
-        <updated>2024-06-04T02:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Ankerは6月4日、高い防犯性とデザイン性を両立した屋外用センサーライト一体型の セキュリティカメラ「Anker Eufy Solar Wall Light Cam S120」を販売開始した。Eufy初のセンサーライト一体型の製品で、夜間や暗い場所では動きを感知すると最大300ルーメンの柔らかな明…
-The post Anker、ソーラーパネル内蔵の屋外用セキュリティカメラを発売 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[会員登録せずにiPhoneからスタバで注文　「App Clip」導入の狙いと「モバイルオーダー＆ペイ」の真価]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2406/03/news038.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2406/03/news038.html"/>
-        <updated>2024-06-04T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[スターバックスのモバイルオーダーで「App Clip」が本格展開。会員登録不要、iPhoneのカメラで読み取るだけ、支払いはApple Payで行う。スターバックスの担当者は「初回の体験をよりスムーズにすることが狙い」と話す。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ボルネードだけだよ」じゃなくなった。かたくなに首を横に振らなかったボルネードが、どうして...]]></title>
-        <id>https://www.gizmodo.jp/2024/06/vornado-strata-jp.html</id>
-        <link href="https://www.gizmodo.jp/2024/06/vornado-strata-jp.html"/>
-        <updated>2024-06-04T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:小原啓樹うわぁ〜、直接浴びても爽快！こんな風を楽しめるなんて、ジメジメした季節や暑い夏にももってこいじゃあないか！やっぱりすごいな。こんなの…だよ。………だけだよ！　　…………フウウ――――――ンンン――――――ンンンン………「僕」がウスウスと目を覚ましたとき、静かにファンが回るような音と、優しく体を持ち上げるような風の余韻を感じていた。ギズモード編集部・綱藤「…はっ！僕は…寝ていたの]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone以外で唯一「AQUOS sense3」がランクイン　ムスビーの5月の中古スマホ取引数ランキング]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2406/04/news099.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2406/04/news099.html"/>
-        <updated>2024-06-04T01:58:00.000Z</updated>
-        <summary type="html"><![CDATA[ムスビーは、2024年5月の中古スマホ／タブレット取引数ランキングを発表。総合ランキングは引き続き「iPhone SE（第2世代）」をはじめiPhoneシリーズが並ぶが、9位に「AQUOS sense3」がランクインしている。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anker、9つのUSBポートとSD/microSDカードスロットを備えたUSB-Cハブを発売]]></title>
-        <id>https://gori.me/?p=153560</id>
-        <link href="https://gori.me/mac-accessories/mac-usbc/153560"/>
-        <updated>2024-06-04T01:55:21.000Z</updated>
-        <summary type="html"><![CDATA[Ankerが5月29日、11ポート搭載のUSB-Cハブ「Anker USB-C データ ハブ (11-in-1, 10Gbps)」を販売開始した。USB-CとUSB-Aポートを中心に、microSDカードとSDカードスロットを兼ね揃える電源に接続した状態で使用するUSB-Cハブだ。 各ポートと仕様は…
-The post Anker、9つのUSBポートとSD/microSDカードスロットを備えたUSB-Cハブを発売 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[au PAYとPontaのキャンペーンまとめ【6月4日最新版】　10％～35％還元などお得な施策を見逃すな]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2406/04/news061.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2406/04/news061.html"/>
-        <updated>2024-06-04T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[6月が始まり、さまざまなキャンペーンが更新されている。KDDIなどが実施している、au PAYやPontaでのポイント還元施策やキャンペーンをまとめた。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[次期iOSのAI機能はハイエンド端末じゃないと使いこなせないかも？]]></title>
-        <id>https://www.gizmodo.jp/2024/06/ios-18-siri-for-high-end-devices.html</id>
-        <link href="https://www.gizmodo.jp/2024/06/ios-18-siri-for-high-end-devices.html"/>
-        <updated>2024-06-04T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[iOS 18でSiriはAIに対応して大幅に機能強化。ただし一部機能は最新ハイエンド端末のみに限定されるかも。]]></summary>
-        <author>
-            <name>mayumine</name>
         </author>
     </entry>
 </feed>
