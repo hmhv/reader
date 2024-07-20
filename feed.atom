@@ -2,10 +2,294 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hmhv.github.io/reader/index.html</id>
     <title>hmhv::news</title>
-    <updated>2024-07-19T12:28:44.911Z</updated>
+    <updated>2024-07-20T12:27:10.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hmhv.github.io/reader/index.html"/>
     <link rel="self" href="https://hmhv.github.io/reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[迷っている場合じゃない。8月からソニー製品平均10％値上げ]]></title>
+        <id>https://www.gizmodo.jp/2024/07/sony-product-price-increase.html</id>
+        <link href="https://www.gizmodo.jp/2024/07/sony-product-price-increase.html"/>
+        <updated>2024-07-20T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ソニーが2024年8月1日より平均10%の製品値上げを発表。]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゲーマーならオーバークロック仕様の「REDMAGIC 9S Pro」が鉄板です]]></title>
+        <id>https://www.gizmodo.jp/2024/07/redmagic-9s-pro.html</id>
+        <link href="https://www.gizmodo.jp/2024/07/redmagic-9s-pro.html"/>
+        <updated>2024-07-20T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:REDMAGIC8.9mmの厚みの中に空冷ファンまで入れてるガチAndroidだコレ。2024年7月現在、Android用SoCのなかで最強といえるSnapdragon8Gen3ですが、「REDMAGIC9SPro」はまさかのオーバークロック仕様。CPUのプライムコアを3.3GHz→3.4GHzに高速化してきました。GPUも1GHz駆動となり、メーカーいわく最速のAndroidになった]]></summary>
+        <author>
+            <name>武者良太</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[画面の折り目はどこ？「Galaxy Z Flip6」をじっくり観察]]></title>
+        <id>https://www.gizmodo.jp/2024/07/galaxy-z-flip6-1stlook.html</id>
+        <link href="https://www.gizmodo.jp/2024/07/galaxy-z-flip6-1stlook.html"/>
+        <updated>2024-07-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先日Samsung（サムスン）から発表されたGalaxy Z Flip6（以下、Z Flip6）は縦に折りたためるスマートフォンとしてお馴染みですが、最新モデルの見た目が気になる方も多いと思うので、7月末の発売を前にまずはZ Flip6のデザインをじっくり眺めてみましょう。]]></summary>
+        <author>
+            <name>はらいさん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[猛暑でもへっちゃら。涼しい室内からVR天王寺動物園へGo！]]></title>
+        <id>https://www.gizmodo.jp/2024/07/vr-osaka-tennoji-zoo.html</id>
+        <link href="https://www.gizmodo.jp/2024/07/vr-osaka-tennoji-zoo.html"/>
+        <updated>2024-07-20T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[大阪にある天王寺動物園が、「バーチャル天王寺動物園」として仮想空間内にオープンしました。「Cluster」というVRサービスに登録すれば、スマホ、PC、VRゴーグルを使って楽しめます。]]></summary>
+        <author>
+            <name>岡本玄介</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[この夏は手のひらサイズの「蚊対策アイテム」を手放せない]]></title>
+        <id>https://www.gizmodo.jp/2024/07/crochead_holder.html</id>
+        <link href="https://www.gizmodo.jp/2024/07/crochead_holder.html"/>
+        <updated>2024-07-20T05:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:covacova.ROOMIE2023年6月25日掲載の記事より転載毎年夏が近づいてくると取り上げられるアイテムと言えば、蚊取り線香ホルダー。最近モスキート達の活動が活発になってきたのか、先日さっそく刺されちゃったんですよね～。めちゃ痒かったです。ということで、そろそろ蚊取り線香が出番となるシーズン。今年はこの蚊取り線香ホルダーでモスキート達を退治したいと思います。自在に設置できちゃう]]></summary>
+        <author>
+            <name>covacova.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クラウドストライクが「Windowsブルスク化」システム障害の解析結果を発表]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1609910.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1609910.html"/>
+        <updated>2024-07-20T04:10:10.000Z</updated>
+        <summary type="html"><![CDATA[セキュリティソフトを手掛ける米クラウドストライク（CrowdStrike）は、同社ソフト導入済みのWindowsパソコンで、19日にシステム障害が発生した原因を発表した。同社Webサイトのブログで公開されたもの。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100円ショップで売っているガジェットが意外と使える（ただしうまく使わないと「安物買いの銭失い」になりがち）]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2407/20/news072.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2407/20/news072.html"/>
+        <updated>2024-07-20T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前も言った気がするのですが、100円ショップで販売されているガジェットは種類が豊富になり、意外と使えるものも増えました。ただし、安いからといって過剰に買ってしまうと「安物買いの銭失い」になってしまいます……。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゲームで勝てない人、キミは試合前に脳内で負けているかも]]></title>
+        <id>https://www.gizmodo.jp/2024/07/ntt-esports-youve-already-lost.html</id>
+        <link href="https://www.gizmodo.jp/2024/07/ntt-esports-youve-already-lost.html"/>
+        <updated>2024-07-20T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:Shutterstockやっぱりメンタルのスポーツなのか。NTTがeスポーツに関するちょっと興味深い研究結果を発表しています。いわくeスポーツの勝敗と強く関わる脳波パターンの存在を世界で初めて発見。この脳波データから、試合結果を高精度に予測することに成功したとのこと。「実力が拮抗した試合」や「番狂わせ」といった予測の難しい試合も含め、その予測精度は従来データでの予測が63%だったのに対]]></summary>
+        <author>
+            <name>巽英俊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AmazonでUGREENの2K/60Hz対応HDMIケーブルが20%オフ]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1609903.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1609903.html"/>
+        <updated>2024-07-20T03:14:23.000Z</updated>
+        <summary type="html"><![CDATA[Amazon.co.jpでUGREENのHDMIケーブルが、798円（20%割引）のタイムセール価格で購入できる。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[なんだか既視感。スマホに着けるマイクロフォーサーズカメラが出るらしい]]></title>
+        <id>https://www.gizmodo.jp/2024/07/alice-camera.html</id>
+        <link href="https://www.gizmodo.jp/2024/07/alice-camera.html"/>
+        <updated>2024-07-20T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スマホの背面に装着する。という古（いにしえ）の記憶を呼び覚ましそうなカメラが「Alice Camera」。マイクロフォーサーズのセンサーとレンズマントを搭載しているカメラです。]]></summary>
+        <author>
+            <name>小暮ひさのり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「iOS 18」のパブリックβを試す　ホーム画面のカスタマイズ性が大幅に向上、RCSは現時点では非対応か]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2407/20/news071.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2407/20/news071.html"/>
+        <updated>2024-07-20T02:10:00.000Z</updated>
+        <summary type="html"><![CDATA[7月17日に配信が始まったiOS 18のパブリックβを試した。ホーム画面にカスタマイズ性が高まり、アプリやウィジェットの並び替えが自由になった。Apple Intelligenceへの対応は2025年だが、AIを使った一部の機能はきちんと実装されている。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ノートPCやスマホを飾ろう。ギズ屋台オリジナルステッカー]]></title>
+        <id>https://www.gizmodo.jp/2024/07/giz-yatai-sticker-3.html</id>
+        <link href="https://www.gizmodo.jp/2024/07/giz-yatai-sticker-3.html"/>
+        <updated>2024-07-20T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:ギズ屋台2024年6月11日の記事を編集して再掲載しています。わかる人にはわかる、ニッチな科学ネタ。ギズモードの名物編集部員、リチャードがデザインしたオリジナルTシャツ。そのデザインをコンパクトに落とし込んだ「ギズやたステッカー」が登場しました。3種類のデザインがあるので、それぞれ見ていきましょう。シャコとBH（ブラックホール）からどうぞまずはTOP画像にもなっている「シャコステッカー]]></summary>
+        <author>
+            <name>ヤマダユウス型</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小学生の娘が「夏休みの宿題」を自分で把握できる仕組みが凄く良い。親にとっても良い]]></title>
+        <id>https://gori.me/?p=154450</id>
+        <link href="https://gori.me/papa/childcare/154450"/>
+        <updated>2024-07-20T01:42:50.000Z</updated>
+        <summary type="html"><![CDATA[小学校の夏休みがもうじき始まる。夏休みといえば旅行などのイベントが目白押しだろうが、同じ期間中にこなさなければならない夏休みの宿題がある。 親としては、計画的に宿題をやってほしい。仮に、過去の自分が最終日に無理矢理終わらせるタイプの子どもだったとしても、そう思っているはずだ。自分の子どもには、理想的…
+The post 小学生の娘が「夏休みの宿題」を自分で把握できる仕組みが凄く良い。親にとっても良い first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「スマホ熱中症」に要注意　絶対にやってはいけないこと／効果的な対策を紹介]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2407/20/news057.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2407/20/news057.html"/>
+        <updated>2024-07-20T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[猛暑の中で特に注意したいのが、いわゆるスマホ熱中症です。特に夏場では、スマホを炎天下に置いたり、車のダッシュボードに放置したりすると想像以上に熱を帯び、思わぬトラブルにつながる可能性があります。今回は、そんなスマホ熱中症について、やってはいけないことと、効果的な対策を紹介します。]]></summary>
+        <author>
+            <name>ITmedia Mobile 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber Eats配達員の水分補給をサポート、コカ・コーラの飲み物20本をプレゼント]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1609802.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1609802.html"/>
+        <updated>2024-07-20T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Uber Eats Japanと、コカ･コーラ ボトラーズジャパンは、Uber Eatsのダイヤモンド配達パートナーに、1人あたり20枚の「Coke ONドリンクチケット」を提供し、夏の水分補給をサポートする。利用可能な期間は8月1日～9月30日までで、1カ月に10枚プレゼントする。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon「Audible」、プライム会員限定の「3カ月無料体験キャンペーン」は22日まで]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1609775.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1609775.html"/>
+        <updated>2024-07-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazonのオーディオ配信サービス「Audible」で、Amazonプライム会員限定の「3カ月無料体験キャンペーン」が行われている。受付期間は7月22日23時59分まで。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Vision Proを使った展示会で、地球問題を見つめてみよう]]></title>
+        <id>https://www.gizmodo.jp/2024/07/the-earth-observatory-of-our-future.html</id>
+        <link href="https://www.gizmodo.jp/2024/07/the-earth-observatory-of-our-future.html"/>
+        <updated>2024-07-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photo:はらいさん空間コンピュータを使って覗く地球のあした。日本でも先月末に発売を迎えたApple（アップル）の空間コンピュータことAppleVisionProですが、なんと日本で初めてAppleVisionProを使ったある展示会が北青山で開催されているとのことで早速行ってきました。イベントが開催されているのは、東京メトロ銀座線「外苑前」駅または「青山一丁目」駅より徒歩数分のITOCHUSD]]></summary>
+        <author>
+            <name>はらいさん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JCOM、迷惑電話やフィッシングSMSを検知・警告するオプションサービス提供]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1609698.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1609698.html"/>
+        <updated>2024-07-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[JCOMは、迷惑電話やSMSを検知して警告する「迷惑電話・メッセージブロック」を7月16日より「J:COM MOBILE」のオプションサービスとして提供する。月額料金は330円。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 16、Apple Intelligence頼みの販売戦略に暗雲？発注台数増の兆し見えず]]></title>
+        <id>https://gori.me/?p=154440</id>
+        <link href="https://gori.me/iphone/iphone-news/154440"/>
+        <updated>2024-07-19T21:50:57.000Z</updated>
+        <summary type="html"><![CDATA[Appleは、2024年の新型iPhone（iPhone 16シリーズ）の発注台数を増やしていない可能性がある。Apple情報に詳しいアナリストMing-Chi Kuo氏が、最新のMedium投稿で明らかにした。TSMCやLarganなどのサプライヤーの業績が伸び悩んでいることがその根拠だ。 Kuo…
+The post iPhone 16、Apple Intelligence頼みの販売戦略に暗雲？発注台数増の兆し見えず first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix、広告付きプラン躍進！会員数800万人増、2024年収益は17%増]]></title>
+        <id>https://gori.me/?p=154439</id>
+        <link href="https://gori.me/it/154439"/>
+        <updated>2024-07-19T21:40:11.000Z</updated>
+        <summary type="html"><![CDATA[Netflixは第2四半期決算で、有料会員数が800万人以上増加し、全世界で2億7,765万人に達したと発表。前年同期比16.5%増という大幅な成長を遂げた。 特に注目すべきは、広告付きプランの躍進だ。前四半期比34%増と大きく成長し、Netflixの新たな成長エンジンとしての役割を担いつつある。 …
+The post Netflix、広告付きプラン躍進！会員数800万人増、2024年収益は17%増 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone SE 4、iPhone 16と同じ背面シャーシ採用か]]></title>
+        <id>https://gori.me/?p=154438</id>
+        <link href="https://gori.me/iphone/iphone-news/154438"/>
+        <updated>2024-07-19T21:30:40.000Z</updated>
+        <summary type="html"><![CDATA[Appleは、”iPhone SE 4”ことiPhone SE（第4世代）に2024年の新型iPhone（iPhone 16）と同じ背面シャーシを採用する可能性がある。WeiboアカウントInstant Digitalが明らかにした。 昨年11月時点の情報ではiPhone 14の筐体を”再利用”する…
+The post iPhone SE 4、iPhone 16と同じ背面シャーシ採用か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夏に気をつけたい製品事故、NITEが注意呼びかけ]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1609702.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1609702.html"/>
+        <updated>2024-07-19T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[製品評価技術基盤機構（NITE）は、夏季に気をつけるべき製品事故を3件紹介し、注意を呼びかけている。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シャオミ、「Xiaomi Watch S4 Sports」を発表]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1609894.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1609894.html"/>
+        <updated>2024-07-19T15:35:48.000Z</updated>
+        <summary type="html"><![CDATA[シャオミは、スマートウォッチ「Xiaomi Watch S4 Sports」を発表した。中国市場向けで、価格は1999元（約4万3000円）～。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シャオミ、「Xiaomi Smart Band 9」を発表]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1609879.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1609879.html"/>
+        <updated>2024-07-19T15:01:00.000Z</updated>
+        <summary type="html"><![CDATA[シャオミは、ウェアラブルデバイスの最新モデル「Xiaomi Smart Band 9」を発表した。中国市場向けの発表となり、価格は249元（約5400円）～。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シャオミ、新フォルダブルスマホ「Xiaomi MIX Fold 4/MIX Flip」を発表]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1609872.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1609872.html"/>
+        <updated>2024-07-19T15:01:00.000Z</updated>
+        <summary type="html"><![CDATA[シャオミ（Xiaomi）は、フォルダブルスマートフォンの新製品として「Xiaomi MIX Fold 4」と「Xiaomi MIX Flip」を発表した。]]></summary>
+        <author>
+            <name>ケータイ Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[かっこよくなった折りたたみ「Galaxy Z Fold6」をじっくり観察]]></title>
+        <id>https://www.gizmodo.jp/2024/07/galaxy-z-fold6-1stlook.html</id>
+        <link href="https://www.gizmodo.jp/2024/07/galaxy-z-fold6-1stlook.html"/>
+        <updated>2024-07-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[いよいよ7月31日に発売予定のGalaxy Z Fold6（以下、Z Fold6）は最新のGalaxy AIを搭載したシリーズ史上最軽量かつ最薄モデルへと進化しましたが、前モデルのGalaxy Z Fold5（以下、Z Fold5）と比べて見た目はどう変わったのか。
+
+発売前に触る機会をいただいたので、さっそく見ていきます。]]></summary>
+        <author>
+            <name>はらいさん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[インテリアも韓流ブーム。ステンレス素材がテーブルや洗面所をモダンに演出]]></title>
+        <id>https://www.gizmodo.jp/2024/07/tudes_stationary.html</id>
+        <link href="https://www.gizmodo.jp/2024/07/tudes_stationary.html"/>
+        <updated>2024-07-19T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image:JOURNALSTANDARDFURNITUREファッションや音楽など、さまざまな分野で盛り上がりを見せている韓国カルチャー。なかでも最近アツいのがインテリアの分野です。そんな韓国・ソウル生まれのデザインスタジオ「TUDES（トゥーデス）」のアイテムを、7月24日(水)より、オンラインを含むJOURNALSTANDARDFURNITURE全店で取り扱い開始することが決まりました。ステン]]></summary>
+        <author>
+            <name>シラクマ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lenovo Yoga Slim 7xレビュー：AIは期待外れだけど良品です]]></title>
         <id>https://www.gizmodo.jp/2024/07/lenovo-yoga-slim-7x-review.html</id>
@@ -3245,367 +3529,6 @@ The post 翼を授けるならコスパ重視で。レッドブル24本入りま
         <summary type="html"><![CDATA[Image:ROOTCO.一見して伝わるこのギアみ。頑丈さとガジェット成分に定評があるアウトドアモバイルギアブランドのROOTCO.（ルートコー）から、ありそうでなかったAppleWatch専用アクセサリーが登場しました。AppleWatchのアウトドアウォッチ化計画Image:ROOTCO.登場したのはmil基準準拠の頑丈なAppleWatchケース。専用バンドループを備えた「ShockResi]]></summary>
         <author>
             <name>ヤマダユウス型</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[この三輪バイク、電力と“人力”のハイブリッドなんです]]></title>
-        <id>https://www.gizmodo.jp/2024/07/twike-5.html</id>
-        <link href="https://www.gizmodo.jp/2024/07/twike-5.html"/>
-        <updated>2024-07-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:TWIKE助手席に座る人の脚力も使えます。充電スポットの少なさから扱いにくいところもあるEVですが、ドイツのTwikeは運転席と助手席にあるペダルを回してバッテリーをチャージできる三輪バイク「Twike5」を開発中です。バッテリー切れの不安に対して健康になれる方法で対策する、電気と人力のハイブリッドカー。世界平和に一歩近づけそうなアイデアとエンジニアリングにドキドキしますね。Image]]></summary>
-        <author>
-            <name>武者良太</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シャオミ「Xiaomi 11T Pro」を対象に「Xiaomi HyperOS」へのアップデートを開始]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1608214.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1608214.html"/>
-        <updated>2024-07-13T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[シャオミ・ジャパン（小米技術日本）は、スマートフォン機種「Xiaomi 11T Pro」に対して、「Xiaomi HyperOS」へのアップデートを開始した。一部ユーザーからアップデートを開始し、順次対象ユーザーの範囲を広げる予定。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メカデザイナーのレジェンド・河森正治が手掛ける、三段変形キックボード]]></title>
-        <id>https://www.gizmodo.jp/2024/07/aviot-ridepiece-project.html</id>
-        <link href="https://www.gizmodo.jp/2024/07/aviot-ridepiece-project.html"/>
-        <updated>2024-07-13T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:AVIOT日本を代表するメカデザイナーの思考によって、類を見ない1台に仕上がりそう。ワイヤレスのイヤホンシリーズなどオーディオ機器を手掛けているAVIOTと、メカニックデザイナーの河森正治さんがタッグを組んだ、次世代のモビリティを生み出す「AVIOTRidepieceProject」が進行中ですよ。読者のみんなはご存知だと思うんだけど、河森正治さんは昭和時代からアニメ、特撮、おもちゃ、]]></summary>
-        <author>
-            <name>武者良太</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kindle端末がAmazonプライムデーでセール価格に、対象商品を公開]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1608154.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1608154.html"/>
-        <updated>2024-07-13T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon.co.jpのプライムデーで、Kindle端末がセール価格で販売される。セール期間は7月16日0時～7月17日23時59分まで。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最近のトレンドは「ケーブル不要」。Ankerのおすすめモバイルバッテリー7選 #Amazonプライムデー]]></title>
-        <id>https://gori.me/?p=154318</id>
-        <link href="https://gori.me/sale/peripheral-sale/154318"/>
-        <updated>2024-07-13T21:45:30.000Z</updated>
-        <summary type="html"><![CDATA[Ankerのモバイルバッテリーは毎年進化している。小型化・軽量化・高出力化だけではなく、最近のトレンドは「ケーブル不要」。別途ケーブルを持ち運ばなくても利用できるモバイルバッテリーが多数ラインアップされている。 本記事では、プライムデー先行セールに登場しているケーブル不要で利用できるAnkerのおす…
-The post 最近のトレンドは「ケーブル不要」。Ankerのおすすめモバイルバッテリー7選 #Amazonプライムデー first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[驚きのコンパクトさ。20,000mAhで最大67W出力という”ガチ勢”向け仕様のCIOバッテリー]]></title>
-        <id>https://gori.me/?p=154310</id>
-        <link href="https://gori.me/iphone-accessories/battery/154310"/>
-        <updated>2024-07-13T21:30:45.000Z</updated>
-        <summary type="html"><![CDATA[モバイルバッテリーは小型・軽量であればあるほど良いが、時には大容量・高出力なものが必要になるシーンに遭遇する。最近は10,000mAh・35W出力のものが増え、コンパクトでありながらMacBook Airを充電できる出力を備えるものが人気だ。 しかしそれ以上の容量・出力が必要であれば、どうすればいい…
-The post 驚きのコンパクトさ。20,000mAhで最大67W出力という”ガチ勢”向け仕様のCIOバッテリー first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Galaxy Z Fold6/Flip6」、au版の本体価格は？]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1608122.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1608122.html"/>
-        <updated>2024-07-13T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[サムスンのフォルダブルスマートフォン「Galaxy Z Fold6」および「Galaxy Z Flip6」が発表された。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小ぶりなのに圧倒的。ペットボトルの収納スペースを確保したサコッシュ]]></title>
-        <id>https://www.gizmodo.jp/2024/07/topologie-bottle-sacoche.html</id>
-        <link href="https://www.gizmodo.jp/2024/07/topologie-bottle-sacoche.html"/>
-        <updated>2024-07-13T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:topologieこれなら無理やり押し込まずに、コンパクトにまとめられる。夏は、スマホや財布など最低限の手荷物に加えて、ペットボトルや水筒といったドリンクボトルも必須アイテム。手ぶらでかけたいけれど、なかなかひとまとめにできて身軽なカバンって見つからないんですね。必須アイテムをひとまとめにできるサコッシュImage:topologie「BottleSacocheボトルサコッシュ」9,9]]></summary>
-        <author>
-            <name>mio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[表示しないと罰金6000円。小さくて頼りになるこれ、用意しておいて]]></title>
-        <id>https://www.gizmodo.jp/2024/07/purplesaver-amazon-primeday-2024.html</id>
-        <link href="https://www.gizmodo.jp/2024/07/purplesaver-amazon-primeday-2024.html"/>
-        <updated>2024-07-13T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:YoheiArai2023年9月21日の記事を編集して再掲載しています。9月21日から「秋の交通安全運動」がはじまります。この時期はより一層、交通安全・安全運転について意識を高めたいところ。そんなときにぴったりのナゾナゾ（？）をひとつ。「車載義務はないけれど、表示義務がある安全アイテムはな〜んだ？」。ヒントは赤くて、三角で、反射して、故障車の近くでよく見かけるアレ……そう答えは「三角表]]></summary>
-        <author>
-            <name>Yohei Amazaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[”Anker版AirTag”、単体・2個入り・4個入りすべて過去最安値です #Amazonプライムデー]]></title>
-        <id>https://gori.me/?p=154316</id>
-        <link href="https://gori.me/sale/peripheral-sale/154316"/>
-        <updated>2024-07-13T12:22:47.000Z</updated>
-        <summary type="html"><![CDATA[Ankerの超小型タグ型紛失防止トラッカー「Eufy Security SmartTrack Link」がプライムデー先行セールに登場した。通常価格の33％オフで販売されており、過去最安値。AirTagの通常価格時の半額以下、現在開催中のセール価格よりさらに半額で購入できる。 2個セットは32％オフ…
-The post ”Anker版AirTag”、単体・2個入り・4個入りすべて過去最安値です #Amazonプライムデー first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カップヌードルPROは高タンパク＆低糖質。12個入りが28％オフ #Amazonプライムデー]]></title>
-        <id>https://gori.me/?p=154314</id>
-        <link href="https://gori.me/sale/peripheral-sale/154314"/>
-        <updated>2024-07-13T12:20:20.000Z</updated>
-        <summary type="html"><![CDATA[カップヌードルPROの各シリーズ（12個入り）が、プライムデー2024の先行セールに登場。しょうゆは16％オフ、シーフードは26％オフ、チリトマトヌードルは28％オフで販売されている。 通常のカップヌードルは約350kcalでタンパク質は10g以下だが、カップヌードルPROは約300kcalでタンパ…
-The post カップヌードルPROは高タンパク＆低糖質。12個入りが28％オフ #Amazonプライムデー first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧州の火星探査機が捉えた、全長600kmに及ぶ深い亀裂]]></title>
-        <id>https://www.gizmodo.jp/2024/07/aganippe-fossa.html</id>
-        <link href="https://www.gizmodo.jp/2024/07/aganippe-fossa.html"/>
-        <updated>2024-07-13T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[©ESA/DLR/FUBerlin火星表面の“曲がりくねった傷”のような地形地球を離れてから21年になる、欧州宇宙機関（ESA）の探査機マーズ・エクスプレス。同機の高解像度ステレオカメラが撮影した、火星の火山にある溝の壮大な画像が届きました。アガニッペ地溝帯この曲がりくねった深い裂け目のような地形は、アルシア山のふもとを横切る「アガニッペ地溝帯」。ESAによると、全長およそ600km。グ]]></summary>
-        <author>
-            <name>たもり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[片手で扱えて立ったまま草刈りできる「草取りヅメ」で伸びまくる雑草をやっつけろ]]></title>
-        <id>https://www.gizmodo.jp/2024/07/nagae-rakuraku-kusatori-zume-amazon-primeday-2024.html</id>
-        <link href="https://www.gizmodo.jp/2024/07/nagae-rakuraku-kusatori-zume-amazon-primeday-2024.html"/>
-        <updated>2024-07-13T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[区民農園に申し込んだら運良く当選し、歓喜した筆者。しかし少し目を離すと雑草が伸び放題になる現実に直面。雑草を効率よく刈るべく手にしたのが「モンブラン 長柄らくらく草取りヅメ」。立ったまま効率的に草刈りができてとても楽です。]]></summary>
-        <author>
-            <name>巽英俊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暑いけど売り切れ前に早めの冬支度。NANGAとラーメン屋のコラボダウン]]></title>
-        <id>https://www.gizmodo.jp/2024/07/nanga_tenkaippin_collaboration_down_jacket.html</id>
-        <link href="https://www.gizmodo.jp/2024/07/nanga_tenkaippin_collaboration_down_jacket.html"/>
-        <updated>2024-07-13T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:NANGA暑過ぎる毎日でも、冬のラーメンが懐かしい。ブランド誕生30周年を迎え、数々のブランドとのコラボレーションを発表している、ダウンブランドのNANGA（ナンガ）。そんな中、思わず2度見してしまうような異例のコラボが登場しました。NANGA×天下一品のダウンジャケットその相手はなんと、こってりラーメンでお馴染みの「中華そば専門店天下一品」。本社が同じ滋賀県であることや、両社の代表取]]></summary>
-        <author>
-            <name>シラクマ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[光るだけ、に飽きたなら「無限LEDミラー」なんてどう？]]></title>
-        <id>https://www.gizmodo.jp/2024/07/infinity-led-mirror.html</id>
-        <link href="https://www.gizmodo.jp/2024/07/infinity-led-mirror.html"/>
-        <updated>2024-07-13T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:PYZONE奥はどうなってるの？キーボードやマウスやお箸や空気清浄機など、RGBライトで極彩色に光らせるのがゲーミング機器。あらゆるデバイスが出尽くしたかと思いきや、可能性は無限大です。無限に続く極彩色の光サンコーのゲーミング・ブランドPYZONEの新作は、厚さ35mmで6角形の「卓上RGBミラー」。ただの鏡ではなく、合せ鏡効果で奥行きが無限に続く「インフィニティー・ミラー」の仕組みを]]></summary>
-        <author>
-            <name>岡本玄介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ギズモード編集部リチャード考案。オリジナルTシャツがかわいい]]></title>
-        <id>https://www.gizmodo.jp/2024/07/yatai-gizmodo-tshirt-1.html</id>
-        <link href="https://www.gizmodo.jp/2024/07/yatai-gizmodo-tshirt-1.html"/>
-        <updated>2024-07-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:門岡明弥2023年11月1日の記事を編集して再掲載しています。セレクトショップ｢ギズ屋台｣にて、絶賛受注中のギズモードTシャツ。こちらを試着することになったので、その着用感をお届けします。シンギュラリTシャツギズ屋台「シンギュラリTシャツ（時空）」7,000円（税込）3種類のデザインがある内、僕が着てみたのは「シンギュラリTシャツ（時空）」。僕は科学に明るいわけではないので、このTシャ]]></summary>
-        <author>
-            <name>門岡 明弥</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[衣類と靴どっちも乾かせる2way乾燥機。旅行やスポーツにも重宝しそう]]></title>
-        <id>https://www.gizmodo.jp/2024/07/289953.html</id>
-        <link href="https://www.gizmodo.jp/2024/07/289953.html"/>
-        <updated>2024-07-13T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:SUMA-KIYOなるべく避けたい雨の日の洗濯。だけど、この服だけは今日中になんとかしたい……っていうこと、ありますよね。短時間で乾くハンガー型乾燥機そんな問題を解決してくれたのが、Amazonで見つけたハンガー型の衣類乾燥機。短時間で衣類を乾かすことができる、折りたたみ式＆2way　の急速乾燥機です。衣類乾燥機ハンガー型1台2役5,980円Amazonで見るPRまず上部の蓋の中に入っ]]></summary>
-        <author>
-            <name>SUMA-KIYO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[連休中に思わず読みたくなる。グッと引き込まれる宇宙の雑学3選]]></title>
-        <id>https://www.gizmodo.jp/2024/07/uchu-matome-3.html</id>
-        <link href="https://www.gizmodo.jp/2024/07/uchu-matome-3.html"/>
-        <updated>2024-07-13T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Video:NASA’sGoddardSpaceFlightCenter/J.SchnittmanandB.Powell|超大質量ブラックホールへのダイブゲリラ豪雨や厳しい日差しで、外に出る気力が落ちている方も多いのでは。せっかくの3連休ですし、ディスプレイの中だけでも遠くに出かけてみましょう！今回向かうのは、遥か遠く宇宙まで。グッと引き込まれるような話を3つ紹介します。銀河の中心に不死の星がある]]></summary>
-        <author>
-            <name>シラクマ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イヤホン選び悩むのやめた。CMF by NOTHING BUDSが5,610円でポチれるので #Amazonプライムデー]]></title>
-        <id>https://www.gizmodo.jp/2024/07/amazon-prime-day-cmf-by-nothing-buds.html</id>
-        <link href="https://www.gizmodo.jp/2024/07/amazon-prime-day-cmf-by-nothing-buds.html"/>
-        <updated>2024-07-13T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazonプライムデーの先行セールで、CMF by NOTHINGのワイヤレスイヤホン「CMF by NOTHING BUDS」がお買い得です。]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デスク整理の理想形、Ankerのドッキングステーションが1万円オフ]]></title>
-        <id>https://www.gizmodo.jp/2024/07/anker-675-usb-c-docking-station-2.html</id>
-        <link href="https://www.gizmodo.jp/2024/07/anker-675-usb-c-docking-station-2.html"/>
-        <updated>2024-07-13T07:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:アンカー・ジャパン2023年3月28日の記事を編集して再掲載しています。カオスなデスクとさようなら。デスクワークって、作業しやすさを求めると、手元に色々と置きたくなっちゃいますよね。「すぐに手が届く」ってのがやっぱり効率的。でも、限度を超えるとデスクがモノだらけになって、逆に非効率になりません？もし、「あるある…」と感じた方は、コレできっと解決できますよ！Anker675USB-Cドッ]]></summary>
-        <author>
-            <name>小暮ひさのり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「お風呂上がりのドライヤーで汗かく問題」はひんやりする液体で解決]]></title>
-        <id>https://www.gizmodo.jp/2024/07/coolist.html</id>
-        <link href="https://www.gizmodo.jp/2024/07/coolist.html"/>
-        <updated>2024-07-13T05:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:小林ユリROOMIE2024年6月23日掲載の記事より転載夏場はたくさんかいた汗をスッキリ流せるお風呂がより心地良く感じる季節です。でも、せっかくさっぱりとお風呂で汗を流しても、ドライヤーをかけているうちにまた汗だくになったりしませんか？髪の毛が長かったり、毛量があったり、乾きにくい髪質だともうウンザリ。夏場のドライヤータイムはけっこう地獄。どうにかして快適に乗り切れないかな？爽快感抜]]></summary>
-        <author>
-            <name>小林ユリ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楽天モバイルの「株主優待SIM」は事業への理解を深めることが目的？（それはそれでアリ）]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2407/13/news077.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2407/13/news077.html"/>
-        <updated>2024-07-13T04:15:00.000Z</updated>
-        <summary type="html"><![CDATA[楽天グループが、一定の条件を満たした株主に対して、楽天モバイルの「株主優待SIM」を配布しています。その名の株主優待の一環で、楽天グループの事業を理解してもらうことを目的にしています。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヨットをぜいたくに貸し切りたい。だったらUberに頼んでみよう]]></title>
-        <id>https://www.gizmodo.jp/2024/07/uber-private-yacht.html</id>
-        <link href="https://www.gizmodo.jp/2024/07/uber-private-yacht.html"/>
-        <updated>2024-07-13T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Uberがスペイン・イビサ島でプライベートヨットのサービス「Uber Yacht」を開始。]]></summary>
-        <author>
-            <name>岩田リョウコ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[外部モニター＋モニターアームの「人気No.1コンビ」でデスク環境をレベルアップせよ #Amazonプライムデー]]></title>
-        <id>https://gori.me/?p=154311</id>
-        <link href="https://gori.me/sale/peripheral-sale/154311"/>
-        <updated>2024-07-13T03:45:59.000Z</updated>
-        <summary type="html"><![CDATA[エルゴトロンのモニターアーム「エルゴトロン LX デスクマウント」がプライムデー2024の先行セールに登場。通常価格の30％オフセールを開催している。コンピュータモニターアームの売れ筋ランキングでは、Amazonベーシック製のモニターアームなぞ数々の人気商品を抑えての1位だ。 エルゴトロン LX デ…
-The post 外部モニター＋モニターアームの「人気No.1コンビ」でデスク環境をレベルアップせよ #Amazonプライムデー first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[あえて言おう、Vision Proにもコントローラーが必要であると]]></title>
-        <id>https://www.gizmodo.jp/2024/07/vision-pro-controller.html</id>
-        <link href="https://www.gizmodo.jp/2024/07/vision-pro-controller.html"/>
-        <updated>2024-07-13T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:SurrealInteractiveコレが普及したら、名作VRゲームの移植作が一気に増えると思うんだよね。手と、眼と、声で動かすアップルのVisionProには、従来のXRヘッドセットでは必要不可欠だったハンドコントローラがありません。電話といえばボタンぽちぽち押すのが当たり前だった時代に、iPhoneで、指先タップの操作ってすごいよ楽しいよというのを知らしめたアップルです。XRするの]]></summary>
-        <author>
-            <name>武者良太</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[憧れのダイソン、絶賛セール中。V12 Detect Slim Fluffy Plusが31％オフ #Amazonプライムデー]]></title>
-        <id>https://gori.me/?p=154302</id>
-        <link href="https://gori.me/sale/peripheral-sale/154302"/>
-        <updated>2024-07-13T02:41:29.000Z</updated>
-        <summary type="html"><![CDATA[プライムデー2024の先行セールで、Dysonのコードレス掃除機「V12 Detect Slim Fluffy Plus」が31％オフで販売されている。 Dyson(ダイソン) 掃除機 コードレス レーザー HEPAフィルター付き V12 Detect Slim Fluffy Plus (SV20 …
-The post 憧れのダイソン、絶賛セール中。V12 Detect Slim Fluffy Plusが31％オフ #Amazonプライムデー first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最強・無料のカメラアプリ、ついにGoogle Pixelにも対応]]></title>
-        <id>https://www.gizmodo.jp/2024/07/blackmagiccamera_android.html</id>
-        <link href="https://www.gizmodo.jp/2024/07/blackmagiccamera_android.html"/>
-        <updated>2024-07-13T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image:BlackmagicDesign去年のiPhone15シリーズ発表時に、映像機器メーカー・BlackmagicDesignから発表された撮影アプリ、「BlackmagicCamera」。そのAndroid版がリリースされました。対応機種はGooglePixelとGalxyシリーズのハイエンド機。プロ撮影のハードルを下げたBlackmagicもともとBlackmagicDesignはオー]]></summary>
-        <author>
-            <name>山﨑 拓実</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TORRASから、背面スタンド付きiPhoneケース「UPROシリーズ」＆コンパクトなスマホバッテリーMiniMagがお得 #Amazonプライムデー]]></title>
-        <id>https://www.gizmodo.jp/2024/07/amazon-primeday-2024-torras.html</id>
-        <link href="https://www.gizmodo.jp/2024/07/amazon-primeday-2024-torras.html"/>
-        <updated>2024-07-13T01:55:00.000Z</updated>
-        <summary type="html"><![CDATA[「Amazonプライムデー」で90度ごとにリングがカチッと止まる業界初のゼンマイ式スタンドつき、TORRASのiPhone用ケース「UPRO Ostand シリーズ」と、軽量＆小型で旅行や出張に重宝する「MiniMagモバイルバッテリー」がお買い得価格に。]]></summary>
-        <author>
-            <name>お買いものサポーター</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[六本木ヒルズアリーナで開催中の「プライムデー 夏祭り」に参加。入場無料、景品もらえる]]></title>
-        <id>https://gori.me/?p=154299</id>
-        <link href="https://gori.me/amazon/amazon-news/154299"/>
-        <updated>2024-07-13T01:51:27.000Z</updated>
-        <summary type="html"><![CDATA[7月12日（金）から14日（日）まで六本木ヒルズアリーナで開催中の「プライムデー 夏祭り」のメディア向け内覧会に参加してきた。 Amazonは「プライムデー」を通して、暮らしを豊かにしてくれるほしい物から暮らしに密接した必要な物まで、素敵な商品と人との「縁」をつなぐ機会を提供したいという想いから、「…
-The post 六本木ヒルズアリーナで開催中の「プライムデー 夏祭り」に参加。入場無料、景品もらえる first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Galaxy Z Fold6／Z Flip6」は何が変わった？　折りたたみ×AIで新たな価値提案へ]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2407/13/news074.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2407/13/news074.html"/>
-        <updated>2024-07-13T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[サムスン電子は7月10日、仏パリで「Galaxy Unpacked」を開催し、フォルダブルスマホの最新モデル「Galaxy Z Fold6」「Galaxy Z Flip6」を発表した。Galaxy Z Fold6／Flip 6では「折りたたみAIフォン」というキャッチコピーで、「Galaxy AI」を打ち出してきた。フォルダブルとAIの掛け合わせで、新たな価値を提案するというのが2モデルの方向性といえる。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドコモ販売ランキング：初登場の｢Xperia 10 VI｣と｢AQUOS wish4｣を抑えて首位に立ったのは……？【7月1日～7月7日】]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2407/13/news046.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2407/13/news046.html"/>
-        <updated>2024-07-13T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ドコモオンラインショップの「売れ筋ランキング」。7月1日～7月7日の期間は、iPhone 14が引き続き首位を守る一方、Xperia 10 VIとAQUOS wish4が新登場で2位と3位にランクイン。Xperia 10 Vなど前週上位機種は軒並み順位を下げる結果となった。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ダイソーで110円の「スイッチ付（USB）Type-Aケーブル」を便利に使う方法を探る　「USBデスクライト」のスイッチとして最適な反面注意点も]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2406/29/news045.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2406/29/news045.html"/>
-        <updated>2024-07-13T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[100円ショップなどで販売しているガジェットを購入し、実際に試してみる連載。今回は、ダイソーで110円の「スイッチ付Type-Aケーブル」を試す。ボタンで通電のオン／オフを切り替えられる中継ケーブルで、待機電力の削減や、USBで点灯するライトの切り替えにも有用だ。]]></summary>
-        <author>
-            <name>ITmedia Mobile 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazonプライムデー先行セール本誌記事まとめ]]></title>
-        <id>https://k-tai.watch.impress.co.jp/docs/news/1608277.html</id>
-        <link href="https://k-tai.watch.impress.co.jp/docs/news/1608277.html"/>
-        <updated>2024-07-13T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[7月11日、Amazon.co.jpで「プライムデー先行セール」が始まった。16日と17日のプライムデーに先駆けたもので、先行とはいえ、幅広いラインアップとなっている。]]></summary>
-        <author>
-            <name>ケータイ Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宙に浮いてる風スマート泥除け。雨の日の背中を守る、頼れるアイテム]]></title>
-        <id>https://www.gizmodo.jp/2024/07/gorix-gfd-fr282-review.html</id>
-        <link href="https://www.gizmodo.jp/2024/07/gorix-gfd-fr282-review.html"/>
-        <updated>2024-07-13T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Photo:岡本玄介軽くて泥ハネもしっかりガード。各地で梅雨真っ只中。雨の中でも仕方なく自転車に乗らなければいけない機会もあるでしょう。MTBやクロスなど、愛車に泥除けがないと、胸や背中への泥ハネが心配です。梅雨に備えて泥除けを装備自転車パーツブランドGORIXが出した「GFD-FR282」は、簡易的だけど位置や角度が自在に調節できる泥除け。GORIX自転車泥除けフェンダー[フロントとリア兼用]2]]></summary>
-        <author>
-            <name>岡本玄介</name>
         </author>
     </entry>
 </feed>
