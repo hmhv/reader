@@ -6,6 +6,56 @@
       "siteUrl": "https://gori.me",
       "articles": [
         {
+          "id": "https://gori.me/?p=155522",
+          "author": "g.O.R.i",
+          "description": "Geekbench BrowserにiPhone 16シリーズのA18チップまたはA18 Proチップと見られるベンチマークテストスコアが続々と投稿されている。 投稿されている機種IDは「iPhone17,1」「iPhone17,2」「iPhone17,3」「iPhone17,4」となっており、「i…\nThe post A18とA18 Proチップのベンチマークスコアが公開。A17 ProやA16 Bionicとの比較 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone/iphone16/155522",
+          "publishedOn": "2024-09-14T07:19:04.000Z",
+          "wordCount": 1811,
+          "title": "A18とA18 Proチップのベンチマークスコアが公開。A17 ProやA16 Bionicとの比較",
+          "imageUrl": "https://gori.me/uploads/2024/09/A18-chip-and-A18Pro-Chip-800x500.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=155518",
+          "author": "g.O.R.i",
+          "description": "iPhone 16シリーズのパッケージには、長年同梱されてきたAppleロゴのステッカーが含まれていない。9to5Macが明らかにした。 Appleがステッカーを同梱したのは1977年に発売したApple IIが初めて。当時は「apple computer」の文字がロゴ下に記載されており、カラフルな…\nThe post iPhone 16の箱にはAppleロゴのステッカーが入っていません first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone/iphone16/155518",
+          "publishedOn": "2024-09-14T03:31:14.000Z",
+          "wordCount": 1623,
+          "title": "iPhone 16の箱にはAppleロゴのステッカーが入っていません",
+          "imageUrl": "https://gori.me/uploads/2024/05/Apple-Stickers-01-800x534.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=155516",
+          "author": "g.O.R.i",
+          "description": "iPhone 16シリーズは4機種共通で8GBのメモリを搭載する。Appleのハードウェアテクノロジー担当シニアヴァイスプレジデントJohny Srouji氏が、Geekerwanとのインタビューで明らかにした。Appleは技術的なスペックをあえて公言しないことで知られており、幹部が公の場で認めるこ…\nThe post iPhone 16、全機種8GBのメモリを搭載。Apple幹部が認める first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone/iphone16/155516",
+          "publishedOn": "2024-09-14T03:22:34.000Z",
+          "wordCount": 1635,
+          "title": "iPhone 16、全機種8GBのメモリを搭載。Apple幹部が認める",
+          "imageUrl": "https://gori.me/uploads/2024/09/Apple-says-there-are-8gb-ram-800x450.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=155514",
+          "author": "g.O.R.i",
+          "description": "米食品医薬品局（FDA）は現地時間9月12日、AppleのAirPods Pro（第2世代）に新たに実装された「ヒアリング補助」機能を認可したと発表した。 AirPods Proは最新のアップデートで予防、認知、補助の3分野において聴覚の健康をサポートする新機能を実装。予防としては、大きな音の低減機…\nThe post AirPods Pro 2の補聴器機能、FDA認証取得→補聴器メーカー各社の株価が低下 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/music-accessories/airpods/155514",
+          "publishedOn": "2024-09-13T22:18:57.000Z",
+          "wordCount": 1509,
+          "title": "AirPods Pro 2の補聴器機能、FDA認証取得→補聴器メーカー各社の株価が低下",
+          "imageUrl": "https://gori.me/uploads/2024/09/Hearing-aid-features-for-airpodspro-800x500.jpg"
+        },
+        {
+          "id": "https://gori.me/?p=155512",
+          "author": "g.O.R.i",
+          "description": "Appleと国内キャリアは9月13日21時よりiPhone 16シリーズの予約受付を開始したが、同時にAmazonでも各モデル・各容量とカラーの予約受付を開始している。価格はApple公式サイトと同じだが、それぞれ1％分のポイントが還元される。 iPhone 16 128GB：124,800円 25…\nThe post iPhone 16、Amazonでも買えます first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone/iphone16/155512",
+          "publishedOn": "2024-09-13T21:30:15.000Z",
+          "wordCount": 1690,
+          "title": "iPhone 16、Amazonでも買えます",
+          "imageUrl": "https://gori.me/uploads/2024/09/iphone16-now-preorders-starting-800x500.jpg"
+        },
+        {
           "id": "https://gori.me/?p=155511",
           "author": "g.O.R.i",
           "description": "Appleと国内携帯キャリア4社は9月13日21時より、iPhone 16シリーズの予約受付を開始した。Apple公式サイトの端末価格は以下のとおり。 iPhone 16 128GB：124,800円 256GB：139,800円 512GB：169,800円 iPhone 16 Plus 128G…\nThe post iPhone 16シリーズ、予約受付を開始 first appeared on ゴリミー.\n\n 【もっと読む】",
@@ -424,26 +474,6 @@
           "wordCount": 1684,
           "title": "iPhone 16 Proの発表前日。1年間使ったiPhone 15 Proを振り返る",
           "imageUrl": "https://gori.me/uploads/2024/09/One-Year-with-the-iPhone15Pro-Review-03-800x534.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=155283",
-          "author": "g.O.R.i",
-          "description": "僕は、日本時間9月10日のスペシャルイベントで発表されるであろうiPhone 16 Proに買い換える予定だ。 【関連】iPhone 16の噂まとめ。2024年の新型モデルはこんな機種になりそう iPhoneが登場して以来、毎年買い換えてきた。初期の頃はスマートフォン黎明期ということもあり、毎年買い…\nThe post iPhone 16 Proに絶対買い換えたい、たった1つの理由（カメラではない） first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/iphone/iphone-news/155283",
-          "publishedOn": "2024-09-07T21:50:33.000Z",
-          "wordCount": 1649,
-          "title": "iPhone 16 Proに絶対買い換えたい、たった1つの理由（カメラではない）",
-          "imageUrl": "https://gori.me/uploads/2024/09/burning-iphone15pro-800x541.jpg"
-        },
-        {
-          "id": "https://gori.me/?p=155279",
-          "author": "g.O.R.i",
-          "description": "@majinbuofficialより Appleは、大不評だったFineWoven（ファインウーブン）ケースの代わりとなる新しいレザーケースを準備している可能性がある。 ファインウーブンは、再生素材を68%使用することでレザーに比べて炭素排出量を大幅に削減するエコ素材。しかし質感はレザーの足下にも及…\nThe post Apple、FineWovenに代わるiPhone 16用”レザー”ケースを準備中か first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/iphone-accessories/iphone-case/155279",
-          "publishedOn": "2024-09-07T21:30:26.000Z",
-          "wordCount": 1516,
-          "title": "Apple、FineWovenに代わるiPhone 16用”レザー”ケースを準備中か",
-          "imageUrl": "https://gori.me/uploads/2024/09/Colors-for-new-iphone16series-cases-800x496.jpeg"
         }
       ]
     },
@@ -452,6 +482,46 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/mobile.xml",
       "siteUrl": "https://www.itmedia.co.jp/mobile/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2409/14/news001.html",
+          "author": null,
+          "description": "100円ショップなどで購入できるガジェットを実際に購入し、試してみる連載。今回はダイソーにおいて770円で販売されている「グラデーションライト付きBluetoothスピーカー」を試す。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2409/14/news001.html",
+          "publishedOn": "2024-09-14T06:00:00.000Z",
+          "wordCount": 2831,
+          "title": "ダイソーで770円の「グラデーションライト付きBluetoothスピーカー」は悪くない音質と環境光っぽいゲーミングライトが魅力　難点は「防水レベル」",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2409/14/cover_news001.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2409/14/news063.html",
+          "author": null,
+          "description": "2024年もやってきた新型iPhoneシーズン。アクセス数のトップ10が全てiPhone関連の記事……と思いきや、そこに割って入った記事がありました。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2409/14/news063.html",
+          "publishedOn": "2024-09-14T02:00:00.000Z",
+          "wordCount": 2914,
+          "title": "トップ10中9記事が「iPhone」関連な中、中国の“三つ折りスマホ”が注目される",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2409/14/cover_news063.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2409/14/news064.html",
+          "author": null,
+          "description": "ドコモオンラインショップの「売れ筋ランキング」。9月2日～9月8日の期間は、iPhone 14が引き続き首位をキープする一方、Galaxy S24が8位から2位に大きく順位を上げた。新モデルのGoogle Pixel 9 Proがランク外から10位に初登場した。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2409/14/news064.html",
+          "publishedOn": "2024-09-14T01:00:00.000Z",
+          "wordCount": 2959,
+          "title": "ドコモ販売ランキング：iPhone 16発表直前で2年前のiPhoneが1位に、Pixel 9 Proが初登場【9月2日～9月8日】",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2409/14/cover_news064.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2409/14/news067.html",
+          "author": null,
+          "description": "PPIHが「マジモバ」を立ち上げ、MVNOに参入した。マジモバは自身でサービスを直接運営するのではなく、ホワイトレーベル戦略を取るエックスモバイルとの提携で事業を展開する。売りになるのは、3GBで770円（税込み）の「驚安プラン」だが、それ以外のプランは最安ではない。",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2409/14/news067.html",
+          "publishedOn": "2024-09-13T23:50:00.000Z",
+          "wordCount": 2854,
+          "title": "あえて最安狙わないドンキの格安SIM「マジモバ」　インパクト大だが“ahamoショック”第2波が懸念材料",
+          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2409/14/cover_news067.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/mobile/articles/2409/13/news200.html",
           "author": null,
@@ -1211,66 +1281,6 @@
           "wordCount": 2916,
           "title": "irumo、Y!mobile、UQ mobileのキャンペーンまとめ【9月8日最新版】　1円スマホや1万ポイント還元を見逃すな",
           "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2409/08/cover_news029.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2409/08/news053.html",
-          "author": null,
-          "description": "KDDIは9月6日に「スマートバスマット（体組成計モデル）」を発売した。au公式アクセサリー「au +1 collection」として、直営店、au Style、auショップ、au Online Shopで取り扱う。価格は1万9800円（税込み、以下同）だ。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2409/08/news053.html",
-          "publishedOn": "2024-09-07T21:00:00.000Z",
-          "wordCount": 2826,
-          "title": "KDDI、未来の体重が分かる「スマートバスマット」を発売　1万9800円",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2409/08/cover_news053.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2409/08/news048.html",
-          "author": null,
-          "description": "黒いスマートフォンよりも、白いスマートフォンの方が発熱しにくい。その理由として、黒という色が最も多くの光（電磁波）を反射せずに吸収してしまうことが挙げられる。今回はスマートフォンの色が熱放射にどう影響するかを実験した。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2409/08/news048.html",
-          "publishedOn": "2024-09-07T21:00:00.000Z",
-          "wordCount": 2835,
-          "title": "黒いスマホやケースは発熱しやすい？　白いスマホケースと比べながら実験してみた",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2409/08/cover_news048.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2409/07/news001.html",
-          "author": null,
-          "description": "100円ショップなどで購入できるガジェットを実際に購入し、試してみる連載。今回は、ダイソーにおいて550円で販売されている「電卓＋電子メモパッド」を試してみた。電池が別売りなのが難点だが、書き換え可能なメモパッドと組み合わせると簡単な計算が必要なテーブルゲームなど、さまざまなシーンで便利だ。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2409/07/news001.html",
-          "publishedOn": "2024-09-07T05:00:00.000Z",
-          "wordCount": 2824,
-          "title": "ダイソーで550円の「電卓＋電子メモパッド」が意外と便利　テーブルゲームの点数計算や情報のメモがはかどった",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2409/07/cover_news001.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2409/07/news072.html",
-          "author": null,
-          "description": "その性質上、携帯電話やスマートフォンのバッテリーは劣化すると膨張してしまうことがあります。そのままにすると危険なのですが、どのように処分すればいいのかご存じでしょうか？",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2409/07/news072.html",
-          "publishedOn": "2024-09-07T02:00:00.000Z",
-          "wordCount": 2868,
-          "title": "ずっと使っていない古いスマホ、バッテリーふくらんでませんか？　ふくらんだらどうします？",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2409/07/cover_news072.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2409/07/news048.html",
-          "author": null,
-          "description": "ドコモ、au、ソフトバンクが提供しているオンラインブランド「ahamo」「povo」「LINEMO」は、安価に大容量通信が可能なのが特徴だ。キャンペーンを利用すれば、さらにお得にサービスを利用できる。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2409/07/news048.html",
-          "publishedOn": "2024-09-07T01:00:00.000Z",
-          "wordCount": 2849,
-          "title": "ahamo、povo、LINEMOのキャンペーンまとめ【9月7日最新版】　スマホ、ギガ、ポイントをお得にゲットしよう",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2409/07/cover_news048.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2409/07/news041.html",
-          "author": null,
-          "description": "ドコモオンラインショップが公表している「売れ筋ランキング」。iPhone 14（128GBモデル）が首位を維持。新発売のPixel 9シリーズはランク外の一方、既存のPixel 8aが3位に上昇した。",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2409/07/news041.html",
-          "publishedOn": "2024-09-07T01:00:00.000Z",
-          "wordCount": 2965,
-          "title": "ドコモ販売ランキング：Pixel 9／9 XLはトップ10圏外、Pixel 8aは3位に【8月26日～9月1日】",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2409/07/cover_news041.jpg"
         }
       ]
     },
@@ -1285,6 +1295,106 @@
       "feedUrl": "https://k-tai.watch.impress.co.jp/data/rss/1.0/ktw/feed.rdf",
       "siteUrl": "https://k-tai.watch.impress.co.jp",
       "articles": [
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1623520.html",
+          "author": "富岡 悠",
+          "description": "Hameeは、スマホアクセサリーブランド「iFace」から、iPhone16シリーズに対応したスマホアクセサリーをオンラインストアで発売した。フラッグシップストア「iFace 原宿店」をはじめ、全国の雑貨店、家電量販店などの小売店では、順次取り扱いとなる。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1623520.html",
+          "publishedOn": "2024-09-14T03:00:00.000Z",
+          "wordCount": 5546,
+          "title": "Hamee、「iFace」からiPhone16シリーズ対応のスマホアクセサリー発売",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1623/520/main.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/sale/1623943.html",
+          "author": "島田 純",
+          "description": "Wi-Fi 7に対応する「Deco BE75」の2台セットが8万5800円→7万4800円（13%割引）で購入できる。6GHz帯、5GHz帯、2.4GHz帯のトライバンド対応ルーターで、6GHz帯（Wi-Fi 7）の通信速度は最大11520Mbps。有線LANは10Gbpsに対応するWAN/LANポートが1つ、2.5Gbpsに対応するポートが3つの合計4ポート。2台のセットでメッシュWi-Fiを構築できる。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/sale/1623943.html",
+          "publishedOn": "2024-09-14T01:24:58.000Z",
+          "wordCount": 5464,
+          "title": "TP-LinkがAmazonでセール、Wi-Fi 7対応ルーターが2台セットで7万4800円など",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1623/943/main_DecoBE75.jpeg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/sale/1623944.html",
+          "author": "島田 純",
+          "description": "Amazon.co.jpで、整備済みのiPadがセール価格で購入できる。執筆時点でタイムセール対象となっているのは、「iPad mini（第5世代） Wi-Fi + Cellular 64GB」のシルバーと、「iPad（第5世代）Wi-Fi + Cellular 128GB」のゴールド。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/sale/1623944.html",
+          "publishedOn": "2024-09-14T01:24:37.000Z",
+          "wordCount": 5475,
+          "title": "Amazonで整備済みiPadがセール、iPad mini（第5世代）とiPad（第5世代）",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1623/944/main_iPadmini5th.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1623516.html",
+          "author": "鈴木 妙",
+          "description": "LINEヤフーは、「Yahoo!天気」アプリのAndroid版において、新ウィジェットの提供を開始した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1623516.html",
+          "publishedOn": "2024-09-14T01:00:00.000Z",
+          "wordCount": 5449,
+          "title": "「Yahoo!天気」アプリ、Android版で新ウィジェットの提供を開始",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1623/516/01.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1623410.html",
+          "author": "鈴木 妙",
+          "description": "ユニケースは、運営するスマートフォンアクセサリー専門店「UNiCASE」において、「iPhone 16 Pro Max」および「iPhone 16 Plus」に対応するアクセサリーの取り扱いを開始した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1623410.html",
+          "publishedOn": "2024-09-13T23:00:00.000Z",
+          "wordCount": 5499,
+          "title": "UNiCASE、「iPhone 16 Pro Max／16 Plus」対応アクセサリーを取り扱い開始",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1623/410/main.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1623485.html",
+          "author": "鈴木 妙",
+          "description": "MOFTは、「iPhone 16」シリーズ向けのMagSafe対応アクセサリーを発表した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1623485.html",
+          "publishedOn": "2024-09-13T22:00:00.000Z",
+          "wordCount": 5467,
+          "title": "MOFT、「iPhone 16」シリーズ向けMagSafe対応アクセサリーを発表",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1623/485/01.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1623935.html",
+          "author": "関口 聖",
+          "description": "Amazon.co.jpで、iPhone 16シリーズの予約受付が始まった。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1623935.html",
+          "publishedOn": "2024-09-13T13:34:36.000Z",
+          "wordCount": 5505,
+          "title": "Amazonでも「iPhone 16」「iPhone 16 Pro」など予約受付スタート",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1623/935/i16.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1623918.html",
+          "author": "北川 研斗",
+          "description": "NTTドコモは「Apple Watch Series 10」と「Apple Watch Ultra 2」（新色）のドコモオンラインショップにおける価格を発表した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1623918.html",
+          "publishedOn": "2024-09-13T13:05:10.000Z",
+          "wordCount": 5498,
+          "title": "ドコモが「Apple Watch Series 10/Ultra 2」の価格を発表",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1623/918/01.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1623915.html",
+          "author": "関口 聖",
+          "description": "NTTドコモは、9月20日に発売する「iPhone 16」「iPhone 16 Plus」「iPhone 16 Pro」「iPhone 16 Pro Max」の価格を発表した。ドコモオンラインショップでのものになる。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1623915.html",
+          "publishedOn": "2024-09-13T12:31:59.000Z",
+          "wordCount": 5516,
+          "title": "ドコモ、「iPhone 16 Pro」「iPhone 16」シリーズの価格を発表",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1623/915/i1602.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1623885.html",
+          "author": "北川 研斗",
+          "description": "NTTドコモ、KDDI、ソフトバンク、楽天モバイルから「iPhone 16」シリーズの価格が出揃った。本稿では4社の通常価格を一覧にまとめて紹介する。最安は楽天モバイル。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1623885.html",
+          "publishedOn": "2024-09-13T12:27:21.000Z",
+          "wordCount": 5532,
+          "title": "「iPhone 16」シリーズ　キャリア各社の「素の価格」まとめ　最安は楽天モバイル",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1623/885/207.jpg"
+        },
         {
           "id": "https://k-tai.watch.impress.co.jp/docs/news/1623811.html",
           "author": "北川 研斗",
@@ -2294,26 +2404,6 @@
           "wordCount": 5502,
           "title": "[スタパ齋藤の「スタパトロニクスMobile」]ディスプレイの台座として買ったスピーカー、FOSTEX「PM0.3BD」からイイ音を出したいっ！",
           "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1621/784/stptncs2024-09-09thumbnail.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1622015.html",
-          "author": "鈴木 妙",
-          "description": "issinは、「スマートバスマット（体組成計モデル）」を、au公式アクセサリー「au +1 collection」として発売した。価格は、1万6980円。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1622015.html",
-          "publishedOn": "2024-09-07T03:00:00.000Z",
-          "wordCount": 5444,
-          "title": "au +1 collectionから「スマートバスマット（体組成計モデル）」発売、「auウェルネス」とのコラボキャンペーンも",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1622/015/01.jpg"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1621960.html",
-          "author": "富岡 悠",
-          "description": "MOTTERU（モッテル）は、Qi2対応のマグネット式ワイヤレス充電スタンドを9日からMOTTERU公式オンラインショップ含むECモールで販売を開始する。価格は4990円。また、数量限定で最大30％オフのモニターセールも実施する。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1621960.html",
-          "publishedOn": "2024-09-07T01:00:00.000Z",
-          "wordCount": 5453,
-          "title": "MOTTERU、Qi2対応マグネット式ワイヤレス充電スタンドが新登場",
-          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/1621/960/main.png"
         }
       ]
     },
@@ -2322,6 +2412,186 @@
       "feedUrl": "https://www.gizmodo.jp/index.xml",
       "siteUrl": "https://www.gizmodo.jp",
       "articles": [
+        {
+          "id": "https://www.gizmodo.jp/2024/09/heres-what-you-look-like-to-a-mosquito.html",
+          "author": "R.Mitsubori",
+          "description": "Image:DeBeaubienandChandeletalviaGizmodoUS酷暑が去れば、奴が来る…。今年の夏は蚊が少ないなーと思っている方に、残念なお知らせです。酷暑の今年は、蚊のトップシーズンが9月10月に訪れるかもしれません。蚊も酷暑にぐったり…?蚊といえば8月あたりに多くなるイメージがありますが、実は彼ら活動するうえでの適温は25℃から30℃。それ以上気温が高すぎると飛べなくなった",
+          "link": "https://www.gizmodo.jp/2024/09/heres-what-you-look-like-to-a-mosquito.html",
+          "publishedOn": "2024-09-14T12:00:00.000Z",
+          "wordCount": 416,
+          "title": "蚊が本気だすのはこれから… 蚊から人間はこう見えてる",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/08/26/mosquito-sight-sense-infrared-bl.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/08/26/mosquito-sight-sense-infrared-bl.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/09/iphone-16-pro-25.html",
+          "author": "小暮ひさのり",
+          "description": "Image:Apple買い替えの判断材料に。先日発表されたApple（アップル）のフラッグシップモデルiPhone16Pro。Appleは、その頭脳たる「A18Pro」チップは、前モデルであるiPhone15Pro搭載の「A17Pro」に比べて処理速度15％アップ（グラフィック性能は最大20％アップ）と発表しました。また、チップの性能を数値化するベンチマークとしてメジャーな、Geekbenchの結",
+          "link": "https://www.gizmodo.jp/2024/09/iphone-16-pro-25.html",
+          "publishedOn": "2024-09-14T11:00:00.000Z",
+          "wordCount": 448,
+          "title": "iPhone 16 Proって、15 Proと比べてどれだけ速くなったの？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/09/13/2024-09-13Aple01.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/09/13/2024-09-13Aple01.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/09/fold-smartphone-case-select-think-well.html",
+          "author": "はらいさん",
+          "description": "Photo:はらいさんコスパ的にどうなんだろう...。先日発売開始となったPixel9ProFold。初代に比べて明らかに使い勝手が良くなった印象を受けたんですが、約26万円という高級デバイスなだけに端末はしっかりと守りたい。そこで、安心感のあるメーカー純正の保護ケースを買ってみました。純正だから、満足の行く性能を発揮してくれると期待して。純正ケース、開封Image:GoogleStorePixe",
+          "link": "https://www.gizmodo.jp/2024/09/fold-smartphone-case-select-think-well.html",
+          "publishedOn": "2024-09-14T10:00:00.000Z",
+          "wordCount": 440,
+          "title": "折りたたみスマホのケース選びは、いつも以上に慎重になったほうがいい",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/09/12/1803-2.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/09/12/1803-2.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/09/preserved-food-matome.html",
+          "author": "シラクマ",
+          "description": "Photo:mio台風も多く、防災意識が高まる9月。いざというときの保存食は、ただ栄養があるだけでなく、ホッと安心できる美味しさがあることも大切です。そこで今回は、いま気になる美味しい保存食をまとめてご紹介します。まるでリゾットな「洋風トマトごはん」Photo:mio保存食で「美味しいごはん＝ライス」を食べたいときにぴったりなのが、HOZONHOZONの｢洋風トマトごはん｣。保存食というと味気ない",
+          "link": "https://www.gizmodo.jp/2024/09/preserved-food-matome.html",
+          "publishedOn": "2024-09-14T09:00:00.000Z",
+          "wordCount": 428,
+          "title": "美味しさにホッと一息。備えておきたい「グルメな保存食」3選",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/09/12/20240820-muji-yokan-04.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/09/12/20240820-muji-yokan-04.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/09/how-to-catch-a-glimpse-of-nasas-orbiting-solar-sail.html",
+          "author": "小野寺しんいち",
+          "description": "Image:NASA太陽のエネルギーで進むことができる宇宙船の誕生が、いよいよ目前に迫っています。NASAが、宇宙に打ち上げていたソーラー・セイル・システム、AdvancedCompositeSolarSail（ACS3）の\"帆\"（ソーラー・セイル）の展開に成功しました。ソーラー・セイルは、宇宙ヨットとも呼ばれ、宇宙空間で広げた帆で太陽の光子を受け、推進力にするシステムです。異常検知されるも、展開",
+          "link": "https://www.gizmodo.jp/2024/09/how-to-catch-a-glimpse-of-nasas-orbiting-solar-sail.html",
+          "publishedOn": "2024-09-14T07:35:00.000Z",
+          "wordCount": 415,
+          "title": "NASAが打ち上げた「宇宙ヨット」、ついに帆を開く",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/09/11/nasa-solar-sail-satellite-propul-1.png"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/09/11/nasa-solar-sail-satellite-propul-1.png"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/09/yogibo_neck.html",
+          "author": "かとパン",
+          "description": "Photo:かとパンROOMIE2024年8月19日掲載の記事より転載お盆休みは家族で海水浴へ行ってきました。車で片道2時間、早朝の出発だったので私は助手席で寝かせてもらうことに。いつもは車の揺れや、その揺れが原因で頭をぶつけて起きてしまうことが多かったのですが、今回はこのアイテムのおかげで現地到着まで熟睡ができました！旅行中の快眠をサポートyogibo（ヨギボー）「NeckPillowLogo（",
+          "link": "https://www.gizmodo.jp/2024/09/yogibo_neck.html",
+          "publishedOn": "2024-09-14T05:35:00.000Z",
+          "wordCount": 429,
+          "title": "Yogiboの「ネックピロー」があれば長時間の移動中に爆睡できる",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/08/29/top_yogibo.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/08/29/top_yogibo.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/09/teva-ultra-comf-slipon.html",
+          "author": "mio",
+          "description": "Image:Teva朝晩の暑さも和らいできて、そろそろ秋の装いを準備する気になってきました。この夏履き倒したリカバリーサンダルにかわるような、楽な履き心地の靴を探していたなか見つけたのが、Tevaの「Ultra-ComfSlipOn」。雲のようにふかふかな中敷で、たくさん歩く秋のお出かけに大活躍してくれそうなんです。ふかふかな履き心地が特徴のスリッポンImage:TevaカラーはBirch、Bla",
+          "link": "https://www.gizmodo.jp/2024/09/teva-ultra-comf-slipon.html",
+          "publishedOn": "2024-09-14T04:00:00.000Z",
+          "wordCount": 412,
+          "title": "夏のリカバリーサンダルで味わったふかふか感。秋はスリッポンで味わう",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/09/06/20240906-teva-ultra-comf-slipon-01.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/09/06/20240906-teva-ultra-comf-slipon-01.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/09/samsung-galaxy-ring-review-the-easiest-way-to-track-wellness-without-thinking-about-it-too-much.html",
+          "author": "そうこ",
+          "description": "Image:FlorenceIon/GizmodoUS7月10日にグローバル発売されたSamsung（サムスン）初のスマートリングGalaxyRing。発売前の噂から、サムスン自身もかなり期待しているようです。現段階では日本での発売はまだ発表になっていませんが、ヘルス系トラッキングの注目度が高まるなか、スマートリングが気になる人は多いはず。発売から約2カ月間、GalaxyRingを使ってきた米Gi",
+          "link": "https://www.gizmodo.jp/2024/09/samsung-galaxy-ring-review-the-easiest-way-to-track-wellness-without-thinking-about-it-too-much.html",
+          "publishedOn": "2024-09-14T03:00:00.000Z",
+          "wordCount": 472,
+          "title": "発売から約2カ月…。Galaxy Ringがないともう生活できない",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/09/12/240912galaxyring.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/09/12/240912galaxyring.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/09/this-modular-robot-lawnmower-will-do-all-yard-work-you-dont-want-to-do.html",
+          "author": "福田ミホ",
+          "description": "Image:SherriLSmith-GizmodoUSWall-Eみたいな園庭ロボット。きれいな庭のある家っていろいろな意味でゆとりを感じますが、でも実際メンテナンスするとなると、芝刈りや落ち葉の掃除、雪かきなどなど、季節ごとにいろんな作業が発生して時間や体力が削られます。業者にお金を払ってやってもらう手もありますが、それだとお財布が削られます。そこで登場したのが、マルチに使える庭師ロボット「Y",
+          "link": "https://www.gizmodo.jp/2024/09/this-modular-robot-lawnmower-will-do-all-yard-work-you-dont-want-to-do.html",
+          "publishedOn": "2024-09-14T02:00:00.000Z",
+          "wordCount": 431,
+          "title": "これ1台で芝生・落ち葉・雪、全部きれいにするロボット「Yarbo」 #IFA2024",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/09/13/240912_yarbocore.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/09/13/240912_yarbocore.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/09/airpods-4-hidden-button.html",
+          "author": "小暮ひさのり",
+          "description": "Image:Apple見えなくなる進化。先日のイベントで発表された、Apple（アップル）の新型ワイヤレスイヤホン「AirPods4」。通常版とノイズキャンセリング搭載の2モデルが用意されるなど、結構なアップデートとなっていそうですよね。そして変更点はケースにも。従来のAirPodsシリーズはケース背面にセットアップ（ペアリング）で使う設定ボタンが用意されていましたが、AirPods4では物理ボタ",
+          "link": "https://www.gizmodo.jp/2024/09/airpods-4-hidden-button.html",
+          "publishedOn": "2024-09-13T23:00:00.000Z",
+          "wordCount": 412,
+          "title": "AirPods 4には隠しボタンがあるらしい",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/09/13/2024-09-13Airk00.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/09/13/2024-09-13Airk00.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/09/since-1999-deaths-from-heatstroke-have-more-than-doubled-in-the-united-states-rapidly-increasing-in-japan.html",
+          "author": "Kenji P. Miyajima",
+          "description": "Image:Shutterstock.comこんな異常に暑い夏、もう無理。北半球のあらゆる場所が猛暑に見舞われた2024年夏。EUの気象機関コペルニクスによると、今夏（6月から8月）の世界平均気温は、エグすぎる暑さだった昨年を上回って、観測史上最高を更新してしまいました。気温上昇に伴って、アメリカでは熱中症による死者が1999年と比較して2倍以上になっています。アメリカで熱中症による死者が急増中I",
+          "link": "https://www.gizmodo.jp/2024/09/since-1999-deaths-from-heatstroke-have-more-than-doubled-in-the-united-states-rapidly-increasing-in-japan.html",
+          "publishedOn": "2024-09-13T14:00:00.000Z",
+          "wordCount": 440,
+          "title": "1999年以降、アメリカで熱中症による死者が2倍超に。日本でも急増",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/09/13/shutterstock_2030697425.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/09/13/shutterstock_2030697425.jpg"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/09/why-i-dont-buy-new-iphone.html",
+          "author": "小暮ひさのり",
+          "description": "Image:Apple「もちろん買うよ！」と、ほぼ毎年喜んで買い替えていたiPhone（過去スキップしたのは1回だけ）ですが、今年は僕、買わないことにしています。僕がiPhoneを買うのは、新しい要素へのワクワク感、期待感が僕の中でデカいから。故に、毎回ハイエンドモデルを選んできたのですが、今年のiPhone16Proシリーズは薄い気がしています。シンプルに言えばイベントを見てもいまいち盛り上がら",
+          "link": "https://www.gizmodo.jp/2024/09/why-i-dont-buy-new-iphone.html",
+          "publishedOn": "2024-09-13T13:00:00.000Z",
+          "wordCount": 489,
+          "title": "ほぼ毎年買い替えている僕が、「iPhoneを買わない」カードを切った理由",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/09/12/2024-09-12ipl00.jpg"
+          },
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/09/12/2024-09-12ipl00.jpg"
+        },
         {
           "id": "https://www.gizmodo.jp/2024/09/iphone_16_feature.html",
           "author": "カタヤママコト",
@@ -3986,216 +4256,6 @@
             "url": "https://media.loom-app.com/gizmodo/dist/images/2024/09/06/2024-09-06suk00A.jpg"
           },
           "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/09/06/2024-09-06suk00A.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/09/djineo.html",
-          "author": "山﨑 拓実",
-          "description": "DJINEOImage:山﨑拓実見た目に反して超パワフル。中国の大手テクノロジー企業、DJIから手のひらサイズのドローン、「DJINEO」がリリースされました。未知との遭遇Image:山﨑拓実DJI公式想定価格は3万3000円。アクセサリーが付属したDJINEOFLYMOREコンボは5万7200円と、10万円代が平均の他のドローンと比べるとかなりの低価格。面白いのが「機体だけ（リモコンぬき）」で購",
-          "link": "https://www.gizmodo.jp/2024/09/djineo.html",
-          "publishedOn": "2024-09-08T00:00:00.000Z",
-          "wordCount": 415,
-          "title": "値段もサイズも超お手軽。手のひらサイズの本格ドローン",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/09/06/%E5%90%8D%E7%A7%B0%E6%9C%AA%E8%A8%AD%E5%AE%9A-1-1.png"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/09/06/%E5%90%8D%E7%A7%B0%E6%9C%AA%E8%A8%AD%E5%AE%9A-1-1.png"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/09/brief-history-of-seven-eleven.html",
-          "author": "高橋真紀",
-          "description": "Image:NedSnowman/Shutterstock.com今から50年前、東京の豊洲に日本初のセブン-イレブンがオープンしました。アメリカで生まれたセブンですが、日本で形成された独自のコンビニ文化は外国人旅行者にも人気のようです。今回は日本上陸前から遡り、セブン-イレブンのルーツをたどってみました。生まれはテキサスImage:7elevenセブン-イレブンのはじまりは約100年前。1927",
-          "link": "https://www.gizmodo.jp/2024/09/brief-history-of-seven-eleven.html",
-          "publishedOn": "2024-09-07T23:00:00.000Z",
-          "wordCount": 416,
-          "title": "セブンイレブンの歴史。始まりはテキサスの氷屋さんだった",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/09/06/shutterstock_1189536844_.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/09/06/shutterstock_1189536844_.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/09/gopro-hero-26.html",
-          "author": "武者良太",
-          "description": "Image:GoPro86グラムの軽さもイカしてる。iPhoneSEみたいな、って言いましょうか。超高機能でアクションカム界隈を牽引してきたけど、代わりに販売価格がどんどんあがってしまったGoProナンバーズに対して、お手軽価格でGoProのステキさを味わってもらうエントリーモデルの「GoProHERO」が登場しました。小さく軽くなって、気になるお値段は3万4800円。GoProフォロワーメーカー",
-          "link": "https://www.gizmodo.jp/2024/09/gopro-hero-26.html",
-          "publishedOn": "2024-09-07T23:00:00.000Z",
-          "wordCount": 397,
-          "title": "GoProの強力極まってる手ぶれ補正、3万4800円でゲットできちゃうぜー",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/09/06/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%882024-09-06121803.png"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/09/06/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%882024-09-06121803.png"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/09/iphone-16-pro-256gb.html",
-          "author": "小暮ひさのり",
-          "description": "Image:Appleこれが本当なら正しい采配！太平洋時間で9月9日の午前10時、日本時間だと9月10日の午前2時に開催が予告されているApple（アップル）のイベント。この日にいよいよ新型のiPhone16シリーズが出ると予想されています。ギズモードでもリアルタイム更新を予定しているので、ぜひチェックしてくださいね。して、これまでのウワサから「iPhone16はこんな姿かな？」とある程度の覚悟？",
-          "link": "https://www.gizmodo.jp/2024/09/iphone-16-pro-256gb.html",
-          "publishedOn": "2024-09-07T13:30:00.000Z",
-          "wordCount": 423,
-          "title": "iPhone 16 Proのストレージは256GBスタートになるらしい",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/09/07/2024-09-07stk00.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/09/07/2024-09-07stk00.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/09/the-whale-who-knew-too-much-alleged-russian-spy-beluga-may-have-been-shot-to-death.html",
-          "author": "岩田リョウコ",
-          "description": "©Screenshot/Onewhale.orgスパイ容疑のかわいそうなシロイルカ、最後もかわいそう。長年ロシアのスパイだと疑われていたシロイルカがノルウェーで死んでいるのが発見されました。2019年にノルウェー沿岸で見つかったシロイルカ「バルジミール」ですが、どうやら殺害された可能性があると主張する団体もいるようです。スパイイルカは殺された？バルジミールの死体は先週土曜、ノルウェーの港町リサヴィ",
-          "link": "https://www.gizmodo.jp/2024/09/the-whale-who-knew-too-much-alleged-russian-spy-beluga-may-have-been-shot-to-death.html",
-          "publishedOn": "2024-09-07T12:00:00.000Z",
-          "wordCount": 406,
-          "title": "知りすぎてしまった？ ロシアのスパイと言われるイルカ、銃殺された可能性",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/09/05/Hvaldimir-the-Beluga-Whale-in-No.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/09/05/Hvaldimir-the-Beluga-Whale-in-No.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/09/apple-product-discontinued-1.html",
-          "author": "はらいさん",
-          "description": "Image:AndriyBlokhin/Shutterstock.com2024年8月29日の記事を一部抜粋し、編集して掲載しています。欲しい製品は今のうちに買っておくべき？日本時間9月10日（火）午前2時（月曜の深夜！）に開催が決定したApple（アップル）の最新イベントでは、iPhone16シリーズや新型AppleWatchシリーズの発表はほぼ確実とみられています。そうなると予想されるのが、現",
-          "link": "https://www.gizmodo.jp/2024/09/apple-product-discontinued-1.html",
-          "publishedOn": "2024-09-07T11:00:00.000Z",
-          "wordCount": 443,
-          "title": "あと3日？Apple Storeで買えなくなりそうなiPhoneまとめ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/08/29/shutterstock_1053256397.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/08/29/shutterstock_1053256397.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/09/acer-dual-play.html",
-          "author": "そうこ",
-          "description": "Image:CharlesAnthonyDavis/DreamSmithLLCドイツで開催中のIFAで、Acerが展示しているプロジェクト「DualPlay」。名前の通りデュアル、つまり2個使いできるゲーム端末なのですが、これがちょっとびっくりするタイプの2個使いでした…。ノートパソコンの一部が、バコーンと外れてゲームコントローラになるんです…！プロジェクト「DualPlay」とはImage:Ch",
-          "link": "https://www.gizmodo.jp/2024/09/acer-dual-play.html",
-          "publishedOn": "2024-09-07T10:00:00.000Z",
-          "wordCount": 426,
-          "title": "ゲームコントローラーに見えますよね？いえ、ノートPC（の一部）なんです",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/09/06/240906acerdualplay.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/09/06/240906acerdualplay.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/09/portable-battery-matome.html",
-          "author": "シラクマ",
-          "description": "Image:アンカー・ジャパン9月は防災月間です。年始から大きな地震が続いていることもあり、今年は特に防災対策を見直している方も多いのではないでしょうか。そこで今回は、いま気になるポータブル電源をまとめてご紹介します。リビングに置きたいスタイリッシュなポタ電防災用としてだけでなく、できれば普段から使っておきたいポータブル電源。そんな願いを叶えてくれたのは、業務用機器のイメージが強い、KOSHIN（",
-          "link": "https://www.gizmodo.jp/2024/09/portable-battery-matome.html",
-          "publishedOn": "2024-09-07T09:00:00.000Z",
-          "wordCount": 448,
-          "title": "9月は防災月間。いまチェックしておきたい「ポータブル電源」3選",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/09/06/2024-08-23kok00.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/09/06/2024-08-23kok00.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/09/iphone15-not-pro-1.html",
-          "author": "amito",
-          "description": "Photo:amito2023年9月28日の記事を編集して再掲載しています。ノーマルiPhoneは強い。編集部にやってきたiPhone15とiPhone15ProMaxを試用してみている途中です。ギズモードとしては、どうしても上位モデルのiPhone15ProやProMaxに注目してしまいがち。...なのですが、ProのつかないノーマルなiPhone15がつよつよでして、「もうこれでよくね？」とい",
-          "link": "https://www.gizmodo.jp/2024/09/iphone15-not-pro-1.html",
-          "publishedOn": "2024-09-07T07:35:00.000Z",
-          "wordCount": 451,
-          "title": "iPhone 15でいい、Proじゃなくてもいいと思った話",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2023/09/28/DSCF2757.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2023/09/28/DSCF2757.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/09/kitchen_item.html",
-          "author": "小林ユリ",
-          "description": "Photo:小林ユリROOMIE2024年8月18日掲載の記事より転載生ゴミ処理って厄介。我が家のキッチンはかなり小さいため、三角コーナーは置いていません。これまではシンクのゴミ受け（排水カゴ）と小さめサイズのビニール袋を必要に応じてシンク横に設置して凌いでいました。でも最近、三角コーナーよりも手入れが楽でビニール袋よりも使いやすい生ゴミ処理アイテムを見つけました。ヌメりも汚れも気にならないatR",
-          "link": "https://www.gizmodo.jp/2024/09/kitchen_item.html",
-          "publishedOn": "2024-09-07T05:35:00.000Z",
-          "wordCount": 449,
-          "title": "シンクがヌメらず衛生的。生ゴミ処理の救世主アイテム",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/08/27/top_kitchen_item.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/08/27/top_kitchen_item.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/09/pto-tm800f-iv.html",
-          "author": "小暮ひさのり",
-          "description": "Image:ユアサプライムス壊れてるの？とか思うかもしれないけど、これ壊れてませんから。さらに言えばどちらかと言えばマジックではなくてギミックです。ユアサプライムスのオーブントースター「PTO-TM800F(IV)」は、前後のパネルをガパッ！と分解できる、お掃除力SSSのトースターなんです。Image:ユアサプライムス2枚焼きのカーボンヒーター式トースターで定格800W。この辺のスペックは普通のコ",
-          "link": "https://www.gizmodo.jp/2024/09/pto-tm800f-iv.html",
-          "publishedOn": "2024-09-07T04:00:00.000Z",
-          "wordCount": 399,
-          "title": "はい、今からマジックをします。なんとトースターに手が…貫通しちゃうのよね",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/09/06/2024-09-06tok00.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/09/06/2024-09-06tok00.jpg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/09/cheero-che-s-001.html",
-          "author": "武者良太",
-          "description": "Image:cheero海辺で使ったら、波音ASMRブーストアップできそう。オーディオ、ではなく音響業界で注目されているのが集音器です。お年を召してきて、耳が遠くなってきた方のために、手頃な価格かつ手軽に使える集音器は生活を助けてくれるど真ん中アイテム。見た目も補聴器っぽくはなく、イヤホンのようなスタイリングのものが増えています。cheeroのワイヤレス集音器「CHE-S-001」は、そんな集音器",
-          "link": "https://www.gizmodo.jp/2024/09/cheero-che-s-001.html",
-          "publishedOn": "2024-09-07T03:00:00.000Z",
-          "wordCount": 397,
-          "title": "イヤホンにもなる。集音器にもなる。2in1のできるヤツ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/09/06/1.jpeg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/09/06/1.jpeg"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/09/293178.html",
-          "author": "巽英俊",
-          "description": "image:STRAYM「カメラマンが着る服」というちょっと変わったコンセプトで原宿を中心に展開している#FR2。SNSで拡散しながら、今や世界的レベルでファッションピープルに注目されています。そういえば筆者のまわりでもお金持ちの友だちが着てたなー。なんたってウサギが交尾している絵がロゴマークですから、かなりエッジの効いたブランドです。その#FR2が今度はWeb3の世界で展開します。実存するアート",
-          "link": "https://www.gizmodo.jp/2024/09/293178.html",
-          "publishedOn": "2024-09-07T02:30:00.000Z",
-          "wordCount": 426,
-          "title": "国内人気ブランド「#FR2」がWeb3.0に挑戦。NFTも洋服も同時にゲット",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/09/07/FR2_strym.png"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/09/07/FR2_strym.png"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2024/09/asus-copilot.html",
-          "author": "ヤマダユウス型",
-          "description": "Copilotキー。それはWindowsに入っているコンパニオンAI「Copilot」を即座に呼び出せる便利な物理キー。これを搭載したミニPCがASUSから登場しました。",
-          "link": "https://www.gizmodo.jp/2024/09/asus-copilot.html",
-          "publishedOn": "2024-09-07T02:00:00.000Z",
-          "wordCount": 404,
-          "title": "ミニPCに「Copilotキー」付いたけど、押す…？",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://media.loom-app.com/gizmodo/dist/images/2024/09/05/240905asuscopilotpc_01-1.jpg"
-          },
-          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/09/05/240905asuscopilotpc_01-1.jpg"
         }
       ]
     }
